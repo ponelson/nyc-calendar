@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>NYC Culture Calendar — Peter Nelson</title>
+<style>
+  :root{
+    --ink:#1d1d1f;
+    --ink-2:#6e6e73;
+    --ink-3:#a1a1a6;
+    --hair:#e8e8ed;
+    --bg:#ffffff;
+    --bg-2:#fbfbfd;
+    --card:#ffffff;
+    --blue:#0071e3;
+    --radius:18px;
+    --shadow:0 1px 2px rgba(0,0,0,.04), 0 8px 30px rgba(0,0,0,.06);
+
+    --c-dance:#ff2d55;
+    --c-classical:#0071e3;
+    --c-opera:#8e44ff;
+    --c-talks:#00a37a;
+    --c-broadway:#e8930c;
+    --c-art:#5856d6;
+    --c-global:#00786c;
+    --c-jazz:#ff7a1a;
+    --c-houses:#6b7a8f;
+    --c-access:#8b6b45;
+    --c-islands:#0f9bb0;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+  body{
+    background:var(--bg);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Inter,Arial,sans-serif;
+    font-size:15px;line-height:1.5;
+  }
+  a{color:inherit;text-decoration:none}
+  button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+  :focus-visible{outline:2px solid var(--blue);outline-offset:3px;border-radius:8px}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 24px}
+
+  /* ---------- contact bar ---------- */
+  .contact{border-bottom:1px solid var(--hair);background:rgba(255,255,255,.85);backdrop-filter:saturate(180%) blur(20px);position:sticky;top:0;z-index:50}
+  .contact .wrap{display:flex;align-items:center;gap:16px;height:56px}
+  .who{display:flex;align-items:baseline;gap:10px;min-width:0}
+  .who .name{font-weight:600;letter-spacing:-.01em}
+  .who .role{color:var(--ink-2);font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .contact .spacer{flex:1}
+  .cbtn{display:inline-flex;align-items:center;gap:7px;height:32px;padding:0 14px;border-radius:999px;font-size:13px;font-weight:500;
+        background:#f5f5f7;color:var(--ink);transition:background .18s ease,transform .18s ease}
+  .cbtn:hover{background:#ececf0}
+  .cbtn:active{transform:scale(.97)}
+  .cbtn.primary{background:var(--blue);color:#fff}
+  .cbtn.primary:hover{background:#0077ed}
+  .cbtn svg{width:14px;height:14px;fill:currentColor}
+
+  /* ---------- hero ---------- */
+  header.hero{padding:64px 0 28px;text-align:center}
+  .hero h1{font-size:clamp(38px,5.4vw,62px);line-height:1.04;letter-spacing:-.028em;font-weight:600}
+  .hero h1 em{font-style:normal;color:var(--ink-3)}
+  .hero p{margin:14px auto 0;max-width:600px;color:var(--ink-2);font-size:17px;letter-spacing:-.01em}
+  .today-pill{display:inline-block;margin-bottom:18px;font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--blue)}
+
+  /* ---------- tabs ---------- */
+  .tabsbar{position:sticky;top:56px;z-index:40;background:rgba(255,255,255,.85);backdrop-filter:saturate(180%) blur(20px);border-bottom:1px solid var(--hair)}
+  .tabs{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;padding:10px 0}
+  .tabs::-webkit-scrollbar{display:none}
+  .tab{white-space:nowrap;padding:7px 14px;border-radius:999px;font-size:13.5px;font-weight:500;color:var(--ink-2);transition:.18s ease;display:flex;align-items:center;gap:7px}
+  .tab:hover{background:#f5f5f7;color:var(--ink)}
+  .tab[aria-selected="true"]{background:var(--ink);color:#fff}
+  .tab .dot{width:7px;height:7px;border-radius:50%;background:currentColor;opacity:.9}
+  .tab[aria-selected="true"] .dot{background:var(--tabcolor,#fff)}
+
+  /* ---------- toolbar ---------- */
+  .toolbar{display:flex;align-items:center;gap:12px;padding:22px 0 14px;flex-wrap:wrap}
+  .seg{display:inline-flex;background:#f5f5f7;border-radius:999px;padding:3px}
+  .seg button{padding:6px 15px;border-radius:999px;font-size:13px;font-weight:500;color:var(--ink-2);transition:.18s}
+  .seg button[aria-pressed="true"]{background:#fff;color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.08)}
+  .search{flex:1;min-width:200px;display:flex;align-items:center;gap:8px;background:#f5f5f7;border-radius:999px;padding:0 14px;height:34px}
+  .search input{border:0;background:none;outline:none;width:100%;font-size:14px}
+  .search svg{width:14px;height:14px;fill:var(--ink-3);flex:none}
+  .ghost{height:34px;padding:0 15px;border-radius:999px;font-size:13px;font-weight:500;border:1px solid var(--hair);transition:.18s}
+  .ghost:hover{background:#f5f5f7}
+  .nav{display:flex;align-items:center;gap:6px}
+  .nav .arrow{width:34px;height:34px;border-radius:50%;display:grid;place-items:center;border:1px solid var(--hair)}
+  .nav .arrow:hover{background:#f5f5f7}
+  .month-label{font-size:22px;font-weight:600;letter-spacing:-.02em;min-width:190px;text-align:center}
+
+  /* ---------- month grid ---------- */
+  .dow{display:grid;grid-template-columns:repeat(7,1fr);gap:8px;margin:8px 0 8px}
+  .dow span{font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);padding-left:4px}
+  .grid{display:grid;grid-template-columns:repeat(7,1fr);gap:8px}
+  .cell{background:var(--bg-2);border:1px solid transparent;border-radius:14px;min-height:118px;padding:9px 9px 8px;text-align:left;display:flex;flex-direction:column;gap:5px;transition:.16s ease}
+  .cell:hover{background:#fff;border-color:var(--hair);box-shadow:var(--shadow)}
+  .cell.dim{opacity:.35}
+  .cell .n{font-size:13px;font-weight:600;color:var(--ink-2)}
+  .cell.today .n{background:var(--blue);color:#fff;width:23px;height:23px;border-radius:50%;display:grid;place-items:center;font-size:12px}
+  .cell.sel{border-color:var(--ink);background:#fff}
+  .ev{font-size:11.5px;line-height:1.32;display:flex;gap:5px;align-items:flex-start;color:var(--ink);overflow:hidden}
+  .ev i{width:6px;height:6px;border-radius:50%;flex:none;margin-top:5px;background:var(--ec,#999)}
+  .ev span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .more{font-size:11px;color:var(--ink-3);padding-left:11px}
+
+  /* ---------- day panel ---------- */
+  .panel{margin-top:22px;border:1px solid var(--hair);border-radius:var(--radius);padding:22px;background:var(--card);box-shadow:var(--shadow)}
+  .panel h3{font-size:20px;letter-spacing:-.02em;font-weight:600}
+  .panel .sub{color:var(--ink-2);font-size:13px;margin-top:3px}
+  .rows{margin-top:16px;display:flex;flex-direction:column}
+  .row{display:flex;gap:14px;padding:14px 0;border-top:1px solid var(--hair);align-items:flex-start}
+  .row .time{font-size:13px;font-weight:600;color:var(--ink-2);width:74px;flex:none;font-variant-numeric:tabular-nums}
+  .row .body{flex:1;min-width:0}
+  .row .t{font-weight:500;letter-spacing:-.01em}
+  .row .v{font-size:13px;color:var(--ink-2);margin-top:2px}
+  .row .link{font-size:13px;color:var(--blue);font-weight:500;white-space:nowrap}
+  .badge{display:inline-block;font-size:10px;font-weight:600;letter-spacing:.05em;text-transform:uppercase;padding:2px 7px;border-radius:999px;background:#f5f5f7;color:var(--ink-2);margin-left:8px;vertical-align:1px}
+  .cat-chip{display:inline-flex;align-items:center;gap:6px;font-size:11px;font-weight:600;color:var(--cc);text-transform:uppercase;letter-spacing:.05em}
+  .cat-chip i{width:6px;height:6px;border-radius:50%;background:var(--cc)}
+  .empty{padding:34px 0;text-align:center;color:var(--ink-2)}
+  .empty b{display:block;color:var(--ink);font-weight:600;margin-bottom:5px}
+
+  /* ---------- venues ---------- */
+  .vsection{padding:8px 0 0}
+  .vhead{display:flex;align-items:baseline;gap:12px;margin:34px 0 14px}
+  .vhead h2{font-size:26px;letter-spacing:-.022em;font-weight:600}
+  .vhead .count{font-size:13px;color:var(--ink-3)}
+  .vgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(238px,1fr));gap:10px}
+  .vcard{border:1px solid var(--hair);border-radius:14px;padding:14px 15px;background:#fff;transition:.18s ease;display:block}
+  .vcard:hover{transform:translateY(-2px);box-shadow:var(--shadow);border-color:#dcdce2}
+  .vcard .vt{font-weight:500;letter-spacing:-.01em;display:flex;justify-content:space-between;gap:8px;align-items:center}
+  .vcard .vt svg{width:12px;height:12px;fill:var(--ink-3);flex:none}
+  .vcard .vn{font-size:12.5px;color:var(--ink-2);margin-top:4px;line-height:1.4}
+  .vcard .bar{height:2px;width:26px;border-radius:2px;background:var(--cc);margin-bottom:10px}
+
+  /* ---------- list view ---------- */
+  .list .row:first-child{border-top:0}
+
+  /* ---------- modal ---------- */
+  .scrim{position:fixed;inset:0;background:rgba(0,0,0,.28);backdrop-filter:blur(3px);display:none;place-items:center;z-index:100;padding:20px}
+  .scrim.on{display:grid}
+  .modal{background:#fff;border-radius:22px;width:min(520px,100%);padding:26px;box-shadow:0 30px 80px rgba(0,0,0,.28)}
+  .modal h3{font-size:22px;letter-spacing:-.02em;font-weight:600}
+  .modal p.hint{color:var(--ink-2);font-size:13px;margin-top:5px}
+  .field{margin-top:14px}
+  .field label{display:block;font-size:12px;font-weight:600;color:var(--ink-2);margin-bottom:5px}
+  .field input,.field select,.field textarea{width:100%;border:1px solid var(--hair);border-radius:11px;padding:10px 12px;font:inherit;font-size:14px;outline:none;background:#fff}
+  .field input:focus,.field select:focus,.field textarea:focus{border-color:var(--blue);box-shadow:0 0 0 3px rgba(0,113,227,.12)}
+  .two{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .actions{display:flex;gap:10px;justify-content:flex-end;margin-top:22px}
+  .btn{height:38px;padding:0 18px;border-radius:999px;font-size:14px;font-weight:500}
+  .btn.cancel{background:#f5f5f7}
+  .btn.save{background:var(--ink);color:#fff}
+  .btn.danger{color:#d70015}
+
+  .feedbar{display:flex;align-items:center;gap:8px;font-size:12.5px;color:var(--ink-2);padding:2px 0 16px}
+  .fdot{width:7px;height:7px;border-radius:50%;background:#34c759;flex:none}
+  .fdot.warn{background:#ff9f0a}
+  .fmuted{color:var(--ink-3)}
+  footer{margin:70px 0 50px;padding-top:26px;border-top:1px solid var(--hair);color:var(--ink-3);font-size:12.5px;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+
+  @media (max-width:820px){
+    .wrap{padding:0 16px}
+    .cell{min-height:78px;padding:6px;border-radius:10px}
+    .ev span{display:none}
+    .ev{gap:3px}
+    .grid,.dow{gap:5px}
+    .month-label{min-width:0;flex:1;font-size:19px}
+    .who .role{display:none}
+    header.hero{padding:44px 0 20px}
+  }
+  @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+
+<div class="contact">
+  <div class="wrap">
+    <div class="who">
+      <span class="name">Peter Nelson</span>
+      <span class="role">Head of Corporate Development, Qumulo · New York</span>
+    </div>
+    <div class="spacer"></div>
+    <a class="cbtn" href="https://www.linkedin.com/in/ponelson/" target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24"><path d="M4.98 3.5a2.5 2.5 0 11-.02 5 2.5 2.5 0 01.02-5zM3 9h4v12H3zM9 9h3.8v1.7h.05c.53-1 1.83-2.06 3.77-2.06 4.03 0 4.78 2.65 4.78 6.1V21h-4v-5.4c0-1.29-.02-2.95-1.8-2.95-1.8 0-2.08 1.4-2.08 2.85V21H9z"/></svg>
+      LinkedIn
+    </a>
+    <a class="cbtn primary" href="mailto:ponelson@gmail.com">
+      <svg viewBox="0 0 24 24"><path d="M2 6a2 2 0 012-2h16a2 2 0 012 2l-10 6L2 6zm0 2.3V18a2 2 0 002 2h16a2 2 0 002-2V8.3l-10 6-10-6z"/></svg>
+      Email
+    </a>
+  </div>
+</div>
+
+<div class="wrap">
+  <header class="hero">
+    <div class="today-pill" id="todayPill"></div>
+    <h1>The city, <em>on one page.</em></h1>
+    <p>Dance, concerts, opera, talks, Broadway, museums, galleries, jazz rooms, and the places that only open once a year.</p>
+  </header>
+</div>
+
+<div class="tabsbar">
+  <div class="wrap"><div class="tabs" id="tabs" role="tablist"></div></div>
+</div>
+
+<div class="wrap">
+  <div class="toolbar">
+    <div class="seg" id="viewSeg">
+      <button data-view="month" aria-pressed="true">Month</button>
+      <button data-view="list" aria-pressed="false">Agenda</button>
+      <button data-view="venues" aria-pressed="false">Venues</button>
+    </div>
+    <div class="nav" id="nav">
+      <button class="arrow" id="prev" aria-label="Previous month">‹</button>
+      <div class="month-label" id="monthLabel"></div>
+      <button class="arrow" id="next" aria-label="Next month">›</button>
+      <button class="ghost" id="todayBtn">Today</button>
+    </div>
+    <div class="search">
+      <svg viewBox="0 0 24 24"><path d="M10 2a8 8 0 105.3 14l5.4 5.4 1.4-1.4-5.4-5.4A8 8 0 0010 2zm0 2a6 6 0 110 12 6 6 0 010-12z"/></svg>
+      <input id="q" placeholder="Search events and venues" />
+    </div>
+    <button class="ghost" id="addBtn">+ Add event</button>
+  </div>
+
+  <div class="feedbar" id="feedBar"></div>
+
+  <div id="calView">
+    <div class="dow"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div>
+    <div class="grid" id="grid"></div>
+    <div class="panel" id="dayPanel"></div>
+  </div>
+
+  <div id="listView" style="display:none"><div class="panel" id="listPanel"></div></div>
+
+  <div id="venueView" style="display:none" class="vsection"></div>
+
+  <footer>
+    <span>Scraped nightly from venues that publish structured listings. Everything else links out. Events you add yourself are saved locally and never overwritten.</span>
+    <span><a href="mailto:ponelson@gmail.com">ponelson@gmail.com</a></span>
+  </footer>
+</div>
+
+<div class="scrim" id="scrim">
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="mTitle">
+    <h3 id="mTitle">Add an event</h3>
+    <p class="hint">It stays on your calendar and shows up under its category tab.</p>
+    <div class="field"><label for="f-title">Event</label><input id="f-title" placeholder="e.g. Jerome Robbins Celebration" /></div>
+    <div class="two">
+      <div class="field"><label for="f-date">Date</label><input id="f-date" type="date" /></div>
+      <div class="field"><label for="f-time">Time</label><input id="f-time" type="time" /></div>
+    </div>
+    <div class="two">
+      <div class="field"><label for="f-cat">Category</label><select id="f-cat"></select></div>
+      <div class="field"><label for="f-venue">Venue</label><input id="f-venue" list="venueList" placeholder="Start typing" /><datalist id="venueList"></datalist></div>
+    </div>
+    <div class="field"><label for="f-url">Ticket link (optional)</label><input id="f-url" placeholder="https://" /></div>
+    <div class="actions">
+      <button class="btn cancel" id="mCancel">Cancel</button>
+      <button class="btn save" id="mSave">Add event</button>
+    </div>
+  </div>
+</div>
+
+<script>
+/* ============================ categories ============================ */
+const CATS = [
+  {id:'dance',     name:'Dance',            color:'var(--c-dance)'},
+  {id:'classical', name:'Classical',        color:'var(--c-classical)'},
+  {id:'opera',     name:'Opera',            color:'var(--c-opera)'},
+  {id:'talks',     name:'Talks & Theater',  color:'var(--c-talks)'},
+  {id:'broadway',  name:'Broadway',         color:'var(--c-broadway)'},
+  {id:'art',       name:'Art — New York',   color:'var(--c-art)'},
+  {id:'global',    name:'Art — Global',     color:'var(--c-global)'},
+  {id:'jazz',      name:'Jazz & Cabaret',   color:'var(--c-jazz)'},
+  {id:'houses',    name:'Historic Houses',  color:'var(--c-houses)'},
+  {id:'access',    name:'Special Access',   color:'var(--c-access)'},
+  {id:'islands',   name:'Islands',          color:'var(--c-islands)'},
+];
+const CAT = Object.fromEntries(CATS.map(c=>[c.id,c]));
+
+/* ============================ venues ============================ */
+const V = (name,url,note)=>({name,url,note});
+const VENUES = {
+dance:[
+  V('New York City Ballet','https://www.nycballet.com/season-and-tickets/calendar/','Performances at the Koch; filter out talks and classes.'),
+  V('The Joyce Theater','https://www.joyce.org/performances','Chelsea. Two- to three-week runs, most companies in town.'),
+  V('Alvin Ailey American Dance Theater','https://www.alvinailey.org/performances','City Center winter season plus tour dates.'),
+  V('American Ballet Theatre','https://www.abt.org/performances/','Met season in spring; Koch in fall.'),
+  V('Dance Theatre of Harlem','https://www.dancetheatreofharlem.org/performance/','Home seasons at City Center.'),
+  V('New York City Center','https://www.nycitycenter.org/whats-on/','Fall for Dance, Ailey, Encores!.'),
+  V('Danspace Project','https://danspaceproject.org/calendar/','St. Mark\'s Church in-the-Bowery. Experimental.'),
+],
+classical:[
+  V('New York Philharmonic','https://nyphil.org/concerts-tickets/calendar/','David Geffen Hall.'),
+  V('Carnegie Hall','https://www.carnegiehall.org/Calendar','Stern, Zankel, Weill.'),
+  V('The Town Hall','https://thetownhall.org/calendar/','43rd Street.'),
+  V('The Frick Collection','https://www.frick.org/events','Concert series in the Music Room.'),
+  V('Met Live Arts','https://www.metmuseum.org/events','The Met\'s performance program.'),
+  V('The Morgan Library & Museum','https://www.themorgan.org/programs','Gilder Lehrman Hall.'),
+  V('The Met Cloisters','https://www.metmuseum.org/visit/plan-your-visit/met-cloisters','Early music in the Fuentidueña Chapel.'),
+  V('92NY — Music','https://www.92ny.org/concerts','Kaufmann Concert Hall.'),
+  V('Bargemusic','https://www.bargemusic.org/','Chamber music on a barge under the Brooklyn Bridge.'),
+  V('National Sawdust','https://nationalsawdust.org/calendar/','Williamsburg. New music.'),
+  V('Bohemian National Hall','https://www.czechcenter.com/','Czech Center programming.'),
+  V('Church of St. Luke in the Fields','https://stlukeinthefields.org/music/','Village. Choral and early music.'),
+  V('Corpus Christi Church','https://www.corpuschristinyc.org/music-before-1800','Music Before 1800.'),
+  V('St. Thomas Church Fifth Avenue','https://www.saintthomaschurch.org/music/concerts/','Choir of Men and Boys; Evensong.'),
+  V('Cathedral of St. John the Divine','https://www.stjohndivine.org/calendar','Great Music in a Great Space.'),
+  V('Church of the Intercession','https://www.intercessionnyc.org/','Harlem. Occasional concerts.'),
+  V('Trinity Church Wall Street','https://trinitywallstreet.org/music-arts','Bach at One; NOVUS NY.'),
+  V('St. Ignatius Loyola','https://www.smssconcerts.org/','Sacred Music in a Sacred Space.'),
+  V('St. Bartholomew\'s Church','https://stbarts.org/music/','Great Music at St. Bart\'s.'),
+  V('Temple Emanu-El','https://www.emanuelnyc.org/streicker-center/','Streicker Center concerts and talks.'),
+],
+opera:[
+  V('PROTOTYPE Festival','https://prototypefestival.org/','January. Opera-theatre, new work.'),
+  V('Beth Morrison Projects','https://www.bethmorrisonprojects.org/','Producer of contemporary opera.'),
+  V('Opera Lafayette','https://operalafayette.org/','French repertoire, period practice.'),
+  V('On Site Opera','https://www.osopera.org/','Site-specific productions.'),
+  V('New York City Opera','https://nycopera.com/','Various venues.'),
+  V('BAM','https://www.bam.org/','Opera House and Harvey.'),
+  V('Park Avenue Armory','https://www.armoryonpark.org/programs_events/calendar','Wade Thompson Drill Hall.'),
+  V('National Sawdust','https://nationalsawdust.org/calendar/','Chamber opera and new voices.'),
+],
+talks:[
+  V('92NY — Talks','https://www.92ny.org/talks','Lectures, readings, interviews.'),
+  V('LIVE from NYPL','https://www.nypl.org/events/programs/live','Schwarzman Building.'),
+  V('The New Yorker Festival','https://festival.newyorker.com/','Plus New Yorker Live year-round.'),
+  V('The Greene Space','https://www.thegreenespace.org/','WNYC\'s street-level studio.'),
+  V('The Public Theater','https://publictheater.org/whats-on/','Astor Place.'),
+  V('Joe\'s Pub','https://publictheater.org/joes-pub/','Cabaret, songwriters, readings.'),
+  V('Symphony Space','https://www.symphonyspace.org/events','Selected Shorts, Thalia.'),
+  V('The Strand','https://www.strandbooks.com/events','Author events, Rare Book Room.'),
+  V('The New School','https://event.newschool.edu/','Public programs.'),
+  V('The Shed','https://theshed.org/program','Hudson Yards.'),
+  V('The Perelman (PAC NYC)','https://pacnyc.org/whats-on/','Downtown, flexible theaters.'),
+  V('Park Avenue Armory','https://www.armoryonpark.org/programs_events/calendar','Artists Studio, Recital Series.'),
+  V('St. Ann\'s Warehouse','https://stannswarehouse.org/','Dumbo.'),
+  V('New York City Center','https://www.nycitycenter.org/whats-on/','Encores!, plays, dance.'),
+  V('Cherry Lane Theatre','https://www.cherrylanetheatre.org/','Oldest continuously running Off-Broadway house.'),
+  V('The Kitchen','https://thekitchen.org/','Performance and video.'),
+  V('Roulette','https://roulette.org/calendar/','Experimental music and performance.'),
+  V('Signature Theatre','https://www.signaturetheatre.org/','Residency playwrights.'),
+  V('Atlantic Theater Company','https://atlantictheater.org/','Chelsea.'),
+  V('Classic Stage Company','https://www.classicstage.org/','East 13th Street.'),
+  V('Theatre for a New Audience','https://www.tfana.org/','Polonsky Shakespeare Center.'),
+  V('The Paris Review','https://www.theparisreview.org/events','Readings and parties.'),
+  V('The New York Review of Books','https://www.nybooks.com/events/','Panels and launches.'),
+  V('PEN America','https://pen.org/events/','World Voices Festival.'),
+  V('Poetry Society of America','https://poetrysociety.org/events','Readings.'),
+  V('The Center for Fiction','https://centerforfiction.org/events/','Brooklyn.'),
+  V('Poets House','https://poetshouse.org/','Battery Park City.'),
+  V('McNally Jackson','https://www.mcnallyjackson.com/events','Multiple locations.'),
+  V('Books Are Magic','https://www.booksaremagic.net/events','Cobble Hill and Montague.'),
+  V('Albertine','https://www.albertine.com/events/','French Embassy bookshop.'),
+  V('Council on Foreign Relations','https://www.cfr.org/events','Meetings and livestreams.'),
+  V('Asia Society','https://asiasociety.org/new-york/events','Policy and culture.'),
+  V('Foreign Policy Association','https://www.fpa.org/','Great Decisions.'),
+  V('New-York Historical','https://www.nyhistory.org/programs','Public programs.'),
+  V('Roosevelt House','https://roosevelthouse.hunter.cuny.edu/events/','Hunter College.'),
+  V('Columbia World Leaders Forum','https://worldleaders.columbia.edu/events','Heads of state on campus.'),
+  V('Columbia SIPA','https://www.sipa.columbia.edu/events','Policy events.'),
+  V('Carnegie Council','https://www.carnegiecouncil.org/events','Ethics in international affairs.'),
+  V('Japan Society','https://japansociety.org/events/','Film, talks, performance.'),
+  V('FIAF','https://fiaf.org/events/','French Institute Alliance Française.'),
+  V('Italian Academy, Columbia','https://italianacademy.columbia.edu/events','Lectures and concerts.'),
+  V('Consulates & cultural institutes','https://www.instituto-cervantes.org/','Cervantes, Goethe, Austrian Cultural Forum, Scandinavia House, etc.'),
+  V('American Museum of Natural History','https://www.amnh.org/calendar','Talks and members\' events.'),
+  V('Hayden Planetarium','https://www.amnh.org/research/hayden-planetarium/programs','Isaac Asimov Debate.'),
+  V('New York Academy of Sciences','https://www.nyas.org/events/','Scientific programs.'),
+  V('Simons Foundation','https://www.simonsfoundation.org/events/','Public lectures.'),
+  V('Pioneer Works','https://pioneerworks.org/calendar','Red Hook. Science, music, art.'),
+],
+broadway:[
+  V('Lyric Theatre','https://lyrictheatrenyc.com/','Vast and spectacular.'),
+  V('Belasco Theatre','https://belascotheatrenyc.com/','Dark, intimate, exceptionally atmospheric.'),
+  V('Hudson Theatre','https://www.hudsonbroadway.com/','Beautifully restored and unusually elegant.'),
+  V('New Amsterdam Theatre','https://newamsterdamtheatre.net/','Extraordinary Art Nouveau interiors.'),
+  V('Majestic Theatre','https://majestictheatrenyc.com/','Archetypal grand Broadway house.'),
+  V('Booth Theatre','https://booththeatrenyc.com/','Intimate; excellent for serious plays.'),
+  V('Walter Kerr Theatre','https://walterkerrtheatrenyc.com/','Warm, compact, beautiful proportions.'),
+  V('What\'s on Broadway','https://www.broadway.org/shows','Full listing of current productions.'),
+],
+art:[
+  V('The Metropolitan Museum of Art','https://www.metmuseum.org/exhibitions','Fifth Avenue.'),
+  V('MoMA','https://www.moma.org/calendar/exhibitions','53rd Street.'),
+  V('Guggenheim','https://www.guggenheim.org/exhibitions','Wright rotunda.'),
+  V('Neue Galerie','https://www.neuegalerie.org/exhibitions','German and Austrian art.'),
+  V('The Frick Collection','https://www.frick.org/exhibitions','Back on 70th Street.'),
+  V('The Morgan Library & Museum','https://www.themorgan.org/exhibitions','Drawings, manuscripts, music.'),
+  V('Whitney Museum','https://whitney.org/exhibitions','Gansevoort.'),
+  V('Brooklyn Museum','https://www.brooklynmuseum.org/exhibitions','Eastern Parkway.'),
+  V('Cooper Hewitt','https://www.cooperhewitt.org/events/current-exhibitions/','Design, Carnegie Mansion.'),
+  V('The Jewish Museum','https://thejewishmuseum.org/exhibitions','Fifth Avenue.'),
+  V('Rubin Museum','https://rubinmuseum.org/','Now a museum without walls; check current projects.'),
+  V('Asia Society Museum','https://asiasociety.org/new-york/exhibitions','Park Avenue.'),
+  V('Noguchi Museum','https://www.noguchi.org/exhibitions/','Long Island City.'),
+  V('Hispanic Society Museum & Library','https://hispanicsociety.org/','Audubon Terrace. Sorolla, Velázquez, Goya.'),
+  V('Nicholas Roerich Museum','https://www.roerich.org/','Upper West Side townhouse.'),
+  V('The Drawing Center','https://drawingcenter.org/exhibitions','SoHo.'),
+  V('Poster House','https://posterhouse.org/exhibitions/','Chelsea.'),
+  V('Center for Italian Modern Art','https://www.italianmodernart.org/','By appointment, SoHo.'),
+  V('Mmuseumm','https://mmuseumm.com/','Freight elevator shaft, Cortlandt Alley.'),
+  V('Merchant\'s House Museum','https://merchantshouse.org/','Also an exhibition space.'),
+],
+global:[
+  V('Gagosian','https://gagosian.com/exhibitions/','Worldwide.'),
+  V('Hauser & Wirth','https://www.hauserwirth.com/exhibitions/','Worldwide.'),
+  V('David Zwirner','https://www.davidzwirner.com/exhibitions','NY, London, Paris, Hong Kong, LA.'),
+  V('Pace','https://www.pacegallery.com/exhibitions/','Worldwide.'),
+  V('White Cube','https://www.whitecube.com/gallery-exhibitions','London, NY, Seoul, Paris, Hong Kong.'),
+  V('Thaddaeus Ropac','https://ropac.net/exhibitions/','Paris, London, Salzburg, Seoul, Milan.'),
+  V('Perrotin','https://www.perrotin.com/exhibitions','Paris, NY, Tokyo, Seoul, Hong Kong.'),
+  V('Lisson Gallery','https://www.lissongallery.com/exhibitions','London, NY, LA, Shanghai, Beijing.'),
+  V('Gladstone','https://www.gladstonegallery.com/exhibitions','NY, Brussels, Seoul.'),
+  V('Marian Goodman','https://www.mariangoodman.com/exhibitions/','NY, Paris, LA.'),
+  V('Acquavella','https://www.acquavellagalleries.com/exhibitions','Upper East Side, Palm Beach.'),
+  V('Xavier Hufkens','https://www.xavierhufkens.com/exhibitions','Brussels.'),
+  V('Lehmann Maupin','https://www.lehmannmaupin.com/exhibitions','NY, Seoul, London.'),
+  V('Victoria Miro','https://www.victoria-miro.com/exhibitions/','London, Venice.'),
+  V('Sadie Coles HQ','https://www.sadiecoles.com/exhibitions/','London.'),
+  V('kurimanzutto','https://www.kurimanzutto.com/en/exhibitions','Mexico City, NY.'),
+  V('National Gallery of Art','https://www.nga.gov/exhibitions.html','Washington.'),
+  V('Hirshhorn','https://hirshhorn.si.edu/exhibitions/','Washington.'),
+  V('Musée du Louvre','https://www.louvre.fr/en/what-s-on','Paris.'),
+  V('Tate','https://www.tate.org.uk/whats-on','Modern, Britain, Liverpool, St Ives.'),
+  V('The National Gallery, London','https://www.nationalgallery.org.uk/exhibitions','Trafalgar Square.'),
+  V('The British Museum','https://www.britishmuseum.org/exhibitions','London.'),
+  V('Centre Pompidou','https://www.centrepompidou.fr/en/program','Paris.'),
+  V('Museo del Prado','https://www.museodelprado.es/en/whats-on','Madrid.'),
+  V('Museo Reina Sofía','https://www.museoreinasofia.es/en/exhibitions','Madrid.'),
+  V('Rijksmuseum','https://www.rijksmuseum.nl/en/whats-on','Amsterdam.'),
+  V('Fondation Louis Vuitton','https://www.fondationlouisvuitton.fr/en','Paris.'),
+  V('Art Institute of Chicago','https://www.artic.edu/exhibitions','Chicago.'),
+],
+jazz:[
+  V('Village Vanguard','https://villagevanguard.com/','Sets at 8 and 10. Mondays: Vanguard Jazz Orchestra.'),
+  V('Blue Note','https://www.bluenotejazz.com/nyc/','Two sets nightly, late-night series.'),
+  V('Smalls','https://www.smallslive.com/','Late sessions run past 1am.'),
+  V('Mezzrow','https://www.mezzrow.com/','Duos and trios, listening room.'),
+  V('Dizzy\'s Club','https://www.jazz.org/dizzys/','Jazz at Lincoln Center, Columbus Circle.'),
+  V('Smoke Jazz Club','https://www.smokejazz.com/','Upper West Side.'),
+  V('Birdland','https://www.birdlandjazz.com/','Main room and theater.'),
+  V('The Jazz Gallery','https://jazzgallery.org/calendar/','Composer-forward.'),
+  V('The Nines','https://www.thenines.nyc/','Piano bar, NoHo.'),
+  V('Bar LunÀtico','https://www.barlunatico.com/','Bed-Stuy, nightly music.'),
+  V('Café Carlyle','https://www.rosewoodhotels.com/en/the-carlyle-new-york/dining/cafe-carlyle','Cabaret.'),
+  V('54 Below','https://54below.org/','Broadway\'s supper club.'),
+  V('The Green Room 42','https://thegreenroom42.com/','Cabaret, Yotel.'),
+  V('Aman New York — Jazz Club','https://www.aman.com/hotels/aman-new-york','Members and hotel guests.'),
+],
+houses:[
+  V('Merchant\'s House Museum','https://merchantshouse.org/events/','1832 house, intact interiors.'),
+  V('Morris-Jumel Mansion','https://www.morrisjumel.org/events','Manhattan\'s oldest house.'),
+  V('Van Cortlandt House','https://vchmuseum.org/','1748, the Bronx.'),
+  V('Gracie Mansion','https://www.nyc.gov/site/graciemansion/index.page','Free tours; book ahead.'),
+  V('Mount Vernon Hotel Museum','https://www.mvhm.org/','1799 carriage house.'),
+  V('Bartow-Pell Mansion','https://www.bartowpellmansionmuseum.org/','Pelham Bay Park.'),
+  V('Alice Austen House','https://aliceausten.org/','Staten Island.'),
+  V('King Manor','https://www.kingmanor.org/','Jamaica, Queens.'),
+  V('Bowne House','https://www.bownehouse.org/','1661, Flushing.'),
+  V('Dyckman Farmhouse','https://dyckmanfarmhouse.org/','Manhattan\'s last Dutch farmhouse.'),
+],
+access:[
+  V('Green-Wood Cemetery','https://www.green-wood.com/events/','After-dark tours and the Catacombs.'),
+  V('New York Marble Cemetery','https://www.marblecemetery.org/','Second Avenue. Rare open days.'),
+  V('New York City Marble Cemetery','https://nycmc.org/','East 2nd Street. Distinct institution.'),
+  V('Woodlawn Cemetery','https://www.woodlawn.org/events/','Bronx. Tours and concerts.'),
+  V('Open House New York Weekend','https://ohny.org/','October. The year\'s widest access.'),
+  V('Untapped New York','https://www.untappedcities.com/tours/','Insider tours to closed sites.'),
+],
+islands:[
+  V('North Brother Island','https://www.nycgovparks.org/parks/north-brother-island','Closed to the public; access only via rare permitted trips.'),
+  V('South Brother Island','https://www.nycgovparks.org/parks/south-brother-island','Bird sanctuary, no public landing.'),
+  V('Governors Island','https://www.govisland.com/things-to-do/events','Nolan Park and restricted historic structures.'),
+  V('Ellis Island Hospital — Hard Hat Tour','https://www.statueellisisland.org/','The abandoned hospital complex.'),
+  V('Hart Island','https://www.nyc.gov/site/hart/index.page','Visits by appointment through the city.'),
+]
+};
+
+/* ============================ recurring anchors ============================ */
+/* Standing programs, not verified listings. Each links out to confirm. */
+const RECUR = [
+  {cat:'jazz', venue:'Village Vanguard', title:'Sets at 8:00 and 10:00', days:[0,1,2,3,4,5,6], time:'20:00', url:'https://villagevanguard.com/'},
+  {cat:'jazz', venue:'Village Vanguard', title:'Vanguard Jazz Orchestra', days:[1], time:'20:00', url:'https://villagevanguard.com/'},
+  {cat:'jazz', venue:'Smalls', title:'Late-night session', days:[0,1,2,3,4,5,6], time:'22:30', url:'https://www.smallslive.com/'},
+  {cat:'jazz', venue:'Mezzrow', title:'Duo and trio sets', days:[0,1,2,3,4,5,6], time:'19:30', url:'https://www.mezzrow.com/'},
+  {cat:'jazz', venue:'Dizzy\'s Club', title:'Evening sets', days:[0,1,2,3,4,5,6], time:'19:30', url:'https://www.jazz.org/dizzys/'},
+  {cat:'jazz', venue:'Birdland', title:'Main room, nightly', days:[0,1,2,3,4,5,6], time:'19:00', url:'https://www.birdlandjazz.com/'},
+  {cat:'jazz', venue:'54 Below', title:'Cabaret, nightly', days:[0,1,2,3,4,5,6], time:'19:00', url:'https://54below.org/'},
+  {cat:'classical', venue:'Trinity Church Wall Street', title:'Bach at One', days:[4], time:'13:00', url:'https://trinitywallstreet.org/music-arts'},
+  {cat:'classical', venue:'St. Thomas Church Fifth Avenue', title:'Choral Evensong', days:[0], time:'16:00', url:'https://www.saintthomaschurch.org/music/'},
+  {cat:'classical', venue:'Bargemusic', title:'Weekend chamber concert', days:[5,6], time:'20:00', url:'https://www.bargemusic.org/'},
+];
+
+/* ============================ state ============================ */
+const KEY = 'nycal:events:v1';
+let userEvents = [];
+let feedEvents = [];   // nightly scrape, docs/data/events.json
+let feedMeta = null;
+let cursor = new Date(); cursor.setDate(1);
+let selected = new Date();
+let activeCat = 'all';
+let view = 'month';
+let query = '';
+
+const iso = d => `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+const parseISO = s => { const [y,m,d]=s.split('-').map(Number); return new Date(y,m-1,d); };
+const fmtTime = t => { if(!t) return '—'; let [h,m]=t.split(':').map(Number); const ap=h>=12?'PM':'AM'; h=h%12||12; return `${h}:${String(m).padStart(2,'0')} ${ap}`; };
+const sameDay = (a,b)=>iso(a)===iso(b);
+
+/* ============================ storage ============================ */
+async function loadEvents(){
+  try{
+    const r = await window.storage.get(KEY);
+    if(r && r.value) userEvents = JSON.parse(r.value);
+  }catch(e){ userEvents = []; }
+  render();
+}
+async function loadFeed(){
+  try{
+    const r = await fetch('data/events.json', {cache:'no-store'});
+    const d = await r.json();
+    feedEvents = (d.events||[]).map(e=>Object.assign({}, e, {feed:true}));
+    feedMeta = d;
+    const st = await fetch('data/status.json', {cache:'no-store'}).then(x=>x.json()).catch(()=>null);
+    if(st) feedMeta.status = st;
+  }catch(e){
+    feedMeta = {error:true};
+  }
+  renderFeedBar();
+  render();
+}
+
+function renderFeedBar(){
+  const el = document.getElementById('feedBar');
+  if(!feedMeta){ el.textContent=''; return; }
+  if(feedMeta.error || !feedMeta.generated){
+    el.innerHTML = `<span class="fdot warn"></span>No feed yet. Run the scraper, or add events by hand — the recurring programs below are always live.`;
+    return;
+  }
+  const when = new Date(feedMeta.generated).toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
+  const st = feedMeta.status;
+  const health = st ? `${st.healthy} of ${st.total} venues reporting` : '';
+  const dark = st ? st.venues.filter(v=>!v.count) : [];
+  el.innerHTML = `<span class="fdot ok"></span>${feedMeta.count.toLocaleString()} listings · updated ${when}` +
+    (health?` · <span class="fmuted">${health}</span>`:'') +
+    (dark.length?` <button id="darkBtn" class="fmuted" style="text-decoration:underline">${dark.length} dark</button>`:'');
+  const b = document.getElementById('darkBtn');
+  if(b) b.onclick = ()=>alert('No listings parsed from:\n\n' + dark.map(v=>'· '+v.name+(v.error?'  ('+v.error+')':'')).join('\n'));
+}
+
+async function saveEvents(){
+  try{ await window.storage.set(KEY, JSON.stringify(userEvents)); }
+  catch(e){ console.error('Could not save. Your event is still on screen for this session.', e); }
+}
+
+/* ============================ event assembly ============================ */
+function eventsFor(date){
+  const key = iso(date);
+  const out = [];
+  const feed = feedEvents.filter(e=>e.date===key);
+
+  // A real listing always beats a standing rule. Once the scraper knows the Vanguard
+  // has the Bill Frisell Trio on Thursday, "Sets at 8:00 and 10:00" is noise — so a
+  // recurring anchor is suppressed on any day its venue has actual listings.
+  const covered = new Set(feed.map(e=>e.venue));
+  RECUR.forEach((r,i)=>{
+    if(covered.has(r.venue)) return;
+    if(r.days.includes(date.getDay())) out.push({id:`r${i}-${key}`, date:key, time:r.time, title:r.title, venue:r.venue, cat:r.cat, url:r.url, recurring:true});
+  });
+  feed.forEach(e=>out.push(e));
+  userEvents.filter(e=>e.date===key).forEach(e=>out.push(e));
+  return out
+    .filter(e => activeCat==='all' || e.cat===activeCat)
+    .filter(e => !query || (e.title+' '+e.venue).toLowerCase().includes(query))
+    .sort((a,b)=>(a.time||'').localeCompare(b.time||''));
+}
+
+/* ============================ render ============================ */
+function renderTabs(){
+  const t = document.getElementById('tabs');
+  const all = [{id:'all',name:'Everything',color:'var(--ink)'}].concat(CATS);
+  t.innerHTML = all.map(c=>`<button class="tab" role="tab" data-cat="${c.id}" aria-selected="${activeCat===c.id}" style="--tabcolor:${c.color}">
+    <span class="dot" style="${activeCat===c.id?'':'background:'+c.color}"></span>${c.name}</button>`).join('');
+  t.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{activeCat=b.dataset.cat; render();});
+}
+
+function renderMonth(){
+  document.getElementById('monthLabel').textContent =
+    cursor.toLocaleDateString('en-US',{month:'long',year:'numeric'});
+  const first = new Date(cursor.getFullYear(),cursor.getMonth(),1);
+  const start = new Date(first); start.setDate(1-first.getDay());
+  const g = document.getElementById('grid'); g.innerHTML='';
+  const today = new Date();
+  for(let i=0;i<42;i++){
+    const d = new Date(start); d.setDate(start.getDate()+i);
+    const evs = eventsFor(d);
+    const cell = document.createElement('button');
+    cell.className = 'cell'
+      + (d.getMonth()!==cursor.getMonth()?' dim':'')
+      + (sameDay(d,today)?' today':'')
+      + (sameDay(d,selected)?' sel':'');
+    const shown = evs.slice(0,3).map(e=>
+      `<span class="ev" style="--ec:${CAT[e.cat].color}"><i></i><span>${esc(e.title)}</span></span>`).join('');
+    cell.innerHTML = `<span class="n">${d.getDate()}</span>${shown}` +
+      (evs.length>3?`<span class="more">+${evs.length-3} more</span>`:'');
+    cell.onclick = ()=>{ selected = d; if(d.getMonth()!==cursor.getMonth()){cursor=new Date(d.getFullYear(),d.getMonth(),1);} render(); };
+    g.appendChild(cell);
+  }
+  renderDayPanel();
+}
+
+function rowHTML(e){
+  return `<div class="row">
+    <div class="time">${fmtTime(e.time)}</div>
+    <div class="body">
+      <div class="cat-chip" style="--cc:${CAT[e.cat].color}"><i></i>${CAT[e.cat].name}</div>
+      <div class="t">${esc(e.title)}${e.recurring?'<span class="badge">Recurring · confirm</span>':''}</div>
+      <div class="v">${esc(e.venue||'')}</div>
+    </div>
+    ${e.url?`<a class="link" href="${esc(e.url)}" target="_blank" rel="noopener">Open ↗</a>`:''}
+    ${!e.recurring?`<button class="link" data-del="${e.id}" style="color:var(--ink-3)">Remove</button>`:''}
+  </div>`;
+}
+
+function renderDayPanel(){
+  const p = document.getElementById('dayPanel');
+  const evs = eventsFor(selected);
+  p.innerHTML = `<h3>${selected.toLocaleDateString('en-US',{weekday:'long', month:'long', day:'numeric'})}</h3>
+    <div class="sub">${evs.length} ${evs.length===1?'listing':'listings'}${activeCat!=='all'?' in '+CAT[activeCat].name:''}</div>
+    <div class="rows">${evs.length?evs.map(rowHTML).join('')
+      :`<div class="empty"><b>Nothing on this day yet.</b>Add an event, or open the Venues tab and go straight to a box office.</div>`}</div>`;
+  wireDeletes(p);
+}
+
+function renderList(){
+  const p = document.getElementById('listPanel');
+  const out = [];
+  const start = new Date(cursor);
+  const end = new Date(cursor.getFullYear(),cursor.getMonth()+1,0);
+  for(let d=new Date(start); d<=end; d.setDate(d.getDate()+1)){
+    const evs = eventsFor(new Date(d));
+    if(evs.length) out.push(`<div style="padding:18px 0 4px;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)">
+      ${new Date(d).toLocaleDateString('en-US',{weekday:'short', month:'short', day:'numeric'})}</div>` + evs.map(rowHTML).join(''));
+  }
+  p.innerHTML = `<h3>${cursor.toLocaleDateString('en-US',{month:'long',year:'numeric'})}</h3>
+    <div class="sub">Agenda${activeCat!=='all'?' · '+CAT[activeCat].name:''}${query?` · "${esc(query)}"`:''}</div>
+    <div class="rows list">${out.length?out.join('')
+      :`<div class="empty"><b>No listings match.</b>Clear the search, or switch category.</div>`}</div>`;
+  wireDeletes(p);
+}
+
+function renderVenues(){
+  const host = document.getElementById('venueView');
+  const cats = activeCat==='all' ? CATS : CATS.filter(c=>c.id===activeCat);
+  host.innerHTML = cats.map(c=>{
+    const items = (VENUES[c.id]||[]).filter(v=>!query || (v.name+' '+(v.note||'')).toLowerCase().includes(query));
+    if(!items.length) return '';
+    return `<div class="vhead"><h2>${c.name}</h2><span class="count">${items.length} venues</span></div>
+      <div class="vgrid">${items.map(v=>`
+        <a class="vcard" href="${v.url}" target="_blank" rel="noopener">
+          <div class="bar" style="--cc:${c.color}"></div>
+          <div class="vt">${esc(v.name)}<svg viewBox="0 0 24 24"><path d="M14 3h7v7h-2V6.4l-9.3 9.3-1.4-1.4L17.6 5H14V3zM5 5h5v2H5v12h12v-5h2v7H3V5h2z"/></svg></div>
+          <div class="vn">${esc(v.note||'')}</div>
+        </a>`).join('')}</div>`;
+  }).join('') || `<div class="empty" style="padding:60px 0"><b>No venues match that search.</b>Try a shorter term.</div>`;
+}
+
+function wireDeletes(scope){
+  scope.querySelectorAll('[data-del]').forEach(b=>b.onclick=async()=>{
+    userEvents = userEvents.filter(e=>e.id!==b.dataset.del);
+    await saveEvents(); render();
+  });
+}
+
+function render(){
+  renderTabs();
+  document.getElementById('calView').style.display   = view==='month'?'':'none';
+  document.getElementById('listView').style.display  = view==='list'?'':'none';
+  document.getElementById('venueView').style.display = view==='venues'?'':'none';
+  document.getElementById('nav').style.display       = view==='venues'?'none':'flex';
+  if(view==='month') renderMonth();
+  if(view==='list')  renderList();
+  if(view==='venues')renderVenues();
+}
+
+const esc = s => String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+/* ============================ wiring ============================ */
+document.getElementById('todayPill').textContent =
+  new Date().toLocaleDateString('en-US',{weekday:'long', month:'long', day:'numeric'});
+document.getElementById('prev').onclick = ()=>{cursor.setMonth(cursor.getMonth()-1); render();};
+document.getElementById('next').onclick = ()=>{cursor.setMonth(cursor.getMonth()+1); render();};
+document.getElementById('todayBtn').onclick = ()=>{const t=new Date(); cursor=new Date(t.getFullYear(),t.getMonth(),1); selected=t; render();};
+document.getElementById('q').oninput = e=>{query=e.target.value.trim().toLowerCase(); render();};
+document.querySelectorAll('#viewSeg button').forEach(b=>b.onclick=()=>{
+  view=b.dataset.view;
+  document.querySelectorAll('#viewSeg button').forEach(x=>x.setAttribute('aria-pressed', x===b));
+  render();
+});
+
+/* modal */
+const scrim = document.getElementById('scrim');
+document.getElementById('f-cat').innerHTML = CATS.map(c=>`<option value="${c.id}">${c.name}</option>`).join('');
+document.getElementById('venueList').innerHTML =
+  Object.values(VENUES).flat().map(v=>`<option value="${esc(v.name)}">`).join('');
+document.getElementById('addBtn').onclick = ()=>{
+  document.getElementById('f-date').value = iso(selected);
+  scrim.classList.add('on');
+  document.getElementById('f-title').focus();
+};
+document.getElementById('mCancel').onclick = ()=>scrim.classList.remove('on');
+scrim.onclick = e=>{ if(e.target===scrim) scrim.classList.remove('on'); };
+document.addEventListener('keydown', e=>{ if(e.key==='Escape') scrim.classList.remove('on'); });
+document.getElementById('mSave').onclick = async ()=>{
+  const title = document.getElementById('f-title').value.trim();
+  const date  = document.getElementById('f-date').value;
+  if(!title || !date){ document.getElementById('f-title').focus(); return; }
+  userEvents.push({
+    id:'u'+Date.now(),
+    title, date,
+    time: document.getElementById('f-time').value,
+    cat: document.getElementById('f-cat').value,
+    venue: document.getElementById('f-venue').value.trim(),
+    url: document.getElementById('f-url').value.trim()
+  });
+  await saveEvents();
+  ['f-title','f-time','f-venue','f-url'].forEach(id=>document.getElementById(id).value='');
+  selected = parseISO(date);
+  cursor = new Date(selected.getFullYear(), selected.getMonth(), 1);
+  scrim.classList.remove('on');
+  render();
+};
+
+render();
+loadEvents();
+loadFeed();
+</script>
+</body>
+</html>
