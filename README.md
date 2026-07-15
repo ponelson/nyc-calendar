@@ -134,3 +134,50 @@ docs/
   is the wrong instrument. A watcher that diffs those five pages and emails you is right.
 - **An `.ics` export** so the calendar subscribes into Apple Calendar.
 - **A NYCB/ABT talk filter** — already stubbed via `exclude=[...]` in the registry.
+
+---
+
+## What the first probe found (July 2026)
+
+Run on 155 venues. The verdict was blunt and worth recording:
+
+| Outcome | Count | What it means |
+|---|---|---|
+| Blocked (403/429/418/SSL) | ~30 | Cloudflare and Akamai. Not a data problem — an access problem. |
+| No structured events | ~30 | JavaScript apps. NYCB, Joyce, Carnegie, BAM, the Met. |
+| iCalendar | 5 | Bargemusic, St. Thomas, St. Ann's, Poets House, Simons. Clean. |
+| WordPress event types | 2 | Japan Society (109), Cooper Hewitt (20). Clean. |
+| **False positives** | ~10 | **The dangerous ones.** |
+
+That last row is the lesson. The probe reported 79 events at ABT — from the `milestone`
+post type, which is the company's *history timeline*. Guggenheim's six were an audio
+playlist. Center for Fiction's six were items in the gift shop. Every one of those has
+dates in it. None of them is an event.
+
+An empty calendar is a visible failure. A calendar confidently listing "1958 — Agon
+premieres" as an upcoming ABT performance is a worse one, because you'd believe it.
+
+Two guards now stand between the scraper and that outcome:
+
+- **A post-type allowlist.** `event`, `performance`, `exhibition`, `program`. Anything
+  matching `milestone|people|podcast|product|news|article` is refused outright.
+- **A forward-looking sanity check.** A venue's calendar points at the future. If most
+  of what we parsed is in the past, we parsed an archive, and the adapter raises rather
+  than returns. The venue shows as *dark*, which is the correct and honest outcome.
+
+### The architectural concession
+
+Half these venues need a real browser. `strategy="render"` drives headless Chromium,
+which solves both failure modes at once — it executes the JavaScript *and* it satisfies
+the bot check. The same JSON-LD extractors then run against the finished DOM.
+
+It also captures every XHR the page makes while loading, so a venue that never puts its
+listings in the DOM still gets caught by way of the API its own front end calls.
+
+```bash
+pip install playwright
+python -m playwright install chromium
+python probe.py --render
+```
+
+Slower (~3s/venue) and heavier in CI. For a nightly job, irrelevant.

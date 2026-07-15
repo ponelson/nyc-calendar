@@ -1,1 +1,191 @@
-{"generated":null,"healthy":0,"total":0,"venues":[]}
+{
+  "generated": "2026-07-15T02:41:14+00:00",
+  "healthy": 16,
+  "total": 23,
+  "venues": [
+    {
+      "id": "nycballet",
+      "name": "New York City Ballet",
+      "cat": "dance",
+      "strategy": "custom",
+      "count": 100,
+      "error": null
+    },
+    {
+      "id": "carnegie",
+      "name": "Carnegie Hall",
+      "cat": "classical",
+      "strategy": "custom",
+      "count": 10,
+      "error": null
+    },
+    {
+      "id": "emanuel",
+      "name": "Temple Emanu-El \u2014 Streicker",
+      "cat": "classical",
+      "strategy": "custom",
+      "count": 46,
+      "error": null
+    },
+    {
+      "id": "stanns",
+      "name": "St. Ann's Warehouse",
+      "cat": "talks",
+      "strategy": "ics",
+      "count": 23,
+      "error": null
+    },
+    {
+      "id": "japansociety",
+      "name": "Japan Society",
+      "cat": "talks",
+      "strategy": "custom",
+      "count": 109,
+      "error": null
+    },
+    {
+      "id": "nyas",
+      "name": "New York Academy of Sciences",
+      "cat": "talks",
+      "strategy": "custom",
+      "count": 21,
+      "error": null
+    },
+    {
+      "id": "simons",
+      "name": "Simons Foundation",
+      "cat": "talks",
+      "strategy": "ics",
+      "count": 8,
+      "error": null
+    },
+    {
+      "id": "broadway",
+      "name": "Broadway (all houses)",
+      "cat": "broadway",
+      "strategy": "custom",
+      "count": 0,
+      "error": "RuntimeError: HTTP 403"
+    },
+    {
+      "id": "guggenheim",
+      "name": "Guggenheim",
+      "cat": "art",
+      "strategy": "custom",
+      "count": 13,
+      "error": null
+    },
+    {
+      "id": "cooperhewitt",
+      "name": "Cooper Hewitt",
+      "cat": "art",
+      "strategy": "custom",
+      "count": 20,
+      "error": null
+    },
+    {
+      "id": "rubin",
+      "name": "Rubin Museum",
+      "cat": "art",
+      "strategy": "custom",
+      "count": 0,
+      "error": "RuntimeError: wp:exhibitions looks like an archive, not a calendar (1 items, mostly past) \u2014 refusing"
+    },
+    {
+      "id": "zwirner",
+      "name": "David Zwirner",
+      "cat": "global",
+      "strategy": "jsonld",
+      "count": 25,
+      "error": null
+    },
+    {
+      "id": "smalls",
+      "name": "Smalls",
+      "cat": "jazz",
+      "strategy": "custom",
+      "count": 0,
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.smallslive.com/wp-json/wp/v2/event?per_page=100"
+    },
+    {
+      "id": "mezzrow",
+      "name": "Mezzrow",
+      "cat": "jazz",
+      "strategy": "custom",
+      "count": 0,
+      "error": "SSLError: HTTPSConnectionPool(host='www.mezzrow.com', port=443): Max retries exceeded with url: /wp-json/wp/v2/event?per_page=100 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"
+    },
+    {
+      "id": "dizzys",
+      "name": "Dizzy's Club",
+      "cat": "jazz",
+      "strategy": "jsonld",
+      "count": 113,
+      "error": null
+    },
+    {
+      "id": "smoke",
+      "name": "Smoke Jazz Club",
+      "cat": "jazz",
+      "strategy": "custom",
+      "count": 0,
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.smokejazz.com/wp-json/wp/v2/event?per_page=100"
+    },
+    {
+      "id": "jazzgallery",
+      "name": "The Jazz Gallery",
+      "cat": "jazz",
+      "strategy": "custom",
+      "count": 0,
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://jazzgallery.org/wp-json/wp/v2/event?per_page=100"
+    },
+    {
+      "id": "lunatico",
+      "name": "Bar Lun\u00c0tico",
+      "cat": "jazz",
+      "strategy": "custom",
+      "count": 0,
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.barlunatico.com/wp-json/wp/v2/event?per_page=100"
+    },
+    {
+      "id": "mvhm",
+      "name": "Mount Vernon Hotel Museum",
+      "cat": "houses",
+      "strategy": "ics",
+      "count": 10,
+      "error": null
+    },
+    {
+      "id": "bartowpell",
+      "name": "Bartow-Pell Mansion",
+      "cat": "houses",
+      "strategy": "ics",
+      "count": 19,
+      "error": null
+    },
+    {
+      "id": "aliceausten",
+      "name": "Alice Austen House",
+      "cat": "houses",
+      "strategy": "jsonld",
+      "count": 7,
+      "error": null
+    },
+    {
+      "id": "dyckman",
+      "name": "Dyckman Farmhouse",
+      "cat": "houses",
+      "strategy": "ics",
+      "count": 5,
+      "error": null
+    },
+    {
+      "id": "greenwood",
+      "name": "Green-Wood Cemetery",
+      "cat": "access",
+      "strategy": "ics",
+      "count": 30,
+      "error": null
+    }
+  ]
+}

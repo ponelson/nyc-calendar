@@ -18,6 +18,7 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
       - name: Scrape
         run: python -m scrape.main --out docs/data
       - name: Commit if changed

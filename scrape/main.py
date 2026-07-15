@@ -19,7 +19,7 @@ import sys
 import traceback
 from datetime import datetime, timezone
 
-from . import fetch, ics, jsonld
+from . import fetch, ics, jsonld, render
 from .normalize import normalize
 from .venues import VENUES, scrapable
 
@@ -32,6 +32,9 @@ def _run_venue(v):
     if strategy == "custom":
         mod = importlib.import_module(f".adapters.{v['adapter']}", __package__)
         return mod.run(v)
+
+    if strategy == "render":
+        return render.run(v)
 
     if strategy == "ics":
         text = fetch.get(v["ics_url"], ttl=6 * 3600)

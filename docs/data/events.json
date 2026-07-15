@@ -1,1 +1,5596 @@
-{"generated":null,"count":0,"events":[]}
+{
+"generated": "2026-07-15T02:41:14+00:00",
+"count": 559,
+"events": [
+{
+"id": "s69e20e0ea1",
+"date": "2026-07-13",
+"time": "09:00",
+"title": "2026 Flatiron Institute CMB Summer School",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/cmb-summer-school-2026/",
+"src": "simons"
+},
+{
+"id": "sb16fe26d62",
+"date": "2026-07-13",
+"time": "",
+"title": "Cocoon",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/cocoon/",
+"src": "japansociety"
+},
+{
+"id": "sf7511e0cab",
+"date": "2026-07-13",
+"time": "",
+"title": "SAI: Disaster",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sai-disaster/",
+"src": "japansociety"
+},
+{
+"id": "saa3720e81b",
+"date": "2026-07-13",
+"time": "",
+"title": "JUNK WORLD",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/junk-world/",
+"src": "japansociety"
+},
+{
+"id": "sdbf2461b60",
+"date": "2026-07-13",
+"time": "",
+"title": "Gosh!!",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/gosh/",
+"src": "japansociety"
+},
+{
+"id": "s40edb2b21a",
+"date": "2026-07-13",
+"time": "",
+"title": "Rewrite",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/rewrite/",
+"src": "japansociety"
+},
+{
+"id": "s7efa215b55",
+"date": "2026-07-13",
+"time": "",
+"title": "Sato and Sato",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sato-and-sato/",
+"src": "japansociety"
+},
+{
+"id": "s8b2df30109",
+"date": "2026-07-13",
+"time": "",
+"title": "Yoyogi Johnny",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/yoyogi-johnny/",
+"src": "japansociety"
+},
+{
+"id": "s5705b9825d",
+"date": "2026-07-13",
+"time": "",
+"title": "Night Flower",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/night-flower/",
+"src": "japansociety"
+},
+{
+"id": "sb4257170c8",
+"date": "2026-07-13",
+"time": "",
+"title": "Burn",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/burn/",
+"src": "japansociety"
+},
+{
+"id": "sb7971e8126",
+"date": "2026-07-13",
+"time": "",
+"title": "TIGER",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/tiger/",
+"src": "japansociety"
+},
+{
+"id": "sb913184a5d",
+"date": "2026-07-13",
+"time": "",
+"title": "Numb",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/numb/",
+"src": "japansociety"
+},
+{
+"id": "se17cfd04e8",
+"date": "2026-07-13",
+"time": "",
+"title": "SUZUKI=BAKUDAN",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/suzukibakudan/",
+"src": "japansociety"
+},
+{
+"id": "sdd7883c6e8",
+"date": "2026-07-13",
+"time": "",
+"title": "W&#8217;s Tragedy",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/ws-tragedy-4k/",
+"src": "japansociety"
+},
+{
+"id": "s5aee4efd53",
+"date": "2026-07-14",
+"time": "09:00",
+"title": "2026 Flatiron Institute CMB Summer School",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/cmb-summer-school-2026/",
+"src": "simons"
+},
+{
+"id": "se48a8a589a",
+"date": "2026-07-14",
+"time": "10:00",
+"title": "Biophysical Modeling Group Meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-369-965-277-218-169-953-996-255-427-871-918-130-546-328/",
+"src": "simons"
+},
+{
+"id": "see9616f8bb",
+"date": "2026-07-14",
+"time": "12:00",
+"title": "Genomics Group Meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/genomics-group-meeting-90-701-326-198-492-838-286-54-598-900-600-172-802-308-628-63-210-677-860-485-239-510-289-140-192-865-600-125-700-406-198-969-999-415/",
+"src": "simons"
+},
+{
+"id": "sdf0a5c72e3",
+"date": "2026-07-14",
+"time": "14:00",
+"title": "COMPASS Meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/structural-molecular-biophysics-group-meeting-25-494-979-102-187-630-36-67-497-207-505-565-957-600-338-170-506-848-793-549-370-600-398-874-500-667-990-362-784-923-120-974-139-732-756-7-689-663-601-5-7/",
+"src": "simons"
+},
+{
+"id": "sa2f1cbfcfa",
+"date": "2026-07-14",
+"time": "19:00",
+"title": "Salsa Meets Jazz: The Music of H\u00e9ctor Lavoe & Frankie Ruiz with special guest Vincent Herring",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s6bc7311673",
+"date": "2026-07-14",
+"time": "",
+"title": "Cocoon",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/cocoon/",
+"src": "japansociety"
+},
+{
+"id": "se7c1c6ae76",
+"date": "2026-07-14",
+"time": "",
+"title": "SAI: Disaster",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sai-disaster/",
+"src": "japansociety"
+},
+{
+"id": "s4a09333d6c",
+"date": "2026-07-14",
+"time": "",
+"title": "JUNK WORLD",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/junk-world/",
+"src": "japansociety"
+},
+{
+"id": "sfd48f40c15",
+"date": "2026-07-14",
+"time": "",
+"title": "Gosh!!",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/gosh/",
+"src": "japansociety"
+},
+{
+"id": "se45a3ae43f",
+"date": "2026-07-14",
+"time": "",
+"title": "Rewrite",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/rewrite/",
+"src": "japansociety"
+},
+{
+"id": "s86712aa5d6",
+"date": "2026-07-14",
+"time": "",
+"title": "Sato and Sato",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sato-and-sato/",
+"src": "japansociety"
+},
+{
+"id": "s245326d709",
+"date": "2026-07-14",
+"time": "",
+"title": "Yoyogi Johnny",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/yoyogi-johnny/",
+"src": "japansociety"
+},
+{
+"id": "s1c6c3abe59",
+"date": "2026-07-14",
+"time": "",
+"title": "Night Flower",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/night-flower/",
+"src": "japansociety"
+},
+{
+"id": "s97204adde4",
+"date": "2026-07-14",
+"time": "",
+"title": "Burn",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/burn/",
+"src": "japansociety"
+},
+{
+"id": "s1f2f79f00d",
+"date": "2026-07-14",
+"time": "",
+"title": "TIGER",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/tiger/",
+"src": "japansociety"
+},
+{
+"id": "s53b7db952d",
+"date": "2026-07-14",
+"time": "",
+"title": "Numb",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/numb/",
+"src": "japansociety"
+},
+{
+"id": "s1307cc9747",
+"date": "2026-07-14",
+"time": "",
+"title": "SUZUKI=BAKUDAN",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/suzukibakudan/",
+"src": "japansociety"
+},
+{
+"id": "s15f953c0d8",
+"date": "2026-07-14",
+"time": "",
+"title": "W&#8217;s Tragedy",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/ws-tragedy-4k/",
+"src": "japansociety"
+},
+{
+"id": "s79418854ce",
+"date": "2026-07-15",
+"time": "09:00",
+"title": "2026 Flatiron Institute CMB Summer School",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/cmb-summer-school-2026/",
+"src": "simons"
+},
+{
+"id": "s8ad74b1e3f",
+"date": "2026-07-15",
+"time": "10:30",
+"title": "Green-Wood on Wheels: Stroller-Friendly Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-07-15/",
+"src": "greenwood"
+},
+{
+"id": "sbf3a098e35",
+"date": "2026-07-15",
+"time": "18:00",
+"title": "Carnegie Hall Citywide: American Patchwork Quartet",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/15/carnegie-hall-citywide-american-patchwork-quartet-0600pm",
+"src": "carnegie"
+},
+{
+"id": "s8a6b671593",
+"date": "2026-07-15",
+"time": "19:00",
+"title": "John Ellis Heroes Quintet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s497de795ac",
+"date": "2026-07-15",
+"time": "19:30",
+"title": "PREMIA International Young Artists Music Festival Prizewinners Concert",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/15/premia-international-young-artists-music-festival-prizewinners-concert-0730pm",
+"src": "carnegie"
+},
+{
+"id": "sb56b496daf",
+"date": "2026-07-15",
+"time": "19:30",
+"title": "Mark Morris Dance Group: Dances to American Music",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/15/mark-morris-dance-group-dances-to-american-music-0730pm",
+"src": "carnegie"
+},
+{
+"id": "sd64f9b2e3c",
+"date": "2026-07-15",
+"time": "",
+"title": "Family Program | Summer Design Series",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-15-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "seae87e0835",
+"date": "2026-07-15",
+"time": "",
+"title": "Close Looking with the Curator",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/close-looking-with-the-curator",
+"src": "guggenheim"
+},
+{
+"id": "s64ddac21f4",
+"date": "2026-07-15",
+"time": "",
+"title": "Cocoon",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/cocoon/",
+"src": "japansociety"
+},
+{
+"id": "s668119ce12",
+"date": "2026-07-15",
+"time": "",
+"title": "SAI: Disaster",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sai-disaster/",
+"src": "japansociety"
+},
+{
+"id": "s65e94df1bd",
+"date": "2026-07-15",
+"time": "",
+"title": "JUNK WORLD",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/junk-world/",
+"src": "japansociety"
+},
+{
+"id": "saa3b346976",
+"date": "2026-07-15",
+"time": "",
+"title": "Gosh!!",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/gosh/",
+"src": "japansociety"
+},
+{
+"id": "s0982168a33",
+"date": "2026-07-15",
+"time": "",
+"title": "Rewrite",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/rewrite/",
+"src": "japansociety"
+},
+{
+"id": "s97a1aa027f",
+"date": "2026-07-15",
+"time": "",
+"title": "Sato and Sato",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sato-and-sato/",
+"src": "japansociety"
+},
+{
+"id": "s0f0095f72e",
+"date": "2026-07-15",
+"time": "",
+"title": "Yoyogi Johnny",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/yoyogi-johnny/",
+"src": "japansociety"
+},
+{
+"id": "sb336e921e5",
+"date": "2026-07-15",
+"time": "",
+"title": "Night Flower",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/night-flower/",
+"src": "japansociety"
+},
+{
+"id": "sd81f515068",
+"date": "2026-07-15",
+"time": "",
+"title": "Burn",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/burn/",
+"src": "japansociety"
+},
+{
+"id": "s658d1f03b9",
+"date": "2026-07-15",
+"time": "",
+"title": "TIGER",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/tiger/",
+"src": "japansociety"
+},
+{
+"id": "s930dbbcc63",
+"date": "2026-07-15",
+"time": "",
+"title": "Numb",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/numb/",
+"src": "japansociety"
+},
+{
+"id": "s86129ba332",
+"date": "2026-07-15",
+"time": "",
+"title": "SUZUKI=BAKUDAN",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/suzukibakudan/",
+"src": "japansociety"
+},
+{
+"id": "s00cea1e300",
+"date": "2026-07-15",
+"time": "",
+"title": "W&#8217;s Tragedy",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/ws-tragedy-4k/",
+"src": "japansociety"
+},
+{
+"id": "s00d7f933d7",
+"date": "2026-07-15",
+"time": "",
+"title": "Women of Emanu-El: Summer Mornings Bridge Supervised Play",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-summer-nights-bridge-985/",
+"src": "emanuel"
+},
+{
+"id": "s71d3625a10",
+"date": "2026-07-16",
+"time": "09:00",
+"title": "2026 Flatiron Institute CMB Summer School",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/cmb-summer-school-2026/",
+"src": "simons"
+},
+{
+"id": "s15c2257e4b",
+"date": "2026-07-16",
+"time": "19:00",
+"title": "Yuhan Su Sextet: 101st Cal Tjader Birthday Celebration",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s692221d2db",
+"date": "2026-07-16",
+"time": "19:00",
+"title": "A Night at Niblo\u2019s Garden (Sold Out)",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/a-night-at-niblos-garden-13/2026-07-16/",
+"src": "greenwood"
+},
+{
+"id": "s5b64074b29",
+"date": "2026-07-16",
+"time": "19:30",
+"title": "Mark Morris Dance Group: Dances to American Music",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/16/mark-morris-dance-group-dances-to-american-music-0730pm",
+"src": "carnegie"
+},
+{
+"id": "se5ff8d6522",
+"date": "2026-07-16",
+"time": "19:30",
+"title": "PREMIA International Young Artists Music Festival Prizewinners Concert",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/16/premia-international-young-artists-music-festival-prizewinners-concert-0730pm",
+"src": "carnegie"
+},
+{
+"id": "s8d7375d38f",
+"date": "2026-07-16",
+"time": "",
+"title": "Late Shift",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/late-shift",
+"src": "guggenheim"
+},
+{
+"id": "sfdbab28f59",
+"date": "2026-07-16",
+"time": "",
+"title": "Cocoon",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/cocoon/",
+"src": "japansociety"
+},
+{
+"id": "s1984b54588",
+"date": "2026-07-16",
+"time": "",
+"title": "SAI: Disaster",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sai-disaster/",
+"src": "japansociety"
+},
+{
+"id": "sb8bff9b21c",
+"date": "2026-07-16",
+"time": "",
+"title": "JUNK WORLD",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/junk-world/",
+"src": "japansociety"
+},
+{
+"id": "s480299e9ac",
+"date": "2026-07-16",
+"time": "",
+"title": "Gosh!!",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/gosh/",
+"src": "japansociety"
+},
+{
+"id": "sf62b452eb5",
+"date": "2026-07-16",
+"time": "",
+"title": "Rewrite",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/rewrite/",
+"src": "japansociety"
+},
+{
+"id": "s0a7882fde2",
+"date": "2026-07-16",
+"time": "",
+"title": "Sato and Sato",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sato-and-sato/",
+"src": "japansociety"
+},
+{
+"id": "s9c2f3fb701",
+"date": "2026-07-16",
+"time": "",
+"title": "Yoyogi Johnny",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/yoyogi-johnny/",
+"src": "japansociety"
+},
+{
+"id": "sf2549af4d1",
+"date": "2026-07-16",
+"time": "",
+"title": "Night Flower",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/night-flower/",
+"src": "japansociety"
+},
+{
+"id": "sb206bfb532",
+"date": "2026-07-16",
+"time": "",
+"title": "Burn",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/burn/",
+"src": "japansociety"
+},
+{
+"id": "s75b48dc37c",
+"date": "2026-07-16",
+"time": "",
+"title": "TIGER",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/tiger/",
+"src": "japansociety"
+},
+{
+"id": "s1dc11e56c0",
+"date": "2026-07-16",
+"time": "",
+"title": "Numb",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/numb/",
+"src": "japansociety"
+},
+{
+"id": "s152aecfba1",
+"date": "2026-07-16",
+"time": "",
+"title": "SUZUKI=BAKUDAN",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/suzukibakudan/",
+"src": "japansociety"
+},
+{
+"id": "sc11ec22b15",
+"date": "2026-07-16",
+"time": "",
+"title": "W&#8217;s Tragedy",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/ws-tragedy-4k/",
+"src": "japansociety"
+},
+{
+"id": "sf384dbe026",
+"date": "2026-07-16",
+"time": "",
+"title": "My Tokyo Summer",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/my-tokyo-summer/",
+"src": "japansociety"
+},
+{
+"id": "sd86eb6969a",
+"date": "2026-07-16",
+"time": "",
+"title": "Women of Emanu-El: Summer Mornings Bridge Intermediate Play",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-summer-nights-bridge-285/",
+"src": "emanuel"
+},
+{
+"id": "s51d0bdd785",
+"date": "2026-07-16",
+"time": "",
+"title": "Women of Emanu-El: Summer Nights Bridge",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-summer-nights-bridge/",
+"src": "emanuel"
+},
+{
+"id": "s6b30269dec",
+"date": "2026-07-17",
+"time": "09:00",
+"title": "2026 Flatiron Institute CMB Summer School",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/cmb-summer-school-2026/",
+"src": "simons"
+},
+{
+"id": "se346a95660",
+"date": "2026-07-17",
+"time": "14:00",
+"title": "Guided Tour with Museum Admission",
+"venue": "Dyckman Farmhouse",
+"cat": "houses",
+"url": "https://dyckmanfarmhouse.org/event/guided-tour-with-museum-admission-10/",
+"src": "dyckman"
+},
+{
+"id": "s57fec0a5de",
+"date": "2026-07-17",
+"time": "19:00",
+"title": "Carnegie Hall Citywide: Nathan and the Zydeco Cha Chas",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/17/carnegie-hall-citywide-nathan-and-the-zydeco-cha-chas-0700pm",
+"src": "carnegie"
+},
+{
+"id": "sab4b85bc4d",
+"date": "2026-07-17",
+"time": "19:00",
+"title": "2026 Concordia Music Competition Top Honors Recital",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/17/2026-concordia-music-competition-top-honors-recital-0700pm",
+"src": "carnegie"
+},
+{
+"id": "s8d3bc2b6e4",
+"date": "2026-07-17",
+"time": "19:00",
+"title": "Charles McPherson Quintet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s7391393444",
+"date": "2026-07-17",
+"time": "19:00",
+"title": "A Night at Niblo\u2019s Garden (Sold Out)",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/a-night-at-niblos-garden-13/2026-07-17/",
+"src": "greenwood"
+},
+{
+"id": "sec1023d8eb",
+"date": "2026-07-17",
+"time": "19:30",
+"title": "Mark Morris Dance Group: Dances to American Music",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/17/mark-morris-dance-group-dances-to-american-music-0730pm",
+"src": "carnegie"
+},
+{
+"id": "s1f6ba0e422",
+"date": "2026-07-17",
+"time": "",
+"title": "Cocoon",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/cocoon/",
+"src": "japansociety"
+},
+{
+"id": "sb262ea1db4",
+"date": "2026-07-17",
+"time": "",
+"title": "SAI: Disaster",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sai-disaster/",
+"src": "japansociety"
+},
+{
+"id": "s5d472006c3",
+"date": "2026-07-17",
+"time": "",
+"title": "JUNK WORLD",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/junk-world/",
+"src": "japansociety"
+},
+{
+"id": "s864bb6ee96",
+"date": "2026-07-17",
+"time": "",
+"title": "Gosh!!",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/gosh/",
+"src": "japansociety"
+},
+{
+"id": "s00159910c2",
+"date": "2026-07-17",
+"time": "",
+"title": "Rewrite",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/rewrite/",
+"src": "japansociety"
+},
+{
+"id": "s82efa9c0ef",
+"date": "2026-07-17",
+"time": "",
+"title": "Sato and Sato",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sato-and-sato/",
+"src": "japansociety"
+},
+{
+"id": "sd50a149e2d",
+"date": "2026-07-17",
+"time": "",
+"title": "Yoyogi Johnny",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/yoyogi-johnny/",
+"src": "japansociety"
+},
+{
+"id": "sb033e72ba6",
+"date": "2026-07-17",
+"time": "",
+"title": "Night Flower",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/night-flower/",
+"src": "japansociety"
+},
+{
+"id": "s6abc795a84",
+"date": "2026-07-17",
+"time": "",
+"title": "Burn",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/burn/",
+"src": "japansociety"
+},
+{
+"id": "s4174a9beca",
+"date": "2026-07-17",
+"time": "",
+"title": "TIGER",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/tiger/",
+"src": "japansociety"
+},
+{
+"id": "s62901f9ec4",
+"date": "2026-07-17",
+"time": "",
+"title": "Numb",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/numb/",
+"src": "japansociety"
+},
+{
+"id": "sebddf487ae",
+"date": "2026-07-17",
+"time": "",
+"title": "SUZUKI=BAKUDAN",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/suzukibakudan/",
+"src": "japansociety"
+},
+{
+"id": "sc222b40158",
+"date": "2026-07-17",
+"time": "",
+"title": "W&#8217;s Tragedy",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/ws-tragedy-4k/",
+"src": "japansociety"
+},
+{
+"id": "sa64f2cc551",
+"date": "2026-07-18",
+"time": "10:00",
+"title": "America250: Fourth of July Trolley Tour at Green-Wood",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/america250-fourth-of-july-trolley-tour-at-green-wood/",
+"src": "greenwood"
+},
+{
+"id": "s38c22ca53e",
+"date": "2026-07-18",
+"time": "10:00",
+"title": "Explore Green-Wood\u2019s Fungal Biodiversity: Mushroom Hotspot",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/explore-green-woods-fungal-biodiversity-mushroom-hotspot/",
+"src": "greenwood"
+},
+{
+"id": "scb5b1ced5a",
+"date": "2026-07-18",
+"time": "11:00",
+"title": "Landscapes in Dialogue: A Historical Ecology Walk at Green-Wood",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/landscapes-in-dialogue-a-historical-ecology-walk-at-green-wood/",
+"src": "greenwood"
+},
+{
+"id": "s49c3a34318",
+"date": "2026-07-18",
+"time": "12:00",
+"title": "Guided Tour with Museum Admission",
+"venue": "Dyckman Farmhouse",
+"cat": "houses",
+"url": "https://dyckmanfarmhouse.org/event/guided-tour-with-museum-admission-11/",
+"src": "dyckman"
+},
+{
+"id": "se579e000f5",
+"date": "2026-07-18",
+"time": "13:00",
+"title": "Concert Artists International Winners' Concert",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/18/concert-artists-international-winners-concert-0100pm",
+"src": "carnegie"
+},
+{
+"id": "s50f1ca7aa8",
+"date": "2026-07-18",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-07-18/",
+"src": "greenwood"
+},
+{
+"id": "s55256908c6",
+"date": "2026-07-18",
+"time": "14:00",
+"title": "Mark Morris Dance Group: Dances to American Music",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/18/mark-morris-dance-group-dances-to-american-music-0200pm",
+"src": "carnegie"
+},
+{
+"id": "se105bd97d8",
+"date": "2026-07-18",
+"time": "19:00",
+"title": "Charles McPherson Quintet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "se66a19b1b1",
+"date": "2026-07-18",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575085?skipPreview=true",
+"src": "aliceausten"
+},
+{
+"id": "sc1d7b09d71",
+"date": "2026-07-18",
+"time": "",
+"title": "Cocoon",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/cocoon/",
+"src": "japansociety"
+},
+{
+"id": "sfa9737e772",
+"date": "2026-07-18",
+"time": "",
+"title": "SAI: Disaster",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sai-disaster/",
+"src": "japansociety"
+},
+{
+"id": "s035dd0ed92",
+"date": "2026-07-18",
+"time": "",
+"title": "JUNK WORLD",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/junk-world/",
+"src": "japansociety"
+},
+{
+"id": "s1144f48b61",
+"date": "2026-07-18",
+"time": "",
+"title": "Gosh!!",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/gosh/",
+"src": "japansociety"
+},
+{
+"id": "s9bdd50259b",
+"date": "2026-07-18",
+"time": "",
+"title": "Rewrite",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/rewrite/",
+"src": "japansociety"
+},
+{
+"id": "s6eada2d116",
+"date": "2026-07-18",
+"time": "",
+"title": "Sato and Sato",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sato-and-sato/",
+"src": "japansociety"
+},
+{
+"id": "s62f1d970ac",
+"date": "2026-07-18",
+"time": "",
+"title": "Yoyogi Johnny",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/yoyogi-johnny/",
+"src": "japansociety"
+},
+{
+"id": "s7159d32e9f",
+"date": "2026-07-18",
+"time": "",
+"title": "Night Flower",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/night-flower/",
+"src": "japansociety"
+},
+{
+"id": "sd3345d757e",
+"date": "2026-07-18",
+"time": "",
+"title": "Burn",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/burn/",
+"src": "japansociety"
+},
+{
+"id": "s2bd622b45e",
+"date": "2026-07-18",
+"time": "",
+"title": "TIGER",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/tiger/",
+"src": "japansociety"
+},
+{
+"id": "sae2a89c803",
+"date": "2026-07-18",
+"time": "",
+"title": "Numb",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/numb/",
+"src": "japansociety"
+},
+{
+"id": "s4cb36669b6",
+"date": "2026-07-18",
+"time": "",
+"title": "SUZUKI=BAKUDAN",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/suzukibakudan/",
+"src": "japansociety"
+},
+{
+"id": "s8f308135f4",
+"date": "2026-07-18",
+"time": "",
+"title": "Sheep in the Box",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sheep-in-the-box/",
+"src": "japansociety"
+},
+{
+"id": "sacfe32ba3e",
+"date": "2026-07-18",
+"time": "",
+"title": "W&#8217;s Tragedy",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/ws-tragedy-4k/",
+"src": "japansociety"
+},
+{
+"id": "s57b5482c12",
+"date": "2026-07-19",
+"time": "06:00",
+"title": "Birding in Peace",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/birding-in-peace-30/2026-07-19/",
+"src": "greenwood"
+},
+{
+"id": "s1fde4187d1",
+"date": "2026-07-19",
+"time": "10:00",
+"title": "Grave Beginnings: Walking Green-Wood",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-07-19/",
+"src": "greenwood"
+},
+{
+"id": "sea5f6423d8",
+"date": "2026-07-19",
+"time": "19:00",
+"title": "Charles McPherson Quintet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sa51f9598c6",
+"date": "2026-07-19",
+"time": "",
+"title": "Concert: Smooth Sounds By The Sea",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://www.eventbrite.com/e/15th-anniversary-smooth-sounds-by-the-sea-tickets-1989046564819",
+"src": "aliceausten"
+},
+{
+"id": "seb3337f1ff",
+"date": "2026-07-20",
+"time": "19:00",
+"title": "Ginita y La Orquesta Esa Big Band",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sb73c1c1428",
+"date": "2026-07-21",
+"time": "10:00",
+"title": "Toddler Takeover at the Green-House",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-07-21/",
+"src": "greenwood"
+},
+{
+"id": "s732190f835",
+"date": "2026-07-21",
+"time": "19:00",
+"title": "Kenny Banks Jr. Quintet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sa3224a054e",
+"date": "2026-07-22",
+"time": "18:00",
+"title": "Back Porch History: 1776 - A Defining Moment in the Story of Northern Manhattan with Don Rice",
+"venue": "Dyckman Farmhouse",
+"cat": "houses",
+"url": "https://dyckmanfarmhouse.org/event/back-porch-history-1776-a-defining-moment-in-the-story-of-northern-manhattan-with-don-rice/",
+"src": "dyckman"
+},
+{
+"id": "sd9c030416d",
+"date": "2026-07-22",
+"time": "19:00",
+"title": "Brandon Woody Quartet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s140444e336",
+"date": "2026-07-22",
+"time": "",
+"title": "Family Program | Summer Design Series",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-22-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "sbdc2d1d2dc",
+"date": "2026-07-22",
+"time": "",
+"title": "Micha\u00ebl Borremans \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/michael-borremans-french-painting",
+"src": "zwirner"
+},
+{
+"id": "sb45fdb0120",
+"date": "2026-07-22",
+"time": "",
+"title": "Ainu: Indigenous People of Japan",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/ainu-indigenous-people-of-japan/",
+"src": "japansociety"
+},
+{
+"id": "sa32949be47",
+"date": "2026-07-22",
+"time": "",
+"title": "Sinot: The Dances of the Sar River",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sinot-the-dances-of-the-sar-river/",
+"src": "japansociety"
+},
+{
+"id": "sa1f8d70e90",
+"date": "2026-07-23",
+"time": "18:30",
+"title": "DEATH CAFE",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/death-cafe-23/2026-07-23/",
+"src": "greenwood"
+},
+{
+"id": "scbad3e5af2",
+"date": "2026-07-23",
+"time": "19:00",
+"title": "Jon Faddis Quartet: 73rd Birthday Celebration",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s46f6e75f52",
+"date": "2026-07-23",
+"time": "",
+"title": "Ipe: The Culinary Heritage of the Ainu",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/ipe-the-culinary-heritage-of-the-ainu/",
+"src": "japansociety"
+},
+{
+"id": "s001ddaaf33",
+"date": "2026-07-23",
+"time": "",
+"title": "Inuye=an ro!: Woodcarving Workshop",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/inuyean-ro-woodcarving-workshop/",
+"src": "japansociety"
+},
+{
+"id": "sc2efe8cb50",
+"date": "2026-07-24",
+"time": "14:00",
+"title": "Guided Tour with Museum Admission",
+"venue": "Dyckman Farmhouse",
+"cat": "houses",
+"url": "https://dyckmanfarmhouse.org/event/guided-tour-with-museum-admission-12/",
+"src": "dyckman"
+},
+{
+"id": "sfd6f227d56",
+"date": "2026-07-24",
+"time": "19:00",
+"title": "Jon Faddis Quartet: 73rd Birthday Celebration",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sff522adfe8",
+"date": "2026-07-24",
+"time": "19:30",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-07-24/",
+"src": "greenwood"
+},
+{
+"id": "s2118679a76",
+"date": "2026-07-24",
+"time": "20:30",
+"title": "Bugging Out at Night!",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/bugging-out-at-night/",
+"src": "greenwood"
+},
+{
+"id": "s326db075ac",
+"date": "2026-07-25",
+"time": "12:00",
+"title": "Guided Tour with Museum Admission",
+"venue": "Dyckman Farmhouse",
+"cat": "houses",
+"url": "https://dyckmanfarmhouse.org/event/guided-tour-with-museum-admission-13/",
+"src": "dyckman"
+},
+{
+"id": "sa7c8c27c37",
+"date": "2026-07-25",
+"time": "12:00",
+"title": "Last Saturdays: Open Classroom",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/last-saturdays-open-classroom-3/",
+"src": "greenwood"
+},
+{
+"id": "s5d5cdd66ee",
+"date": "2026-07-25",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-07-25/",
+"src": "greenwood"
+},
+{
+"id": "s1bfb4c6ebe",
+"date": "2026-07-25",
+"time": "19:00",
+"title": "Jon Faddis Quartet: 73rd Birthday Celebration",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s2d5344749e",
+"date": "2026-07-25",
+"time": "19:30",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-07-25/",
+"src": "greenwood"
+},
+{
+"id": "sd58b410bdd",
+"date": "2026-07-25",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575085?skipPreview=true",
+"src": "aliceausten"
+},
+{
+"id": "s7acb466fba",
+"date": "2026-07-26",
+"time": "10:00",
+"title": "Rest in Pace: Green-House",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/rest-in-pace-green-house/2026-07-26/",
+"src": "greenwood"
+},
+{
+"id": "s916d4d7a27",
+"date": "2026-07-26",
+"time": "11:00",
+"title": "Grave Beginnings: Green-Wood by Trolley",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley/2026-07-26/",
+"src": "greenwood"
+},
+{
+"id": "s3ed04f8d2d",
+"date": "2026-07-26",
+"time": "13:00",
+"title": "Green-Wood's Greatest Hits",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-woods-greatest-hits-13/2026-07-26/",
+"src": "greenwood"
+},
+{
+"id": "s859359d286",
+"date": "2026-07-26",
+"time": "19:00",
+"title": "Jon Faddis Quartet: 73rd Birthday Celebration",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s6d4bba72d2",
+"date": "2026-07-27",
+"time": "19:00",
+"title": "Nduduzo Makhathini Trio",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s3a8da961c5",
+"date": "2026-07-28",
+"time": "19:00",
+"title": "Nduduzo Makhathini Trio",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s4e194c46b5",
+"date": "2026-07-29",
+"time": "19:00",
+"title": "Jazz Samba: Duduka Da Fonseca, Maucha Adnet, Helio Alves",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sdb15afd4a0",
+"date": "2026-07-29",
+"time": "20:30",
+"title": "Moonlight Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/moonlight-tour-14/2026-07-29/",
+"src": "greenwood"
+},
+{
+"id": "s79d27e7c5d",
+"date": "2026-07-29",
+"time": "",
+"title": "Family Program | Summer Design Series",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-29-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "sfe237f69d2",
+"date": "2026-07-30",
+"time": "19:00",
+"title": "King Seiko Presents \u201cSeiko Summer Jazz Camp All Stars\u201d",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s7f0bb60f44",
+"date": "2026-07-30",
+"time": "19:00",
+"title": "Jazz Samba: Duduka Da Fonseca, Maucha Adnet, Helio Alves",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sc51d0433db",
+"date": "2026-07-31",
+"time": "19:00",
+"title": "Jazz Samba: Duduka Da Fonseca, Maucha Adnet, Helio Alves",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sc585cac006",
+"date": "2026-07-31",
+"time": "19:00",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-07-31/",
+"src": "greenwood"
+},
+{
+"id": "sfa3e989e59",
+"date": "2026-07-31",
+"time": "19:45",
+"title": "Rooftop Films Presents: New York Non-Fiction 2026",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/rooftop-films-presents-new-york-non-fiction-2026/",
+"src": "greenwood"
+},
+{
+"id": "sa021c7f01e",
+"date": "2026-07-31",
+"time": "",
+"title": "Steven Shearer \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/steven-shearer",
+"src": "zwirner"
+},
+{
+"id": "sf6853f1a0d",
+"date": "2026-07-31",
+"time": "",
+"title": "In Solidarity \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/in-solidarity-a-benefit-for-the-american-immigration-council-and-journey-s-end-refugee-services",
+"src": "zwirner"
+},
+{
+"id": "sdf3d0ff4fa",
+"date": "2026-08-01",
+"time": "09:30",
+"title": "America250: Fourth of July Walking Tour at Green-Wood",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/america250-fourth-of-july-walking-tour-at-green-wood/",
+"src": "greenwood"
+},
+{
+"id": "s73ec13fc43",
+"date": "2026-08-01",
+"time": "10:00",
+"title": "America250: Fourth of July Family Trolley Tour at Green-Wood",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/america250-fourth-of-july-family-trolley-tour-at-green-wood/",
+"src": "greenwood"
+},
+{
+"id": "sffd8e3b93e",
+"date": "2026-08-01",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-08-01/",
+"src": "greenwood"
+},
+{
+"id": "scd40335727",
+"date": "2026-08-01",
+"time": "19:00",
+"title": "Jazz Samba: Duduka Da Fonseca, Maucha Adnet, Helio Alves",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s9607309f2a",
+"date": "2026-08-01",
+"time": "19:00",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-01/",
+"src": "greenwood"
+},
+{
+"id": "se0717b17db",
+"date": "2026-08-01",
+"time": "20:30",
+"title": "Nocturnal Navigators: Green-Wood Bat Walk",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/nocturnal-navigators-green-wood-bat-walk-5/2026-08-01/",
+"src": "greenwood"
+},
+{
+"id": "s5f395af5be",
+"date": "2026-08-01",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575089?skipPreview=true",
+"src": "aliceausten"
+},
+{
+"id": "saf6bc53812",
+"date": "2026-08-01",
+"time": "",
+"title": "California Light and Space (The 21st Century Version) \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/california-light-and-space-the-21st-century-version",
+"src": "zwirner"
+},
+{
+"id": "s00e8831ed8",
+"date": "2026-08-02",
+"time": "06:00",
+"title": "Birding in Peace",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/birding-in-peace-30/2026-08-02/",
+"src": "greenwood"
+},
+{
+"id": "s7aa7b3cc31",
+"date": "2026-08-02",
+"time": "10:00",
+"title": "Grave Beginnings: Walking Green-Wood",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-08-02/",
+"src": "greenwood"
+},
+{
+"id": "s018ed1c159",
+"date": "2026-08-02",
+"time": "13:00",
+"title": "Green-Wood's Greatest Hits",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-woods-greatest-hits-13/2026-08-02/",
+"src": "greenwood"
+},
+{
+"id": "s1160c00dd9",
+"date": "2026-08-02",
+"time": "19:00",
+"title": "Jazz Samba: Duduka Da Fonseca, Maucha Adnet, Helio Alves",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sa764561b12",
+"date": "2026-08-03",
+"time": "19:00",
+"title": "Joe Gransden Big Band: The Good Life - Happy 100th Tony Bennett!",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s14651ce739",
+"date": "2026-08-04",
+"time": "19:00",
+"title": "Bluesday with BLUES People",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sc98d685a74",
+"date": "2026-08-04",
+"time": "",
+"title": "Discover Design Online: Art of Noise",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/discover-design-online-art-of-noise-08-04-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "sb49e334c72",
+"date": "2026-08-05",
+"time": "19:00",
+"title": "Nicole Zuraitis: The Devil I Knew Album Release",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s310d65ea81",
+"date": "2026-08-06",
+"time": "19:00",
+"title": "Ben Wolfe Quartet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s5a0940ec55",
+"date": "2026-08-07",
+"time": "12:00",
+"title": "Telling Stories Through Art: New York City History in Prints and Paintings",
+"venue": "Mount Vernon Hotel Museum",
+"cat": "houses",
+"url": "https://mvhm.org/event/telling-stories-through-art-new-york-city-history-in-prints-and-paintings/",
+"src": "mvhm"
+},
+{
+"id": "s349b7ce0df",
+"date": "2026-08-07",
+"time": "19:00",
+"title": "Ben Wolfe Quartet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sea9f6dbe92",
+"date": "2026-08-08",
+"time": "19:00",
+"title": "Ben Wolfe Quartet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s563b6b3a44",
+"date": "2026-08-08",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575102?skipPreview=true",
+"src": "aliceausten"
+},
+{
+"id": "s891ecbc4ec",
+"date": "2026-08-08",
+"time": "",
+"title": "Concert: Fierce Females",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://spotlighttheatresi.org/product/10549/FIERCE_FEMALES_2026",
+"src": "aliceausten"
+},
+{
+"id": "s476af069c2",
+"date": "2026-08-09",
+"time": "17:00",
+"title": "Songbook Sundays: The Tony Bennett Centennial",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s581238040f",
+"date": "2026-08-10",
+"time": "19:00",
+"title": "Jazz House Kids, hosted by Christian McBride",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s76f3ac400e",
+"date": "2026-08-11",
+"time": "19:00",
+"title": "Steve Nelson: The Art of the Vibraphone",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s8c3573bfec",
+"date": "2026-08-12",
+"time": "19:00",
+"title": "Ehud Asherie Trio",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sc3f414bdf7",
+"date": "2026-08-12",
+"time": "",
+"title": "Ikarkar=an ro!: Embroidery Workshop",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/ikarkaran-ro-embroidery-workshop/",
+"src": "japansociety"
+},
+{
+"id": "s02c73b4996",
+"date": "2026-08-12",
+"time": "",
+"title": "Itak=an ro!: Language Workshop",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/itakan-ro-language-workshop/",
+"src": "japansociety"
+},
+{
+"id": "s93ef8cc2dc",
+"date": "2026-08-13",
+"time": "19:00",
+"title": "Warren Wolf with Alex Brown and Strings perform Chick Corea&#039;s Lyric Suite for Sextet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sbb7e4a2e69",
+"date": "2026-08-13",
+"time": "",
+"title": "Ikarkar &amp; Itak: Ainu Embroidery and Language",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/ikarkar-itak-ainu-embroidery-and-language/",
+"src": "japansociety"
+},
+{
+"id": "s9dba6de19b",
+"date": "2026-08-13",
+"time": "",
+"title": "Sinot=an ro!: Ainu Dance Workshop",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sinotan-ro-ainu-dance-workshop/",
+"src": "japansociety"
+},
+{
+"id": "sac88287fd7",
+"date": "2026-08-14",
+"time": "19:00",
+"title": "Warren Wolf with Alex Brown and Strings perform Chick Corea&#039;s Lyric Suite for Sextet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sbe9735e94f",
+"date": "2026-08-15",
+"time": "19:00",
+"title": "Warren Wolf with Alex Brown and Strings perform Chick Corea&#039;s Lyric Suite for Sextet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s0a00f8a54a",
+"date": "2026-08-15",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575159?skipPreview=true",
+"src": "aliceausten"
+},
+{
+"id": "sf9a79e00a7",
+"date": "2026-08-16",
+"time": "19:00",
+"title": "Warren Wolf with Alex Brown and Strings perform Chick Corea&#039;s Lyric Suite for Sextet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s4429730f4f",
+"date": "2026-08-16",
+"time": "",
+"title": "Center for Interfaith Dialogue: Interfaith Gratitude Picnic",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/center-for-interfaith-dialogue-interfaith-gratitude-picnic-2/",
+"src": "emanuel"
+},
+{
+"id": "sf07923d305",
+"date": "2026-08-17",
+"time": "19:00",
+"title": "Jason Marshall Big Band",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sa8a9a631e8",
+"date": "2026-08-17",
+"time": "",
+"title": "Guggenheim Art Club",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/guggenheim-art-club",
+"src": "guggenheim"
+},
+{
+"id": "s3b33fad5a7",
+"date": "2026-08-18",
+"time": "19:00",
+"title": "Marius Van Den Brink: \u201cThe Bird Sings\u201d Album Release Show",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sb461dccd91",
+"date": "2026-08-18",
+"time": "",
+"title": "Guggenheim Art Club",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/guggenheim-art-club",
+"src": "guggenheim"
+},
+{
+"id": "s55dfb1194a",
+"date": "2026-08-19",
+"time": "19:00",
+"title": "Lolivone de la Rosa: Jewels Album Release",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sd52b16874a",
+"date": "2026-08-19",
+"time": "21:00",
+"title": "Dida Pelled: I Wish You Would",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s8e44be08ff",
+"date": "2026-08-19",
+"time": "",
+"title": "Guggenheim Art Club",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/guggenheim-art-club",
+"src": "guggenheim"
+},
+{
+"id": "s97c6bcd6af",
+"date": "2026-08-20",
+"time": "19:00",
+"title": "Shenel Johns Album Release",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s4f64a5d583",
+"date": "2026-08-20",
+"time": "",
+"title": "Guggenheim Art Club",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/guggenheim-art-club",
+"src": "guggenheim"
+},
+{
+"id": "s2bf6406eda",
+"date": "2026-08-21",
+"time": "19:00",
+"title": "Marilyn Maye",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s3c60c71bf3",
+"date": "2026-08-21",
+"time": "",
+"title": "Guggenheim Art Club",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/guggenheim-art-club",
+"src": "guggenheim"
+},
+{
+"id": "s644eedde07",
+"date": "2026-08-22",
+"time": "19:00",
+"title": "Marilyn Maye",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s69dc163a4d",
+"date": "2026-08-23",
+"time": "19:00",
+"title": "Marilyn Maye",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s746d739048",
+"date": "2026-08-24",
+"time": "19:00",
+"title": "Jared Schonig Big Band: Live Album Release Celebration",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s6787b78694",
+"date": "2026-08-25",
+"time": "19:00",
+"title": "Sexmob at 30",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s6e95e7221c",
+"date": "2026-08-26",
+"time": "19:00",
+"title": "Sexmob at 30",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s0db7fcb27b",
+"date": "2026-08-27",
+"time": "19:00",
+"title": "Denise Thimes",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sb71c7d9bb3",
+"date": "2026-08-28",
+"time": "19:00",
+"title": "Gerald Clayton",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s95b3a170db",
+"date": "2026-08-29",
+"time": "19:00",
+"title": "Gerald Clayton",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s688f3646dd",
+"date": "2026-08-30",
+"time": "19:00",
+"title": "Gerald Clayton",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s0d60ab9ca9",
+"date": "2026-08-31",
+"time": "19:00",
+"title": "2nd Annual Kenny Dorham Festival \u2013 Big Band Edition",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sf76daa3766",
+"date": "2026-09-01",
+"time": "19:00",
+"title": "Salsa Meets Jazz",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s85a422f488",
+"date": "2026-09-02",
+"time": "19:00",
+"title": "Yoko Miwa Trio with special guest Mikayla Shirley",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s3a94e8eb03",
+"date": "2026-09-03",
+"time": "19:00",
+"title": "Ronnie Foster Trio",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s78c8ff65e1",
+"date": "2026-09-03",
+"time": "",
+"title": "Japanese Oktoberfest",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/japanese-oktoberfest/",
+"src": "japansociety"
+},
+{
+"id": "s795862f67e",
+"date": "2026-09-04",
+"time": "12:00",
+"title": "From Useful to Beautiful: A Decorative Arts Tour of MVHM&G",
+"venue": "Mount Vernon Hotel Museum",
+"cat": "houses",
+"url": "https://mvhm.org/event/from-useful-to-beautiful-a-decorative-arts-tour-of-mvhmg/",
+"src": "mvhm"
+},
+{
+"id": "s9a77076395",
+"date": "2026-09-04",
+"time": "18:00",
+"title": "September's First Friday with Miles East",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/mays-first-friday-with-miles-east/",
+"src": "bartowpell"
+},
+{
+"id": "s9ed802bb0c",
+"date": "2026-09-04",
+"time": "19:00",
+"title": "Ann Hampton Callaway: I Get a Kick Out of Cole",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sd871ef8650",
+"date": "2026-09-05",
+"time": "19:00",
+"title": "Ann Hampton Callaway: I Get a Kick Out of Cole",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s0ab7aa11e4",
+"date": "2026-09-06",
+"time": "19:00",
+"title": "Ann Hampton Callaway: I Get a Kick Out of Cole",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s4215363d5d",
+"date": "2026-09-08",
+"time": "19:00",
+"title": "Isaiah J. Thompson Quartet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s31688a97b9",
+"date": "2026-09-08",
+"time": "",
+"title": "Women of Emanu-El Mah Jongg Class",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-mah-jongg-class/",
+"src": "emanuel"
+},
+{
+"id": "scb0044b584",
+"date": "2026-09-08",
+"time": "",
+"title": "Young Families: Shalom, World! Music, Art &#038; Blessings \u2014 opens",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-shalom-world-music-art-blessings-500/",
+"src": "emanuel"
+},
+{
+"id": "sd88a5ad23d",
+"date": "2026-09-08",
+"time": "",
+"title": "Young Families: Boker Tov, Baby \u2014 opens",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-boker-tov-baby-323/",
+"src": "emanuel"
+},
+{
+"id": "s5342daa30f",
+"date": "2026-09-08",
+"time": "",
+"title": "Young Families: Little Mensches \u2014 opens",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-little-menschs2026-149/",
+"src": "emanuel"
+},
+{
+"id": "sd2df7bd6ef",
+"date": "2026-09-09",
+"time": "10:30",
+"title": "Plein Air 4-Part Watercolor Workshop",
+"venue": "Mount Vernon Hotel Museum",
+"cat": "houses",
+"url": "https://mvhm.org/event/plein-air-4-part-watercolor-workshop/",
+"src": "mvhm"
+},
+{
+"id": "s7bb3c8456e",
+"date": "2026-09-09",
+"time": "19:00",
+"title": "Isaiah J. Thompson Quartet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sf95498378c",
+"date": "2026-09-09",
+"time": "",
+"title": "Young Families: Toddlers and Twos \u2014 opens",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-toddlers-and-twos-660-448/",
+"src": "emanuel"
+},
+{
+"id": "s5c3611d710",
+"date": "2026-09-10",
+"time": "15:00",
+"title": "Telling Stories Through Art: New York City History in Prints and Paintings",
+"venue": "Mount Vernon Hotel Museum",
+"cat": "houses",
+"url": "https://mvhm.org/event/telling-stories-through-art-new-york-city-history-in-prints-and-paintings-2/",
+"src": "mvhm"
+},
+{
+"id": "sae81d8d3b8",
+"date": "2026-09-10",
+"time": "",
+"title": "Nate Lowman \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/nate-lowman",
+"src": "zwirner"
+},
+{
+"id": "s174747fb34",
+"date": "2026-09-10",
+"time": "",
+"title": "Thomas Ruff \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/thomas-ruff-jpegs-ny",
+"src": "zwirner"
+},
+{
+"id": "s36f3ba51e1",
+"date": "2026-09-10",
+"time": "",
+"title": "Scott Kahn \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/scott-kahn",
+"src": "zwirner"
+},
+{
+"id": "sb5cea9b7b3",
+"date": "2026-09-11",
+"time": "19:00",
+"title": "Gaia Wilmer Large Ensemble featuring M\u00f4nica Salmaso: Reflections on Gilberto Gil",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sf8620f36a6",
+"date": "2026-09-11",
+"time": "",
+"title": "Opening Reception | Chiharu Shiota: Two Home Countries",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/opening-reception-chiharu-shiota-two-home-countries/",
+"src": "japansociety"
+},
+{
+"id": "s31fcf5c3a4",
+"date": "2026-09-12",
+"time": "10:00",
+"title": "Bartow-Brocante Market",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/bartow-brocante-market/",
+"src": "bartowpell"
+},
+{
+"id": "s496fa448c8",
+"date": "2026-09-12",
+"time": "19:00",
+"title": "Gaia Wilmer Large Ensemble featuring M\u00f4nica Salmaso: Reflections on Gilberto Gil",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s571ab3c40a",
+"date": "2026-09-12",
+"time": "",
+"title": "Dan Flavin \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/dan-flavin-grids-hong-kong",
+"src": "zwirner"
+},
+{
+"id": "s8da2c94b84",
+"date": "2026-09-13",
+"time": "10:00",
+"title": "Bartow-Brocante Market",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/bartow-brocante-market/",
+"src": "bartowpell"
+},
+{
+"id": "sa8de3a526b",
+"date": "2026-09-13",
+"time": "19:00",
+"title": "Gaia Wilmer Large Ensemble featuring M\u00f4nica Salmaso: Reflections on Gilberto Gil",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sb7c2fc8271",
+"date": "2026-09-14",
+"time": "19:00",
+"title": "Summer Camargo and the Essentially Ellington Alumni Big Band",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sc70f2c7e9f",
+"date": "2026-09-15",
+"time": "19:00",
+"title": "Dayramir Gonz\u00e1lez Quartet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "se128915660",
+"date": "2026-09-16",
+"time": "19:00",
+"title": "Bobby Watson Quintet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s5f2f88be7d",
+"date": "2026-09-17",
+"time": "19:00",
+"title": "Aaron Diehl Trio",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s51ff9ba86c",
+"date": "2026-09-18",
+"time": "12:00",
+"title": "Wining and Dining in 1820s and 1830s NYC: A Culinary History Tour",
+"venue": "Mount Vernon Hotel Museum",
+"cat": "houses",
+"url": "https://mvhm.org/event/wining-and-dining-in-1820s-and-1830s-nyc-a-culinary-history-tour-2/",
+"src": "mvhm"
+},
+{
+"id": "sf603ee26ac",
+"date": "2026-09-18",
+"time": "19:00",
+"title": "Aaron Diehl Trio",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sf609346c0a",
+"date": "2026-09-18",
+"time": "",
+"title": "Louis Fratino \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/louis-fratino",
+"src": "zwirner"
+},
+{
+"id": "sbdb8194d00",
+"date": "2026-09-18",
+"time": "",
+"title": "Au 108 rue Vieille du Temple \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/au-108-rue-vieille-du-temple",
+"src": "zwirner"
+},
+{
+"id": "sa409976e70",
+"date": "2026-09-18",
+"time": "",
+"title": "Emma McIntyre \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/emma-mcintyre",
+"src": "zwirner"
+},
+{
+"id": "se8fb17c756",
+"date": "2026-09-19",
+"time": "15:00",
+"title": "Wining & Dining in 1820s & 1830s NYC: Culinary History Tour & Wine Tasting",
+"venue": "Mount Vernon Hotel Museum",
+"cat": "houses",
+"url": "https://mvhm.org/event/wining-dining-in-1820s-1830s-nyc-culinary-history-tour-wine-tasting/",
+"src": "mvhm"
+},
+{
+"id": "sc2f2949aa4",
+"date": "2026-09-19",
+"time": "19:00",
+"title": "Aaron Diehl Trio",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s78d61b0f42",
+"date": "2026-09-19",
+"time": "",
+"title": "Roy DeCarava \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/roy-decarava-the-sound-i-saw",
+"src": "zwirner"
+},
+{
+"id": "sd33e7e68ce",
+"date": "2026-09-20",
+"time": "17:00",
+"title": "Sant Andreu Jazz Band with special guest Paul Nedzela - Ellingtoniana",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s2e60f2400f",
+"date": "2026-09-20",
+"time": "17:00",
+"title": "Sant Andreu Jazz Band with special guest Paul Nedzela",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s0652797176",
+"date": "2026-09-20",
+"time": "19:30",
+"title": "Sant Andreu Jazz Band - The Jazz House Sessions with Paul Nedzela",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sf5abc771de",
+"date": "2026-09-20",
+"time": "21:00",
+"title": "Sant Andreu Jazz Band: \u00c8LIA BASTIDA MEETS PAUL NEDZELA",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sceee206192",
+"date": "2026-09-21",
+"time": "19:00",
+"title": "Frank Carlberg Large Ensemble",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s2b8065b2e3",
+"date": "2026-09-22",
+"time": "19:00",
+"title": "John Coltrane Centennial Celebration",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s86ac58c37e",
+"date": "2026-09-22",
+"time": "19:30",
+"title": "Jewels",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/jewels",
+"src": "nycballet"
+},
+{
+"id": "s7b4200c75e",
+"date": "2026-09-23",
+"time": "15:00",
+"title": "Wining & Dining in 1820s and 1830s NYC: Culinary History Tour & Tea Tasting",
+"venue": "Mount Vernon Hotel Museum",
+"cat": "houses",
+"url": "https://mvhm.org/event/wining-dining-in-1820s-and-1830s-nyc-culinary-history-tour-tea-tasting/",
+"src": "mvhm"
+},
+{
+"id": "s8e18931e44",
+"date": "2026-09-23",
+"time": "19:00",
+"title": "John Coltrane Centennial Celebration",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s53a470585c",
+"date": "2026-09-23",
+"time": "19:30",
+"title": "Jewels",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/jewels",
+"src": "nycballet"
+},
+{
+"id": "sa0bbbd9016",
+"date": "2026-09-23",
+"time": "",
+"title": "Nocturnal \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/nocturnal",
+"src": "zwirner"
+},
+{
+"id": "s0b1f20d967",
+"date": "2026-09-24",
+"time": "19:00",
+"title": "Expanding the Discourse: Poetry Readings by David Mills",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/expanding-the-discourse-poetry-readings-by-david-mills/",
+"src": "bartowpell"
+},
+{
+"id": "s60b2842bd1",
+"date": "2026-09-24",
+"time": "19:00",
+"title": "John Coltrane Centennial Celebration",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s242168e02c",
+"date": "2026-09-24",
+"time": "19:30",
+"title": "Jewels",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/jewels",
+"src": "nycballet"
+},
+{
+"id": "sab16af01a5",
+"date": "2026-09-24",
+"time": "",
+"title": "Daichi Takagi \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/daichi-takagi-suchness",
+"src": "zwirner"
+},
+{
+"id": "sb2de7e3bed",
+"date": "2026-09-24",
+"time": "",
+"title": "Navigating STEM Career Opportunities, Funding, and Immigration Pathways Outside the U.S.",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/navigating-stem-career-opportunities-funding-and-immigration-pathways-outside-the-us/",
+"src": "nyas"
+},
+{
+"id": "s6a32596347",
+"date": "2026-09-25",
+"time": "19:00",
+"title": "John Coltrane Centennial Celebration",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s4834f96d85",
+"date": "2026-09-25",
+"time": "19:30",
+"title": "Jewels",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/jewels",
+"src": "nycballet"
+},
+{
+"id": "s5deff17469",
+"date": "2026-09-26",
+"time": "19:00",
+"title": "John Coltrane Centennial Celebration",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s930c3eedd3",
+"date": "2026-09-26",
+"time": "19:30",
+"title": "Jewels",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/jewels",
+"src": "nycballet"
+},
+{
+"id": "s4a832ab1cc",
+"date": "2026-09-27",
+"time": "15:00",
+"title": "Jewels",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/jewels",
+"src": "nycballet"
+},
+{
+"id": "se43c93d616",
+"date": "2026-09-27",
+"time": "19:00",
+"title": "John Coltrane Centennial Celebration",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s01762f12c6",
+"date": "2026-09-27",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-4/",
+"src": "stanns"
+},
+{
+"id": "s215c2179a5",
+"date": "2026-09-28",
+"time": "19:00",
+"title": "Joe Block Quintet: There is Always Hope Album Release Show",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s98ad91f6fa",
+"date": "2026-09-29",
+"time": "19:00",
+"title": "YoungArts 45th Anniversary Jazz Celebration feat. Emmet Cohen & Friends",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s4e3f871ef3",
+"date": "2026-09-29",
+"time": "19:30",
+"title": "Masters at Work I",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
+"src": "nycballet"
+},
+{
+"id": "sf53349f189",
+"date": "2026-09-29",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci/",
+"src": "stanns"
+},
+{
+"id": "sfb4424c3aa",
+"date": "2026-09-30",
+"time": "19:00",
+"title": "Atom String Quartet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "se200ab52e1",
+"date": "2026-09-30",
+"time": "19:30",
+"title": "Masters at Work I",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
+"src": "nycballet"
+},
+{
+"id": "sc5b43d3bef",
+"date": "2026-09-30",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-2/",
+"src": "stanns"
+},
+{
+"id": "sb3fd479d9c",
+"date": "2026-09-30",
+"time": "",
+"title": "Ace the Faculty Interview: Insights from Preparation to Execution",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/ace-the-faculty-interview/",
+"src": "nyas"
+},
+{
+"id": "s559e8c4378",
+"date": "2026-10-01",
+"time": "19:00",
+"title": "Paula West",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sb8e97ac282",
+"date": "2026-10-01",
+"time": "19:00",
+"title": "Fall Fashion Gala",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/fall-fashion-gala",
+"src": "nycballet"
+},
+{
+"id": "s3916750de1",
+"date": "2026-10-01",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-3/",
+"src": "stanns"
+},
+{
+"id": "sae655e6dc1",
+"date": "2026-10-02",
+"time": "12:00",
+"title": "A Current of Change: The Erie Canal and the Mount Vernon Hotel",
+"venue": "Mount Vernon Hotel Museum",
+"cat": "houses",
+"url": "https://mvhm.org/event/a-current-of-change-the-erie-canal-and-the-mount-vernon-hotel/",
+"src": "mvhm"
+},
+{
+"id": "sb5b45f2487",
+"date": "2026-10-02",
+"time": "18:00",
+"title": "First Friday with Warren Banholzer",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/first-friday-with-warren-banholzer-4/",
+"src": "bartowpell"
+},
+{
+"id": "s090bc023e0",
+"date": "2026-10-02",
+"time": "19:00",
+"title": "Paula West",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s46fce0a395",
+"date": "2026-10-02",
+"time": "19:30",
+"title": "Contemporary Choreography I",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
+"src": "nycballet"
+},
+{
+"id": "sb6a02e2dd2",
+"date": "2026-10-02",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-5/",
+"src": "stanns"
+},
+{
+"id": "s47424cc7f3",
+"date": "2026-10-03",
+"time": "19:00",
+"title": "Paula West",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "scc0b7a671b",
+"date": "2026-10-03",
+"time": "19:30",
+"title": "Masters at Work I",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
+"src": "nycballet"
+},
+{
+"id": "s1a2d029efe",
+"date": "2026-10-03",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-7/",
+"src": "stanns"
+},
+{
+"id": "s13376bf9f8",
+"date": "2026-10-03",
+"time": "",
+"title": "Young Families: Tot Shabbat",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-tot-shabbat-8-923/",
+"src": "emanuel"
+},
+{
+"id": "sc7e1455637",
+"date": "2026-10-04",
+"time": "15:00",
+"title": "Contemporary Choreography I",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
+"src": "nycballet"
+},
+{
+"id": "s194a6f7e86",
+"date": "2026-10-04",
+"time": "17:00",
+"title": "Songbook Sundays: Kander & Ebb",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s26f40ae305",
+"date": "2026-10-04",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-9/",
+"src": "stanns"
+},
+{
+"id": "s9aeff2490a",
+"date": "2026-10-05",
+"time": "19:00",
+"title": "Ted Nash Big Band: Presidential Suite",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sc465b7bd6f",
+"date": "2026-10-06",
+"time": "19:00",
+"title": "Bluesday: Doug Wamble Blues In The Present Tense",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "se7cd89f609",
+"date": "2026-10-06",
+"time": "19:30",
+"title": "Contemporary Choreography I",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
+"src": "nycballet"
+},
+{
+"id": "s3e23809ef0",
+"date": "2026-10-06",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-10/",
+"src": "stanns"
+},
+{
+"id": "sfc86d4dff2",
+"date": "2026-10-07",
+"time": "11:00",
+"title": "Telling Stories Through Art: New York City History in Prints and Paintings",
+"venue": "Mount Vernon Hotel Museum",
+"cat": "houses",
+"url": "https://mvhm.org/event/telling-stories-through-art-new-york-city-history-in-prints-and-paintings-3/",
+"src": "mvhm"
+},
+{
+"id": "s1a325869e6",
+"date": "2026-10-07",
+"time": "19:00",
+"title": "Papo V\u00e1zquez Mighty Pirates Troubadours",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s5ab06fd56f",
+"date": "2026-10-07",
+"time": "19:30",
+"title": "Eclectic NYCB I",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
+"src": "nycballet"
+},
+{
+"id": "sc58f6599c3",
+"date": "2026-10-07",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-12/",
+"src": "stanns"
+},
+{
+"id": "s401d9cf973",
+"date": "2026-10-08",
+"time": "19:00",
+"title": "Papo V\u00e1zquez Mighty Pirates Troubadours",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s90aee63ec7",
+"date": "2026-10-08",
+"time": "19:30",
+"title": "All Balanchine I",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/all-balanchine-i",
+"src": "nycballet"
+},
+{
+"id": "sa02cfc88cf",
+"date": "2026-10-08",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-13/",
+"src": "stanns"
+},
+{
+"id": "s5535e28054",
+"date": "2026-10-09",
+"time": "19:00",
+"title": "Akira Tana and Osaka Quartet feat. Atsuko Hashimoto - Celebrating Jimmy Heath",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s6c6a8ed807",
+"date": "2026-10-09",
+"time": "19:30",
+"title": "Masters at Work I",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
+"src": "nycballet"
+},
+{
+"id": "s669295ca1f",
+"date": "2026-10-09",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-14/",
+"src": "stanns"
+},
+{
+"id": "s7068cbe480",
+"date": "2026-10-10",
+"time": "14:00",
+"title": "Eclectic NYCB I",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
+"src": "nycballet"
+},
+{
+"id": "sdea1b8ae16",
+"date": "2026-10-10",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
+"id": "se592d48191",
+"date": "2026-10-10",
+"time": "19:00",
+"title": "Akira Tana and Osaka Quartet feat. Atsuko Hashimoto - Celebrating Jimmy Heath",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sc3edf4bbea",
+"date": "2026-10-10",
+"time": "19:30",
+"title": "Masters at Work I",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
+"src": "nycballet"
+},
+{
+"id": "s45ff58263a",
+"date": "2026-10-10",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-16/",
+"src": "stanns"
+},
+{
+"id": "sf2e95cfb97",
+"date": "2026-10-10",
+"time": "",
+"title": "Au 108 rue Vieille du Temple \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/au-108-rue-vieille-du-temple",
+"src": "zwirner"
+},
+{
+"id": "s34c1e9adfc",
+"date": "2026-10-11",
+"time": "15:00",
+"title": "Eclectic NYCB I",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
+"src": "nycballet"
+},
+{
+"id": "s1d7103e953",
+"date": "2026-10-11",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
+"id": "s66d142c8b1",
+"date": "2026-10-11",
+"time": "17:00",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-17/",
+"src": "stanns"
+},
+{
+"id": "s7648225aff",
+"date": "2026-10-11",
+"time": "19:00",
+"title": "Akira Tana and Osaka Quartet feat. Atsuko Hashimoto - Celebrating Jimmy Heath",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s00eb1d1cde",
+"date": "2026-10-12",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
+"id": "sd40d9cb9bd",
+"date": "2026-10-12",
+"time": "19:00",
+"title": "Steven Feifke Big Band Album Release",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s0ee350becb",
+"date": "2026-10-13",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
+"id": "s94fb90f0f1",
+"date": "2026-10-13",
+"time": "19:00",
+"title": "Corcoran Holt Quintet: Freedom of Art Album Release",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s1a209f4b9f",
+"date": "2026-10-13",
+"time": "19:30",
+"title": "All Balanchine I",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/all-balanchine-i",
+"src": "nycballet"
+},
+{
+"id": "s7f18a03cb1",
+"date": "2026-10-13",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-18/",
+"src": "stanns"
+},
+{
+"id": "sa8f2e39cd9",
+"date": "2026-10-13",
+"time": "",
+"title": "Navigating STEM Career Opportunities, Funding, and Immigration Pathways Inside the U.S.",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/navigating-stem-career-opportunities-funding-and-immigration-pathways-inside-the-us/",
+"src": "nyas"
+},
+{
+"id": "s466f2dc686",
+"date": "2026-10-14",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
+"id": "s7f4edb9faa",
+"date": "2026-10-14",
+"time": "19:00",
+"title": "Tenor Legacy with Lew Tabackin",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sf756ea0e75",
+"date": "2026-10-14",
+"time": "19:30",
+"title": "Contemporary Choreography I",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
+"src": "nycballet"
+},
+{
+"id": "sb2d6c2ecc3",
+"date": "2026-10-14",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-19/",
+"src": "stanns"
+},
+{
+"id": "se68b8533ae",
+"date": "2026-10-15",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
+"id": "sf41f46e179",
+"date": "2026-10-15",
+"time": "19:00",
+"title": "David Gibson Nonet",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s874a702705",
+"date": "2026-10-15",
+"time": "19:30",
+"title": "Eclectic NYCB I",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
+"src": "nycballet"
+},
+{
+"id": "s86d65f2d98",
+"date": "2026-10-15",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-20/",
+"src": "stanns"
+},
+{
+"id": "sae4893df37",
+"date": "2026-10-16",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
+"id": "s23a89e239c",
+"date": "2026-10-16",
+"time": "19:00",
+"title": "Ekep Nkwelle",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s64e3651f6a",
+"date": "2026-10-16",
+"time": "19:30",
+"title": "Eclectic NYCB I",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
+"src": "nycballet"
+},
+{
+"id": "s2fc06180a9",
+"date": "2026-10-16",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-21/",
+"src": "stanns"
+},
+{
+"id": "s92ac6265ee",
+"date": "2026-10-17",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
+"id": "s1634e913e4",
+"date": "2026-10-17",
+"time": "19:00",
+"title": "Ekep Nkwelle",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "se4118fd27d",
+"date": "2026-10-17",
+"time": "19:30",
+"title": "All Balanchine I",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/all-balanchine-i",
+"src": "nycballet"
+},
+{
+"id": "s81f9fff622",
+"date": "2026-10-17",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-23/",
+"src": "stanns"
+},
+{
+"id": "s0d7bd9d525",
+"date": "2026-10-17",
+"time": "",
+"title": "Nate Lowman \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/nate-lowman",
+"src": "zwirner"
+},
+{
+"id": "s02351fb3f9",
+"date": "2026-10-17",
+"time": "",
+"title": "Thomas Ruff \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/thomas-ruff-jpegs-ny",
+"src": "zwirner"
+},
+{
+"id": "s8c9e7ecbdd",
+"date": "2026-10-17",
+"time": "",
+"title": "Scott Kahn \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/scott-kahn",
+"src": "zwirner"
+},
+{
+"id": "s9492794ccb",
+"date": "2026-10-18",
+"time": "15:00",
+"title": "Adrian Danchig-Waring Farewell",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/fall-2026/adrian-danchig-waring-farewell",
+"src": "nycballet"
+},
+{
+"id": "s54eca76d09",
+"date": "2026-10-18",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
+"id": "seebdc475fc",
+"date": "2026-10-18",
+"time": "19:00",
+"title": "Ekep Nkwelle",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s5e9a8a169f",
+"date": "2026-10-18",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-31/",
+"src": "stanns"
+},
+{
+"id": "sc4fec97935",
+"date": "2026-10-19",
+"time": "19:00",
+"title": "Juilliard Jazz Ensembles",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sf2f12923ce",
+"date": "2026-10-19",
+"time": "",
+"title": "Oscar Murillo \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/oscar-murillo-unfinished-thinking-paintings-and-social-maps",
+"src": "zwirner"
+},
+{
+"id": "sa441b1779c",
+"date": "2026-10-20",
+"time": "19:00",
+"title": "No(w) Beauty",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sd6befb28b5",
+"date": "2026-10-20",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-25/",
+"src": "stanns"
+},
+{
+"id": "s29685f5ce8",
+"date": "2026-10-21",
+"time": "19:00",
+"title": "Dizzy Gillespie Birthday with Jon Faddis",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sdeca98840b",
+"date": "2026-10-21",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-26/",
+"src": "stanns"
+},
+{
+"id": "s5187a56938",
+"date": "2026-10-21",
+"time": "",
+"title": "Rental Family",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/rental-family/",
+"src": "japansociety"
+},
+{
+"id": "s68a96d16f2",
+"date": "2026-10-22",
+"time": "19:00",
+"title": "Carl Allen\u2019s Messengers of Jazz - A Tribute to Art Blakey\u2019s Jazz Messengers",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s0a3b972a21",
+"date": "2026-10-22",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-27/",
+"src": "stanns"
+},
+{
+"id": "s0bf090bf6d",
+"date": "2026-10-22",
+"time": "",
+"title": "Introduction to Project Management for Research Teams",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/introduction-to-project-management-for-research-teams/",
+"src": "nyas"
+},
+{
+"id": "sf25c5230d7",
+"date": "2026-10-23",
+"time": "19:00",
+"title": "Carl Allen\u2019s Messengers of Jazz - A Tribute to Art Blakey\u2019s Jazz Messengers",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "se0e00d74bf",
+"date": "2026-10-23",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-28/",
+"src": "stanns"
+},
+{
+"id": "sfe213c82b1",
+"date": "2026-10-23",
+"time": "",
+"title": "Young Families: Baby Shabbat",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-baby-shabbat-9-526/",
+"src": "emanuel"
+},
+{
+"id": "s0fb192e51f",
+"date": "2026-10-24",
+"time": "19:00",
+"title": "Carl Allen\u2019s Messengers of Jazz - A Tribute to Art Blakey\u2019s Jazz Messengers",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sa6c8f7bc87",
+"date": "2026-10-24",
+"time": "",
+"title": "Emma McIntyre \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/emma-mcintyre",
+"src": "zwirner"
+},
+{
+"id": "s071091bce6",
+"date": "2026-10-25",
+"time": "16:00",
+"title": "Free workshop: Jane Austen\u2019s Country Dance",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/free-workshop-jane-austens-country-dance-3/",
+"src": "bartowpell"
+},
+{
+"id": "s64c1c39bf2",
+"date": "2026-10-25",
+"time": "19:00",
+"title": "Carl Allen\u2019s Messengers of Jazz - A Tribute to Art Blakey\u2019s Jazz Messengers",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s050263253b",
+"date": "2026-10-26",
+"time": "19:00",
+"title": "Mike LeDonne Big Band: 70th Birthday Celebration",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "scd6d1ac4fc",
+"date": "2026-10-27",
+"time": "19:00",
+"title": "Johnny O&#039;Neal Birthday Celebration",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "scdafc15b1e",
+"date": "2026-10-28",
+"time": "19:00",
+"title": "Greg Hutchinson&#039;s Kind of Now: The Pulse of Miles Davis",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "sc838960c92",
+"date": "2026-10-28",
+"time": "",
+"title": "Mentoring Up in STEM: Strengthening Relationships with PIs, Advisors, and Senior Colleagues",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/mentoring-up-in-stem-strengthening-relationships/",
+"src": "nyas"
+},
+{
+"id": "sa5f1161010",
+"date": "2026-10-29",
+"time": "19:00",
+"title": "Greg Hutchinson&#039;s Kind of Now: The Pulse of Miles Davis",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "saa68580755",
+"date": "2026-10-30",
+"time": "19:00",
+"title": "Greg Hutchinson&#039;s Kind of Now: The Pulse of Miles Davis",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "se06397624e",
+"date": "2026-10-31",
+"time": "19:00",
+"title": "Greg Hutchinson&#039;s Kind of Now: The Pulse of Miles Davis",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
+"id": "s90015b1478",
+"date": "2026-10-31",
+"time": "",
+"title": "Louis Fratino \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/louis-fratino",
+"src": "zwirner"
+},
+{
+"id": "s0994bee02f",
+"date": "2026-10-31",
+"time": "",
+"title": "Roy DeCarava \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/roy-decarava-the-sound-i-saw",
+"src": "zwirner"
+},
+{
+"id": "safd0ad8b94",
+"date": "2026-10-31",
+"time": "",
+"title": "Daichi Takagi \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/daichi-takagi-suchness",
+"src": "zwirner"
+},
+{
+"id": "s6a960decac",
+"date": "2026-11-04",
+"time": "",
+"title": "Ichi-go Ichi-e (\u4e00\u671f\u4e00\u4f1a) with Elizabeth Brown on Shakuhachi",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/ichi-go-ichi-e-with-elizabeth-brown-on-shakuhachi/",
+"src": "japansociety"
+},
+{
+"id": "s71be268ca3",
+"date": "2026-11-05",
+"time": "",
+"title": "AI Tools for Literature Review, Writing, and Research Productivity",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/ai-tools-for-literature-review-writing-and-research-productivity/",
+"src": "nyas"
+},
+{
+"id": "sa0921e04eb",
+"date": "2026-11-06",
+"time": "19:00",
+"title": "Dungeons and Dragons Weekend",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
+"src": "bartowpell"
+},
+{
+"id": "s1ee78ccfb8",
+"date": "2026-11-07",
+"time": "11:00",
+"title": "Bartow-Pell Tree ID Walk",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/bartow-pell-tree-id-walk-2/",
+"src": "bartowpell"
+},
+{
+"id": "s28cf528f50",
+"date": "2026-11-07",
+"time": "19:00",
+"title": "Dungeons and Dragons Weekend",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
+"src": "bartowpell"
+},
+{
+"id": "sa335b00fe1",
+"date": "2026-11-08",
+"time": "19:00",
+"title": "Dungeons and Dragons Weekend",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
+"src": "bartowpell"
+},
+{
+"id": "sb68410238b",
+"date": "2026-11-10",
+"time": "19:00",
+"title": "An Unlikely Barn: The Mount Vernon Hotel Museum & Early Villa Building",
+"venue": "Mount Vernon Hotel Museum",
+"cat": "houses",
+"url": "https://mvhm.org/event/an-unlikely-barn-the-mount-vernon-hotel-museum-early-villa-building/",
+"src": "mvhm"
+},
+{
+"id": "s7a4f7cb35b",
+"date": "2026-11-14",
+"time": "",
+"title": "Nocturnal \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/nocturnal",
+"src": "zwirner"
+},
+{
+"id": "s7898fe5eac",
+"date": "2026-11-15",
+"time": "",
+"title": "The Seven Bridges",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/the-seven-bridges/",
+"src": "japansociety"
+},
+{
+"id": "sa63dcc530c",
+"date": "2026-12-09",
+"time": "",
+"title": "Scientific Publishing at the Edge: Trust and Authority in the Age of AI and Open Access",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/scientific-publishing-at-the-edge-trust-and-authority-in-the-age-of-ai-and-open-access/",
+"src": "nyas"
+},
+{
+"id": "sb04a465347",
+"date": "2026-12-11",
+"time": "",
+"title": "Haruki Murakami in NYC",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/murakamivip/",
+"src": "japansociety"
+},
+{
+"id": "sd88929f7ab",
+"date": "2026-12-11",
+"time": "",
+"title": "Murakami Mixtape",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/haruki-murakami/",
+"src": "japansociety"
+},
+{
+"id": "sbfb5482e8d",
+"date": "2026-12-13",
+"time": "",
+"title": "EVENT CANCELLED: Sketch with Jeff: Storytelling and Art at the Guggenheim",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/sketch-with-jeff-storytelling-and-art-at-the-guggenheim",
+"src": "guggenheim"
+},
+{
+"id": "s3a0a6eed61",
+"date": "2026-12-15",
+"time": "",
+"title": "Young Families: Shalom, World! Music, Art &#038; Blessings \u2014 final day",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-shalom-world-music-art-blessings-500/",
+"src": "emanuel"
+},
+{
+"id": "s9e00a1c224",
+"date": "2026-12-15",
+"time": "",
+"title": "Young Families: Boker Tov, Baby \u2014 final day",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-boker-tov-baby-323/",
+"src": "emanuel"
+},
+{
+"id": "scbc9e37549",
+"date": "2026-12-15",
+"time": "",
+"title": "Young Families: Little Mensches \u2014 final day",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-little-menschs2026-149/",
+"src": "emanuel"
+},
+{
+"id": "sc91a3deb28",
+"date": "2026-12-16",
+"time": "",
+"title": "Young Families: Toddlers and Twos \u2014 final day",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-toddlers-and-twos-660-448/",
+"src": "emanuel"
+},
+{
+"id": "sec651f618e",
+"date": "2026-12-23",
+"time": "",
+"title": "Oscar Murillo \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/oscar-murillo-unfinished-thinking-paintings-and-social-maps",
+"src": "zwirner"
+},
+{
+"id": "scc27553ad5",
+"date": "2027-01-04",
+"time": "",
+"title": "Young Families: Toddlers and Twos \u2014 opens",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-toddlers-and-twos-660-584/",
+"src": "emanuel"
+},
+{
+"id": "s0cfd6079ec",
+"date": "2027-01-05",
+"time": "",
+"title": "Young Families: Little Mensches \u2014 opens",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-little-menschs2026-149-556/",
+"src": "emanuel"
+},
+{
+"id": "s325192a31a",
+"date": "2027-01-05",
+"time": "",
+"title": "Young Families: Shalom, World! Music, Art &#038; Blessings \u2014 opens",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-shalom-world-music-art-blessings-500-952/",
+"src": "emanuel"
+},
+{
+"id": "s3a711782e8",
+"date": "2027-01-05",
+"time": "",
+"title": "Young Families: Boker Tov, Baby \u2014 opens",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-boker-tov-baby-323-352/",
+"src": "emanuel"
+},
+{
+"id": "s3cd368d88b",
+"date": "2027-01-09",
+"time": "",
+"title": "NieR Art Showcase: Artworks by Koda Kazuma \u2014 opens",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/nier-art-showcase-artworks-by-koda-kazuma/",
+"src": "japansociety"
+},
+{
+"id": "s63884c33a3",
+"date": "2027-01-19",
+"time": "19:30",
+"title": "Romeo & Juliet",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
+"src": "nycballet"
+},
+{
+"id": "s19dd54405a",
+"date": "2027-01-20",
+"time": "19:30",
+"title": "Romeo & Juliet",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
+"src": "nycballet"
+},
+{
+"id": "sbb41123383",
+"date": "2027-01-21",
+"time": "19:30",
+"title": "Romeo & Juliet",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
+"src": "nycballet"
+},
+{
+"id": "sf774cb0358",
+"date": "2027-01-22",
+"time": "19:30",
+"title": "Romeo & Juliet",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
+"src": "nycballet"
+},
+{
+"id": "s0ae298b690",
+"date": "2027-01-23",
+"time": "19:30",
+"title": "Romeo & Juliet",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
+"src": "nycballet"
+},
+{
+"id": "sb4523274fa",
+"date": "2027-01-24",
+"time": "15:00",
+"title": "Romeo & Juliet",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
+"src": "nycballet"
+},
+{
+"id": "sac694c6964",
+"date": "2027-01-26",
+"time": "19:30",
+"title": "Romeo & Juliet",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
+"src": "nycballet"
+},
+{
+"id": "s2a943007d3",
+"date": "2027-01-27",
+"time": "19:30",
+"title": "Romeo & Juliet",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
+"src": "nycballet"
+},
+{
+"id": "s108f54ddf3",
+"date": "2027-01-28",
+"time": "19:30",
+"title": "Romeo & Juliet",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
+"src": "nycballet"
+},
+{
+"id": "s11660fe3f9",
+"date": "2027-01-29",
+"time": "19:30",
+"title": "Romeo & Juliet",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
+"src": "nycballet"
+},
+{
+"id": "s6ec81d5316",
+"date": "2027-01-30",
+"time": "19:30",
+"title": "Romeo & Juliet",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
+"src": "nycballet"
+},
+{
+"id": "se72868329b",
+"date": "2027-01-31",
+"time": "15:00",
+"title": "Romeo & Juliet",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
+"src": "nycballet"
+},
+{
+"id": "s6b8e2ec970",
+"date": "2027-02-02",
+"time": "19:30",
+"title": "All Balanchine II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/all-balanchine-ii",
+"src": "nycballet"
+},
+{
+"id": "s489d5a3036",
+"date": "2027-02-03",
+"time": "19:30",
+"title": "All Balanchine II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/all-balanchine-ii",
+"src": "nycballet"
+},
+{
+"id": "s53a1e359f5",
+"date": "2027-02-04",
+"time": "19:30",
+"title": "All Balanchine II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/all-balanchine-ii",
+"src": "nycballet"
+},
+{
+"id": "s748bdb0c0e",
+"date": "2027-02-05",
+"time": "19:30",
+"title": "All Balanchine II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/all-balanchine-ii",
+"src": "nycballet"
+},
+{
+"id": "sfadbb8806e",
+"date": "2027-02-06",
+"time": "14:00",
+"title": "Contemporary Choreography II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/contemporary-choreography-ii",
+"src": "nycballet"
+},
+{
+"id": "s51fbc353e7",
+"date": "2027-02-06",
+"time": "",
+"title": "Craft and Play Your Own Shakuhachi",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/craft-and-play-your-own-shakuhachi-2027/",
+"src": "japansociety"
+},
+{
+"id": "s4e04c1a7b2",
+"date": "2027-02-07",
+"time": "15:00",
+"title": "All Balanchine II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/all-balanchine-ii",
+"src": "nycballet"
+},
+{
+"id": "sadbcba072b",
+"date": "2027-02-09",
+"time": "19:30",
+"title": "Contemporary Choreography II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/contemporary-choreography-ii",
+"src": "nycballet"
+},
+{
+"id": "s79614cb53d",
+"date": "2027-02-10",
+"time": "19:30",
+"title": "All Balanchine II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/all-balanchine-ii",
+"src": "nycballet"
+},
+{
+"id": "s44c505e63c",
+"date": "2027-02-11",
+"time": "19:30",
+"title": "All Balanchine II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/all-balanchine-ii",
+"src": "nycballet"
+},
+{
+"id": "s1f2a8e5e48",
+"date": "2027-02-12",
+"time": "19:30",
+"title": "Jewels",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/jewels",
+"src": "nycballet"
+},
+{
+"id": "s0fddafbe76",
+"date": "2027-02-13",
+"time": "19:30",
+"title": "Jewels",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/jewels",
+"src": "nycballet"
+},
+{
+"id": "saf5bb63013",
+"date": "2027-02-14",
+"time": "19:00",
+"title": "Jewels",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/jewels",
+"src": "nycballet"
+},
+{
+"id": "se8f7940349",
+"date": "2027-02-16",
+"time": "19:30",
+"title": "All Balanchine III",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/all-balanchine-iii",
+"src": "nycballet"
+},
+{
+"id": "s45460ee321",
+"date": "2027-02-17",
+"time": "19:30",
+"title": "Contemporary Choreography II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/contemporary-choreography-ii",
+"src": "nycballet"
+},
+{
+"id": "se872bd1b3a",
+"date": "2027-02-17",
+"time": "",
+"title": "Building Your Biotech Network",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/building-your-biotech-network/",
+"src": "nyas"
+},
+{
+"id": "sec78b02fd2",
+"date": "2027-02-18",
+"time": "19:30",
+"title": "Contemporary Choreography III",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/contemporary-choreography-iii",
+"src": "nycballet"
+},
+{
+"id": "se23cdc6e06",
+"date": "2027-02-20",
+"time": "14:00",
+"title": "All Balanchine III",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/all-balanchine-iii",
+"src": "nycballet"
+},
+{
+"id": "sd769691bd5",
+"date": "2027-02-20",
+"time": "19:30",
+"title": "Contemporary Choreography III",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/contemporary-choreography-iii",
+"src": "nycballet"
+},
+{
+"id": "sa2c7b3be33",
+"date": "2027-02-21",
+"time": "15:00",
+"title": "All Balanchine III",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/all-balanchine-iii",
+"src": "nycballet"
+},
+{
+"id": "s4d86ca4739",
+"date": "2027-02-23",
+"time": "19:30",
+"title": "Contemporary Choreography III",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/contemporary-choreography-iii",
+"src": "nycballet"
+},
+{
+"id": "s073d7ae1a8",
+"date": "2027-02-24",
+"time": "19:30",
+"title": "Contemporary Choreography III",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/contemporary-choreography-iii",
+"src": "nycballet"
+},
+{
+"id": "se211e3588f",
+"date": "2027-02-25",
+"time": "19:30",
+"title": "Contemporary Choreography II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/contemporary-choreography-ii",
+"src": "nycballet"
+},
+{
+"id": "sbd1100653e",
+"date": "2027-02-25",
+"time": "",
+"title": "How to Get Research Funding from Industry",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/how-to-get-research-funding-from-industry/",
+"src": "nyas"
+},
+{
+"id": "sb5314238bb",
+"date": "2027-02-27",
+"time": "14:00",
+"title": "Contemporary Choreography II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/contemporary-choreography-ii",
+"src": "nycballet"
+},
+{
+"id": "se0976f1a6c",
+"date": "2027-02-27",
+"time": "19:30",
+"title": "Contemporary Choreography III",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/contemporary-choreography-iii",
+"src": "nycballet"
+},
+{
+"id": "se85f18d3ed",
+"date": "2027-02-28",
+"time": "15:00",
+"title": "Taylor Stanley Farewell",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/winter-2027/taylor-stanley-farewell",
+"src": "nycballet"
+},
+{
+"id": "sbf3f7f515a",
+"date": "2027-02-28",
+"time": "",
+"title": "Course: How to Effectively Communicate Your Science to Any Audience",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/how-to-effectively-communicate-your-science-to-any-audience/",
+"src": "nyas"
+},
+{
+"id": "s6cb277e75a",
+"date": "2027-03-01",
+"time": "",
+"title": "ENCORE! Build Your Own Shakuhachi: Crafting Workshop",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/encore-build-your-own-shakuhachi-crafting-workshop/",
+"src": "japansociety"
+},
+{
+"id": "sd89dcb3716",
+"date": "2027-03-03",
+"time": "",
+"title": "HealthNext AI Summit 2025",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/healthnext-summit/",
+"src": "nyas"
+},
+{
+"id": "s3484223379",
+"date": "2027-03-06",
+"time": "",
+"title": "Women of Emanu-El: Paul Rudolph House Tour #2",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-paul-rudolph-house-tour-532/",
+"src": "emanuel"
+},
+{
+"id": "s9928ba5eb8",
+"date": "2027-03-10",
+"time": "",
+"title": "Tikkun Olam: Spring Mitzvah Prep",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tikkun-olam-spring-mitzvah-prep/",
+"src": "emanuel"
+},
+{
+"id": "s5b3900eaf9",
+"date": "2027-03-11",
+"time": "",
+"title": "CVs and Cover Letters for Academic Jobs",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/cvs-and-cover-letters-for-academic-jobs/",
+"src": "nyas"
+},
+{
+"id": "s714025b2b2",
+"date": "2027-03-13",
+"time": "",
+"title": "Kabuki Movement Workshop",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/kabuki-movement-workshop/",
+"src": "japansociety"
+},
+{
+"id": "s14eb24c9e8",
+"date": "2027-03-16",
+"time": "",
+"title": "Vaccines and Immune Therapies for Chronic Diseases",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/vaccines-and-immune-therapies-for-chronic-diseases/",
+"src": "nyas"
+},
+{
+"id": "s1fa2813b07",
+"date": "2027-03-16",
+"time": "",
+"title": "Women of Emanu-El: March into Spring Madness with Lunch &#038; Games at Serafina",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-lunch-winter-games-at-serafina-654-789/",
+"src": "emanuel"
+},
+{
+"id": "s10442e51cd",
+"date": "2027-03-17",
+"time": "",
+"title": "Vaccines and Immune Therapies for Chronic Diseases",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/vaccines-and-immune-therapies-for-chronic-diseases/",
+"src": "nyas"
+},
+{
+"id": "sfd7c5c10a7",
+"date": "2027-03-24",
+"time": "",
+"title": "How to Network When You Hate Networking: A Practical Workshop for Scientists",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/how-to-network-when-you-hate-networking/",
+"src": "nyas"
+},
+{
+"id": "s4d4d63f7cb",
+"date": "2027-03-30",
+"time": "",
+"title": "NieR Art Showcase: Artworks by Koda Kazuma \u2014 final day",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/nier-art-showcase-artworks-by-koda-kazuma/",
+"src": "japansociety"
+},
+{
+"id": "s31666ab041",
+"date": "2027-04-01",
+"time": "",
+"title": "Eve of Passover Worship Service",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/shabbat-and-conclusion-of-passover-morning-worship-service-with-yizkor-716-347-514-188/",
+"src": "emanuel"
+},
+{
+"id": "s8967cb473d",
+"date": "2027-04-01",
+"time": "",
+"title": "Passover Morning Worship Service",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/shabbat-and-conclusion-of-passover-morning-worship-service-with-yizkor-716-347-514/",
+"src": "emanuel"
+},
+{
+"id": "s5bf5bde920",
+"date": "2027-04-01",
+"time": "",
+"title": "Conclusion of Passover Evening Worship Service",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/shabbat-and-conclusion-of-passover-morning-worship-service-with-yizkor-716-347/",
+"src": "emanuel"
+},
+{
+"id": "s9d751b256f",
+"date": "2027-04-01",
+"time": "",
+"title": "Conclusion of Passover Morning Worship Service with Yizkor",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/shabbat-and-conclusion-of-passover-morning-worship-service-with-yizkor-716/",
+"src": "emanuel"
+},
+{
+"id": "s68ee22c1df",
+"date": "2027-04-03",
+"time": "",
+"title": "Bon Iver\u2019s VOLUMES: ONE &#8220;SELECTIONS FROM MUSIC CONCERTS 2019-2023 BON IVER 6 PIECE BAND&#8221; playing in the Devo",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/bon-ivers-volumes-one-selections-from-music-concerts-2019-2023-bon-iver-6-piece-band-playing-in-the-devon-turnbull-listening-room-04-01-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "sc25bda0633",
+"date": "2027-04-05",
+"time": "",
+"title": "Carnegie Mansion Tour for the Week of April 5 &#8211; 10",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/carnegie-mansion-tour-for-the-week-of-april-5-10-04-05-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "sb92a850ae6",
+"date": "2027-04-06",
+"time": "",
+"title": "Streicker Center: The Metropolitan Opera&#8217;s &#8220;Innocence&#8221; \u2014 opens",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/streicker-center-the-metropolitan-operas-innocence/",
+"src": "emanuel"
+},
+{
+"id": "s53dfb915f8",
+"date": "2027-04-10",
+"time": "",
+"title": "Women of Emanu-El: Jewish Harlem Walking Tour",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-jewish-harlem-walking-tour/",
+"src": "emanuel"
+},
+{
+"id": "sa969e64076",
+"date": "2027-04-10",
+"time": "",
+"title": "60s+ Community Spring Shabbat Dinner",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/60s-spring-shabbat-dinner/",
+"src": "emanuel"
+},
+{
+"id": "sddbe89d9a3",
+"date": "2027-04-11",
+"time": "",
+"title": "Family Art Day: Drop-in Clay activity inspired by Kawai Kanjir\u014d: House to House Exhibition",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/family-art-day-drop-in-clay-activity-inspired-by-kawai-kanjiro-house-to-house-exhibition/",
+"src": "japansociety"
+},
+{
+"id": "s197594454b",
+"date": "2027-04-13",
+"time": "",
+"title": "Teaching and Research Statements for Faculty Jobs",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/teaching-and-research-statements-for-faculty-jobs/",
+"src": "nyas"
+},
+{
+"id": "s1302eb49f2",
+"date": "2027-04-17",
+"time": "",
+"title": "6th-7th Grade Shul-In with Dave &#038; Busters",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/6th-7th-grade-shul-in-with-dave-busters/",
+"src": "emanuel"
+},
+{
+"id": "s25d22bf70a",
+"date": "2027-04-19",
+"time": "",
+"title": "Carnegie Mansion Tour for the Week of April 19 &#8211; 24",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/carnegie-mansion-tour-for-the-week-of-april-19-24-04-19-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "s250eccd7a9",
+"date": "2027-04-20",
+"time": "19:30",
+"title": "All Balanchine IV",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/all-balanchine-iv",
+"src": "nycballet"
+},
+{
+"id": "s0bcc40fe7b",
+"date": "2027-04-21",
+"time": "19:30",
+"title": "All Balanchine V",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/all-balanchine-v",
+"src": "nycballet"
+},
+{
+"id": "s73ddaf6e35",
+"date": "2027-04-22",
+"time": "19:30",
+"title": "All Balanchine V",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/all-balanchine-v",
+"src": "nycballet"
+},
+{
+"id": "sd0f39670b2",
+"date": "2027-04-23",
+"time": "19:30",
+"title": "All Balanchine IV",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/all-balanchine-iv",
+"src": "nycballet"
+},
+{
+"id": "sdf06d174f0",
+"date": "2027-04-23",
+"time": "",
+"title": "Live Operator Hours: Featuring Kalia Vandever in the Listening Room",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-kalia-vandever-in-the-listening-room-05-12-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "sf037d1e074",
+"date": "2027-04-23",
+"time": "",
+"title": "Live Operator Hours: Featuring the OJAS Team playing Jeff Parker in the Listening Room",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-the-ojas-team-playing-jeff-parker-in-the-listening-room-05-11-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "sfdf3a4674b",
+"date": "2027-04-23",
+"time": "",
+"title": "Live Operator Hours: Featuring BODY SOUND in the Listening Room",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-body-sound-in-the-listening-room-04-24-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "s11eaed54ac",
+"date": "2027-04-24",
+"time": "19:30",
+"title": "All Balanchine V",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/all-balanchine-v",
+"src": "nycballet"
+},
+{
+"id": "sfc4dba5349",
+"date": "2027-04-25",
+"time": "15:00",
+"title": "All Balanchine IV",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/all-balanchine-iv",
+"src": "nycballet"
+},
+{
+"id": "sddd9159aaa",
+"date": "2027-04-26",
+"time": "",
+"title": "Carnegie Mansion Tour for the Week of April 26 &#8211; May 2",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/carnegie-mansion-tour-for-the-week-of-april-26-may-2-04-26-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "s92e293c545",
+"date": "2027-04-27",
+"time": "19:30",
+"title": "Masters at Work II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/masters-at-work-ii",
+"src": "nycballet"
+},
+{
+"id": "sabdeed4b4f",
+"date": "2027-04-28",
+"time": "19:30",
+"title": "All Balanchine IV",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/all-balanchine-iv",
+"src": "nycballet"
+},
+{
+"id": "sfd42f9ac2e",
+"date": "2027-04-29",
+"time": "19:30",
+"title": "All Balanchine IV",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/all-balanchine-iv",
+"src": "nycballet"
+},
+{
+"id": "s0f6bf377ca",
+"date": "2027-04-29",
+"time": "",
+"title": "How to Plan and Lead Your First Research Lab",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/how-to-plan-and-lead-your-first-research-lab/",
+"src": "nyas"
+},
+{
+"id": "s9ebcc9e77a",
+"date": "2027-04-29",
+"time": "",
+"title": "Streicker Center: The Metropolitan Opera&#8217;s &#8220;Innocence&#8221; \u2014 final day",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/streicker-center-the-metropolitan-operas-innocence/",
+"src": "emanuel"
+},
+{
+"id": "s69c7eed483",
+"date": "2027-04-30",
+"time": "19:30",
+"title": "Masters at Work II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/masters-at-work-ii",
+"src": "nycballet"
+},
+{
+"id": "sa142e7d44e",
+"date": "2027-04-30",
+"time": "",
+"title": "Autoimmunity Meets Innovation: Cell Therapies",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/autoimmunity-meets-innovation-cell-therapies/",
+"src": "nyas"
+},
+{
+"id": "sab51057a8b",
+"date": "2027-04-30",
+"time": "",
+"title": "Women of Emanu-El: Wolfgang Amadeus Mozart\u2013Treasures from the Mozarteum Foundation of Salzburg",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-wolfgang-amadeus-mozart-treasures-from-the-mozarteum-foundation-of-salzburg/",
+"src": "emanuel"
+},
+{
+"id": "sacb3a89056",
+"date": "2027-05-01",
+"time": "14:00",
+"title": "All Balanchine V",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/all-balanchine-v",
+"src": "nycballet"
+},
+{
+"id": "s7aa618411a",
+"date": "2027-05-01",
+"time": "19:30",
+"title": "Masters at Work II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/masters-at-work-ii",
+"src": "nycballet"
+},
+{
+"id": "s5976e0cd83",
+"date": "2027-05-01",
+"time": "",
+"title": "Emanu-El Multigenerational Shabbat",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/emanu-el-multigenerational-shabbat/",
+"src": "emanuel"
+},
+{
+"id": "s1ef392ac61",
+"date": "2027-05-02",
+"time": "15:00",
+"title": "All Balanchine V",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/all-balanchine-v",
+"src": "nycballet"
+},
+{
+"id": "sf15159362a",
+"date": "2027-05-03",
+"time": "",
+"title": "Carnegie Mansion Tour for the Week of May 3 &#8211; May 9",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/carnegie-mansion-tour-for-the-week-of-may-3-may-9-05-03-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "sef6c9510eb",
+"date": "2027-05-04",
+"time": "19:30",
+"title": "Masters at Work II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/masters-at-work-ii",
+"src": "nycballet"
+},
+{
+"id": "s25621e3d76",
+"date": "2027-05-05",
+"time": "19:30",
+"title": "Masters at Work II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/masters-at-work-ii",
+"src": "nycballet"
+},
+{
+"id": "s704f6e466b",
+"date": "2027-05-06",
+"time": "19:00",
+"title": "Spring Gala",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/spring-gala-27",
+"src": "nycballet"
+},
+{
+"id": "sd1c4fa7a13",
+"date": "2027-05-06",
+"time": "",
+"title": "Women of Emanu-El: Wednesday Morning Supervised Play with Peter Steinberg",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-wednesday-morning-supervised-play-with-peter-steinberg/",
+"src": "emanuel"
+},
+{
+"id": "s8cdc5054c3",
+"date": "2027-05-07",
+"time": "19:30",
+"title": "Masters at Work II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/masters-at-work-ii",
+"src": "nycballet"
+},
+{
+"id": "s2e71bab5e6",
+"date": "2027-05-07",
+"time": "",
+"title": "Women of Emanu-El: Thursday Night Supervised Play with Peter Steinberg",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-supervised-play-with-peter-steinberg/",
+"src": "emanuel"
+},
+{
+"id": "s9eaca86155",
+"date": "2027-05-08",
+"time": "19:30",
+"title": "Eclectic NYCB II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/eclectic-nycb-ii",
+"src": "nycballet"
+},
+{
+"id": "s6859f6f811",
+"date": "2027-05-08",
+"time": "",
+"title": "30s, 40s, and 50s Spring Shabbat Dinner",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/40s-and-50s-spring-shabbat-dinner/",
+"src": "emanuel"
+},
+{
+"id": "s8ea77e9698",
+"date": "2027-05-08",
+"time": "",
+"title": "Women of Emanu-El: A Night at the Movies with &#8220;31 Candles&#8221;",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-a-night-at-the-movies-with-31-candles/",
+"src": "emanuel"
+},
+{
+"id": "se0ae4baeae",
+"date": "2027-05-09",
+"time": "15:00",
+"title": "Eclectic NYCB II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/eclectic-nycb-ii",
+"src": "nycballet"
+},
+{
+"id": "s1260170536",
+"date": "2027-05-09",
+"time": "",
+"title": "Chanoyu in the Everyday: A Guide to the Zen Tea Ceremony and its Evolution",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/chanoyu-in-the-everyday-a-guide-to-the-zen-tea-ceremony-and-its-evolution/",
+"src": "japansociety"
+},
+{
+"id": "s85491caefd",
+"date": "2027-05-10",
+"time": "",
+"title": "Carnegie Mansion Tour on Sunday, May 10",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/carnegie-mansion-tour-on-sunday-may-10-05-10-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "s4de9e2b670",
+"date": "2027-05-11",
+"time": "19:30",
+"title": "Eclectic NYCB III",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/eclectic-nycb-iii",
+"src": "nycballet"
+},
+{
+"id": "seb4d87ec49",
+"date": "2027-05-11",
+"time": "",
+"title": "Women of Emanu-El: Lunch &#038; Games at Serafina",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-may-serafina/",
+"src": "emanuel"
+},
+{
+"id": "s043d90d43b",
+"date": "2027-05-12",
+"time": "19:30",
+"title": "Eclectic NYCB II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/eclectic-nycb-ii",
+"src": "nycballet"
+},
+{
+"id": "s27f5b6f92b",
+"date": "2027-05-13",
+"time": "19:30",
+"title": "Eclectic NYCB III",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/eclectic-nycb-iii",
+"src": "nycballet"
+},
+{
+"id": "sc60b6f3299",
+"date": "2027-05-13",
+"time": "",
+"title": "Trust in Science and Medicine",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/trust-in-science-and-medicine/",
+"src": "nyas"
+},
+{
+"id": "s74bf452f2c",
+"date": "2027-05-14",
+"time": "19:30",
+"title": "Eclectic NYCB II",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/eclectic-nycb-ii",
+"src": "nycballet"
+},
+{
+"id": "s7a7577b1c2",
+"date": "2027-05-14",
+"time": "",
+"title": "Women of Emanu-El: Thursday Mornings Intermediate Bridge Lessons/Play with Peter Steinberg",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-thursday-mornings-intermediate-bridge-lessons-play-with-peter-steinberg/",
+"src": "emanuel"
+},
+{
+"id": "s45b7880c81",
+"date": "2027-05-15",
+"time": "19:30",
+"title": "Copland Dance Episodes",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/copland-dance-episodes",
+"src": "nycballet"
+},
+{
+"id": "sf08b894487",
+"date": "2027-05-15",
+"time": "",
+"title": "Kyogen Workshop with Mansaku-no-Kai",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/kyogen-workshop/",
+"src": "japansociety"
+},
+{
+"id": "sf69ad7dc9f",
+"date": "2027-05-16",
+"time": "11:00",
+"title": "Sensory-Friendly Performance",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/sensory-friendly-performance",
+"src": "nycballet"
+},
+{
+"id": "s09b02df9af",
+"date": "2027-05-16",
+"time": "15:00",
+"title": "Copland Dance Episodes",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/copland-dance-episodes",
+"src": "nycballet"
+},
+{
+"id": "se8cf0d04ac",
+"date": "2027-05-16",
+"time": "",
+"title": "Live Operator Hours: Featuring Warp Records in the Listening Room",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-warp-records-in-the-listening-room-05-23-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "s84add1e09d",
+"date": "2027-05-18",
+"time": "19:30",
+"title": "Copland Dance Episodes",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/copland-dance-episodes",
+"src": "nycballet"
+},
+{
+"id": "s1fbd46c740",
+"date": "2027-05-19",
+"time": "19:30",
+"title": "Eclectic NYCB III",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/eclectic-nycb-iii",
+"src": "nycballet"
+},
+{
+"id": "s68a12fbb34",
+"date": "2027-05-20",
+"time": "19:30",
+"title": "Eclectic NYCB III",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/eclectic-nycb-iii",
+"src": "nycballet"
+},
+{
+"id": "s2fcc8d7911",
+"date": "2027-05-20",
+"time": "",
+"title": "The Chemical Biology Discussion Group End-of-Year Symposium",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/chemical-biology-discussion-group-end-of-year-symposium-2027/",
+"src": "nyas"
+},
+{
+"id": "sae9d901ee8",
+"date": "2027-05-21",
+"time": "19:30",
+"title": "Eclectic NYCB III",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/eclectic-nycb-iii",
+"src": "nycballet"
+},
+{
+"id": "s4885d43084",
+"date": "2027-05-22",
+"time": "14:00",
+"title": "Copland Dance Episodes",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/copland-dance-episodes",
+"src": "nycballet"
+},
+{
+"id": "s2332a197ba",
+"date": "2027-05-22",
+"time": "19:30",
+"title": "Eclectic NYCB III",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/eclectic-nycb-iii",
+"src": "nycballet"
+},
+{
+"id": "sd3ca6a8749",
+"date": "2027-05-23",
+"time": "15:00",
+"title": "Copland Dance Episodes",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/copland-dance-episodes",
+"src": "nycballet"
+},
+{
+"id": "s9fcd5be260",
+"date": "2027-05-23",
+"time": "",
+"title": "Live Operator Hours: Featuring Warp Records in the Listening Room",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-warp-records-in-the-listening-room-05-16-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "sebd7963b61",
+"date": "2027-05-25",
+"time": "19:30",
+"title": "A Midsummer Night's Dream",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/a-midsummer-nights-dream",
+"src": "nycballet"
+},
+{
+"id": "s012d32e4c7",
+"date": "2027-05-25",
+"time": "",
+"title": "Young Families: Little Mensches \u2014 final day",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-little-menschs2026-149-556/",
+"src": "emanuel"
+},
+{
+"id": "s74146b6c50",
+"date": "2027-05-25",
+"time": "",
+"title": "Young Families: Shalom, World! Music, Art &#038; Blessings \u2014 final day",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-shalom-world-music-art-blessings-500-952/",
+"src": "emanuel"
+},
+{
+"id": "s9e35afa5ef",
+"date": "2027-05-25",
+"time": "",
+"title": "Young Families: Boker Tov, Baby \u2014 final day",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-boker-tov-baby-323-352/",
+"src": "emanuel"
+},
+{
+"id": "s678187d6e9",
+"date": "2027-05-26",
+"time": "19:30",
+"title": "A Midsummer Night's Dream",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/a-midsummer-nights-dream",
+"src": "nycballet"
+},
+{
+"id": "s4b27d93c85",
+"date": "2027-05-26",
+"time": "",
+"title": "Young Families: Toddlers and Twos \u2014 final day",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-toddlers-and-twos-660-584/",
+"src": "emanuel"
+},
+{
+"id": "s76dd0acd62",
+"date": "2027-05-27",
+"time": "19:30",
+"title": "A Midsummer Night's Dream",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/a-midsummer-nights-dream",
+"src": "nycballet"
+},
+{
+"id": "sfb4e8c576c",
+"date": "2027-05-28",
+"time": "19:30",
+"title": "A Midsummer Night's Dream",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/a-midsummer-nights-dream",
+"src": "nycballet"
+},
+{
+"id": "s9c5eab0caf",
+"date": "2027-05-29",
+"time": "19:30",
+"title": "A Midsummer Night's Dream",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/a-midsummer-nights-dream",
+"src": "nycballet"
+},
+{
+"id": "sb7e85952a6",
+"date": "2027-05-30",
+"time": "15:00",
+"title": "A Midsummer Night's Dream",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/spring-2027/a-midsummer-nights-dream",
+"src": "nycballet"
+},
+{
+"id": "s2948ed5658",
+"date": "2027-05-31",
+"time": "",
+"title": "Tour Made in America with Photographer Christopher Payne &#8211; RESCHEDULED for May 31",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/tour-made-in-america-with-photographer-christopher-payne-rescheduled-for-may-31-05-17-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "sf1386fc694",
+"date": "2027-06-03",
+"time": "",
+"title": "Discover Design Online: Made in America",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/discover-design-online-made-in-america-06-03-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "s01192b4c36",
+"date": "2027-06-06",
+"time": "",
+"title": "Live Operator Hours: Featuring Warp Records in the Listening Room",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-warp-records-in-the-listening-room-06-06-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "s19361f3972",
+"date": "2027-06-07",
+"time": "",
+"title": "Young Families: Summer Rooftop Party featuring Bubble Dad",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/young-families-summer-rooftop-party-featuring-the-bubble-dad/",
+"src": "emanuel"
+},
+{
+"id": "s8df795b49b",
+"date": "2027-06-08",
+"time": "",
+"title": "Land Your Industry Dream Job Right Out of Grad School",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/land-your-industry-dream-job-right-out-of-grad-school/",
+"src": "nyas"
+},
+{
+"id": "s5c18bb20f9",
+"date": "2027-06-08",
+"time": "",
+"title": "Women of Emanu-El: Lunch &#038; Games at Serafina",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-may-serafina-638/",
+"src": "emanuel"
+},
+{
+"id": "s6e4a81f1aa",
+"date": "2027-06-12",
+"time": "",
+"title": "Live Operator Hours: Featuring Mary Halvorson in the Listening Room",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-mary-halvorson-in-the-listening-room-06-11-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "sd31aa478f0",
+"date": "2027-06-14",
+"time": "",
+"title": "Design in Motion / Dise\u00f1o en Movimiento",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/design-in-motion-diseno-en-movimiento-06-14-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "s082b6ac68b",
+"date": "2027-06-21",
+"time": "",
+"title": "Family Art Day: Susumu Shingu &#8211; Inspired by Nature and Movement",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/family-art-day-susumu-shingu-inspired-by-nature-and-movement/",
+"src": "japansociety"
+},
+{
+"id": "s2c9a86a108",
+"date": "2027-06-24",
+"time": "",
+"title": "Behind the Scenes Tour of Emanu-El with Mark Heutlinger",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/behind-the-scenes-tour-of-emanu-el-with-mark-heutlinger/",
+"src": "emanuel"
+},
+{
+"id": "sd03640fd0e",
+"date": "2027-06-25",
+"time": "",
+"title": "Japan vs. Sweden Soccer Watch Party",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/japan-vs-sweden-soccer-watch-party/",
+"src": "japansociety"
+},
+{
+"id": "s6f4836b775",
+"date": "2027-06-25",
+"time": "",
+"title": "Hakubai &amp; Dassai Sake Dinner",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/hakubai-dassai-sake-dinner/",
+"src": "japansociety"
+},
+{
+"id": "s3512abdefa",
+"date": "2027-06-26",
+"time": "",
+"title": "Alex Da Corte\u2019s ROY G BIV (2022)",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/alex-da-cortes-roy-g-biv-2022",
+"src": "guggenheim"
+},
+{
+"id": "s10ccd9bff3",
+"date": "2027-06-26",
+"time": "",
+"title": "Cocktail &amp; Tour of Susumu Shingu: Elated!",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/cocktail-tour-of-susumu-shingu-elated/",
+"src": "japansociety"
+},
+{
+"id": "s997168ec1c",
+"date": "2027-06-28",
+"time": "",
+"title": "Kimono Mom: Sharing Japanese Food and Family with the World",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/kimono-mom-sharing-japanese-food-and-family-with-the-world/",
+"src": "japansociety"
+},
+{
+"id": "sde5e16ab6e",
+"date": "2027-06-28",
+"time": "",
+"title": "Kimono Mom Family Cooking Class",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/kimono-mom-family-cooking-class/",
+"src": "japansociety"
+},
+{
+"id": "s1e8a29a97c",
+"date": "2027-06-29",
+"time": "",
+"title": "Guggenheim Summer Art Camp",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/guggenheim-summer-art-camp",
+"src": "guggenheim"
+},
+{
+"id": "s20547689cd",
+"date": "2027-06-30",
+"time": "",
+"title": "Guggenheim Summer Art Camp",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/guggenheim-summer-art-camp",
+"src": "guggenheim"
+},
+{
+"id": "s3a3197d6c1",
+"date": "2027-07-01",
+"time": "",
+"title": "Guggenheim Summer Art Camp",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/guggenheim-summer-art-camp",
+"src": "guggenheim"
+},
+{
+"id": "scd3f150c5e",
+"date": "2027-07-02",
+"time": "",
+"title": "Guggenheim Summer Art Camp",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/guggenheim-summer-art-camp",
+"src": "guggenheim"
+}
+]
+}

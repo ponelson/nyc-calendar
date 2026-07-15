@@ -89,6 +89,41 @@ def dates_from_text(text):
     return None, None
 
 
+# Post types that plausibly hold events. Everything else is a trap: `milestone` is a
+# company history timeline, `audio_playlist` is a podcast, `product` is the gift shop,
+# `people` is the staff directory. All of them contain dates. None of them are events.
+TYPE_ALLOW = re.compile(
+    r"^(tribe_)?(event|events|performance|performances|show|shows|concert|concerts|"
+    r"exhibition|exhibitions|program|programs|calendar|production|productions|"
+    r"ch_events|mec-events|ai1ec_event)s?$", re.I)
+
+TYPE_DENY = re.compile(
+    r"milestone|person|people|staff|board|press|news|article|post|podcast|audio|"
+    r"video|playlist|product|shop|donor|annual|report|essay|review|issue|job|"
+    r"testimonial|faq|resource|publication", re.I)
+
+
+def plausible_types(types):
+    return [t for t in types if TYPE_ALLOW.match(t) and not TYPE_DENY.search(t)]
+
+
+def sane(events):
+    """Reject a batch that looks like an archive rather than a calendar.
+
+    A venue's event feed points forward. A history timeline points backward. If most
+    of what we parsed is in the past, we parsed the wrong thing — and shipping it
+    would be worse than shipping nothing, because a wrong date looks authoritative.
+    """
+    if not events:
+        return False
+    today = date.today().isoformat()
+    future = sum(1 for e in events if (e.get("start") or "")[:10] >= today)
+    # A real calendar has upcoming events. An archive has none. We only need a
+    # handful of future dates to trust it — a venue legitimately keeps past events
+    # in the same feed, so we don't require them to be the majority.
+    return future >= 3
+
+
 def _root(url):
     return "/".join(url.split("/")[:3])
 
@@ -154,7 +189,11 @@ def run(venue):
                 raise
 
     post_type = venue.get("wp_type", "event")
-    return posts(root, post_type, default_time=venue.get("default_time"))
+    events = posts(root, post_type, default_time=venue.get("default_time"))
+    if not venue.get("wp_trust") and not sane(events):
+        raise RuntimeError(f"wp:{post_type} looks like an archive, not a calendar "
+                           f"({len(events)} items, mostly past) — refusing")
+    return events
 
 
 def discover(url):
@@ -169,8 +208,8 @@ def discover(url):
         pass
     try:
         types = _json(f"{root}/wp-json/wp/v2/types")
-        found["types"] = [t for t in types
-                          if t not in ("attachment", "nav_menu_item", "wp_block")]
+        found["types"] = plausible_types(types)
+        found["all_types"] = list(types)
     except Exception:  # noqa: BLE001
         pass
     return found
