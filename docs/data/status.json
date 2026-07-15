@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T03:09:58+00:00",
-  "healthy": 14,
+  "generated": "2026-07-15T10:44:28+00:00",
+  "healthy": 15,
   "total": 23,
   "venues": [
     {
@@ -56,7 +56,7 @@
       "name": "Simons Foundation",
       "cat": "talks",
       "strategy": "ics",
-      "count": 7,
+      "count": 5,
       "error": null
     },
     {
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 113,
+      "count": 112,
       "error": null
     },
     {
@@ -160,8 +160,8 @@
       "name": "Bartow-Pell Mansion",
       "cat": "houses",
       "strategy": "ics",
-      "count": 0,
-      "error": "RuntimeError: HTTP 202"
+      "count": 19,
+      "error": null
     },
     {
       "id": "aliceausten",

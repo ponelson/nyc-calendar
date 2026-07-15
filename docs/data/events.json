@@ -1,6 +1,6 @@
 {
-"generated": "2026-07-15T03:09:58+00:00",
-"count": 503,
+"generated": "2026-07-15T10:44:28+00:00",
+"count": 519,
 "events": [
 {
 "id": "s5aee4efd53",
@@ -11,46 +11,6 @@
 "cat": "talks",
 "url": "https://www.simonsfoundation.org/event/cmb-summer-school-2026/",
 "src": "simons"
-},
-{
-"id": "se48a8a589a",
-"date": "2026-07-14",
-"time": "10:00",
-"title": "Biophysical Modeling Group Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-369-965-277-218-169-953-996-255-427-871-918-130-546-328/",
-"src": "simons"
-},
-{
-"id": "see9616f8bb",
-"date": "2026-07-14",
-"time": "12:00",
-"title": "Genomics Group Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/genomics-group-meeting-90-701-326-198-492-838-286-54-598-900-600-172-802-308-628-63-210-677-860-485-239-510-289-140-192-865-600-125-700-406-198-969-999-415/",
-"src": "simons"
-},
-{
-"id": "sdf0a5c72e3",
-"date": "2026-07-14",
-"time": "14:00",
-"title": "COMPASS Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/structural-molecular-biophysics-group-meeting-25-494-979-102-187-630-36-67-497-207-505-565-957-600-338-170-506-848-793-549-370-600-398-874-500-667-990-362-784-923-120-974-139-732-756-7-689-663-601-5-7/",
-"src": "simons"
-},
-{
-"id": "sa2f1cbfcfa",
-"date": "2026-07-14",
-"time": "19:00",
-"title": "Salsa Meets Jazz: The Music of H\u00e9ctor Lavoe & Frankie Ruiz with special guest Vincent Herring",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "s6bc7311673",
@@ -201,6 +161,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-07-15/",
 "src": "greenwood"
+},
+{
+"id": "sbe9c887943",
+"date": "2026-07-15",
+"time": "14:00",
+"title": "Biomolecular Design Group Meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-369-965-277-218-169-953-996-255-427-381-72-238-191-820/",
+"src": "simons"
 },
 {
 "id": "sbf3a098e35",
@@ -2103,6 +2073,16 @@
 "src": "mvhm"
 },
 {
+"id": "s9a77076395",
+"date": "2026-09-04",
+"time": "18:00",
+"title": "September's First Friday with Miles East",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/mays-first-friday-with-miles-east/",
+"src": "bartowpell"
+},
+{
 "id": "s9ed802bb0c",
 "date": "2026-09-04",
 "time": "19:00",
@@ -2273,6 +2253,16 @@
 "src": "japansociety"
 },
 {
+"id": "s31fcf5c3a4",
+"date": "2026-09-12",
+"time": "10:00",
+"title": "Bartow-Brocante Market",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/bartow-brocante-market/",
+"src": "bartowpell"
+},
+{
 "id": "s496fa448c8",
 "date": "2026-09-12",
 "time": "19:00",
@@ -2291,6 +2281,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/dan-flavin-grids-hong-kong",
 "src": "zwirner"
+},
+{
+"id": "s8da2c94b84",
+"date": "2026-09-13",
+"time": "10:00",
+"title": "Bartow-Brocante Market",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/bartow-brocante-market/",
+"src": "bartowpell"
 },
 {
 "id": "sa8de3a526b",
@@ -2533,6 +2533,16 @@
 "src": "zwirner"
 },
 {
+"id": "s0b1f20d967",
+"date": "2026-09-24",
+"time": "19:00",
+"title": "Expanding the Discourse: Poetry Readings by David Mills",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/expanding-the-discourse-poetry-readings-by-david-mills/",
+"src": "bartowpell"
+},
+{
 "id": "s60b2842bd1",
 "date": "2026-09-24",
 "time": "19:00",
@@ -2723,6 +2733,16 @@
 "src": "mvhm"
 },
 {
+"id": "sb5b45f2487",
+"date": "2026-10-02",
+"time": "18:00",
+"title": "First Friday with Warren Banholzer",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/first-friday-with-warren-banholzer-4/",
+"src": "bartowpell"
+},
+{
 "id": "s090bc023e0",
 "date": "2026-10-02",
 "time": "19:00",
@@ -2903,6 +2923,16 @@
 "src": "nycballet"
 },
 {
+"id": "sdea1b8ae16",
+"date": "2026-10-10",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
 "id": "se592d48191",
 "date": "2026-10-10",
 "time": "19:00",
@@ -2943,6 +2973,16 @@
 "src": "nycballet"
 },
 {
+"id": "s1d7103e953",
+"date": "2026-10-11",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
 "id": "s7648225aff",
 "date": "2026-10-11",
 "time": "19:00",
@@ -2953,6 +2993,16 @@
 "src": "dizzys"
 },
 {
+"id": "s00eb1d1cde",
+"date": "2026-10-12",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
 "id": "sd40d9cb9bd",
 "date": "2026-10-12",
 "time": "19:00",
@@ -2961,6 +3011,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s0ee350becb",
+"date": "2026-10-13",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
 "id": "s94fb90f0f1",
@@ -2993,6 +3053,16 @@
 "src": "nyas"
 },
 {
+"id": "s466f2dc686",
+"date": "2026-10-14",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
 "id": "s7f4edb9faa",
 "date": "2026-10-14",
 "time": "19:00",
@@ -3011,6 +3081,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
 "src": "nycballet"
+},
+{
+"id": "se68b8533ae",
+"date": "2026-10-15",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
 "id": "sf41f46e179",
@@ -3033,6 +3113,16 @@
 "src": "nycballet"
 },
 {
+"id": "sae4893df37",
+"date": "2026-10-16",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
 "id": "s23a89e239c",
 "date": "2026-10-16",
 "time": "19:00",
@@ -3051,6 +3141,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
+},
+{
+"id": "s92ac6265ee",
+"date": "2026-10-17",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
 "id": "s1634e913e4",
@@ -3111,6 +3211,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/adrian-danchig-waring-farewell",
 "src": "nycballet"
+},
+{
+"id": "s54eca76d09",
+"date": "2026-10-18",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
 "id": "seebdc475fc",
@@ -3231,6 +3341,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/emma-mcintyre",
 "src": "zwirner"
+},
+{
+"id": "s071091bce6",
+"date": "2026-10-25",
+"time": "16:00",
+"title": "Free workshop: Jane Austen\u2019s Country Dance",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/free-workshop-jane-austens-country-dance-3/",
+"src": "bartowpell"
 },
 {
 "id": "s64c1c39bf2",
@@ -3361,6 +3481,46 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/ai-tools-for-literature-review-writing-and-research-productivity/",
 "src": "nyas"
+},
+{
+"id": "sa0921e04eb",
+"date": "2026-11-06",
+"time": "19:00",
+"title": "Dungeons and Dragons Weekend",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
+"src": "bartowpell"
+},
+{
+"id": "s1ee78ccfb8",
+"date": "2026-11-07",
+"time": "11:00",
+"title": "Bartow-Pell Tree ID Walk",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/bartow-pell-tree-id-walk-2/",
+"src": "bartowpell"
+},
+{
+"id": "s28cf528f50",
+"date": "2026-11-07",
+"time": "19:00",
+"title": "Dungeons and Dragons Weekend",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
+"src": "bartowpell"
+},
+{
+"id": "sa335b00fe1",
+"date": "2026-11-08",
+"time": "19:00",
+"title": "Dungeons and Dragons Weekend",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
+"src": "bartowpell"
 },
 {
 "id": "sb68410238b",
