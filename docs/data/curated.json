@@ -1,0 +1,28 @@
+{
+  "note": "Hand-curated exhibitions with real open/close dates from each museum's own site. Refresh quarterly. Merged into the calendar alongside the nightly scrape.",
+  "updated": "2026-07-15",
+  "events": [
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"Gothic by Design: The Dawn of Architectural Draftsmanship","end":"2026-07-19","url":"https://www.metmuseum.org/exhibitions/gothic-by-design-the-dawn-of-architectural-draftsmanship"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"Lillian Bassman: Bazaar and Beyond","end":"2026-07-26","url":"https://www.metmuseum.org/exhibitions/lillian-bassman-bazaar-and-beyond"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"Revolution!","end":"2026-09-07","url":"https://www.metmuseum.org/exhibitions/revolution"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"Giacometti in the Temple of Dendur","end":"2026-09-08","url":"https://www.metmuseum.org/exhibitions/giacometti-in-the-temple-of-dendur"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"Musical Bodies","end":"2026-09-27","url":"https://www.metmuseum.org/exhibitions/musical-bodies"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"Independence and Identity: Selections from the Department of Drawings and Prints","end":"2026-10-06","url":"https://www.metmuseum.org/exhibitions/independence-and-identity-selections-from-the-department-of-drawings-and-prints"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"Creatures of Myth and Imagination: Europe and the Americas","end":"2026-10-18","url":"https://www.metmuseum.org/exhibitions/creatures-of-myth-and-imagination-europe-and-the-americas"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"P. S. Art 2026: Celebrating the Creative Spirit of New York City Kids","end":"2026-10-26","url":"https://www.metmuseum.org/exhibitions/p-s-art-2026-celebrating-the-creative-spirit-of-new-york-city-kids"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"City of Memory: Nanjing in the Seventeenth Century","end":"2027-01-03","url":"https://www.metmuseum.org/exhibitions/city-of-memory-nanjing-in-the-17th-century"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"Costume Art","end":"2027-01-10","url":"https://www.metmuseum.org/exhibitions/costume-art"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"Afterlives: Contemporary Art in the Byzantine Crypt","end":"2027-01-10","url":"https://www.metmuseum.org/exhibitions/afterlives-contemporary-art-in-the-byzantine-crypt"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"Celebrating the Year of the Horse","end":"2027-01-26","url":"https://www.metmuseum.org/exhibitions/celebrating-the-year-of-the-horse"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"Orientalism: Between Fact and Fantasy","end":"2027-02-28","url":"https://www.metmuseum.org/exhibitions/orientalism-between-fact-and-fantasy"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"Flip Sides: Seeing Korean Art Anew","end":"2027-05-31","url":"https://www.metmuseum.org/exhibitions/flip-sides-seeing-korean-art-anew"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"Household Gods: Hindu Devotional Prints, 1860–1930","end":"2027-06-27","url":"https://www.metmuseum.org/exhibitions/household-gods-hindu-devotional-prints-1860-1930"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"The Infinite Artistry of Japanese Ceramics","end":"2027-08-08","url":"https://www.metmuseum.org/exhibitions/the-infinite-artistry-of-japanese-ceramics"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"Cottage Industry: The Val-Kill Furniture Shop","start":"2026-07-18","end":"2027-05-09","url":"https://www.metmuseum.org/exhibitions/cottage-industry-the-val-kill-furniture-shop"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"Decorative Arts in China, 1000 to the Present","start":"2026-07-25","url":"https://www.metmuseum.org/exhibitions/decorative-arts-in-china-1000-to-the-present"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"A Lasting Legacy: Chinese Jades from New York Collections","start":"2026-07-25","url":"https://www.metmuseum.org/exhibitions/a-lasting-legacy-chinese-jades-from-new-york-collections"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"A King's Carpet: Louis XIV and the Savonnerie","start":"2026-09-08","end":"2028-03-05","url":"https://www.metmuseum.org/exhibitions/a-kings-carpet-louis-xiv-and-the-savonnerie"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"The Genesis Facade Commission: Liu Wei","start":"2026-09-17","end":"2027-06-08","url":"https://www.metmuseum.org/exhibitions/the-genesis-facade-commission-liu-wei"},
+    {"venue":"The Metropolitan Museum of Art","cat":"art","title":"Krasner and Pollock: Past Continuous","start":"2026-10-04","end":"2027-01-31","url":"https://www.metmuseum.org/exhibitions/krasner-and-pollock-past-continuous"}
+  ]
+}

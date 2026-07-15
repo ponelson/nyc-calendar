@@ -497,6 +497,7 @@ const RECUR = [
 const KEY = 'nycal:events:v1';
 let userEvents = [];
 let feedEvents = [];   // nightly scrape, docs/data/events.json
+let curatedEvents = [];  // hand-curated exhibitions, docs/data/curated.json
 let feedMeta = null;
 let cursor = new Date(); cursor.setDate(1);
 let selected = new Date();
@@ -517,6 +518,36 @@ async function loadEvents(){
   }catch(e){ userEvents = []; }
   render();
 }
+function expandCurated(raw){
+  const out = [];
+  const today = new Date(); today.setHours(0,0,0,0);
+  const horizon = new Date(today); horizon.setDate(horizon.getDate()+400);
+  const mk = (e, date, suffix) => ({
+    id: 'c'+btoa(unescape(encodeURIComponent(e.venue+e.title+date+suffix))).slice(0,12),
+    date, time:'', title: e.title + suffix, venue: e.venue, cat: e.cat,
+    url: e.url, feed:true
+  });
+  (raw||[]).forEach(e=>{
+    const end = e.end ? new Date(e.end+'T00:00:00') : null;
+    const start = e.start ? new Date(e.start+'T00:00:00') : null;
+    if(start && start>=today && start<=horizon) out.push(mk(e,e.start, start&&end&&(end-start)/864e5<=14 ? '' : ' — opens'));
+    if(end && end>=today && end<=horizon){
+      const soloDay = !start || (end-start)/864e5 > 14;
+      out.push(mk(e, e.end, soloDay ? ' — final day' : ''));
+    }
+  });
+  return out;
+}
+
+async function loadCurated(){
+  try{
+    const r = await fetch('data/curated.json', {cache:'no-store'});
+    const d = await r.json();
+    curatedEvents = expandCurated(d.events);
+  }catch(e){ curatedEvents = []; }
+  render();
+}
+
 async function loadFeed(){
   try{
     const r = await fetch('data/events.json', {cache:'no-store'});
@@ -559,7 +590,7 @@ async function saveEvents(){
 function eventsFor(date){
   const key = iso(date);
   const out = [];
-  const feed = feedEvents.filter(e=>e.date===key);
+  const feed = feedEvents.concat(curatedEvents).filter(e=>e.date===key);
 
   // A real listing always beats a standing rule. Once the scraper knows the Vanguard
   // has the Bill Frisell Trio on Thursday, "Sets at 8:00 and 10:00" is noise — so a
@@ -748,6 +779,7 @@ document.getElementById('mSave').onclick = async ()=>{
 render();
 loadEvents();
 loadFeed();
+loadCurated();
 </script>
 </body>
 </html>
