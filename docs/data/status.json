@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T02:41:14+00:00",
-  "healthy": 16,
+  "generated": "2026-07-15T03:09:58+00:00",
+  "healthy": 14,
   "total": 23,
   "venues": [
     {
@@ -32,15 +32,15 @@
       "name": "St. Ann's Warehouse",
       "cat": "talks",
       "strategy": "ics",
-      "count": 23,
-      "error": null
+      "count": 0,
+      "error": "RuntimeError: HTTP 403"
     },
     {
       "id": "japansociety",
       "name": "Japan Society",
       "cat": "talks",
       "strategy": "custom",
-      "count": 109,
+      "count": 96,
       "error": null
     },
     {
@@ -56,7 +56,7 @@
       "name": "Simons Foundation",
       "cat": "talks",
       "strategy": "ics",
-      "count": 8,
+      "count": 7,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
       "cat": "broadway",
       "strategy": "custom",
       "count": 0,
-      "error": "RuntimeError: HTTP 403"
+      "error": "no events parsed"
     },
     {
       "id": "guggenheim",
@@ -113,7 +113,7 @@
       "cat": "jazz",
       "strategy": "custom",
       "count": 0,
-      "error": "SSLError: HTTPSConnectionPool(host='www.mezzrow.com', port=443): Max retries exceeded with url: /wp-json/wp/v2/event?per_page=100 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"
+      "error": "SSLError: HTTPSConnectionPool(host='www.mezzrow.com', port=443): Max retries exceeded with url: /wp-json/wp/v2/event?per_page=100 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
     },
     {
       "id": "dizzys",
@@ -129,7 +129,7 @@
       "cat": "jazz",
       "strategy": "custom",
       "count": 0,
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.smokejazz.com/wp-json/wp/v2/event?per_page=100"
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.smokejazz.com/wp-json/wp/v2/event?per_page=100"
     },
     {
       "id": "jazzgallery",
@@ -160,8 +160,8 @@
       "name": "Bartow-Pell Mansion",
       "cat": "houses",
       "strategy": "ics",
-      "count": 19,
-      "error": null
+      "count": 0,
+      "error": "RuntimeError: HTTP 202"
     },
     {
       "id": "aliceausten",
