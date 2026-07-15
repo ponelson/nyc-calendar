@@ -500,7 +500,7 @@ let feedEvents = [];   // nightly scrape, docs/data/events.json
 let feedMeta = null;
 let cursor = new Date(); cursor.setDate(1);
 let selected = new Date();
-let activeCat = 'all';
+let activeCats = new Set();   // empty = Everything; otherwise the selected category ids
 let view = 'month';
 let query = '';
 
@@ -572,7 +572,7 @@ function eventsFor(date){
   feed.forEach(e=>out.push(e));
   userEvents.filter(e=>e.date===key).forEach(e=>out.push(e));
   return out
-    .filter(e => activeCat==='all' || e.cat===activeCat)
+    .filter(e => activeCats.size===0 || activeCats.has(e.cat))
     .filter(e => !query || (e.title+' '+e.venue).toLowerCase().includes(query))
     .sort((a,b)=>(a.time||'').localeCompare(b.time||''));
 }
@@ -581,9 +581,16 @@ function eventsFor(date){
 function renderTabs(){
   const t = document.getElementById('tabs');
   const all = [{id:'all',name:'Everything',color:'var(--ink)'}].concat(CATS);
-  t.innerHTML = all.map(c=>`<button class="tab" role="tab" data-cat="${c.id}" aria-selected="${activeCat===c.id}" style="--tabcolor:${c.color}">
-    <span class="dot" style="${activeCat===c.id?'':'background:'+c.color}"></span>${c.name}</button>`).join('');
-  t.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{activeCat=b.dataset.cat; render();});
+  const isOn = id => id==='all' ? activeCats.size===0 : activeCats.has(id);
+  t.innerHTML = all.map(c=>`<button class="tab" role="tab" data-cat="${c.id}" aria-selected="${isOn(c.id)}" aria-pressed="${isOn(c.id)}" style="--tabcolor:${c.color}">
+    <span class="dot" style="${isOn(c.id)?'':'background:'+c.color}"></span>${c.name}</button>`).join('');
+  t.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{
+    const id=b.dataset.cat;
+    if(id==='all'){ activeCats.clear(); }            // Everything resets to no filter
+    else if(activeCats.has(id)){ activeCats.delete(id); }  // click again to remove
+    else { activeCats.add(id); }                     // add to the active set
+    render();
+  });
 }
 
 function renderMonth(){
@@ -628,7 +635,7 @@ function renderDayPanel(){
   const p = document.getElementById('dayPanel');
   const evs = eventsFor(selected);
   p.innerHTML = `<h3>${selected.toLocaleDateString('en-US',{weekday:'long', month:'long', day:'numeric'})}</h3>
-    <div class="sub">${evs.length} ${evs.length===1?'listing':'listings'}${activeCat!=='all'?' in '+CAT[activeCat].name:''}</div>
+    <div class="sub">${evs.length} ${evs.length===1?'listing':'listings'}${catLabel()?' · '+catLabel():''}</div>
     <div class="rows">${evs.length?evs.map(rowHTML).join('')
       :`<div class="empty"><b>Nothing on this day yet.</b>Add an event, or open the Venues tab and go straight to a box office.</div>`}</div>`;
   wireDeletes(p);
@@ -645,7 +652,7 @@ function renderList(){
       ${new Date(d).toLocaleDateString('en-US',{weekday:'short', month:'short', day:'numeric'})}</div>` + evs.map(rowHTML).join(''));
   }
   p.innerHTML = `<h3>${cursor.toLocaleDateString('en-US',{month:'long',year:'numeric'})}</h3>
-    <div class="sub">Agenda${activeCat!=='all'?' · '+CAT[activeCat].name:''}${query?` · "${esc(query)}"`:''}</div>
+    <div class="sub">Agenda${catLabel()?' · '+catLabel():''}${query?` · "${esc(query)}"`:''}</div>
     <div class="rows list">${out.length?out.join('')
       :`<div class="empty"><b>No listings match.</b>Clear the search, or switch category.</div>`}</div>`;
   wireDeletes(p);
@@ -653,7 +660,7 @@ function renderList(){
 
 function renderVenues(){
   const host = document.getElementById('venueView');
-  const cats = activeCat==='all' ? CATS : CATS.filter(c=>c.id===activeCat);
+  const cats = activeCats.size===0 ? CATS : CATS.filter(c=>activeCats.has(c.id));
   host.innerHTML = cats.map(c=>{
     const items = (VENUES[c.id]||[]).filter(v=>!query || (v.name+' '+(v.note||'')).toLowerCase().includes(query));
     if(!items.length) return '';
@@ -672,6 +679,11 @@ function wireDeletes(scope){
     userEvents = userEvents.filter(e=>e.id!==b.dataset.del);
     await saveEvents(); render();
   });
+}
+
+function catLabel(){
+  if(activeCats.size===0) return '';
+  return CATS.filter(c=>activeCats.has(c.id)).map(c=>c.name).join(', ');
 }
 
 function render(){
