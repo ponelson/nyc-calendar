@@ -1,147 +1,7 @@
 {
-"generated": "2026-07-15T10:44:28+00:00",
-"count": 519,
+"generated": "2026-07-16T10:51:50+00:00",
+"count": 496,
 "events": [
-{
-"id": "s5aee4efd53",
-"date": "2026-07-14",
-"time": "09:00",
-"title": "2026 Flatiron Institute CMB Summer School",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/cmb-summer-school-2026/",
-"src": "simons"
-},
-{
-"id": "s6bc7311673",
-"date": "2026-07-14",
-"time": "",
-"title": "Cocoon",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/cocoon/",
-"src": "japansociety"
-},
-{
-"id": "se7c1c6ae76",
-"date": "2026-07-14",
-"time": "",
-"title": "SAI: Disaster",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/sai-disaster/",
-"src": "japansociety"
-},
-{
-"id": "s4a09333d6c",
-"date": "2026-07-14",
-"time": "",
-"title": "JUNK WORLD",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/junk-world/",
-"src": "japansociety"
-},
-{
-"id": "sfd48f40c15",
-"date": "2026-07-14",
-"time": "",
-"title": "Gosh!!",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/gosh/",
-"src": "japansociety"
-},
-{
-"id": "se45a3ae43f",
-"date": "2026-07-14",
-"time": "",
-"title": "Rewrite",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/rewrite/",
-"src": "japansociety"
-},
-{
-"id": "s86712aa5d6",
-"date": "2026-07-14",
-"time": "",
-"title": "Sato and Sato",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/sato-and-sato/",
-"src": "japansociety"
-},
-{
-"id": "s245326d709",
-"date": "2026-07-14",
-"time": "",
-"title": "Yoyogi Johnny",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/yoyogi-johnny/",
-"src": "japansociety"
-},
-{
-"id": "s1c6c3abe59",
-"date": "2026-07-14",
-"time": "",
-"title": "Night Flower",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/night-flower/",
-"src": "japansociety"
-},
-{
-"id": "s97204adde4",
-"date": "2026-07-14",
-"time": "",
-"title": "Burn",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/burn/",
-"src": "japansociety"
-},
-{
-"id": "s1f2f79f00d",
-"date": "2026-07-14",
-"time": "",
-"title": "TIGER",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/tiger/",
-"src": "japansociety"
-},
-{
-"id": "s53b7db952d",
-"date": "2026-07-14",
-"time": "",
-"title": "Numb",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/numb/",
-"src": "japansociety"
-},
-{
-"id": "s1307cc9747",
-"date": "2026-07-14",
-"time": "",
-"title": "SUZUKI=BAKUDAN",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/suzukibakudan/",
-"src": "japansociety"
-},
-{
-"id": "s15f953c0d8",
-"date": "2026-07-14",
-"time": "",
-"title": "W&#8217;s Tragedy",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/ws-tragedy-4k/",
-"src": "japansociety"
-},
 {
 "id": "s79418854ce",
 "date": "2026-07-15",
@@ -151,66 +11,6 @@
 "cat": "talks",
 "url": "https://www.simonsfoundation.org/event/cmb-summer-school-2026/",
 "src": "simons"
-},
-{
-"id": "s8ad74b1e3f",
-"date": "2026-07-15",
-"time": "10:30",
-"title": "Green-Wood on Wheels: Stroller-Friendly Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-07-15/",
-"src": "greenwood"
-},
-{
-"id": "sbe9c887943",
-"date": "2026-07-15",
-"time": "14:00",
-"title": "Biomolecular Design Group Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-369-965-277-218-169-953-996-255-427-381-72-238-191-820/",
-"src": "simons"
-},
-{
-"id": "sbf3a098e35",
-"date": "2026-07-15",
-"time": "18:00",
-"title": "Carnegie Hall Citywide: American Patchwork Quartet",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/15/carnegie-hall-citywide-american-patchwork-quartet-0600pm",
-"src": "carnegie"
-},
-{
-"id": "s8a6b671593",
-"date": "2026-07-15",
-"time": "19:00",
-"title": "John Ellis Heroes Quintet",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s497de795ac",
-"date": "2026-07-15",
-"time": "19:30",
-"title": "PREMIA International Young Artists Music Festival Prizewinners Concert",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/15/premia-international-young-artists-music-festival-prizewinners-concert-0730pm",
-"src": "carnegie"
-},
-{
-"id": "sb56b496daf",
-"date": "2026-07-15",
-"time": "19:30",
-"title": "Mark Morris Dance Group: Dances to American Music",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/15/mark-morris-dance-group-dances-to-american-music-0730pm",
-"src": "carnegie"
 },
 {
 "id": "sd64f9b2e3c",
@@ -380,6 +180,16 @@
 "venue": "Simons Foundation",
 "cat": "talks",
 "url": "https://www.simonsfoundation.org/event/cmb-summer-school-2026/",
+"src": "simons"
+},
+{
+"id": "s26cedba484",
+"date": "2026-07-16",
+"time": "16:00",
+"title": "Flatiron Seminar Series: Eero Simoncelli",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/flatiron-seminar-series-eero-simoncelli/",
 "src": "simons"
 },
 {
@@ -873,14 +683,24 @@
 "src": "dizzys"
 },
 {
-"id": "se66a19b1b1",
+"id": "sbfb374a3cf",
 "date": "2026-07-18",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575085?skipPreview=true",
-"src": "aliceausten"
+"time": "19:30",
+"title": "Washington International Rachmaninoff Music Competition Winners\u2019 Recital",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/18/washington-international-rachmaninoff-music-competition-winners-recital-0730pm",
+"src": "carnegie"
+},
+{
+"id": "sfef2112a33",
+"date": "2026-07-18",
+"time": "20:00",
+"title": "Sartaaj Heritage Tour 2026",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/18/sartaaj-heritage-tour-2026-0800pm",
+"src": "carnegie"
 },
 {
 "id": "sc1d7b09d71",
@@ -1051,16 +871,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "sa51f9598c6",
-"date": "2026-07-19",
-"time": "",
-"title": "Concert: Smooth Sounds By The Sea",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://www.eventbrite.com/e/15th-anniversary-smooth-sounds-by-the-sea-tickets-1989046564819",
-"src": "aliceausten"
 },
 {
 "id": "seb3337f1ff",
@@ -1283,16 +1093,6 @@
 "src": "greenwood"
 },
 {
-"id": "sd58b410bdd",
-"date": "2026-07-25",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575085?skipPreview=true",
-"src": "aliceausten"
-},
-{
 "id": "s7acb466fba",
 "date": "2026-07-26",
 "time": "10:00",
@@ -1513,16 +1313,6 @@
 "src": "greenwood"
 },
 {
-"id": "s5f395af5be",
-"date": "2026-08-01",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575089?skipPreview=true",
-"src": "aliceausten"
-},
-{
 "id": "saf6bc53812",
 "date": "2026-08-01",
 "time": "",
@@ -1603,6 +1393,16 @@
 "src": "cooperhewitt"
 },
 {
+"id": "s365bccf53d",
+"date": "2026-08-05",
+"time": "10:30",
+"title": "Green-Wood on Wheels: Stroller-Friendly Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-08-05/",
+"src": "greenwood"
+},
+{
 "id": "sb49e334c72",
 "date": "2026-08-05",
 "time": "19:00",
@@ -1651,26 +1451,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s563b6b3a44",
-"date": "2026-08-08",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575102?skipPreview=true",
-"src": "aliceausten"
-},
-{
-"id": "s891ecbc4ec",
-"date": "2026-08-08",
-"time": "",
-"title": "Concert: Fierce Females",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://spotlighttheatresi.org/product/10549/FIERCE_FEMALES_2026",
-"src": "aliceausten"
 },
 {
 "id": "s476af069c2",
@@ -1781,16 +1561,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s0a00f8a54a",
-"date": "2026-08-15",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575159?skipPreview=true",
-"src": "aliceausten"
 },
 {
 "id": "sf9a79e00a7",
@@ -3523,10 +3293,10 @@
 "src": "bartowpell"
 },
 {
-"id": "sb68410238b",
+"id": "s4acd84c532",
 "date": "2026-11-10",
 "time": "19:00",
-"title": "An Unlikely Barn: The Mount Vernon Hotel Museum & Early Villa Building",
+"title": "An Unlikely Barn: The Mount Vernon Hotel & Villa Building on the East River",
 "venue": "Mount Vernon Hotel Museum",
 "cat": "houses",
 "url": "https://mvhm.org/event/an-unlikely-barn-the-mount-vernon-hotel-museum-early-villa-building/",
