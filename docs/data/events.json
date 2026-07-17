@@ -1,177 +1,7 @@
 {
-"generated": "2026-07-16T10:51:50+00:00",
-"count": 496,
+"generated": "2026-07-17T10:40:53+00:00",
+"count": 478,
 "events": [
-{
-"id": "s79418854ce",
-"date": "2026-07-15",
-"time": "09:00",
-"title": "2026 Flatiron Institute CMB Summer School",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/cmb-summer-school-2026/",
-"src": "simons"
-},
-{
-"id": "sd64f9b2e3c",
-"date": "2026-07-15",
-"time": "",
-"title": "Family Program | Summer Design Series",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-15-2026/",
-"src": "cooperhewitt"
-},
-{
-"id": "seae87e0835",
-"date": "2026-07-15",
-"time": "",
-"title": "Close Looking with the Curator",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/close-looking-with-the-curator",
-"src": "guggenheim"
-},
-{
-"id": "s64ddac21f4",
-"date": "2026-07-15",
-"time": "",
-"title": "Cocoon",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/cocoon/",
-"src": "japansociety"
-},
-{
-"id": "s668119ce12",
-"date": "2026-07-15",
-"time": "",
-"title": "SAI: Disaster",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/sai-disaster/",
-"src": "japansociety"
-},
-{
-"id": "s65e94df1bd",
-"date": "2026-07-15",
-"time": "",
-"title": "JUNK WORLD",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/junk-world/",
-"src": "japansociety"
-},
-{
-"id": "saa3b346976",
-"date": "2026-07-15",
-"time": "",
-"title": "Gosh!!",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/gosh/",
-"src": "japansociety"
-},
-{
-"id": "s0982168a33",
-"date": "2026-07-15",
-"time": "",
-"title": "Rewrite",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/rewrite/",
-"src": "japansociety"
-},
-{
-"id": "s97a1aa027f",
-"date": "2026-07-15",
-"time": "",
-"title": "Sato and Sato",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/sato-and-sato/",
-"src": "japansociety"
-},
-{
-"id": "s0f0095f72e",
-"date": "2026-07-15",
-"time": "",
-"title": "Yoyogi Johnny",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/yoyogi-johnny/",
-"src": "japansociety"
-},
-{
-"id": "sb336e921e5",
-"date": "2026-07-15",
-"time": "",
-"title": "Night Flower",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/night-flower/",
-"src": "japansociety"
-},
-{
-"id": "sd81f515068",
-"date": "2026-07-15",
-"time": "",
-"title": "Burn",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/burn/",
-"src": "japansociety"
-},
-{
-"id": "s658d1f03b9",
-"date": "2026-07-15",
-"time": "",
-"title": "TIGER",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/tiger/",
-"src": "japansociety"
-},
-{
-"id": "s930dbbcc63",
-"date": "2026-07-15",
-"time": "",
-"title": "Numb",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/numb/",
-"src": "japansociety"
-},
-{
-"id": "s86129ba332",
-"date": "2026-07-15",
-"time": "",
-"title": "SUZUKI=BAKUDAN",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/suzukibakudan/",
-"src": "japansociety"
-},
-{
-"id": "s00cea1e300",
-"date": "2026-07-15",
-"time": "",
-"title": "W&#8217;s Tragedy",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/ws-tragedy-4k/",
-"src": "japansociety"
-},
-{
-"id": "s00d7f933d7",
-"date": "2026-07-15",
-"time": "",
-"title": "Women of Emanu-El: Summer Mornings Bridge Supervised Play",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-summer-nights-bridge-985/",
-"src": "emanuel"
-},
 {
 "id": "s71d3625a10",
 "date": "2026-07-16",
@@ -181,56 +11,6 @@
 "cat": "talks",
 "url": "https://www.simonsfoundation.org/event/cmb-summer-school-2026/",
 "src": "simons"
-},
-{
-"id": "s26cedba484",
-"date": "2026-07-16",
-"time": "16:00",
-"title": "Flatiron Seminar Series: Eero Simoncelli",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/flatiron-seminar-series-eero-simoncelli/",
-"src": "simons"
-},
-{
-"id": "s15c2257e4b",
-"date": "2026-07-16",
-"time": "19:00",
-"title": "Yuhan Su Sextet: 101st Cal Tjader Birthday Celebration",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s692221d2db",
-"date": "2026-07-16",
-"time": "19:00",
-"title": "A Night at Niblo\u2019s Garden (Sold Out)",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/a-night-at-niblos-garden-13/2026-07-16/",
-"src": "greenwood"
-},
-{
-"id": "s5b64074b29",
-"date": "2026-07-16",
-"time": "19:30",
-"title": "Mark Morris Dance Group: Dances to American Music",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/16/mark-morris-dance-group-dances-to-american-music-0730pm",
-"src": "carnegie"
-},
-{
-"id": "se5ff8d6522",
-"date": "2026-07-16",
-"time": "19:30",
-"title": "PREMIA International Young Artists Music Festival Prizewinners Concert",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/16/premia-international-young-artists-music-festival-prizewinners-concert-0730pm",
-"src": "carnegie"
 },
 {
 "id": "s8d7375d38f",
@@ -421,6 +201,16 @@
 "cat": "houses",
 "url": "https://dyckmanfarmhouse.org/event/guided-tour-with-museum-admission-10/",
 "src": "dyckman"
+},
+{
+"id": "sb369a00b01",
+"date": "2026-07-17",
+"time": "18:00",
+"title": "It\u2019s the Climb",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/its-the-climb/",
+"src": "simons"
 },
 {
 "id": "s57fec0a5de",
@@ -893,6 +683,16 @@
 "src": "greenwood"
 },
 {
+"id": "sb4aaddb2dd",
+"date": "2026-07-21",
+"time": "19:00",
+"title": "The AVIMC Winners Recital",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/21/the-avimc-winners-recital-0700pm",
+"src": "carnegie"
+},
+{
 "id": "s732190f835",
 "date": "2026-07-21",
 "time": "19:00",
@@ -901,6 +701,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "sd8a01789c0",
+"date": "2026-07-21",
+"time": "19:30",
+"title": "Mark Morris Dance Group: Dances to American Music",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/21/mark-morris-dance-group-dances-to-american-music-0730pm",
+"src": "carnegie"
 },
 {
 "id": "sa3224a054e",
@@ -1441,6 +1251,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "sb23ba9926a",
+"date": "2026-08-07",
+"time": "19:00",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-07/",
+"src": "greenwood"
 },
 {
 "id": "sea9f6dbe92",

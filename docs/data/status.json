@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T10:51:50+00:00",
+  "generated": "2026-07-17T10:40:53+00:00",
   "healthy": 14,
   "total": 23,
   "venues": [
@@ -24,7 +24,7 @@
       "name": "Temple Emanu-El \u2014 Streicker",
       "cat": "classical",
       "strategy": "custom",
-      "count": 46,
+      "count": 45,
       "error": null
     },
     {
@@ -40,7 +40,7 @@
       "name": "Japan Society",
       "cat": "talks",
       "strategy": "custom",
-      "count": 83,
+      "count": 70,
       "error": null
     },
     {
@@ -56,7 +56,7 @@
       "name": "Simons Foundation",
       "cat": "talks",
       "strategy": "ics",
-      "count": 4,
+      "count": 3,
       "error": null
     },
     {
@@ -72,7 +72,7 @@
       "name": "Guggenheim",
       "cat": "art",
       "strategy": "custom",
-      "count": 13,
+      "count": 12,
       "error": null
     },
     {
@@ -80,7 +80,7 @@
       "name": "Cooper Hewitt",
       "cat": "art",
       "strategy": "custom",
-      "count": 20,
+      "count": 19,
       "error": null
     },
     {
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 111,
+      "count": 110,
       "error": null
     },
     {
