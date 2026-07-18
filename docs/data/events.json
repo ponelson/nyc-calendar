@@ -1,237 +1,7 @@
 {
-"generated": "2026-07-17T10:40:53+00:00",
-"count": 478,
+"generated": "2026-07-18T10:12:10+00:00",
+"count": 445,
 "events": [
-{
-"id": "s71d3625a10",
-"date": "2026-07-16",
-"time": "09:00",
-"title": "2026 Flatiron Institute CMB Summer School",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/cmb-summer-school-2026/",
-"src": "simons"
-},
-{
-"id": "s8d7375d38f",
-"date": "2026-07-16",
-"time": "",
-"title": "Late Shift",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/late-shift",
-"src": "guggenheim"
-},
-{
-"id": "sfdbab28f59",
-"date": "2026-07-16",
-"time": "",
-"title": "Cocoon",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/cocoon/",
-"src": "japansociety"
-},
-{
-"id": "s1984b54588",
-"date": "2026-07-16",
-"time": "",
-"title": "SAI: Disaster",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/sai-disaster/",
-"src": "japansociety"
-},
-{
-"id": "sb8bff9b21c",
-"date": "2026-07-16",
-"time": "",
-"title": "JUNK WORLD",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/junk-world/",
-"src": "japansociety"
-},
-{
-"id": "s480299e9ac",
-"date": "2026-07-16",
-"time": "",
-"title": "Gosh!!",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/gosh/",
-"src": "japansociety"
-},
-{
-"id": "sf62b452eb5",
-"date": "2026-07-16",
-"time": "",
-"title": "Rewrite",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/rewrite/",
-"src": "japansociety"
-},
-{
-"id": "s0a7882fde2",
-"date": "2026-07-16",
-"time": "",
-"title": "Sato and Sato",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/sato-and-sato/",
-"src": "japansociety"
-},
-{
-"id": "s9c2f3fb701",
-"date": "2026-07-16",
-"time": "",
-"title": "Yoyogi Johnny",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/yoyogi-johnny/",
-"src": "japansociety"
-},
-{
-"id": "sf2549af4d1",
-"date": "2026-07-16",
-"time": "",
-"title": "Night Flower",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/night-flower/",
-"src": "japansociety"
-},
-{
-"id": "sb206bfb532",
-"date": "2026-07-16",
-"time": "",
-"title": "Burn",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/burn/",
-"src": "japansociety"
-},
-{
-"id": "s75b48dc37c",
-"date": "2026-07-16",
-"time": "",
-"title": "TIGER",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/tiger/",
-"src": "japansociety"
-},
-{
-"id": "s1dc11e56c0",
-"date": "2026-07-16",
-"time": "",
-"title": "Numb",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/numb/",
-"src": "japansociety"
-},
-{
-"id": "s152aecfba1",
-"date": "2026-07-16",
-"time": "",
-"title": "SUZUKI=BAKUDAN",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/suzukibakudan/",
-"src": "japansociety"
-},
-{
-"id": "sc11ec22b15",
-"date": "2026-07-16",
-"time": "",
-"title": "W&#8217;s Tragedy",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/ws-tragedy-4k/",
-"src": "japansociety"
-},
-{
-"id": "sf384dbe026",
-"date": "2026-07-16",
-"time": "",
-"title": "My Tokyo Summer",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/my-tokyo-summer/",
-"src": "japansociety"
-},
-{
-"id": "sd86eb6969a",
-"date": "2026-07-16",
-"time": "",
-"title": "Women of Emanu-El: Summer Mornings Bridge Intermediate Play",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-summer-nights-bridge-285/",
-"src": "emanuel"
-},
-{
-"id": "s51d0bdd785",
-"date": "2026-07-16",
-"time": "",
-"title": "Women of Emanu-El: Summer Nights Bridge",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-summer-nights-bridge/",
-"src": "emanuel"
-},
-{
-"id": "s6b30269dec",
-"date": "2026-07-17",
-"time": "09:00",
-"title": "2026 Flatiron Institute CMB Summer School",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/cmb-summer-school-2026/",
-"src": "simons"
-},
-{
-"id": "se346a95660",
-"date": "2026-07-17",
-"time": "14:00",
-"title": "Guided Tour with Museum Admission",
-"venue": "Dyckman Farmhouse",
-"cat": "houses",
-"url": "https://dyckmanfarmhouse.org/event/guided-tour-with-museum-admission-10/",
-"src": "dyckman"
-},
-{
-"id": "sb369a00b01",
-"date": "2026-07-17",
-"time": "18:00",
-"title": "It\u2019s the Climb",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/its-the-climb/",
-"src": "simons"
-},
-{
-"id": "s57fec0a5de",
-"date": "2026-07-17",
-"time": "19:00",
-"title": "Carnegie Hall Citywide: Nathan and the Zydeco Cha Chas",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/17/carnegie-hall-citywide-nathan-and-the-zydeco-cha-chas-0700pm",
-"src": "carnegie"
-},
-{
-"id": "sab4b85bc4d",
-"date": "2026-07-17",
-"time": "19:00",
-"title": "2026 Concordia Music Competition Top Honors Recital",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/17/2026-concordia-music-competition-top-honors-recital-0700pm",
-"src": "carnegie"
-},
 {
 "id": "s8d3bc2b6e4",
 "date": "2026-07-17",
@@ -241,26 +11,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s7391393444",
-"date": "2026-07-17",
-"time": "19:00",
-"title": "A Night at Niblo\u2019s Garden (Sold Out)",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/a-night-at-niblos-garden-13/2026-07-17/",
-"src": "greenwood"
-},
-{
-"id": "sec1023d8eb",
-"date": "2026-07-17",
-"time": "19:30",
-"title": "Mark Morris Dance Group: Dances to American Music",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/17/mark-morris-dance-group-dances-to-american-music-0730pm",
-"src": "carnegie"
 },
 {
 "id": "s1f6ba0e422",
@@ -403,20 +153,20 @@
 "src": "greenwood"
 },
 {
-"id": "s38c22ca53e",
+"id": "s88503e57f1",
 "date": "2026-07-18",
 "time": "10:00",
-"title": "Explore Green-Wood\u2019s Fungal Biodiversity: Mushroom Hotspot",
+"title": "Explore Green-Wood\u2019s Fungal Biodiversity: Mushroom Hotspot (Rescheduled to 07/26)",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/explore-green-woods-fungal-biodiversity-mushroom-hotspot/",
 "src": "greenwood"
 },
 {
-"id": "scb5b1ced5a",
+"id": "s35a65830d5",
 "date": "2026-07-18",
 "time": "11:00",
-"title": "Landscapes in Dialogue: A Historical Ecology Walk at Green-Wood",
+"title": "Landscapes in Dialogue: A Historical Ecology Walk at Green-Wood (Rescheduled to 7/25)",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/landscapes-in-dialogue-a-historical-ecology-walk-at-green-wood/",
@@ -491,6 +241,16 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2026/07/18/sartaaj-heritage-tour-2026-0800pm",
 "src": "carnegie"
+},
+{
+"id": "se66a19b1b1",
+"date": "2026-07-18",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575085?skipPreview=true",
+"src": "aliceausten"
 },
 {
 "id": "sc1d7b09d71",
@@ -663,6 +423,16 @@
 "src": "dizzys"
 },
 {
+"id": "sa51f9598c6",
+"date": "2026-07-19",
+"time": "",
+"title": "Concert: Smooth Sounds By The Sea",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://www.eventbrite.com/e/15th-anniversary-smooth-sounds-by-the-sea-tickets-1989046564819",
+"src": "aliceausten"
+},
+{
 "id": "seb3337f1ff",
 "date": "2026-07-20",
 "time": "19:00",
@@ -713,6 +483,16 @@
 "src": "carnegie"
 },
 {
+"id": "scde7849a2d",
+"date": "2026-07-22",
+"time": "18:00",
+"title": "Carnegie Hall Citywide: Cerus Quartet",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/22/carnegie-hall-citywide-cerus-quartet-0600pm",
+"src": "carnegie"
+},
+{
 "id": "sa3224a054e",
 "date": "2026-07-22",
 "time": "18:00",
@@ -723,6 +503,16 @@
 "src": "dyckman"
 },
 {
+"id": "sb715f8ba4f",
+"date": "2026-07-22",
+"time": "19:00",
+"title": "Post Falls Music Academy Student Recital",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/22/post-falls-music-academy-student-recital-0700pm",
+"src": "carnegie"
+},
+{
 "id": "sd9c030416d",
 "date": "2026-07-22",
 "time": "19:00",
@@ -731,6 +521,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "sdff1eb8f37",
+"date": "2026-07-22",
+"time": "19:30",
+"title": "Mark Morris Dance Group: Dances to American Music",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/22/mark-morris-dance-group-dances-to-american-music-0730pm",
+"src": "carnegie"
 },
 {
 "id": "s140444e336",
@@ -901,6 +701,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-07-25/",
 "src": "greenwood"
+},
+{
+"id": "sd58b410bdd",
+"date": "2026-07-25",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575085?skipPreview=true",
+"src": "aliceausten"
 },
 {
 "id": "s7acb466fba",
@@ -1123,6 +933,16 @@
 "src": "greenwood"
 },
 {
+"id": "s5f395af5be",
+"date": "2026-08-01",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575089?skipPreview=true",
+"src": "aliceausten"
+},
+{
 "id": "saf6bc53812",
 "date": "2026-08-01",
 "time": "",
@@ -1263,6 +1083,16 @@
 "src": "greenwood"
 },
 {
+"id": "sff40b70e3c",
+"date": "2026-08-08",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-08-08/",
+"src": "greenwood"
+},
+{
 "id": "sea9f6dbe92",
 "date": "2026-08-08",
 "time": "19:00",
@@ -1271,6 +1101,26 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s563b6b3a44",
+"date": "2026-08-08",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575102?skipPreview=true",
+"src": "aliceausten"
+},
+{
+"id": "s891ecbc4ec",
+"date": "2026-08-08",
+"time": "",
+"title": "Concert: Fierce Females",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://spotlighttheatresi.org/product/10549/FIERCE_FEMALES_2026",
+"src": "aliceausten"
 },
 {
 "id": "s476af069c2",
@@ -1381,6 +1231,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s0a00f8a54a",
+"date": "2026-08-15",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575159?skipPreview=true",
+"src": "aliceausten"
 },
 {
 "id": "sf9a79e00a7",
@@ -1663,16 +1523,6 @@
 "src": "mvhm"
 },
 {
-"id": "s9a77076395",
-"date": "2026-09-04",
-"time": "18:00",
-"title": "September's First Friday with Miles East",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/mays-first-friday-with-miles-east/",
-"src": "bartowpell"
-},
-{
 "id": "s9ed802bb0c",
 "date": "2026-09-04",
 "time": "19:00",
@@ -1843,16 +1693,6 @@
 "src": "japansociety"
 },
 {
-"id": "s31fcf5c3a4",
-"date": "2026-09-12",
-"time": "10:00",
-"title": "Bartow-Brocante Market",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/bartow-brocante-market/",
-"src": "bartowpell"
-},
-{
 "id": "s496fa448c8",
 "date": "2026-09-12",
 "time": "19:00",
@@ -1871,16 +1711,6 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/dan-flavin-grids-hong-kong",
 "src": "zwirner"
-},
-{
-"id": "s8da2c94b84",
-"date": "2026-09-13",
-"time": "10:00",
-"title": "Bartow-Brocante Market",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/bartow-brocante-market/",
-"src": "bartowpell"
 },
 {
 "id": "sa8de3a526b",
@@ -2123,16 +1953,6 @@
 "src": "zwirner"
 },
 {
-"id": "s0b1f20d967",
-"date": "2026-09-24",
-"time": "19:00",
-"title": "Expanding the Discourse: Poetry Readings by David Mills",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/expanding-the-discourse-poetry-readings-by-david-mills/",
-"src": "bartowpell"
-},
-{
 "id": "s60b2842bd1",
 "date": "2026-09-24",
 "time": "19:00",
@@ -2323,16 +2143,6 @@
 "src": "mvhm"
 },
 {
-"id": "sb5b45f2487",
-"date": "2026-10-02",
-"time": "18:00",
-"title": "First Friday with Warren Banholzer",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/first-friday-with-warren-banholzer-4/",
-"src": "bartowpell"
-},
-{
 "id": "s090bc023e0",
 "date": "2026-10-02",
 "time": "19:00",
@@ -2513,16 +2323,6 @@
 "src": "nycballet"
 },
 {
-"id": "sdea1b8ae16",
-"date": "2026-10-10",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
-},
-{
 "id": "se592d48191",
 "date": "2026-10-10",
 "time": "19:00",
@@ -2563,16 +2363,6 @@
 "src": "nycballet"
 },
 {
-"id": "s1d7103e953",
-"date": "2026-10-11",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
-},
-{
 "id": "s7648225aff",
 "date": "2026-10-11",
 "time": "19:00",
@@ -2583,16 +2373,6 @@
 "src": "dizzys"
 },
 {
-"id": "s00eb1d1cde",
-"date": "2026-10-12",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
-},
-{
 "id": "sd40d9cb9bd",
 "date": "2026-10-12",
 "time": "19:00",
@@ -2601,16 +2381,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s0ee350becb",
-"date": "2026-10-13",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
 },
 {
 "id": "s94fb90f0f1",
@@ -2643,16 +2413,6 @@
 "src": "nyas"
 },
 {
-"id": "s466f2dc686",
-"date": "2026-10-14",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
-},
-{
 "id": "s7f4edb9faa",
 "date": "2026-10-14",
 "time": "19:00",
@@ -2671,16 +2431,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
 "src": "nycballet"
-},
-{
-"id": "se68b8533ae",
-"date": "2026-10-15",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
 },
 {
 "id": "sf41f46e179",
@@ -2703,16 +2453,6 @@
 "src": "nycballet"
 },
 {
-"id": "sae4893df37",
-"date": "2026-10-16",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
-},
-{
 "id": "s23a89e239c",
 "date": "2026-10-16",
 "time": "19:00",
@@ -2731,16 +2471,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
-},
-{
-"id": "s92ac6265ee",
-"date": "2026-10-17",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
 },
 {
 "id": "s1634e913e4",
@@ -2801,16 +2531,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/adrian-danchig-waring-farewell",
 "src": "nycballet"
-},
-{
-"id": "s54eca76d09",
-"date": "2026-10-18",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
 },
 {
 "id": "seebdc475fc",
@@ -2931,16 +2651,6 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/emma-mcintyre",
 "src": "zwirner"
-},
-{
-"id": "s071091bce6",
-"date": "2026-10-25",
-"time": "16:00",
-"title": "Free workshop: Jane Austen\u2019s Country Dance",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/free-workshop-jane-austens-country-dance-3/",
-"src": "bartowpell"
 },
 {
 "id": "s64c1c39bf2",
@@ -3071,46 +2781,6 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/ai-tools-for-literature-review-writing-and-research-productivity/",
 "src": "nyas"
-},
-{
-"id": "sa0921e04eb",
-"date": "2026-11-06",
-"time": "19:00",
-"title": "Dungeons and Dragons Weekend",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
-"src": "bartowpell"
-},
-{
-"id": "s1ee78ccfb8",
-"date": "2026-11-07",
-"time": "11:00",
-"title": "Bartow-Pell Tree ID Walk",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/bartow-pell-tree-id-walk-2/",
-"src": "bartowpell"
-},
-{
-"id": "s28cf528f50",
-"date": "2026-11-07",
-"time": "19:00",
-"title": "Dungeons and Dragons Weekend",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
-"src": "bartowpell"
-},
-{
-"id": "sa335b00fe1",
-"date": "2026-11-08",
-"time": "19:00",
-"title": "Dungeons and Dragons Weekend",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
-"src": "bartowpell"
 },
 {
 "id": "s4acd84c532",

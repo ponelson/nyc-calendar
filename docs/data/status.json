@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T10:40:53+00:00",
-  "healthy": 14,
+  "generated": "2026-07-18T10:12:10+00:00",
+  "healthy": 13,
   "total": 23,
   "venues": [
     {
@@ -24,7 +24,7 @@
       "name": "Temple Emanu-El \u2014 Streicker",
       "cat": "classical",
       "strategy": "custom",
-      "count": 45,
+      "count": 43,
       "error": null
     },
     {
@@ -40,7 +40,7 @@
       "name": "Japan Society",
       "cat": "talks",
       "strategy": "custom",
-      "count": 70,
+      "count": 56,
       "error": null
     },
     {
@@ -56,8 +56,8 @@
       "name": "Simons Foundation",
       "cat": "talks",
       "strategy": "ics",
-      "count": 3,
-      "error": null
+      "count": 0,
+      "error": "no events parsed"
     },
     {
       "id": "broadway",
@@ -72,7 +72,7 @@
       "name": "Guggenheim",
       "cat": "art",
       "strategy": "custom",
-      "count": 12,
+      "count": 11,
       "error": null
     },
     {
@@ -160,23 +160,23 @@
       "name": "Bartow-Pell Mansion",
       "cat": "houses",
       "strategy": "ics",
-      "count": 19,
-      "error": null
+      "count": 0,
+      "error": "RuntimeError: HTTP 202"
     },
     {
       "id": "aliceausten",
       "name": "Alice Austen House",
       "cat": "houses",
       "strategy": "jsonld",
-      "count": 0,
-      "error": "RuntimeError: HTTP 429"
+      "count": 7,
+      "error": null
     },
     {
       "id": "dyckman",
       "name": "Dyckman Farmhouse",
       "cat": "houses",
       "strategy": "ics",
-      "count": 5,
+      "count": 4,
       "error": null
     },
     {
