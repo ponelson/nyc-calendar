@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T10:12:10+00:00",
-  "healthy": 13,
+  "generated": "2026-07-19T10:21:11+00:00",
+  "healthy": 14,
   "total": 23,
   "venues": [
     {
@@ -16,7 +16,7 @@
       "name": "Carnegie Hall",
       "cat": "classical",
       "strategy": "custom",
-      "count": 9,
+      "count": 10,
       "error": null
     },
     {
@@ -40,7 +40,7 @@
       "name": "Japan Society",
       "cat": "talks",
       "strategy": "custom",
-      "count": 56,
+      "count": 43,
       "error": null
     },
     {
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 110,
+      "count": 109,
       "error": null
     },
     {
@@ -160,8 +160,8 @@
       "name": "Bartow-Pell Mansion",
       "cat": "houses",
       "strategy": "ics",
-      "count": 0,
-      "error": "RuntimeError: HTTP 202"
+      "count": 19,
+      "error": null
     },
     {
       "id": "aliceausten",
@@ -176,7 +176,7 @@
       "name": "Dyckman Farmhouse",
       "cat": "houses",
       "strategy": "ics",
-      "count": 4,
+      "count": 3,
       "error": null
     },
     {
