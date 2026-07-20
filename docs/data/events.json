@@ -1,206 +1,26 @@
 {
-"generated": "2026-07-19T10:21:11+00:00",
-"count": 450,
+"generated": "2026-07-20T11:38:41+00:00",
+"count": 437,
 "events": [
 {
-"id": "se105bd97d8",
-"date": "2026-07-18",
-"time": "19:00",
-"title": "Charles McPherson Quintet",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "se66a19b1b1",
-"date": "2026-07-18",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575085?skipPreview=true",
-"src": "aliceausten"
-},
-{
-"id": "sc1d7b09d71",
-"date": "2026-07-18",
-"time": "",
-"title": "Cocoon",
-"venue": "Japan Society",
+"id": "sdebcd0c0b1",
+"date": "2026-07-20",
+"time": "09:30",
+"title": "DMFT-QE Symposium: July 20th",
+"venue": "Simons Foundation",
 "cat": "talks",
-"url": "https://japansociety.org/events/cocoon/",
-"src": "japansociety"
+"url": "https://www.simonsfoundation.org/event/dmft-qe-symposium-july-20th-467-239-243-90-886-734-763-653-14-534-904-761-884-233/",
+"src": "simons"
 },
 {
-"id": "sfa9737e772",
-"date": "2026-07-18",
-"time": "",
-"title": "SAI: Disaster",
-"venue": "Japan Society",
+"id": "sfeb176dad7",
+"date": "2026-07-20",
+"time": "10:30",
+"title": "Developmental Dynamics Group Meeting",
+"venue": "Simons Foundation",
 "cat": "talks",
-"url": "https://japansociety.org/events/sai-disaster/",
-"src": "japansociety"
-},
-{
-"id": "s035dd0ed92",
-"date": "2026-07-18",
-"time": "",
-"title": "JUNK WORLD",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/junk-world/",
-"src": "japansociety"
-},
-{
-"id": "s1144f48b61",
-"date": "2026-07-18",
-"time": "",
-"title": "Gosh!!",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/gosh/",
-"src": "japansociety"
-},
-{
-"id": "s9bdd50259b",
-"date": "2026-07-18",
-"time": "",
-"title": "Rewrite",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/rewrite/",
-"src": "japansociety"
-},
-{
-"id": "s6eada2d116",
-"date": "2026-07-18",
-"time": "",
-"title": "Sato and Sato",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/sato-and-sato/",
-"src": "japansociety"
-},
-{
-"id": "s62f1d970ac",
-"date": "2026-07-18",
-"time": "",
-"title": "Yoyogi Johnny",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/yoyogi-johnny/",
-"src": "japansociety"
-},
-{
-"id": "s7159d32e9f",
-"date": "2026-07-18",
-"time": "",
-"title": "Night Flower",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/night-flower/",
-"src": "japansociety"
-},
-{
-"id": "sd3345d757e",
-"date": "2026-07-18",
-"time": "",
-"title": "Burn",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/burn/",
-"src": "japansociety"
-},
-{
-"id": "s2bd622b45e",
-"date": "2026-07-18",
-"time": "",
-"title": "TIGER",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/tiger/",
-"src": "japansociety"
-},
-{
-"id": "sae2a89c803",
-"date": "2026-07-18",
-"time": "",
-"title": "Numb",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/numb/",
-"src": "japansociety"
-},
-{
-"id": "s4cb36669b6",
-"date": "2026-07-18",
-"time": "",
-"title": "SUZUKI=BAKUDAN",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/suzukibakudan/",
-"src": "japansociety"
-},
-{
-"id": "s8f308135f4",
-"date": "2026-07-18",
-"time": "",
-"title": "Sheep in the Box",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/sheep-in-the-box/",
-"src": "japansociety"
-},
-{
-"id": "sacfe32ba3e",
-"date": "2026-07-18",
-"time": "",
-"title": "W&#8217;s Tragedy",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/ws-tragedy-4k/",
-"src": "japansociety"
-},
-{
-"id": "s57b5482c12",
-"date": "2026-07-19",
-"time": "06:00",
-"title": "Birding in Peace",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/birding-in-peace-30/2026-07-19/",
-"src": "greenwood"
-},
-{
-"id": "s1fde4187d1",
-"date": "2026-07-19",
-"time": "10:00",
-"title": "Grave Beginnings: Walking Green-Wood",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-07-19/",
-"src": "greenwood"
-},
-{
-"id": "sea5f6423d8",
-"date": "2026-07-19",
-"time": "19:00",
-"title": "Charles McPherson Quintet",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "sa51f9598c6",
-"date": "2026-07-19",
-"time": "",
-"title": "Concert: Smooth Sounds By The Sea",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://www.eventbrite.com/e/15th-anniversary-smooth-sounds-by-the-sea-tickets-1989046564819",
-"src": "aliceausten"
+"url": "https://www.simonsfoundation.org/event/developmental-dynamics-group-meeting-64-619-192-25-461-177-653-619-685-231-44-176-178-62-404-567-416-970-981-263-338-994-191-942-617-846-761-395-983-563-68-582-283-326-788-142-212-426-509-805-310-12-2/",
+"src": "simons"
 },
 {
 "id": "seb3337f1ff",
@@ -1003,6 +823,16 @@
 "src": "dizzys"
 },
 {
+"id": "s69e47ead38",
+"date": "2026-08-11",
+"time": "10:00",
+"title": "Toddler Takeover at the Green-House",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-08-11/",
+"src": "greenwood"
+},
+{
 "id": "s76f3ac400e",
 "date": "2026-08-11",
 "time": "19:00",
@@ -1011,6 +841,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s9b236739de",
+"date": "2026-08-12",
+"time": "18:30",
+"title": "Grieving & Weaving",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grieving-weaving-5/2026-08-12/",
+"src": "greenwood"
 },
 {
 "id": "s8c3573bfec",
@@ -1243,6 +1083,16 @@
 "src": "dizzys"
 },
 {
+"id": "sd73a038daa",
+"date": "2026-08-22",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575169?skipPreview=true",
+"src": "aliceausten"
+},
+{
 "id": "s69dc163a4d",
 "date": "2026-08-23",
 "time": "19:00",
@@ -1311,6 +1161,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s9955020d1b",
+"date": "2026-08-29",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575197?skipPreview=true",
+"src": "aliceausten"
 },
 {
 "id": "s688f3646dd",
@@ -1411,6 +1271,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "se437b4ea62",
+"date": "2026-09-05",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575206?skipPreview=true",
+"src": "aliceausten"
 },
 {
 "id": "s0ab7aa11e4",

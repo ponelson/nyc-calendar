@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T10:21:11+00:00",
-  "healthy": 14,
+  "generated": "2026-07-20T11:38:41+00:00",
+  "healthy": 15,
   "total": 23,
   "venues": [
     {
@@ -40,7 +40,7 @@
       "name": "Japan Society",
       "cat": "talks",
       "strategy": "custom",
-      "count": 43,
+      "count": 29,
       "error": null
     },
     {
@@ -56,8 +56,8 @@
       "name": "Simons Foundation",
       "cat": "talks",
       "strategy": "ics",
-      "count": 0,
-      "error": "no events parsed"
+      "count": 2,
+      "error": null
     },
     {
       "id": "broadway",
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 109,
+      "count": 107,
       "error": null
     },
     {
@@ -168,7 +168,7 @@
       "name": "Alice Austen House",
       "cat": "houses",
       "strategy": "jsonld",
-      "count": 7,
+      "count": 8,
       "error": null
     },
     {
