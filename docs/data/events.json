@@ -1,36 +1,16 @@
 {
-"generated": "2026-07-20T11:38:41+00:00",
-"count": 437,
+"generated": "2026-07-21T10:59:03+00:00",
+"count": 464,
 "events": [
 {
-"id": "sdebcd0c0b1",
-"date": "2026-07-20",
-"time": "09:30",
-"title": "DMFT-QE Symposium: July 20th",
+"id": "se41e304f0f",
+"date": "2026-07-21",
+"time": "00:00",
+"title": "Junior Theoretical Neuroscientists Workshop",
 "venue": "Simons Foundation",
 "cat": "talks",
-"url": "https://www.simonsfoundation.org/event/dmft-qe-symposium-july-20th-467-239-243-90-886-734-763-653-14-534-904-761-884-233/",
+"url": "https://www.simonsfoundation.org/event/jrworkshop2026/",
 "src": "simons"
-},
-{
-"id": "sfeb176dad7",
-"date": "2026-07-20",
-"time": "10:30",
-"title": "Developmental Dynamics Group Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/developmental-dynamics-group-meeting-64-619-192-25-461-177-653-619-685-231-44-176-178-62-404-567-416-970-981-263-338-994-191-942-617-846-761-395-983-563-68-582-283-326-788-142-212-426-509-805-310-12-2/",
-"src": "simons"
-},
-{
-"id": "seb3337f1ff",
-"date": "2026-07-20",
-"time": "19:00",
-"title": "Ginita y La Orquesta Esa Big Band",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "sb73c1c1428",
@@ -41,6 +21,26 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-07-21/",
 "src": "greenwood"
+},
+{
+"id": "s41b915d349",
+"date": "2026-07-21",
+"time": "10:00",
+"title": "Biophysical Modeling Group Meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-369-965-277-218-169-953-996-255-427-871-918-130-546-862/",
+"src": "simons"
+},
+{
+"id": "s64611c176f",
+"date": "2026-07-21",
+"time": "14:00",
+"title": "COMPASS Meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/structural-molecular-biophysics-group-meeting-25-494-979-102-187-630-36-67-497-207-505-565-957-600-338-170-506-848-793-549-370-600-398-874-500-667-990-362-784-923-120-974-139-732-756-7-689-663-601-5-8/",
+"src": "simons"
 },
 {
 "id": "sb4aaddb2dd",
@@ -71,6 +71,16 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2026/07/21/mark-morris-dance-group-dances-to-american-music-0730pm",
 "src": "carnegie"
+},
+{
+"id": "s73dbeb7f85",
+"date": "2026-07-22",
+"time": "00:00",
+"title": "Junior Theoretical Neuroscientists Workshop",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/jrworkshop2026/",
+"src": "simons"
 },
 {
 "id": "scde7849a2d",
@@ -163,13 +173,23 @@
 "src": "japansociety"
 },
 {
+"id": "s8b50b09d1e",
+"date": "2026-07-23",
+"time": "00:00",
+"title": "Junior Theoretical Neuroscientists Workshop",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/jrworkshop2026/",
+"src": "simons"
+},
+{
 "id": "sa1f8d70e90",
 "date": "2026-07-23",
 "time": "18:30",
 "title": "DEATH CAFE",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
-"url": "https://www.green-wood.com/event/death-cafe-23/2026-07-23/",
+"url": "https://www.green-wood.com/event/death-cafe-25/",
 "src": "greenwood"
 },
 {
@@ -233,6 +253,26 @@
 "src": "japansociety"
 },
 {
+"id": "se65e2350df",
+"date": "2026-07-24",
+"time": "00:00",
+"title": "Junior Theoretical Neuroscientists Workshop",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/jrworkshop2026/",
+"src": "simons"
+},
+{
+"id": "s6d485e02f5",
+"date": "2026-07-24",
+"time": "14:00",
+"title": "MOCA PERFORMS\u2014Little Red Riding Hood: The Chinese Opera",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/24/moca-performslittle-red-riding-hood-the-chinese-opera-0200pm",
+"src": "carnegie"
+},
+{
 "id": "sc2efe8cb50",
 "date": "2026-07-24",
 "time": "14:00",
@@ -241,16 +281,6 @@
 "cat": "houses",
 "url": "https://dyckmanfarmhouse.org/event/guided-tour-with-museum-admission-12/",
 "src": "dyckman"
-},
-{
-"id": "s6d485e02f5",
-"date": "2026-07-24",
-"time": "15:00",
-"title": "MOCA PERFORMS\u2014Little Red Riding Hood: The Chinese Opera",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/24/moca-performslittle-red-riding-hood-the-chinese-opera-0300pm",
-"src": "carnegie"
 },
 {
 "id": "se853625f92",
@@ -291,6 +321,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/bugging-out-at-night/",
 "src": "greenwood"
+},
+{
+"id": "sa642d29ee8",
+"date": "2026-07-25",
+"time": "00:00",
+"title": "Junior Theoretical Neuroscientists Workshop",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/jrworkshop2026/",
+"src": "simons"
 },
 {
 "id": "s326db075ac",
@@ -360,6 +400,16 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/rest-in-pace-green-house/2026-07-26/",
+"src": "greenwood"
+},
+{
+"id": "s4955758600",
+"date": "2026-07-26",
+"time": "10:00",
+"title": "Explore Green-Wood\u2019s Fungal Biodiversity: Mushroom Hotspot",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/explore-green-woods-fungal-biodiversity-mushroom-hotspot/",
 "src": "greenwood"
 },
 {
@@ -843,16 +893,6 @@
 "src": "dizzys"
 },
 {
-"id": "s9b236739de",
-"date": "2026-08-12",
-"time": "18:30",
-"title": "Grieving & Weaving",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grieving-weaving-5/2026-08-12/",
-"src": "greenwood"
-},
-{
 "id": "s8c3573bfec",
 "date": "2026-08-12",
 "time": "19:00",
@@ -973,16 +1013,6 @@
 "src": "dizzys"
 },
 {
-"id": "sa8a9a631e8",
-"date": "2026-08-17",
-"time": "",
-"title": "Guggenheim Art Club",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/guggenheim-art-club",
-"src": "guggenheim"
-},
-{
 "id": "s3b33fad5a7",
 "date": "2026-08-18",
 "time": "19:00",
@@ -991,16 +1021,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "sb461dccd91",
-"date": "2026-08-18",
-"time": "",
-"title": "Guggenheim Art Club",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/guggenheim-art-club",
-"src": "guggenheim"
 },
 {
 "id": "s55dfb1194a",
@@ -1023,16 +1043,6 @@
 "src": "dizzys"
 },
 {
-"id": "s8e44be08ff",
-"date": "2026-08-19",
-"time": "",
-"title": "Guggenheim Art Club",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/guggenheim-art-club",
-"src": "guggenheim"
-},
-{
 "id": "s97c6bcd6af",
 "date": "2026-08-20",
 "time": "19:00",
@@ -1043,16 +1053,6 @@
 "src": "dizzys"
 },
 {
-"id": "s4f64a5d583",
-"date": "2026-08-20",
-"time": "",
-"title": "Guggenheim Art Club",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/guggenheim-art-club",
-"src": "guggenheim"
-},
-{
 "id": "s2bf6406eda",
 "date": "2026-08-21",
 "time": "19:00",
@@ -1061,16 +1061,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s3c60c71bf3",
-"date": "2026-08-21",
-"time": "",
-"title": "Guggenheim Art Club",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/guggenheim-art-club",
-"src": "guggenheim"
 },
 {
 "id": "s644eedde07",
@@ -1201,6 +1191,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s1b81680b37",
+"date": "2026-09-01",
+"time": "",
+"title": "Let&#8217;s Play!",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/lets-play-2/",
+"src": "emanuel"
 },
 {
 "id": "s85a422f488",
@@ -2433,6 +2433,16 @@
 "src": "zwirner"
 },
 {
+"id": "s05b494284a",
+"date": "2026-10-19",
+"time": "",
+"title": "The Well 5787: Jewish Ethics in the Modern World",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/the-well-5787/",
+"src": "emanuel"
+},
+{
 "id": "sa441b1779c",
 "date": "2026-10-20",
 "time": "19:00",
@@ -2733,6 +2743,106 @@
 "src": "japansociety"
 },
 {
+"id": "s176304b58b",
+"date": "2026-11-27",
+"time": "20:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "s7f3054a966",
+"date": "2026-11-28",
+"time": "20:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "sb2f212da4a",
+"date": "2026-11-29",
+"time": "17:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "sb00eea691c",
+"date": "2026-12-02",
+"time": "19:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "s976d547458",
+"date": "2026-12-03",
+"time": "19:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "s8e1184dbe7",
+"date": "2026-12-04",
+"time": "20:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "sbf51eef569",
+"date": "2026-12-05",
+"time": "20:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "se214b6204e",
+"date": "2026-12-06",
+"time": "17:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "s7abdb5a3d7",
+"date": "2026-12-08",
+"time": "19:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "sb202542b7f",
+"date": "2026-12-09",
+"time": "19:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
 "id": "sa63dcc530c",
 "date": "2026-12-09",
 "time": "",
@@ -2741,6 +2851,26 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/scientific-publishing-at-the-edge-trust-and-authority-in-the-age-of-ai-and-open-access/",
 "src": "nyas"
+},
+{
+"id": "sc927383608",
+"date": "2026-12-10",
+"time": "19:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "s6f6a4d5385",
+"date": "2026-12-11",
+"time": "20:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
 },
 {
 "id": "sb04a465347",
@@ -2763,6 +2893,26 @@
 "src": "japansociety"
 },
 {
+"id": "s7f972223be",
+"date": "2026-12-12",
+"time": "20:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "s7f40571ee9",
+"date": "2026-12-13",
+"time": "17:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
 "id": "sbfb5482e8d",
 "date": "2026-12-13",
 "time": "",
@@ -2771,6 +2921,16 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/sketch-with-jeff-storytelling-and-art-at-the-guggenheim",
 "src": "guggenheim"
+},
+{
+"id": "sd4542c2335",
+"date": "2026-12-15",
+"time": "19:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
 },
 {
 "id": "s3a0a6eed61",
@@ -2803,6 +2963,16 @@
 "src": "emanuel"
 },
 {
+"id": "s6f1ab02e24",
+"date": "2026-12-16",
+"time": "19:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
 "id": "sc91a3deb28",
 "date": "2026-12-16",
 "time": "",
@@ -2813,6 +2983,76 @@
 "src": "emanuel"
 },
 {
+"id": "sc29b465b77",
+"date": "2026-12-17",
+"time": "19:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "sd4f873a6d4",
+"date": "2026-12-18",
+"time": "20:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "s041a0112c5",
+"date": "2026-12-19",
+"time": "20:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "s2a037b42f8",
+"date": "2026-12-20",
+"time": "17:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "s846d364ab9",
+"date": "2026-12-21",
+"time": "19:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "sc60b4957fe",
+"date": "2026-12-22",
+"time": "19:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "s28de01e79d",
+"date": "2026-12-23",
+"time": "19:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
 "id": "sec651f618e",
 "date": "2026-12-23",
 "time": "",
@@ -2821,6 +3061,96 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/oscar-murillo-unfinished-thinking-paintings-and-social-maps",
 "src": "zwirner"
+},
+{
+"id": "s0fe5bb7d6a",
+"date": "2026-12-24",
+"time": "14:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "s85462c77dd",
+"date": "2026-12-26",
+"time": "20:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "sed24aa2c58",
+"date": "2026-12-27",
+"time": "17:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "scd43f4f3d7",
+"date": "2026-12-28",
+"time": "14:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "s30515f53b5",
+"date": "2026-12-29",
+"time": "19:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "s13b71f21f7",
+"date": "2026-12-30",
+"time": "19:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "sac27703616",
+"date": "2026-12-31",
+"time": "14:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "s19ff8af237",
+"date": "2027-01-02",
+"time": "20:00",
+"title": "George Balanchine's The Nutcracker\u00ae",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
+"src": "nycballet"
+},
+{
+"id": "sce69bd753f",
+"date": "2027-01-03",
+"time": "13:00",
+"title": "Sensory-Friendly Performance",
+"venue": "New York City Ballet",
+"cat": "dance",
+"url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/sensory-friendly-performance",
+"src": "nycballet"
 },
 {
 "id": "scc27553ad5",
@@ -3293,26 +3623,6 @@
 "src": "nyas"
 },
 {
-"id": "s3484223379",
-"date": "2027-03-06",
-"time": "",
-"title": "Women of Emanu-El: Paul Rudolph House Tour #2",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-paul-rudolph-house-tour-532/",
-"src": "emanuel"
-},
-{
-"id": "s9928ba5eb8",
-"date": "2027-03-10",
-"time": "",
-"title": "Tikkun Olam: Spring Mitzvah Prep",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/tikkun-olam-spring-mitzvah-prep/",
-"src": "emanuel"
-},
-{
 "id": "s5b3900eaf9",
 "date": "2027-03-11",
 "time": "",
@@ -3341,16 +3651,6 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/vaccines-and-immune-therapies-for-chronic-diseases/",
 "src": "nyas"
-},
-{
-"id": "s1fa2813b07",
-"date": "2027-03-16",
-"time": "",
-"title": "Women of Emanu-El: March into Spring Madness with Lunch &#038; Games at Serafina",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-lunch-winter-games-at-serafina-654-789/",
-"src": "emanuel"
 },
 {
 "id": "s10442e51cd",
@@ -3443,16 +3743,6 @@
 "src": "cooperhewitt"
 },
 {
-"id": "sb92a850ae6",
-"date": "2027-04-06",
-"time": "",
-"title": "Streicker Center: The Metropolitan Opera&#8217;s &#8220;Innocence&#8221; \u2014 opens",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/streicker-center-the-metropolitan-operas-innocence/",
-"src": "emanuel"
-},
-{
 "id": "s53dfb915f8",
 "date": "2027-04-10",
 "time": "",
@@ -3460,16 +3750,6 @@
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/women-of-emanu-el-jewish-harlem-walking-tour/",
-"src": "emanuel"
-},
-{
-"id": "sa969e64076",
-"date": "2027-04-10",
-"time": "",
-"title": "60s+ Community Spring Shabbat Dinner",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/60s-spring-shabbat-dinner/",
 "src": "emanuel"
 },
 {
@@ -3651,16 +3931,6 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/how-to-plan-and-lead-your-first-research-lab/",
 "src": "nyas"
-},
-{
-"id": "s9ebcc9e77a",
-"date": "2027-04-29",
-"time": "",
-"title": "Streicker Center: The Metropolitan Opera&#8217;s &#8220;Innocence&#8221; \u2014 final day",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/streicker-center-the-metropolitan-operas-innocence/",
-"src": "emanuel"
 },
 {
 "id": "s69c7eed483",
