@@ -1,6 +1,6 @@
 {
-"generated": "2026-07-21T10:59:03+00:00",
-"count": 464,
+"generated": "2026-07-22T11:00:21+00:00",
+"count": 465,
 "events": [
 {
 "id": "se41e304f0f",
@@ -13,66 +13,6 @@
 "src": "simons"
 },
 {
-"id": "sb73c1c1428",
-"date": "2026-07-21",
-"time": "10:00",
-"title": "Toddler Takeover at the Green-House",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-07-21/",
-"src": "greenwood"
-},
-{
-"id": "s41b915d349",
-"date": "2026-07-21",
-"time": "10:00",
-"title": "Biophysical Modeling Group Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-369-965-277-218-169-953-996-255-427-871-918-130-546-862/",
-"src": "simons"
-},
-{
-"id": "s64611c176f",
-"date": "2026-07-21",
-"time": "14:00",
-"title": "COMPASS Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/structural-molecular-biophysics-group-meeting-25-494-979-102-187-630-36-67-497-207-505-565-957-600-338-170-506-848-793-549-370-600-398-874-500-667-990-362-784-923-120-974-139-732-756-7-689-663-601-5-8/",
-"src": "simons"
-},
-{
-"id": "sb4aaddb2dd",
-"date": "2026-07-21",
-"time": "19:00",
-"title": "The AVIMC Winners Recital",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/21/the-avimc-winners-recital-0700pm",
-"src": "carnegie"
-},
-{
-"id": "s732190f835",
-"date": "2026-07-21",
-"time": "19:00",
-"title": "Kenny Banks Jr. Quintet",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "sd8a01789c0",
-"date": "2026-07-21",
-"time": "19:30",
-"title": "Mark Morris Dance Group: Dances to American Music",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/21/mark-morris-dance-group-dances-to-american-music-0730pm",
-"src": "carnegie"
-},
-{
 "id": "s73dbeb7f85",
 "date": "2026-07-22",
 "time": "00:00",
@@ -80,6 +20,26 @@
 "venue": "Simons Foundation",
 "cat": "talks",
 "url": "https://www.simonsfoundation.org/event/jrworkshop2026/",
+"src": "simons"
+},
+{
+"id": "s91123f36c8",
+"date": "2026-07-22",
+"time": "12:00",
+"title": "Genomics Group Meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/genomics-group-meeting-90-701-326-198-492-838-286-54-598-900-600-172-802-308-628-63-210-677-860-485-239-510-289-140-192-865-600-125-700-406-198-969-791-823/",
+"src": "simons"
+},
+{
+"id": "se358ea3ab3",
+"date": "2026-07-22",
+"time": "14:00",
+"title": "Biomolecular Design Group Meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-369-965-277-218-169-953-996-255-427-381-72-238-191-779/",
 "src": "simons"
 },
 {
@@ -113,10 +73,10 @@
 "src": "carnegie"
 },
 {
-"id": "sd9c030416d",
+"id": "s2f16a9c64b",
 "date": "2026-07-22",
 "time": "19:00",
-"title": "Brandon Woody Quartet",
+"title": "Brandon Woody Quintet",
 "venue": "Dizzy's Club",
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
@@ -303,6 +263,26 @@
 "src": "dizzys"
 },
 {
+"id": "s89b5bf75ea",
+"date": "2026-07-24",
+"time": "19:30",
+"title": "Mark Morris Dance Group: Dances to American Music",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/24/mark-morris-dance-group-dances-to-american-music-0730pm",
+"src": "carnegie"
+},
+{
+"id": "s99b9235bde",
+"date": "2026-07-24",
+"time": "19:30",
+"title": "A Distant Love: Songs of John and Abigail Adams",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/a-distant-love-songs-of-john-and-abigail-adams/",
+"src": "greenwood"
+},
+{
 "id": "sff522adfe8",
 "date": "2026-07-24",
 "time": "19:30",
@@ -321,6 +301,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/bugging-out-at-night/",
 "src": "greenwood"
+},
+{
+"id": "s1f1f2cb1fb",
+"date": "2026-07-24",
+"time": "",
+"title": "Japanese Heritage Night at Citi Field",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/japanese-heritage-night-at-citi-field/",
+"src": "japansociety"
 },
 {
 "id": "sa642d29ee8",
@@ -361,6 +351,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-07-25/",
 "src": "greenwood"
+},
+{
+"id": "s0f128faeca",
+"date": "2026-07-25",
+"time": "14:00",
+"title": "Mark Morris Dance Group: Dances to American Music",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/25/mark-morris-dance-group-dances-to-american-music-0200pm",
+"src": "carnegie"
 },
 {
 "id": "s1bfb4c6ebe",
@@ -683,6 +683,16 @@
 "src": "dizzys"
 },
 {
+"id": "s02a7d71700",
+"date": "2026-08-03",
+"time": "18:00",
+"title": "Handwriting the Constitution",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/handwriting-the-constitution/2026-08-03/",
+"src": "greenwood"
+},
+{
 "id": "sa764561b12",
 "date": "2026-08-03",
 "time": "19:00",
@@ -843,16 +853,6 @@
 "src": "greenwood"
 },
 {
-"id": "s548e328c55",
-"date": "2026-08-09",
-"time": "11:00",
-"title": "Grave Beginnings: Green-Wood by Trolley",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley/2026-08-09/",
-"src": "greenwood"
-},
-{
 "id": "s476af069c2",
 "date": "2026-08-09",
 "time": "17:00",
@@ -871,16 +871,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s69e47ead38",
-"date": "2026-08-11",
-"time": "10:00",
-"title": "Toddler Takeover at the Green-House",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-08-11/",
-"src": "greenwood"
 },
 {
 "id": "s76f3ac400e",
@@ -1293,6 +1283,16 @@
 "src": "dizzys"
 },
 {
+"id": "s0f72e85b82",
+"date": "2026-09-07",
+"time": "",
+"title": "Breaking the Law: Themes of Protest and Disobedience from the Declaration of Independence Onward \u2014 final day",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/breaking-the-law-themes-of-protest-and-disobedience-from-the-declaration-of-independence-onward/",
+"src": "greenwood"
+},
+{
 "id": "s4215363d5d",
 "date": "2026-09-08",
 "time": "19:00",
@@ -1313,30 +1313,30 @@
 "src": "emanuel"
 },
 {
-"id": "scb0044b584",
+"id": "s53667f2de3",
 "date": "2026-09-08",
 "time": "",
-"title": "Young Families: Shalom, World! Music, Art &#038; Blessings \u2014 opens",
+"title": "Shalom, World! Music, Art &#038; Blessings \u2014 opens",
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/young-families-shalom-world-music-art-blessings-500/",
 "src": "emanuel"
 },
 {
-"id": "sd88a5ad23d",
+"id": "s87dc349396",
 "date": "2026-09-08",
 "time": "",
-"title": "Young Families: Boker Tov, Baby \u2014 opens",
+"title": "Boker Tov, Baby \u2014 opens",
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/young-families-boker-tov-baby-323/",
 "src": "emanuel"
 },
 {
-"id": "s5342daa30f",
+"id": "s99c2c67e67",
 "date": "2026-09-08",
 "time": "",
-"title": "Young Families: Little Mensches \u2014 opens",
+"title": "Little Mensches \u2014 opens",
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/young-families-little-menschs2026-149/",
@@ -1363,10 +1363,10 @@
 "src": "dizzys"
 },
 {
-"id": "sf95498378c",
+"id": "s5b6bd17cf5",
 "date": "2026-09-09",
 "time": "",
-"title": "Young Families: Toddlers and Twos \u2014 opens",
+"title": "Toddlers and Twos \u2014 opens",
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/young-families-toddlers-and-twos-660-448/",
@@ -1963,10 +1963,10 @@
 "src": "nycballet"
 },
 {
-"id": "s13376bf9f8",
+"id": "sfac8d5ec32",
 "date": "2026-10-03",
 "time": "",
-"title": "Young Families: Tot Shabbat",
+"title": "Tot Shabbat",
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/young-families-tot-shabbat-8-923/",
@@ -2073,10 +2073,10 @@
 "src": "nycballet"
 },
 {
-"id": "s5535e28054",
+"id": "se7515b0247",
 "date": "2026-10-09",
 "time": "19:00",
-"title": "Akira Tana and Osaka Quartet feat. Atsuko Hashimoto - Celebrating Jimmy Heath",
+"title": "Akira Tana and Friends featuring Atsuko Hashimoto and Skylar Tang",
 "venue": "Dizzy's Club",
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
@@ -2113,10 +2113,10 @@
 "src": "bartowpell"
 },
 {
-"id": "se592d48191",
+"id": "sdbca5ed90b",
 "date": "2026-10-10",
 "time": "19:00",
-"title": "Akira Tana and Osaka Quartet feat. Atsuko Hashimoto - Celebrating Jimmy Heath",
+"title": "Akira Tana and Friends featuring Atsuko Hashimoto and Skylar Tang",
 "venue": "Dizzy's Club",
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
@@ -2163,10 +2163,10 @@
 "src": "bartowpell"
 },
 {
-"id": "s7648225aff",
+"id": "sf3d09baf2e",
 "date": "2026-10-11",
 "time": "19:00",
-"title": "Akira Tana and Osaka Quartet feat. Atsuko Hashimoto - Celebrating Jimmy Heath",
+"title": "Akira Tana and Friends featuring Atsuko Hashimoto and Skylar Tang",
 "venue": "Dizzy's Club",
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
@@ -2503,10 +2503,10 @@
 "src": "dizzys"
 },
 {
-"id": "sfe213c82b1",
+"id": "s89799938cf",
 "date": "2026-10-23",
 "time": "",
-"title": "Young Families: Baby Shabbat",
+"title": "Baby Shabbat",
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/young-families-baby-shabbat-9-526/",
@@ -2933,30 +2933,30 @@
 "src": "nycballet"
 },
 {
-"id": "s3a0a6eed61",
+"id": "sd819414159",
 "date": "2026-12-15",
 "time": "",
-"title": "Young Families: Shalom, World! Music, Art &#038; Blessings \u2014 final day",
+"title": "Shalom, World! Music, Art &#038; Blessings \u2014 final day",
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/young-families-shalom-world-music-art-blessings-500/",
 "src": "emanuel"
 },
 {
-"id": "s9e00a1c224",
+"id": "s1b0d6d7998",
 "date": "2026-12-15",
 "time": "",
-"title": "Young Families: Boker Tov, Baby \u2014 final day",
+"title": "Boker Tov, Baby \u2014 final day",
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/young-families-boker-tov-baby-323/",
 "src": "emanuel"
 },
 {
-"id": "scbc9e37549",
+"id": "s3374972603",
 "date": "2026-12-15",
 "time": "",
-"title": "Young Families: Little Mensches \u2014 final day",
+"title": "Little Mensches \u2014 final day",
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/young-families-little-menschs2026-149/",
@@ -2973,10 +2973,10 @@
 "src": "nycballet"
 },
 {
-"id": "sc91a3deb28",
+"id": "s84a6f255d2",
 "date": "2026-12-16",
 "time": "",
-"title": "Young Families: Toddlers and Twos \u2014 final day",
+"title": "Toddlers and Twos \u2014 final day",
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/young-families-toddlers-and-twos-660-448/",
@@ -3351,6 +3351,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/winter-2027/all-balanchine-ii",
 "src": "nycballet"
+},
+{
+"id": "s42619d3d0c",
+"date": "2027-02-04",
+"time": "",
+"title": "Career Connections",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/career-connections/",
+"src": "emanuel"
 },
 {
 "id": "s748bdb0c0e",
