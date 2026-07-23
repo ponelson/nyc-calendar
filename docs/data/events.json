@@ -1,17 +1,7 @@
 {
-"generated": "2026-07-22T11:00:21+00:00",
-"count": 465,
+"generated": "2026-07-23T11:03:10+00:00",
+"count": 452,
 "events": [
-{
-"id": "se41e304f0f",
-"date": "2026-07-21",
-"time": "00:00",
-"title": "Junior Theoretical Neuroscientists Workshop",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/jrworkshop2026/",
-"src": "simons"
-},
 {
 "id": "s73dbeb7f85",
 "date": "2026-07-22",
@@ -21,56 +11,6 @@
 "cat": "talks",
 "url": "https://www.simonsfoundation.org/event/jrworkshop2026/",
 "src": "simons"
-},
-{
-"id": "s91123f36c8",
-"date": "2026-07-22",
-"time": "12:00",
-"title": "Genomics Group Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/genomics-group-meeting-90-701-326-198-492-838-286-54-598-900-600-172-802-308-628-63-210-677-860-485-239-510-289-140-192-865-600-125-700-406-198-969-791-823/",
-"src": "simons"
-},
-{
-"id": "se358ea3ab3",
-"date": "2026-07-22",
-"time": "14:00",
-"title": "Biomolecular Design Group Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-369-965-277-218-169-953-996-255-427-381-72-238-191-779/",
-"src": "simons"
-},
-{
-"id": "scde7849a2d",
-"date": "2026-07-22",
-"time": "18:00",
-"title": "Carnegie Hall Citywide: Cerus Quartet",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/22/carnegie-hall-citywide-cerus-quartet-0600pm",
-"src": "carnegie"
-},
-{
-"id": "sa3224a054e",
-"date": "2026-07-22",
-"time": "18:00",
-"title": "Back Porch History: 1776 - A Defining Moment in the Story of Northern Manhattan with Don Rice",
-"venue": "Dyckman Farmhouse",
-"cat": "houses",
-"url": "https://dyckmanfarmhouse.org/event/back-porch-history-1776-a-defining-moment-in-the-story-of-northern-manhattan-with-don-rice/",
-"src": "dyckman"
-},
-{
-"id": "sb715f8ba4f",
-"date": "2026-07-22",
-"time": "19:00",
-"title": "Post Falls Music Academy Student Recital",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/22/post-falls-music-academy-student-recital-0700pm",
-"src": "carnegie"
 },
 {
 "id": "s2f16a9c64b",
@@ -83,16 +23,6 @@
 "src": "dizzys"
 },
 {
-"id": "sdff1eb8f37",
-"date": "2026-07-22",
-"time": "19:30",
-"title": "Mark Morris Dance Group: Dances to American Music",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/22/mark-morris-dance-group-dances-to-american-music-0730pm",
-"src": "carnegie"
-},
-{
 "id": "s140444e336",
 "date": "2026-07-22",
 "time": "",
@@ -101,16 +31,6 @@
 "cat": "art",
 "url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-22-2026/",
 "src": "cooperhewitt"
-},
-{
-"id": "sbdc2d1d2dc",
-"date": "2026-07-22",
-"time": "",
-"title": "Micha\u00ebl Borremans \u2014 final day",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/michael-borremans-french-painting",
-"src": "zwirner"
 },
 {
 "id": "sb45fdb0120",
@@ -143,6 +63,16 @@
 "src": "simons"
 },
 {
+"id": "sd0324be804",
+"date": "2026-07-23",
+"time": "13:30",
+"title": "Brown Bag Seminar",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-220-920-140-533-650-368-753-270-986-927-308-227/",
+"src": "simons"
+},
+{
 "id": "sa1f8d70e90",
 "date": "2026-07-23",
 "time": "18:30",
@@ -171,6 +101,16 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2026/07/23/mark-morris-dance-group-dances-to-american-music-0730pm",
 "src": "carnegie"
+},
+{
+"id": "s93baa6dd9f",
+"date": "2026-07-23",
+"time": "19:45",
+"title": "Rooftop Films Presents: The Oldest Person in the World",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/rooftop-films-presents-the-oldest-person-in-the-world/",
+"src": "greenwood"
 },
 {
 "id": "sa9a036fb7c",
@@ -360,6 +300,36 @@
 "venue": "Carnegie Hall",
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2026/07/25/mark-morris-dance-group-dances-to-american-music-0200pm",
+"src": "carnegie"
+},
+{
+"id": "se71b0f7d58",
+"date": "2026-07-25",
+"time": "14:30",
+"title": "Staten Island Community Song Circle",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/25/staten-island-community-song-circle-0230pm",
+"src": "carnegie"
+},
+{
+"id": "s40d3182f96",
+"date": "2026-07-25",
+"time": "15:00",
+"title": "MOCA PERFORMS\u2014Little Red Riding Hood: The Chinese Opera",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/25/moca-performslittle-red-riding-hood-the-chinese-opera-0300pm",
+"src": "carnegie"
+},
+{
+"id": "s3969190b07",
+"date": "2026-07-25",
+"time": "17:00",
+"title": "Carnegie Hall Citywide: Ensemble Connect",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/25/carnegie-hall-citywide-ensemble-connect-0500pm",
 "src": "carnegie"
 },
 {
@@ -663,16 +633,6 @@
 "src": "greenwood"
 },
 {
-"id": "s018ed1c159",
-"date": "2026-08-02",
-"time": "13:00",
-"title": "Green-Wood's Greatest Hits",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-woods-greatest-hits-13/2026-08-02/",
-"src": "greenwood"
-},
-{
 "id": "s1160c00dd9",
 "date": "2026-08-02",
 "time": "19:00",
@@ -681,16 +641,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s02a7d71700",
-"date": "2026-08-03",
-"time": "18:00",
-"title": "Handwriting the Constitution",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/handwriting-the-constitution/2026-08-03/",
-"src": "greenwood"
 },
 {
 "id": "sa764561b12",
@@ -721,16 +671,6 @@
 "cat": "art",
 "url": "https://www.cooperhewitt.org/event/discover-design-online-art-of-noise-08-04-2026/",
 "src": "cooperhewitt"
-},
-{
-"id": "s365bccf53d",
-"date": "2026-08-05",
-"time": "10:30",
-"title": "Green-Wood on Wheels: Stroller-Friendly Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-08-05/",
-"src": "greenwood"
 },
 {
 "id": "sb49e334c72",
@@ -773,36 +713,6 @@
 "src": "dizzys"
 },
 {
-"id": "sb23ba9926a",
-"date": "2026-08-07",
-"time": "19:00",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-07/",
-"src": "greenwood"
-},
-{
-"id": "sff40b70e3c",
-"date": "2026-08-08",
-"time": "13:00",
-"title": "Discover Green-Wood Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-08-08/",
-"src": "greenwood"
-},
-{
-"id": "s7ee3b437de",
-"date": "2026-08-08",
-"time": "15:30",
-"title": "Revolutionary Spirits",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/revolutionary-spirits-7/2026-08-08/",
-"src": "greenwood"
-},
-{
 "id": "sea9f6dbe92",
 "date": "2026-08-08",
 "time": "19:00",
@@ -811,16 +721,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "sab772b50ae",
-"date": "2026-08-08",
-"time": "19:00",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-08/",
-"src": "greenwood"
 },
 {
 "id": "s563b6b3a44",
@@ -841,16 +741,6 @@
 "cat": "houses",
 "url": "https://spotlighttheatresi.org/product/10549/FIERCE_FEMALES_2026",
 "src": "aliceausten"
-},
-{
-"id": "sc7ca6c5252",
-"date": "2026-08-09",
-"time": "06:00",
-"title": "Birding in Peace",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/birding-in-peace-30/2026-08-09/",
-"src": "greenwood"
 },
 {
 "id": "s476af069c2",
@@ -1063,16 +953,6 @@
 "src": "dizzys"
 },
 {
-"id": "sd73a038daa",
-"date": "2026-08-22",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575169?skipPreview=true",
-"src": "aliceausten"
-},
-{
 "id": "s69dc163a4d",
 "date": "2026-08-23",
 "time": "19:00",
@@ -1143,16 +1023,6 @@
 "src": "dizzys"
 },
 {
-"id": "s9955020d1b",
-"date": "2026-08-29",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575197?skipPreview=true",
-"src": "aliceausten"
-},
-{
 "id": "s688f3646dd",
 "date": "2026-08-30",
 "time": "19:00",
@@ -1161,6 +1031,56 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s92f8696077",
+"date": "2026-08-30",
+"time": "",
+"title": "Exhibit: Black People and the Battle of Brooklyn \u2014 final day",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/exhibit-black-people-and-the-battle-of-brooklyn/",
+"src": "greenwood"
+},
+{
+"id": "sd1c43afa92",
+"date": "2026-08-30",
+"time": "",
+"title": "Exhibit: Battle Pass in Prospect Park \u2014 final day",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/exhibit-battle-pass-in-prospect-park/",
+"src": "greenwood"
+},
+{
+"id": "s08fc700981",
+"date": "2026-08-30",
+"time": "",
+"title": "Black Loyalist Virtual Tour \u2014 final day",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/black-loyalist-virtual-tour/",
+"src": "greenwood"
+},
+{
+"id": "s6b15ed9c26",
+"date": "2026-08-30",
+"time": "",
+"title": "Tour: Battle of Brooklyn\u2019s Battle Pass \u2014 final day",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/tour-battle-of-brooklyns-battle-pass/",
+"src": "greenwood"
+},
+{
+"id": "s2a23cb08e6",
+"date": "2026-08-30",
+"time": "",
+"title": "Fort Defiance Sidwalk Galleries \u2014 final day",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/fort-defiance-sidwalk-galleries/",
+"src": "greenwood"
 },
 {
 "id": "s0d60ab9ca9",
@@ -1261,16 +1181,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "se437b4ea62",
-"date": "2026-09-05",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575206?skipPreview=true",
-"src": "aliceausten"
 },
 {
 "id": "s0ab7aa11e4",
@@ -2051,6 +1961,26 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
+},
+{
+"id": "sb364ad6e52",
+"date": "2026-10-07",
+"time": "",
+"title": "Museum Exhibition Closing: Ziv Koren&#8217;s October 7 War",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/museum-exhibition-closing-ziv-korens-october-7-war/",
+"src": "emanuel"
+},
+{
+"id": "s711015659d",
+"date": "2026-10-07",
+"time": "",
+"title": "Museum Exhibition Opening: Ziv Koren&#8217;s October 7 War",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/museum-exhibition-opening-ziv-korens-october-7-war/",
+"src": "emanuel"
 },
 {
 "id": "s401d9cf973",
@@ -3083,6 +3013,16 @@
 "src": "nycballet"
 },
 {
+"id": "s5684986d31",
+"date": "2026-12-26",
+"time": "",
+"title": "Guided Exhibition Tour \u2014 final day",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/guided-exhibition-tour/",
+"src": "greenwood"
+},
+{
 "id": "sed24aa2c58",
 "date": "2026-12-27",
 "time": "17:00",
@@ -3141,6 +3081,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
 "src": "nycballet"
+},
+{
+"id": "s14154e1997",
+"date": "2027-01-02",
+"time": "",
+"title": "Battle of Brooklyn: Fought and Remembered \u2014 final day",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/battle-of-brooklyn-fought-and-remembered/",
+"src": "greenwood"
 },
 {
 "id": "sce69bd753f",
@@ -3211,6 +3161,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
 "src": "nycballet"
+},
+{
+"id": "saeabacf1db",
+"date": "2027-01-19",
+"time": "",
+"title": "Women of Emanu-El: Yves Saint Laurent and Photography",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-yves-saint-laurent-and-photography/",
+"src": "emanuel"
 },
 {
 "id": "s19dd54405a",
@@ -3693,46 +3653,6 @@
 "src": "japansociety"
 },
 {
-"id": "s31666ab041",
-"date": "2027-04-01",
-"time": "",
-"title": "Eve of Passover Worship Service",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/shabbat-and-conclusion-of-passover-morning-worship-service-with-yizkor-716-347-514-188/",
-"src": "emanuel"
-},
-{
-"id": "s8967cb473d",
-"date": "2027-04-01",
-"time": "",
-"title": "Passover Morning Worship Service",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/shabbat-and-conclusion-of-passover-morning-worship-service-with-yizkor-716-347-514/",
-"src": "emanuel"
-},
-{
-"id": "s5bf5bde920",
-"date": "2027-04-01",
-"time": "",
-"title": "Conclusion of Passover Evening Worship Service",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/shabbat-and-conclusion-of-passover-morning-worship-service-with-yizkor-716-347/",
-"src": "emanuel"
-},
-{
-"id": "s9d751b256f",
-"date": "2027-04-01",
-"time": "",
-"title": "Conclusion of Passover Morning Worship Service with Yizkor",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/shabbat-and-conclusion-of-passover-morning-worship-service-with-yizkor-716/",
-"src": "emanuel"
-},
-{
 "id": "s68ee22c1df",
 "date": "2027-04-03",
 "time": "",
@@ -3753,16 +3673,6 @@
 "src": "cooperhewitt"
 },
 {
-"id": "s53dfb915f8",
-"date": "2027-04-10",
-"time": "",
-"title": "Women of Emanu-El: Jewish Harlem Walking Tour",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-jewish-harlem-walking-tour/",
-"src": "emanuel"
-},
-{
 "id": "sddbe89d9a3",
 "date": "2027-04-11",
 "time": "",
@@ -3781,16 +3691,6 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/teaching-and-research-statements-for-faculty-jobs/",
 "src": "nyas"
-},
-{
-"id": "s1302eb49f2",
-"date": "2027-04-17",
-"time": "",
-"title": "6th-7th Grade Shul-In with Dave &#038; Busters",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/6th-7th-grade-shul-in-with-dave-busters/",
-"src": "emanuel"
 },
 {
 "id": "s25d22bf70a",
@@ -3993,16 +3893,6 @@
 "src": "nycballet"
 },
 {
-"id": "s5976e0cd83",
-"date": "2027-05-01",
-"time": "",
-"title": "Emanu-El Multigenerational Shabbat",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/emanu-el-multigenerational-shabbat/",
-"src": "emanuel"
-},
-{
 "id": "s1ef392ac61",
 "date": "2027-05-02",
 "time": "15:00",
@@ -4091,26 +3981,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/spring-2027/eclectic-nycb-ii",
 "src": "nycballet"
-},
-{
-"id": "s6859f6f811",
-"date": "2027-05-08",
-"time": "",
-"title": "30s, 40s, and 50s Spring Shabbat Dinner",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/40s-and-50s-spring-shabbat-dinner/",
-"src": "emanuel"
-},
-{
-"id": "s8ea77e9698",
-"date": "2027-05-08",
-"time": "",
-"title": "Women of Emanu-El: A Night at the Movies with &#8220;31 Candles&#8221;",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-a-night-at-the-movies-with-31-candles/",
-"src": "emanuel"
 },
 {
 "id": "se0ae4baeae",
