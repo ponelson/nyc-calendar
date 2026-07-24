@@ -1,57 +1,7 @@
 {
-"generated": "2026-07-23T11:03:10+00:00",
-"count": 452,
+"generated": "2026-07-24T10:56:20+00:00",
+"count": 442,
 "events": [
-{
-"id": "s73dbeb7f85",
-"date": "2026-07-22",
-"time": "00:00",
-"title": "Junior Theoretical Neuroscientists Workshop",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/jrworkshop2026/",
-"src": "simons"
-},
-{
-"id": "s2f16a9c64b",
-"date": "2026-07-22",
-"time": "19:00",
-"title": "Brandon Woody Quintet",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s140444e336",
-"date": "2026-07-22",
-"time": "",
-"title": "Family Program | Summer Design Series",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-22-2026/",
-"src": "cooperhewitt"
-},
-{
-"id": "sb45fdb0120",
-"date": "2026-07-22",
-"time": "",
-"title": "Ainu: Indigenous People of Japan",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/ainu-indigenous-people-of-japan/",
-"src": "japansociety"
-},
-{
-"id": "sa32949be47",
-"date": "2026-07-22",
-"time": "",
-"title": "Sinot: The Dances of the Sar River",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/sinot-the-dances-of-the-sar-river/",
-"src": "japansociety"
-},
 {
 "id": "s8b50b09d1e",
 "date": "2026-07-23",
@@ -63,26 +13,6 @@
 "src": "simons"
 },
 {
-"id": "sd0324be804",
-"date": "2026-07-23",
-"time": "13:30",
-"title": "Brown Bag Seminar",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-220-920-140-533-650-368-753-270-986-927-308-227/",
-"src": "simons"
-},
-{
-"id": "sa1f8d70e90",
-"date": "2026-07-23",
-"time": "18:30",
-"title": "DEATH CAFE",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/death-cafe-25/",
-"src": "greenwood"
-},
-{
 "id": "scbad3e5af2",
 "date": "2026-07-23",
 "time": "19:00",
@@ -91,46 +21,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "sccc5177d84",
-"date": "2026-07-23",
-"time": "19:30",
-"title": "Mark Morris Dance Group: Dances to American Music",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/23/mark-morris-dance-group-dances-to-american-music-0730pm",
-"src": "carnegie"
-},
-{
-"id": "s93baa6dd9f",
-"date": "2026-07-23",
-"time": "19:45",
-"title": "Rooftop Films Presents: The Oldest Person in the World",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/rooftop-films-presents-the-oldest-person-in-the-world/",
-"src": "greenwood"
-},
-{
-"id": "sa9a036fb7c",
-"date": "2026-07-23",
-"time": "20:00",
-"title": "Hotchkiss International Piano Competition Prizewinners and Hotchkiss Summer Young Artists Concert",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/23/hotchkiss-international-piano-competition-prizewinners-and-hotchkiss-summer-yo-0800pm",
-"src": "carnegie"
-},
-{
-"id": "se4139c3556",
-"date": "2026-07-23",
-"time": "20:00",
-"title": "WorldStrides Middle School Honors Performance",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/23/worldstrides-middle-school-honors-performance-0800pm",
-"src": "carnegie"
 },
 {
 "id": "s46f6e75f52",
@@ -463,6 +353,16 @@
 "src": "cooperhewitt"
 },
 {
+"id": "sdbb4a3ae9e",
+"date": "2026-07-30",
+"time": "19:00",
+"title": "NYO2",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/30/nyo2-0700pm",
+"src": "carnegie"
+},
+{
 "id": "sfe237f69d2",
 "date": "2026-07-30",
 "time": "19:00",
@@ -481,6 +381,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s56eaaf9c37",
+"date": "2026-07-30",
+"time": "20:00",
+"title": "Thomas F. Hulbert Music International Piano Competition Winners Recital",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/30/thomas-f-hulbert-music-international-piano-competition-winners-recital-0800pm",
+"src": "carnegie"
 },
 {
 "id": "sc51d0433db",
@@ -633,6 +543,16 @@
 "src": "greenwood"
 },
 {
+"id": "s018ed1c159",
+"date": "2026-08-02",
+"time": "13:00",
+"title": "Green-Wood's Greatest Hits",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-woods-greatest-hits-13/2026-08-02/",
+"src": "greenwood"
+},
+{
 "id": "s1160c00dd9",
 "date": "2026-08-02",
 "time": "19:00",
@@ -641,6 +561,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s02a7d71700",
+"date": "2026-08-03",
+"time": "18:00",
+"title": "Handwriting the Constitution",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/handwriting-the-constitution/2026-08-03/",
+"src": "greenwood"
 },
 {
 "id": "sa764561b12",
@@ -933,6 +863,16 @@
 "src": "dizzys"
 },
 {
+"id": "s25cdec10a3",
+"date": "2026-08-20",
+"time": "",
+"title": "Late Shift",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/late-shift",
+"src": "guggenheim"
+},
+{
 "id": "s2bf6406eda",
 "date": "2026-08-21",
 "time": "19:00",
@@ -1223,36 +1163,6 @@
 "src": "emanuel"
 },
 {
-"id": "s53667f2de3",
-"date": "2026-09-08",
-"time": "",
-"title": "Shalom, World! Music, Art &#038; Blessings \u2014 opens",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-shalom-world-music-art-blessings-500/",
-"src": "emanuel"
-},
-{
-"id": "s87dc349396",
-"date": "2026-09-08",
-"time": "",
-"title": "Boker Tov, Baby \u2014 opens",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-boker-tov-baby-323/",
-"src": "emanuel"
-},
-{
-"id": "s99c2c67e67",
-"date": "2026-09-08",
-"time": "",
-"title": "Little Mensches \u2014 opens",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-little-menschs2026-149/",
-"src": "emanuel"
-},
-{
 "id": "sd2df7bd6ef",
 "date": "2026-09-09",
 "time": "10:30",
@@ -1271,16 +1181,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s5b6bd17cf5",
-"date": "2026-09-09",
-"time": "",
-"title": "Toddlers and Twos \u2014 opens",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-toddlers-and-twos-660-448/",
-"src": "emanuel"
 },
 {
 "id": "s5c3611d710",
@@ -1873,16 +1773,6 @@
 "src": "nycballet"
 },
 {
-"id": "sfac8d5ec32",
-"date": "2026-10-03",
-"time": "",
-"title": "Tot Shabbat",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-tot-shabbat-8-923/",
-"src": "emanuel"
-},
-{
 "id": "sc7e1455637",
 "date": "2026-10-04",
 "time": "15:00",
@@ -2433,16 +2323,6 @@
 "src": "dizzys"
 },
 {
-"id": "s89799938cf",
-"date": "2026-10-23",
-"time": "",
-"title": "Baby Shabbat",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-baby-shabbat-9-526/",
-"src": "emanuel"
-},
-{
 "id": "s0fb192e51f",
 "date": "2026-10-24",
 "time": "19:00",
@@ -2581,6 +2461,46 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/daichi-takagi-suchness",
 "src": "zwirner"
+},
+{
+"id": "s26925cdb21",
+"date": "2026-11-02",
+"time": "",
+"title": "Tikkun Olam: Last Day of Toy Drive for POTS, Xavier Mission, and 19th Precinct \u2014 opens",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tikkun-olam-last-day-of-toy-drive-for-pots-xavier-mission-and-19th-precinct/",
+"src": "emanuel"
+},
+{
+"id": "s9a9da67cd9",
+"date": "2026-11-02",
+"time": "",
+"title": "Tikkun Olam: First Day of Toy Drive for POTS, Xavier Mission, and 19th Precinct \u2014 opens",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tikkun-olam-first-day-of-toy-drive-for-pots-xavier-mission-and-19th-precinct/",
+"src": "emanuel"
+},
+{
+"id": "sb8cafae36f",
+"date": "2026-11-02",
+"time": "",
+"title": "Tikkun Olam: Last Day of Coat Drive for Urban Outreach \u2014 opens",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tikkun-olam-last-day-of-coat-drive-for-urban-outreach/",
+"src": "emanuel"
+},
+{
+"id": "sfa4ccb399f",
+"date": "2026-11-02",
+"time": "",
+"title": "Tikkun Olam: First Day of Coat Drive for Urban Outreach \u2014 opens",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tikkun-olam-first-day-of-coat-drive-for-urban-outreach/",
+"src": "emanuel"
 },
 {
 "id": "s6a960decac",
@@ -2733,6 +2653,26 @@
 "src": "nycballet"
 },
 {
+"id": "s976e6e0fdb",
+"date": "2026-12-04",
+"time": "",
+"title": "Tikkun Olam: Last Day of Coat Drive for Urban Outreach \u2014 final day",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tikkun-olam-last-day-of-coat-drive-for-urban-outreach/",
+"src": "emanuel"
+},
+{
+"id": "se320219886",
+"date": "2026-12-04",
+"time": "",
+"title": "Tikkun Olam: First Day of Coat Drive for Urban Outreach \u2014 final day",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tikkun-olam-first-day-of-coat-drive-for-urban-outreach/",
+"src": "emanuel"
+},
+{
 "id": "sbf51eef569",
 "date": "2026-12-05",
 "time": "20:00",
@@ -2823,6 +2763,26 @@
 "src": "japansociety"
 },
 {
+"id": "sa36f0ca9ea",
+"date": "2026-12-11",
+"time": "",
+"title": "Tikkun Olam: Last Day of Toy Drive for POTS, Xavier Mission, and 19th Precinct \u2014 final day",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tikkun-olam-last-day-of-toy-drive-for-pots-xavier-mission-and-19th-precinct/",
+"src": "emanuel"
+},
+{
+"id": "se95220ec6b",
+"date": "2026-12-11",
+"time": "",
+"title": "Tikkun Olam: First Day of Toy Drive for POTS, Xavier Mission, and 19th Precinct \u2014 final day",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tikkun-olam-first-day-of-toy-drive-for-pots-xavier-mission-and-19th-precinct/",
+"src": "emanuel"
+},
+{
 "id": "s7f972223be",
 "date": "2026-12-12",
 "time": "20:00",
@@ -2863,36 +2823,6 @@
 "src": "nycballet"
 },
 {
-"id": "sd819414159",
-"date": "2026-12-15",
-"time": "",
-"title": "Shalom, World! Music, Art &#038; Blessings \u2014 final day",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-shalom-world-music-art-blessings-500/",
-"src": "emanuel"
-},
-{
-"id": "s1b0d6d7998",
-"date": "2026-12-15",
-"time": "",
-"title": "Boker Tov, Baby \u2014 final day",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-boker-tov-baby-323/",
-"src": "emanuel"
-},
-{
-"id": "s3374972603",
-"date": "2026-12-15",
-"time": "",
-"title": "Little Mensches \u2014 final day",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-little-menschs2026-149/",
-"src": "emanuel"
-},
-{
 "id": "s6f1ab02e24",
 "date": "2026-12-16",
 "time": "19:00",
@@ -2901,16 +2831,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
 "src": "nycballet"
-},
-{
-"id": "s84a6f255d2",
-"date": "2026-12-16",
-"time": "",
-"title": "Toddlers and Twos \u2014 final day",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-toddlers-and-twos-660-448/",
-"src": "emanuel"
 },
 {
 "id": "sc29b465b77",
@@ -3101,16 +3021,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/sensory-friendly-performance",
 "src": "nycballet"
-},
-{
-"id": "scc27553ad5",
-"date": "2027-01-04",
-"time": "",
-"title": "Young Families: Toddlers and Twos \u2014 opens",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-toddlers-and-twos-660-584/",
-"src": "emanuel"
 },
 {
 "id": "s0cfd6079ec",
@@ -4271,16 +4181,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/spring-2027/a-midsummer-nights-dream",
 "src": "nycballet"
-},
-{
-"id": "s4b27d93c85",
-"date": "2027-05-26",
-"time": "",
-"title": "Young Families: Toddlers and Twos \u2014 final day",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-toddlers-and-twos-660-584/",
-"src": "emanuel"
 },
 {
 "id": "s76dd0acd62",
