@@ -1,87 +1,7 @@
 {
-"generated": "2026-07-24T10:56:20+00:00",
-"count": 442,
+"generated": "2026-07-25T10:22:30+00:00",
+"count": 431,
 "events": [
-{
-"id": "s8b50b09d1e",
-"date": "2026-07-23",
-"time": "00:00",
-"title": "Junior Theoretical Neuroscientists Workshop",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/jrworkshop2026/",
-"src": "simons"
-},
-{
-"id": "scbad3e5af2",
-"date": "2026-07-23",
-"time": "19:00",
-"title": "Jon Faddis Quartet: 73rd Birthday Celebration",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s46f6e75f52",
-"date": "2026-07-23",
-"time": "",
-"title": "Ipe: The Culinary Heritage of the Ainu",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/ipe-the-culinary-heritage-of-the-ainu/",
-"src": "japansociety"
-},
-{
-"id": "s001ddaaf33",
-"date": "2026-07-23",
-"time": "",
-"title": "Inuye=an ro!: Woodcarving Workshop",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/inuyean-ro-woodcarving-workshop/",
-"src": "japansociety"
-},
-{
-"id": "se65e2350df",
-"date": "2026-07-24",
-"time": "00:00",
-"title": "Junior Theoretical Neuroscientists Workshop",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/jrworkshop2026/",
-"src": "simons"
-},
-{
-"id": "s6d485e02f5",
-"date": "2026-07-24",
-"time": "14:00",
-"title": "MOCA PERFORMS\u2014Little Red Riding Hood: The Chinese Opera",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/24/moca-performslittle-red-riding-hood-the-chinese-opera-0200pm",
-"src": "carnegie"
-},
-{
-"id": "sc2efe8cb50",
-"date": "2026-07-24",
-"time": "14:00",
-"title": "Guided Tour with Museum Admission",
-"venue": "Dyckman Farmhouse",
-"cat": "houses",
-"url": "https://dyckmanfarmhouse.org/event/guided-tour-with-museum-admission-12/",
-"src": "dyckman"
-},
-{
-"id": "se853625f92",
-"date": "2026-07-24",
-"time": "19:00",
-"title": "Carnegie Hall Citywide: NYC Ska Orchestra",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/24/carnegie-hall-citywide-nyc-ska-orchestra-0700pm",
-"src": "carnegie"
-},
 {
 "id": "sfd6f227d56",
 "date": "2026-07-24",
@@ -93,46 +13,6 @@
 "src": "dizzys"
 },
 {
-"id": "s89b5bf75ea",
-"date": "2026-07-24",
-"time": "19:30",
-"title": "Mark Morris Dance Group: Dances to American Music",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/24/mark-morris-dance-group-dances-to-american-music-0730pm",
-"src": "carnegie"
-},
-{
-"id": "s99b9235bde",
-"date": "2026-07-24",
-"time": "19:30",
-"title": "A Distant Love: Songs of John and Abigail Adams",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/a-distant-love-songs-of-john-and-abigail-adams/",
-"src": "greenwood"
-},
-{
-"id": "sff522adfe8",
-"date": "2026-07-24",
-"time": "19:30",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-07-24/",
-"src": "greenwood"
-},
-{
-"id": "s2118679a76",
-"date": "2026-07-24",
-"time": "20:30",
-"title": "Bugging Out at Night!",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/bugging-out-at-night/",
-"src": "greenwood"
-},
-{
 "id": "s1f1f2cb1fb",
 "date": "2026-07-24",
 "time": "",
@@ -141,16 +21,6 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/japanese-heritage-night-at-citi-field/",
 "src": "japansociety"
-},
-{
-"id": "sa642d29ee8",
-"date": "2026-07-25",
-"time": "00:00",
-"title": "Junior Theoretical Neuroscientists Workshop",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/jrworkshop2026/",
-"src": "simons"
 },
 {
 "id": "s326db075ac",
@@ -393,6 +263,26 @@
 "src": "carnegie"
 },
 {
+"id": "sfe55de0b5f",
+"date": "2026-07-31",
+"time": "19:00",
+"title": "Carnegie Hall Citywide: El Laberinto del Coco",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/31/carnegie-hall-citywide-el-laberinto-del-coco-0700pm",
+"src": "carnegie"
+},
+{
+"id": "sf9ceee3aa4",
+"date": "2026-07-31",
+"time": "19:00",
+"title": "National Youth Orchestra of the United States of America",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/31/national-youth-orchestra-of-the-united-states-of-america-0700pm",
+"src": "carnegie"
+},
+{
 "id": "sc51d0433db",
 "date": "2026-07-31",
 "time": "19:00",
@@ -421,6 +311,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/rooftop-films-presents-new-york-non-fiction-2026/",
 "src": "greenwood"
+},
+{
+"id": "s99f1fe0364",
+"date": "2026-07-31",
+"time": "20:00",
+"title": "Irvine School of Music Student Recital",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/07/31/irvine-school-of-music-student-recital-0800pm",
+"src": "carnegie"
 },
 {
 "id": "sa021c7f01e",
@@ -603,6 +503,16 @@
 "src": "cooperhewitt"
 },
 {
+"id": "s365bccf53d",
+"date": "2026-08-05",
+"time": "10:30",
+"title": "Green-Wood on Wheels: Stroller-Friendly Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-08-05/",
+"src": "greenwood"
+},
+{
 "id": "sb49e334c72",
 "date": "2026-08-05",
 "time": "19:00",
@@ -641,6 +551,26 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "sb23ba9926a",
+"date": "2026-08-07",
+"time": "19:00",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-07/",
+"src": "greenwood"
+},
+{
+"id": "sff40b70e3c",
+"date": "2026-08-08",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-08-08/",
+"src": "greenwood"
 },
 {
 "id": "sea9f6dbe92",
@@ -1041,6 +971,26 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s3b608fe4f1",
+"date": "2026-09-01",
+"time": "",
+"title": "Let&#8217;s Play! Thanksgiving Special",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/lets-play-thanksgiving/",
+"src": "emanuel"
+},
+{
+"id": "scfe1a297f5",
+"date": "2026-09-01",
+"time": "",
+"title": "Let&#8217;s Play! Sukkot Edition",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/lets-play-2-128/",
+"src": "emanuel"
 },
 {
 "id": "s1b81680b37",
@@ -3023,36 +2973,6 @@
 "src": "nycballet"
 },
 {
-"id": "s0cfd6079ec",
-"date": "2027-01-05",
-"time": "",
-"title": "Young Families: Little Mensches \u2014 opens",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-little-menschs2026-149-556/",
-"src": "emanuel"
-},
-{
-"id": "s325192a31a",
-"date": "2027-01-05",
-"time": "",
-"title": "Young Families: Shalom, World! Music, Art &#038; Blessings \u2014 opens",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-shalom-world-music-art-blessings-500-952/",
-"src": "emanuel"
-},
-{
-"id": "s3a711782e8",
-"date": "2027-01-05",
-"time": "",
-"title": "Young Families: Boker Tov, Baby \u2014 opens",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-boker-tov-baby-323-352/",
-"src": "emanuel"
-},
-{
 "id": "s3cd368d88b",
 "date": "2027-01-09",
 "time": "",
@@ -4141,36 +4061,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/spring-2027/a-midsummer-nights-dream",
 "src": "nycballet"
-},
-{
-"id": "s012d32e4c7",
-"date": "2027-05-25",
-"time": "",
-"title": "Young Families: Little Mensches \u2014 final day",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-little-menschs2026-149-556/",
-"src": "emanuel"
-},
-{
-"id": "s74146b6c50",
-"date": "2027-05-25",
-"time": "",
-"title": "Young Families: Shalom, World! Music, Art &#038; Blessings \u2014 final day",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-shalom-world-music-art-blessings-500-952/",
-"src": "emanuel"
-},
-{
-"id": "s9e35afa5ef",
-"date": "2027-05-25",
-"time": "",
-"title": "Young Families: Boker Tov, Baby \u2014 final day",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-boker-tov-baby-323-352/",
-"src": "emanuel"
 },
 {
 "id": "s678187d6e9",
