@@ -1,97 +1,7 @@
 {
-"generated": "2026-07-25T10:22:30+00:00",
-"count": 431,
+"generated": "2026-07-26T10:31:42+00:00",
+"count": 430,
 "events": [
-{
-"id": "sfd6f227d56",
-"date": "2026-07-24",
-"time": "19:00",
-"title": "Jon Faddis Quartet: 73rd Birthday Celebration",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s1f1f2cb1fb",
-"date": "2026-07-24",
-"time": "",
-"title": "Japanese Heritage Night at Citi Field",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/japanese-heritage-night-at-citi-field/",
-"src": "japansociety"
-},
-{
-"id": "s326db075ac",
-"date": "2026-07-25",
-"time": "12:00",
-"title": "Guided Tour with Museum Admission",
-"venue": "Dyckman Farmhouse",
-"cat": "houses",
-"url": "https://dyckmanfarmhouse.org/event/guided-tour-with-museum-admission-13/",
-"src": "dyckman"
-},
-{
-"id": "sa7c8c27c37",
-"date": "2026-07-25",
-"time": "12:00",
-"title": "Last Saturdays: Open Classroom",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/last-saturdays-open-classroom-3/",
-"src": "greenwood"
-},
-{
-"id": "s5d5cdd66ee",
-"date": "2026-07-25",
-"time": "13:00",
-"title": "Discover Green-Wood Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-07-25/",
-"src": "greenwood"
-},
-{
-"id": "s0f128faeca",
-"date": "2026-07-25",
-"time": "14:00",
-"title": "Mark Morris Dance Group: Dances to American Music",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/25/mark-morris-dance-group-dances-to-american-music-0200pm",
-"src": "carnegie"
-},
-{
-"id": "se71b0f7d58",
-"date": "2026-07-25",
-"time": "14:30",
-"title": "Staten Island Community Song Circle",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/25/staten-island-community-song-circle-0230pm",
-"src": "carnegie"
-},
-{
-"id": "s40d3182f96",
-"date": "2026-07-25",
-"time": "15:00",
-"title": "MOCA PERFORMS\u2014Little Red Riding Hood: The Chinese Opera",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/25/moca-performslittle-red-riding-hood-the-chinese-opera-0300pm",
-"src": "carnegie"
-},
-{
-"id": "s3969190b07",
-"date": "2026-07-25",
-"time": "17:00",
-"title": "Carnegie Hall Citywide: Ensemble Connect",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/25/carnegie-hall-citywide-ensemble-connect-0500pm",
-"src": "carnegie"
-},
 {
 "id": "s1bfb4c6ebe",
 "date": "2026-07-25",
@@ -101,26 +11,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s2d5344749e",
-"date": "2026-07-25",
-"time": "19:30",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-07-25/",
-"src": "greenwood"
-},
-{
-"id": "sd58b410bdd",
-"date": "2026-07-25",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575085?skipPreview=true",
-"src": "aliceausten"
 },
 {
 "id": "s7acb466fba",
@@ -363,6 +253,16 @@
 "src": "greenwood"
 },
 {
+"id": "s564a18b895",
+"date": "2026-08-01",
+"time": "13:00",
+"title": "Overture Music Intensive 2026 Gala Concert",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/08/01/overture-music-intensive-2026-gala-concert-0100pm",
+"src": "carnegie"
+},
+{
 "id": "sffd8e3b93e",
 "date": "2026-08-01",
 "time": "13:00",
@@ -371,6 +271,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-08-01/",
 "src": "greenwood"
+},
+{
+"id": "s54d870afcb",
+"date": "2026-08-01",
+"time": "19:00",
+"title": "NYO Jazz",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/08/01/nyo-jazz-0700pm",
+"src": "carnegie"
 },
 {
 "id": "scd40335727",
@@ -391,6 +301,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-01/",
 "src": "greenwood"
+},
+{
+"id": "s06049059a3",
+"date": "2026-08-01",
+"time": "19:30",
+"title": "Manhattan International Music Competition Winners' Gala Concert",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/08/01/manhattan-international-music-competition-winners-gala-concert-0730pm",
+"src": "carnegie"
 },
 {
 "id": "se0717b17db",
@@ -453,6 +373,16 @@
 "src": "greenwood"
 },
 {
+"id": "s4d1ee06e73",
+"date": "2026-08-02",
+"time": "18:00",
+"title": "NYO2 in Santiago, Dominican Republic",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/08/02/nyo2-in-santiago-dominican-republic-0600pm",
+"src": "carnegie"
+},
+{
 "id": "s1160c00dd9",
 "date": "2026-08-02",
 "time": "19:00",
@@ -481,6 +411,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s826e447149",
+"date": "2026-08-03",
+"time": "19:30",
+"title": "NYO2 in Santo Domingo, Dominican Republic",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/08/03/nyo2-in-santo-domingo-dominican-republic-0730pm",
+"src": "carnegie"
 },
 {
 "id": "s14651ce739",
@@ -573,6 +513,16 @@
 "src": "greenwood"
 },
 {
+"id": "s7ee3b437de",
+"date": "2026-08-08",
+"time": "15:30",
+"title": "Revolutionary Spirits",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/revolutionary-spirits-7/2026-08-08/",
+"src": "greenwood"
+},
+{
 "id": "sea9f6dbe92",
 "date": "2026-08-08",
 "time": "19:00",
@@ -581,6 +531,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "sab772b50ae",
+"date": "2026-08-08",
+"time": "19:00",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-08/",
+"src": "greenwood"
 },
 {
 "id": "s563b6b3a44",
@@ -601,6 +561,16 @@
 "cat": "houses",
 "url": "https://spotlighttheatresi.org/product/10549/FIERCE_FEMALES_2026",
 "src": "aliceausten"
+},
+{
+"id": "sc7ca6c5252",
+"date": "2026-08-09",
+"time": "06:00",
+"title": "Birding in Peace",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/birding-in-peace-30/2026-08-09/",
+"src": "greenwood"
 },
 {
 "id": "s476af069c2",
@@ -823,6 +793,16 @@
 "src": "dizzys"
 },
 {
+"id": "sd73a038daa",
+"date": "2026-08-22",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575169?skipPreview=true",
+"src": "aliceausten"
+},
+{
 "id": "s69dc163a4d",
 "date": "2026-08-23",
 "time": "19:00",
@@ -891,6 +871,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s9955020d1b",
+"date": "2026-08-29",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575197?skipPreview=true",
+"src": "aliceausten"
 },
 {
 "id": "s688f3646dd",

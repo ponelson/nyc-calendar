@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T10:22:30+00:00",
-  "healthy": 14,
+  "generated": "2026-07-26T10:31:42+00:00",
+  "healthy": 13,
   "total": 23,
   "venues": [
     {
@@ -16,7 +16,7 @@
       "name": "Carnegie Hall",
       "cat": "classical",
       "strategy": "custom",
-      "count": 9,
+      "count": 10,
       "error": null
     },
     {
@@ -40,7 +40,7 @@
       "name": "Japan Society",
       "cat": "talks",
       "strategy": "custom",
-      "count": 26,
+      "count": 25,
       "error": null
     },
     {
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 103,
+      "count": 102,
       "error": null
     },
     {
@@ -168,7 +168,7 @@
       "name": "Alice Austen House",
       "cat": "houses",
       "strategy": "jsonld",
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
@@ -176,8 +176,8 @@
       "name": "Dyckman Farmhouse",
       "cat": "houses",
       "strategy": "ics",
-      "count": 1,
-      "error": null
+      "count": 0,
+      "error": "no events parsed"
     },
     {
       "id": "greenwood",
