@@ -1,17 +1,7 @@
 {
-"generated": "2026-07-27T12:13:55+00:00",
-"count": 408,
+"generated": "2026-07-28T11:10:58+00:00",
+"count": 443,
 "events": [
-{
-"id": "sfda5509824",
-"date": "2026-07-27",
-"time": "10:30",
-"title": "Developmental Dynamics Group Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/developmental-dynamics-group-meeting-64-619-192-25-461-177-653-619-685-231-44-176-178-62-404-567-416-970-981-263-338-994-191-942-617-846-761-395-983-563-68-582-283-326-788-142-212-426-509-805-310-12-3/",
-"src": "simons"
-},
 {
 "id": "s6d4bba72d2",
 "date": "2026-07-27",
@@ -23,6 +13,26 @@
 "src": "dizzys"
 },
 {
+"id": "sb747ca85a1",
+"date": "2026-07-28",
+"time": "00:00",
+"title": "CCBx Annual Meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-719-630-903-329-934-548-199-455-991/",
+"src": "simons"
+},
+{
+"id": "s4f6e4815d8",
+"date": "2026-07-28",
+"time": "14:00",
+"title": "COMPASS Meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/structural-molecular-biophysics-group-meeting-25-494-979-102-187-630-36-67-497-207-505-565-957-600-338-170-506-848-793-549-370-600-398-874-500-667-990-362-784-923-120-974-139-732-756-7-689-663-601-5-9/",
+"src": "simons"
+},
+{
 "id": "s3a8da961c5",
 "date": "2026-07-28",
 "time": "19:00",
@@ -31,6 +41,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s427d8b8dca",
+"date": "2026-07-29",
+"time": "00:00",
+"title": "CCBx Annual Meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-719-630-903-329-934-548-199-455-991/",
+"src": "simons"
 },
 {
 "id": "s4e194c46b5",
@@ -61,6 +81,16 @@
 "cat": "art",
 "url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-29-2026/",
 "src": "cooperhewitt"
+},
+{
+"id": "s2bb69d62f8",
+"date": "2026-07-30",
+"time": "00:00",
+"title": "CCBx Annual Meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-719-630-903-329-934-548-199-455-991/",
+"src": "simons"
 },
 {
 "id": "sdbb4a3ae9e",
@@ -101,6 +131,16 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2026/07/30/thomas-f-hulbert-music-international-piano-competition-winners-recital-0800pm",
 "src": "carnegie"
+},
+{
+"id": "sbddaa265ca",
+"date": "2026-07-31",
+"time": "00:00",
+"title": "CCBx Annual Meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-719-630-903-329-934-548-199-455-991/",
+"src": "simons"
 },
 {
 "id": "sfe55de0b5f",
@@ -783,6 +823,16 @@
 "src": "dizzys"
 },
 {
+"id": "sd73a038daa",
+"date": "2026-08-22",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575169?skipPreview=true",
+"src": "aliceausten"
+},
+{
 "id": "s69dc163a4d",
 "date": "2026-08-23",
 "time": "19:00",
@@ -851,6 +901,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s9955020d1b",
+"date": "2026-08-29",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575197?skipPreview=true",
+"src": "aliceausten"
 },
 {
 "id": "s688f3646dd",
@@ -1003,6 +1063,16 @@
 "src": "mvhm"
 },
 {
+"id": "s9a77076395",
+"date": "2026-09-04",
+"time": "18:00",
+"title": "September's First Friday with Miles East",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/mays-first-friday-with-miles-east/",
+"src": "bartowpell"
+},
+{
 "id": "s9ed802bb0c",
 "date": "2026-09-04",
 "time": "19:00",
@@ -1093,6 +1163,16 @@
 "src": "mvhm"
 },
 {
+"id": "sdd8afdf330",
+"date": "2026-09-10",
+"time": "19:00",
+"title": "Saxophone Colossus: Celebrating Sonny Rollins",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://www.jazz.org/dizzys/",
+"src": "dizzys"
+},
+{
 "id": "sae81d8d3b8",
 "date": "2026-09-10",
 "time": "",
@@ -1143,6 +1223,16 @@
 "src": "japansociety"
 },
 {
+"id": "s31fcf5c3a4",
+"date": "2026-09-12",
+"time": "10:00",
+"title": "Bartow-Brocante Market",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/bartow-brocante-market/",
+"src": "bartowpell"
+},
+{
 "id": "s496fa448c8",
 "date": "2026-09-12",
 "time": "19:00",
@@ -1161,6 +1251,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/dan-flavin-grids-hong-kong",
 "src": "zwirner"
+},
+{
+"id": "s8da2c94b84",
+"date": "2026-09-13",
+"time": "10:00",
+"title": "Bartow-Brocante Market",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/bartow-brocante-market/",
+"src": "bartowpell"
 },
 {
 "id": "sa8de3a526b",
@@ -1403,6 +1503,16 @@
 "src": "zwirner"
 },
 {
+"id": "s0b1f20d967",
+"date": "2026-09-24",
+"time": "19:00",
+"title": "Expanding the Discourse: Poetry Readings by David Mills",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/expanding-the-discourse-poetry-readings-by-david-mills/",
+"src": "bartowpell"
+},
+{
 "id": "s60b2842bd1",
 "date": "2026-09-24",
 "time": "19:00",
@@ -1563,6 +1673,16 @@
 "src": "nyas"
 },
 {
+"id": "s7bfb0be466",
+"date": "2026-09-30",
+"time": "",
+"title": "Community as Family: Zoom Virtual Meeting",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/community-as-family-virtual-meeting-3-188-606/",
+"src": "emanuel"
+},
+{
 "id": "s559e8c4378",
 "date": "2026-10-01",
 "time": "19:00",
@@ -1591,6 +1711,16 @@
 "cat": "houses",
 "url": "https://mvhm.org/event/a-current-of-change-the-erie-canal-and-the-mount-vernon-hotel/",
 "src": "mvhm"
+},
+{
+"id": "sb5b45f2487",
+"date": "2026-10-02",
+"time": "18:00",
+"title": "First Friday with Warren Banholzer",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/first-friday-with-warren-banholzer-4/",
+"src": "bartowpell"
 },
 {
 "id": "s090bc023e0",
@@ -1631,6 +1761,76 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
 "src": "nycballet"
+},
+{
+"id": "sf0b4028fb1",
+"date": "2026-10-03",
+"time": "",
+"title": "Tot Shabbat: Honoring Parents",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tot-shabbat-honoring-parents/",
+"src": "emanuel"
+},
+{
+"id": "s6e18cfdf40",
+"date": "2026-10-03",
+"time": "",
+"title": "Tot Shabbat: Celebrating Passover",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tot-shabbat-celebrating-passover/",
+"src": "emanuel"
+},
+{
+"id": "sa0f758fd8b",
+"date": "2026-10-03",
+"time": "",
+"title": "Tot Shabbat: Celebrating Purim",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tot-shabbat-celebrating-purim/",
+"src": "emanuel"
+},
+{
+"id": "sae40098ba1",
+"date": "2026-10-03",
+"time": "",
+"title": "Tot Shabbat: Celebrating our Loved Ones",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tot-shabbat-celebrating-our-loved-ones/",
+"src": "emanuel"
+},
+{
+"id": "s3a5a55e4e3",
+"date": "2026-10-03",
+"time": "",
+"title": "Tot Shabbat: Celebrating Tu BiSh\u2019vat",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tot-shabbat-celebrating-tu-bishvat/",
+"src": "emanuel"
+},
+{
+"id": "s829cd49ba8",
+"date": "2026-10-03",
+"time": "",
+"title": "Tot Shabbat: Celebrating Chanukah",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tot-shabbat-celebrating-chanukah/",
+"src": "emanuel"
+},
+{
+"id": "s318a0a73e2",
+"date": "2026-10-03",
+"time": "",
+"title": "Tot Shabbat: Celebrating Gratitude",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tot-shabbat-celebrating-gratitude/",
+"src": "emanuel"
 },
 {
 "id": "sc7e1455637",
@@ -1681,6 +1881,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
 "src": "nycballet"
+},
+{
+"id": "s844885a36d",
+"date": "2026-10-06",
+"time": "",
+"title": "Center for Interfaith Dialogue: Defense Against the Dark Arts",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/center-for-interfaith-dialogue-defense-against-the-dark-arts-7/",
+"src": "emanuel"
 },
 {
 "id": "sfc86d4dff2",
@@ -1783,6 +1993,16 @@
 "src": "nycballet"
 },
 {
+"id": "sdea1b8ae16",
+"date": "2026-10-10",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
 "id": "sdbca5ed90b",
 "date": "2026-10-10",
 "time": "19:00",
@@ -1823,6 +2043,16 @@
 "src": "nycballet"
 },
 {
+"id": "s1d7103e953",
+"date": "2026-10-11",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
 "id": "sf3d09baf2e",
 "date": "2026-10-11",
 "time": "19:00",
@@ -1833,6 +2063,16 @@
 "src": "dizzys"
 },
 {
+"id": "s00eb1d1cde",
+"date": "2026-10-12",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
 "id": "sd40d9cb9bd",
 "date": "2026-10-12",
 "time": "19:00",
@@ -1841,6 +2081,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s0ee350becb",
+"date": "2026-10-13",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
 "id": "s94fb90f0f1",
@@ -1873,6 +2123,16 @@
 "src": "nyas"
 },
 {
+"id": "s466f2dc686",
+"date": "2026-10-14",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
 "id": "s7f4edb9faa",
 "date": "2026-10-14",
 "time": "19:00",
@@ -1891,6 +2151,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
 "src": "nycballet"
+},
+{
+"id": "se68b8533ae",
+"date": "2026-10-15",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
 "id": "sf41f46e179",
@@ -1913,6 +2183,16 @@
 "src": "nycballet"
 },
 {
+"id": "sae4893df37",
+"date": "2026-10-16",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
 "id": "s23a89e239c",
 "date": "2026-10-16",
 "time": "19:00",
@@ -1931,6 +2211,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
+},
+{
+"id": "s92ac6265ee",
+"date": "2026-10-17",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
 "id": "s1634e913e4",
@@ -1991,6 +2281,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/adrian-danchig-waring-farewell",
 "src": "nycballet"
+},
+{
+"id": "s54eca76d09",
+"date": "2026-10-18",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
 "id": "seebdc475fc",
@@ -2063,6 +2363,16 @@
 "src": "japansociety"
 },
 {
+"id": "s1b3774be23",
+"date": "2026-10-21",
+"time": "",
+"title": "Center for Interfaith Dialogue: Interfaith Lunch Group",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/center-for-interfaith-dialogue-interfaith-lunch-group/",
+"src": "emanuel"
+},
+{
 "id": "s68a96d16f2",
 "date": "2026-10-22",
 "time": "19:00",
@@ -2113,6 +2423,16 @@
 "src": "zwirner"
 },
 {
+"id": "s071091bce6",
+"date": "2026-10-25",
+"time": "16:00",
+"title": "Free workshop: Jane Austen\u2019s Country Dance",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/free-workshop-jane-austens-country-dance-3/",
+"src": "bartowpell"
+},
+{
 "id": "s64c1c39bf2",
 "date": "2026-10-25",
 "time": "19:00",
@@ -2141,6 +2461,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s7a97273a77",
+"date": "2026-10-27",
+"time": "",
+"title": "Center for Interfaith Dialogue: Interfaith Bible Study",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/center-for-interfaith-dialogue-interfaith-bible-study/",
+"src": "emanuel"
 },
 {
 "id": "scdafc15b1e",
@@ -2273,6 +2603,16 @@
 "src": "japansociety"
 },
 {
+"id": "sa48c2fff28",
+"date": "2026-11-05",
+"time": "",
+"title": "No Plan at All: Prints from BORCH Editions \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/no-plan-at-all-prints-from-borch-editions",
+"src": "zwirner"
+},
+{
 "id": "s71be268ca3",
 "date": "2026-11-05",
 "time": "",
@@ -2281,6 +2621,46 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/ai-tools-for-literature-review-writing-and-research-productivity/",
 "src": "nyas"
+},
+{
+"id": "sa0921e04eb",
+"date": "2026-11-06",
+"time": "19:00",
+"title": "Dungeons and Dragons Weekend",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
+"src": "bartowpell"
+},
+{
+"id": "s1ee78ccfb8",
+"date": "2026-11-07",
+"time": "11:00",
+"title": "Bartow-Pell Tree ID Walk",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/bartow-pell-tree-id-walk-2/",
+"src": "bartowpell"
+},
+{
+"id": "s28cf528f50",
+"date": "2026-11-07",
+"time": "19:00",
+"title": "Dungeons and Dragons Weekend",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
+"src": "bartowpell"
+},
+{
+"id": "sa335b00fe1",
+"date": "2026-11-08",
+"time": "19:00",
+"title": "Dungeons and Dragons Weekend",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
+"src": "bartowpell"
 },
 {
 "id": "s4acd84c532",
@@ -2583,6 +2963,16 @@
 "src": "nycballet"
 },
 {
+"id": "s5caa8efbd5",
+"date": "2026-12-19",
+"time": "",
+"title": "No Plan at All: Prints from BORCH Editions \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/no-plan-at-all-prints-from-borch-editions",
+"src": "zwirner"
+},
+{
 "id": "s2a037b42f8",
 "date": "2026-12-20",
 "time": "17:00",
@@ -2761,16 +3151,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
 "src": "nycballet"
-},
-{
-"id": "saeabacf1db",
-"date": "2027-01-19",
-"time": "",
-"title": "Women of Emanu-El: Yves Saint Laurent and Photography",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-yves-saint-laurent-and-photography/",
-"src": "emanuel"
 },
 {
 "id": "s19dd54405a",
@@ -3463,16 +3843,6 @@
 "src": "nyas"
 },
 {
-"id": "sab51057a8b",
-"date": "2027-04-30",
-"time": "",
-"title": "Women of Emanu-El: Wolfgang Amadeus Mozart\u2013Treasures from the Mozarteum Foundation of Salzburg",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-wolfgang-amadeus-mozart-treasures-from-the-mozarteum-foundation-of-salzburg/",
-"src": "emanuel"
-},
-{
 "id": "sacb3a89056",
 "date": "2027-05-01",
 "time": "14:00",
@@ -3513,6 +3883,46 @@
 "src": "cooperhewitt"
 },
 {
+"id": "s441442e5ec",
+"date": "2027-05-03",
+"time": "",
+"title": "Tikkun Olam: Project Prom 2027 (Dress Selection Day 3)",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tikkun-olam-project-prom-2027-dress-selection-day-3/",
+"src": "emanuel"
+},
+{
+"id": "s8e6b16e4e5",
+"date": "2027-05-03",
+"time": "",
+"title": "Tikkun Olam: Project Prom 2027 (Dress Selection Day 2)",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tikkun-olam-project-prom-2027-dress-selection-day-2/",
+"src": "emanuel"
+},
+{
+"id": "s04cd2d2487",
+"date": "2027-05-03",
+"time": "",
+"title": "Tikkun Olam: Project Prom 2027 (Dress Selection Day 1)",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tikkun-olam-project-prom-2027-dress-selection-day-1/",
+"src": "emanuel"
+},
+{
+"id": "s77454dd191",
+"date": "2027-05-03",
+"time": "",
+"title": "Tikkun Olam: Project Prom 2027 (Set Up)",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tikkun-olam-project-prom-2027-set-up-day-1/",
+"src": "emanuel"
+},
+{
 "id": "sef6c9510eb",
 "date": "2027-05-04",
 "time": "19:30",
@@ -3543,16 +3953,6 @@
 "src": "nycballet"
 },
 {
-"id": "sd1c4fa7a13",
-"date": "2027-05-06",
-"time": "",
-"title": "Women of Emanu-El: Wednesday Morning Supervised Play with Peter Steinberg",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-wednesday-morning-supervised-play-with-peter-steinberg/",
-"src": "emanuel"
-},
-{
 "id": "s8cdc5054c3",
 "date": "2027-05-07",
 "time": "19:30",
@@ -3561,16 +3961,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/spring-2027/masters-at-work-ii",
 "src": "nycballet"
-},
-{
-"id": "s2e71bab5e6",
-"date": "2027-05-07",
-"time": "",
-"title": "Women of Emanu-El: Thursday Night Supervised Play with Peter Steinberg",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-supervised-play-with-peter-steinberg/",
-"src": "emanuel"
 },
 {
 "id": "s9eaca86155",
@@ -3623,16 +4013,6 @@
 "src": "nycballet"
 },
 {
-"id": "seb4d87ec49",
-"date": "2027-05-11",
-"time": "",
-"title": "Women of Emanu-El: Lunch &#038; Games at Serafina",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-may-serafina/",
-"src": "emanuel"
-},
-{
 "id": "s043d90d43b",
 "date": "2027-05-12",
 "time": "19:30",
@@ -3671,16 +4051,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/spring-2027/eclectic-nycb-ii",
 "src": "nycballet"
-},
-{
-"id": "s7a7577b1c2",
-"date": "2027-05-14",
-"time": "",
-"title": "Women of Emanu-El: Thursday Mornings Intermediate Bridge Lessons/Play with Peter Steinberg",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-thursday-mornings-intermediate-bridge-lessons-play-with-peter-steinberg/",
-"src": "emanuel"
 },
 {
 "id": "s45b7880c81",
@@ -3913,16 +4283,6 @@
 "src": "cooperhewitt"
 },
 {
-"id": "s19361f3972",
-"date": "2027-06-07",
-"time": "",
-"title": "Young Families: Summer Rooftop Party featuring Bubble Dad",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/young-families-summer-rooftop-party-featuring-the-bubble-dad/",
-"src": "emanuel"
-},
-{
 "id": "s8df795b49b",
 "date": "2027-06-08",
 "time": "",
@@ -3931,16 +4291,6 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/land-your-industry-dream-job-right-out-of-grad-school/",
 "src": "nyas"
-},
-{
-"id": "s5c18bb20f9",
-"date": "2027-06-08",
-"time": "",
-"title": "Women of Emanu-El: Lunch &#038; Games at Serafina",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-may-serafina-638/",
-"src": "emanuel"
 },
 {
 "id": "s6e4a81f1aa",
