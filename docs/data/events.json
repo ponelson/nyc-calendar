@@ -1,17 +1,7 @@
 {
-"generated": "2026-07-28T11:10:58+00:00",
-"count": 443,
+"generated": "2026-07-29T11:16:12+00:00",
+"count": 447,
 "events": [
-{
-"id": "s6d4bba72d2",
-"date": "2026-07-27",
-"time": "19:00",
-"title": "Nduduzo Makhathini Trio",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
 {
 "id": "sb747ca85a1",
 "date": "2026-07-28",
@@ -23,26 +13,6 @@
 "src": "simons"
 },
 {
-"id": "s4f6e4815d8",
-"date": "2026-07-28",
-"time": "14:00",
-"title": "COMPASS Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/structural-molecular-biophysics-group-meeting-25-494-979-102-187-630-36-67-497-207-505-565-957-600-338-170-506-848-793-549-370-600-398-874-500-667-990-362-784-923-120-974-139-732-756-7-689-663-601-5-9/",
-"src": "simons"
-},
-{
-"id": "s3a8da961c5",
-"date": "2026-07-28",
-"time": "19:00",
-"title": "Nduduzo Makhathini Trio",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "s427d8b8dca",
 "date": "2026-07-29",
 "time": "00:00",
@@ -50,6 +20,16 @@
 "venue": "Simons Foundation",
 "cat": "talks",
 "url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-719-630-903-329-934-548-199-455-991/",
+"src": "simons"
+},
+{
+"id": "se920a1f665",
+"date": "2026-07-29",
+"time": "14:00",
+"title": "Biomolecular Design Group Meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-369-965-277-218-169-953-996-255-427-381-72-238-191-4/",
 "src": "simons"
 },
 {
@@ -733,16 +713,6 @@
 "src": "dizzys"
 },
 {
-"id": "s4429730f4f",
-"date": "2026-08-16",
-"time": "",
-"title": "Center for Interfaith Dialogue: Interfaith Gratitude Picnic",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/center-for-interfaith-dialogue-interfaith-gratitude-picnic-2/",
-"src": "emanuel"
-},
-{
 "id": "sf07923d305",
 "date": "2026-08-17",
 "time": "19:00",
@@ -1013,16 +983,6 @@
 "src": "emanuel"
 },
 {
-"id": "s1b81680b37",
-"date": "2026-09-01",
-"time": "",
-"title": "Let&#8217;s Play!",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/lets-play-2/",
-"src": "emanuel"
-},
-{
 "id": "s85a422f488",
 "date": "2026-09-02",
 "time": "19:00",
@@ -1121,16 +1081,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s31688a97b9",
-"date": "2026-09-08",
-"time": "",
-"title": "Women of Emanu-El Mah Jongg Class",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-mah-jongg-class/",
-"src": "emanuel"
 },
 {
 "id": "sd2df7bd6ef",
@@ -1573,6 +1523,16 @@
 "src": "nycballet"
 },
 {
+"id": "s676be84ef5",
+"date": "2026-09-25",
+"time": "",
+"title": "Family Shabbat",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/family-shabbat-881/",
+"src": "emanuel"
+},
+{
 "id": "s5deff17469",
 "date": "2026-09-26",
 "time": "19:00",
@@ -1863,6 +1823,26 @@
 "src": "dizzys"
 },
 {
+"id": "s72681e5d87",
+"date": "2026-10-05",
+"time": "",
+"title": "Center for Interfaith Dialogue: Muslim-Jewish Dialogue Group",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/center-for-interfaith-dialogue-muslim-jewish-dialogue-group-16-849/",
+"src": "emanuel"
+},
+{
+"id": "sdc51f04163",
+"date": "2026-10-05",
+"time": "",
+"title": "Center for Interfaith Dialogue: Jewish and Catholic Law in Dialogue",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/center-for-interfaith-dialogue-jewish-and-catholic-law-in-dialogue/",
+"src": "emanuel"
+},
+{
 "id": "sc465b7bd6f",
 "date": "2026-10-06",
 "time": "19:00",
@@ -1921,6 +1901,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
+},
+{
+"id": "sb986d957a3",
+"date": "2026-10-07",
+"time": "",
+"title": "Kosha Dillz Unfiltered: Pride, Remembrance, and Courage",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/kosha-dillz-unfiltered-pride-remembrance-and-courage/",
+"src": "emanuel"
 },
 {
 "id": "sb364ad6e52",
@@ -2153,6 +2143,26 @@
 "src": "nycballet"
 },
 {
+"id": "s74bd760dfc",
+"date": "2026-10-14",
+"time": "",
+"title": "Teen Philanthropic Committee Meeting",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/teen-philanthropic-committee-meeting-332-956/",
+"src": "emanuel"
+},
+{
+"id": "s2874d51858",
+"date": "2026-10-14",
+"time": "",
+"title": "Center for Interfaith Dialogue: Interfaith Dialogue with Fifth Avenue Presbyterian",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/center-for-interfaith-dialogue-interfaith-dialogue-with-fifth-avenue-presbyterian/",
+"src": "emanuel"
+},
+{
 "id": "se68b8533ae",
 "date": "2026-10-15",
 "time": "17:00",
@@ -2303,6 +2313,16 @@
 "src": "dizzys"
 },
 {
+"id": "saeac5a8888",
+"date": "2026-10-18",
+"time": "",
+"title": "Calling Generations Brunch",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/calling-generations-128/",
+"src": "emanuel"
+},
+{
 "id": "sc4fec97935",
 "date": "2026-10-19",
 "time": "19:00",
@@ -2443,6 +2463,16 @@
 "src": "dizzys"
 },
 {
+"id": "s306d0a12f6",
+"date": "2026-10-25",
+"time": "",
+"title": "The Emanu-El Theatre Company",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/the-emanu-el-theatre-company/",
+"src": "emanuel"
+},
+{
 "id": "s050263253b",
 "date": "2026-10-26",
 "time": "19:00",
@@ -2451,6 +2481,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s5bdc325102",
+"date": "2026-10-26",
+"time": "",
+"title": "Connecting at Emanu-El: New Member Conversations with Rabbi Davidson",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/connecting-at-emanu-el-new-member-conversations-with-rabbi-davidson/",
+"src": "emanuel"
 },
 {
 "id": "scd6d1ac4fc",
@@ -2553,20 +2593,20 @@
 "src": "zwirner"
 },
 {
-"id": "s26925cdb21",
+"id": "s6378d2fac0",
 "date": "2026-11-02",
 "time": "",
-"title": "Tikkun Olam: Last Day of Toy Drive for POTS, Xavier Mission, and 19th Precinct \u2014 opens",
+"title": "Tikkun Olam: Last Day of Toy Drive for Part of the Solution (POTS), Xavier Mission, and NYPD 19th Precinct \u2014 opens",
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/tikkun-olam-last-day-of-toy-drive-for-pots-xavier-mission-and-19th-precinct/",
 "src": "emanuel"
 },
 {
-"id": "s9a9da67cd9",
+"id": "s7c7032b5b5",
 "date": "2026-11-02",
 "time": "",
-"title": "Tikkun Olam: First Day of Toy Drive for POTS, Xavier Mission, and 19th Precinct \u2014 opens",
+"title": "Tikkun Olam: First Day of Toy Drive for Part of the Solution (POTS), Xavier Mission, and NYPD 19th Precinct \u2014 opens",
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/tikkun-olam-first-day-of-toy-drive-for-pots-xavier-mission-and-19th-precinct/",
@@ -2863,20 +2903,20 @@
 "src": "japansociety"
 },
 {
-"id": "sa36f0ca9ea",
+"id": "scc3c306c73",
 "date": "2026-12-11",
 "time": "",
-"title": "Tikkun Olam: Last Day of Toy Drive for POTS, Xavier Mission, and 19th Precinct \u2014 final day",
+"title": "Tikkun Olam: Last Day of Toy Drive for Part of the Solution (POTS), Xavier Mission, and NYPD 19th Precinct \u2014 final day",
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/tikkun-olam-last-day-of-toy-drive-for-pots-xavier-mission-and-19th-precinct/",
 "src": "emanuel"
 },
 {
-"id": "se95220ec6b",
+"id": "s28678e99fb",
 "date": "2026-12-11",
 "time": "",
-"title": "Tikkun Olam: First Day of Toy Drive for POTS, Xavier Mission, and 19th Precinct \u2014 final day",
+"title": "Tikkun Olam: First Day of Toy Drive for Part of the Solution (POTS), Xavier Mission, and NYPD 19th Precinct \u2014 final day",
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/tikkun-olam-first-day-of-toy-drive-for-pots-xavier-mission-and-19th-precinct/",
@@ -2911,6 +2951,16 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/sketch-with-jeff-storytelling-and-art-at-the-guggenheim",
 "src": "guggenheim"
+},
+{
+"id": "s732ef9f051",
+"date": "2026-12-14",
+"time": "",
+"title": "Marty Supreme",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/marty-supreme/",
+"src": "japansociety"
 },
 {
 "id": "sd4542c2335",
@@ -4321,16 +4371,6 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/family-art-day-susumu-shingu-inspired-by-nature-and-movement/",
 "src": "japansociety"
-},
-{
-"id": "s2c9a86a108",
-"date": "2027-06-24",
-"time": "",
-"title": "Behind the Scenes Tour of Emanu-El with Mark Heutlinger",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/behind-the-scenes-tour-of-emanu-el-with-mark-heutlinger/",
-"src": "emanuel"
 },
 {
 "id": "sd03640fd0e",

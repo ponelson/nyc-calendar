@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T11:10:58+00:00",
+  "generated": "2026-07-29T11:16:12+00:00",
   "healthy": 14,
   "total": 23,
   "venues": [
@@ -24,7 +24,7 @@
       "name": "Temple Emanu-El \u2014 Streicker",
       "cat": "classical",
       "strategy": "custom",
-      "count": 33,
+      "count": 38,
       "error": null
     },
     {
@@ -40,7 +40,7 @@
       "name": "Japan Society",
       "cat": "talks",
       "strategy": "custom",
-      "count": 25,
+      "count": 26,
       "error": null
     },
     {
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 101,
+      "count": 99,
       "error": null
     },
     {
