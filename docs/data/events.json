@@ -1,17 +1,7 @@
 {
-"generated": "2026-07-29T11:16:12+00:00",
-"count": 447,
+"generated": "2026-07-30T11:01:09+00:00",
+"count": 419,
 "events": [
-{
-"id": "sb747ca85a1",
-"date": "2026-07-28",
-"time": "00:00",
-"title": "CCBx Annual Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-719-630-903-329-934-548-199-455-991/",
-"src": "simons"
-},
 {
 "id": "s427d8b8dca",
 "date": "2026-07-29",
@@ -23,16 +13,6 @@
 "src": "simons"
 },
 {
-"id": "se920a1f665",
-"date": "2026-07-29",
-"time": "14:00",
-"title": "Biomolecular Design Group Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-369-965-277-218-169-953-996-255-427-381-72-238-191-4/",
-"src": "simons"
-},
-{
 "id": "s4e194c46b5",
 "date": "2026-07-29",
 "time": "19:00",
@@ -41,16 +21,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "sdb15afd4a0",
-"date": "2026-07-29",
-"time": "20:30",
-"title": "Moonlight Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/moonlight-tour-14/2026-07-29/",
-"src": "greenwood"
 },
 {
 "id": "s79d27e7c5d",
@@ -153,26 +123,6 @@
 "src": "dizzys"
 },
 {
-"id": "sc585cac006",
-"date": "2026-07-31",
-"time": "19:00",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-07-31/",
-"src": "greenwood"
-},
-{
-"id": "sfa3e989e59",
-"date": "2026-07-31",
-"time": "19:45",
-"title": "Rooftop Films Presents: New York Non-Fiction 2026",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/rooftop-films-presents-new-york-non-fiction-2026/",
-"src": "greenwood"
-},
-{
 "id": "s99f1fe0364",
 "date": "2026-07-31",
 "time": "20:00",
@@ -203,26 +153,6 @@
 "src": "zwirner"
 },
 {
-"id": "sdf3d0ff4fa",
-"date": "2026-08-01",
-"time": "09:30",
-"title": "America250: Fourth of July Walking Tour at Green-Wood",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/america250-fourth-of-july-walking-tour-at-green-wood/",
-"src": "greenwood"
-},
-{
-"id": "s73ec13fc43",
-"date": "2026-08-01",
-"time": "10:00",
-"title": "America250: Fourth of July Family Trolley Tour at Green-Wood",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/america250-fourth-of-july-family-trolley-tour-at-green-wood/",
-"src": "greenwood"
-},
-{
 "id": "s564a18b895",
 "date": "2026-08-01",
 "time": "13:00",
@@ -231,16 +161,6 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2026/08/01/overture-music-intensive-2026-gala-concert-0100pm",
 "src": "carnegie"
-},
-{
-"id": "sffd8e3b93e",
-"date": "2026-08-01",
-"time": "13:00",
-"title": "Discover Green-Wood Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-08-01/",
-"src": "greenwood"
 },
 {
 "id": "s54d870afcb",
@@ -263,16 +183,6 @@
 "src": "dizzys"
 },
 {
-"id": "s9607309f2a",
-"date": "2026-08-01",
-"time": "19:00",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-01/",
-"src": "greenwood"
-},
-{
 "id": "s06049059a3",
 "date": "2026-08-01",
 "time": "19:30",
@@ -281,16 +191,6 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2026/08/01/manhattan-international-music-competition-winners-gala-concert-0730pm",
 "src": "carnegie"
-},
-{
-"id": "se0717b17db",
-"date": "2026-08-01",
-"time": "20:30",
-"title": "Nocturnal Navigators: Green-Wood Bat Walk",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/nocturnal-navigators-green-wood-bat-walk-5/2026-08-01/",
-"src": "greenwood"
 },
 {
 "id": "s5f395af5be",
@@ -313,36 +213,6 @@
 "src": "zwirner"
 },
 {
-"id": "s00e8831ed8",
-"date": "2026-08-02",
-"time": "06:00",
-"title": "Birding in Peace",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/birding-in-peace-30/2026-08-02/",
-"src": "greenwood"
-},
-{
-"id": "s7aa7b3cc31",
-"date": "2026-08-02",
-"time": "10:00",
-"title": "Grave Beginnings: Walking Green-Wood",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-08-02/",
-"src": "greenwood"
-},
-{
-"id": "s018ed1c159",
-"date": "2026-08-02",
-"time": "13:00",
-"title": "Green-Wood's Greatest Hits",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-woods-greatest-hits-13/2026-08-02/",
-"src": "greenwood"
-},
-{
 "id": "s4d1ee06e73",
 "date": "2026-08-02",
 "time": "18:00",
@@ -361,16 +231,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s02a7d71700",
-"date": "2026-08-03",
-"time": "18:00",
-"title": "Handwriting the Constitution",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/handwriting-the-constitution/2026-08-03/",
-"src": "greenwood"
 },
 {
 "id": "sa764561b12",
@@ -413,16 +273,6 @@
 "src": "cooperhewitt"
 },
 {
-"id": "s365bccf53d",
-"date": "2026-08-05",
-"time": "10:30",
-"title": "Green-Wood on Wheels: Stroller-Friendly Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-08-05/",
-"src": "greenwood"
-},
-{
 "id": "sb49e334c72",
 "date": "2026-08-05",
 "time": "19:00",
@@ -463,36 +313,6 @@
 "src": "dizzys"
 },
 {
-"id": "sb23ba9926a",
-"date": "2026-08-07",
-"time": "19:00",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-07/",
-"src": "greenwood"
-},
-{
-"id": "sff40b70e3c",
-"date": "2026-08-08",
-"time": "13:00",
-"title": "Discover Green-Wood Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-08-08/",
-"src": "greenwood"
-},
-{
-"id": "s7ee3b437de",
-"date": "2026-08-08",
-"time": "15:30",
-"title": "Revolutionary Spirits",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/revolutionary-spirits-7/2026-08-08/",
-"src": "greenwood"
-},
-{
 "id": "sea9f6dbe92",
 "date": "2026-08-08",
 "time": "19:00",
@@ -501,16 +321,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "sab772b50ae",
-"date": "2026-08-08",
-"time": "19:00",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-08/",
-"src": "greenwood"
 },
 {
 "id": "s563b6b3a44",
@@ -533,36 +343,6 @@
 "src": "aliceausten"
 },
 {
-"id": "sc7ca6c5252",
-"date": "2026-08-09",
-"time": "06:00",
-"title": "Birding in Peace",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/birding-in-peace-30/2026-08-09/",
-"src": "greenwood"
-},
-{
-"id": "s548e328c55",
-"date": "2026-08-09",
-"time": "11:00",
-"title": "Grave Beginnings: Green-Wood by Trolley",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley/2026-08-09/",
-"src": "greenwood"
-},
-{
-"id": "se6bc895bc3",
-"date": "2026-08-09",
-"time": "11:00",
-"title": "Battle of Brooklyn Walking Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/battle-of-brooklyn-walking-tour/",
-"src": "greenwood"
-},
-{
 "id": "s476af069c2",
 "date": "2026-08-09",
 "time": "17:00",
@@ -581,26 +361,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s3c8041a852",
-"date": "2026-08-10",
-"time": "20:00",
-"title": "Frank London's Loisaida Fife and Drums Corps.",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/frank-londons-loisaida-fife-and-drums-corps/",
-"src": "greenwood"
-},
-{
-"id": "s69e47ead38",
-"date": "2026-08-11",
-"time": "10:00",
-"title": "Toddler Takeover at the Green-House",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-08-11/",
-"src": "greenwood"
 },
 {
 "id": "s76f3ac400e",
@@ -893,56 +653,6 @@
 "src": "dizzys"
 },
 {
-"id": "s92f8696077",
-"date": "2026-08-30",
-"time": "",
-"title": "Exhibit: Black People and the Battle of Brooklyn \u2014 final day",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/exhibit-black-people-and-the-battle-of-brooklyn/",
-"src": "greenwood"
-},
-{
-"id": "sd1c43afa92",
-"date": "2026-08-30",
-"time": "",
-"title": "Exhibit: Battle Pass in Prospect Park \u2014 final day",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/exhibit-battle-pass-in-prospect-park/",
-"src": "greenwood"
-},
-{
-"id": "s08fc700981",
-"date": "2026-08-30",
-"time": "",
-"title": "Black Loyalist Virtual Tour \u2014 final day",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/black-loyalist-virtual-tour/",
-"src": "greenwood"
-},
-{
-"id": "s6b15ed9c26",
-"date": "2026-08-30",
-"time": "",
-"title": "Tour: Battle of Brooklyn\u2019s Battle Pass \u2014 final day",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/tour-battle-of-brooklyns-battle-pass/",
-"src": "greenwood"
-},
-{
-"id": "s2a23cb08e6",
-"date": "2026-08-30",
-"time": "",
-"title": "Fort Defiance Sidwalk Galleries \u2014 final day",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/fort-defiance-sidwalk-galleries/",
-"src": "greenwood"
-},
-{
 "id": "s0d60ab9ca9",
 "date": "2026-08-31",
 "time": "19:00",
@@ -1061,16 +771,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s0f72e85b82",
-"date": "2026-09-07",
-"time": "",
-"title": "Breaking the Law: Themes of Protest and Disobedience from the Declaration of Independence Onward \u2014 final day",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/breaking-the-law-themes-of-protest-and-disobedience-from-the-declaration-of-independence-onward/",
-"src": "greenwood"
 },
 {
 "id": "s4215363d5d",
@@ -1413,6 +1113,16 @@
 "src": "nycballet"
 },
 {
+"id": "sa5c906a9f2",
+"date": "2026-09-22",
+"time": "",
+"title": "Studio Visit: Maiko Kikuchi at NowHere Studio in Dumbo",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/studio-visit-maiko-kikuchi-at-nowhere-studio-in-dumbo/",
+"src": "japansociety"
+},
+{
 "id": "s7b4200c75e",
 "date": "2026-09-23",
 "time": "15:00",
@@ -1603,6 +1313,16 @@
 "src": "nycballet"
 },
 {
+"id": "saa9afdc312",
+"date": "2026-09-29",
+"time": "",
+"title": "Everyone you\u2019re looking at is also you",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
+"src": "zwirner"
+},
+{
 "id": "sfb4424c3aa",
 "date": "2026-09-30",
 "time": "19:00",
@@ -1621,6 +1341,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
 "src": "nycballet"
+},
+{
+"id": "sa300cacdb3",
+"date": "2026-09-30",
+"time": "",
+"title": "Everyone you\u2019re looking at is also you",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
+"src": "zwirner"
 },
 {
 "id": "sb3fd479d9c",
@@ -1663,6 +1393,16 @@
 "src": "nycballet"
 },
 {
+"id": "s5dd3489903",
+"date": "2026-10-01",
+"time": "",
+"title": "Everyone you\u2019re looking at is also you",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
+"src": "zwirner"
+},
+{
 "id": "sae655e6dc1",
 "date": "2026-10-02",
 "time": "12:00",
@@ -1703,6 +1443,16 @@
 "src": "nycballet"
 },
 {
+"id": "s7a63e0b160",
+"date": "2026-10-02",
+"time": "",
+"title": "Everyone you\u2019re looking at is also you",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
+"src": "zwirner"
+},
+{
 "id": "s47424cc7f3",
 "date": "2026-10-03",
 "time": "19:00",
@@ -1721,6 +1471,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
 "src": "nycballet"
+},
+{
+"id": "se1ed4906b7",
+"date": "2026-10-03",
+"time": "",
+"title": "Everyone you\u2019re looking at is also you",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
+"src": "zwirner"
 },
 {
 "id": "sf0b4028fb1",
@@ -1910,26 +1670,6 @@
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/kosha-dillz-unfiltered-pride-remembrance-and-courage/",
-"src": "emanuel"
-},
-{
-"id": "sb364ad6e52",
-"date": "2026-10-07",
-"time": "",
-"title": "Museum Exhibition Closing: Ziv Koren&#8217;s October 7 War",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/museum-exhibition-closing-ziv-korens-october-7-war/",
-"src": "emanuel"
-},
-{
-"id": "s711015659d",
-"date": "2026-10-07",
-"time": "",
-"title": "Museum Exhibition Opening: Ziv Koren&#8217;s October 7 War",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/museum-exhibition-opening-ziv-korens-october-7-war/",
 "src": "emanuel"
 },
 {
@@ -2343,16 +2083,6 @@
 "src": "zwirner"
 },
 {
-"id": "s05b494284a",
-"date": "2026-10-19",
-"time": "",
-"title": "The Well 5787: Jewish Ethics in the Modern World",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/the-well-5787/",
-"src": "emanuel"
-},
-{
 "id": "sa441b1779c",
 "date": "2026-10-20",
 "time": "19:00",
@@ -2541,6 +2271,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s6a84f87ef7",
+"date": "2026-10-29",
+"time": "",
+"title": "Yoshitomo Nara \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/yoshitomo-nara",
+"src": "zwirner"
 },
 {
 "id": "saa68580755",
@@ -2933,6 +2673,16 @@
 "src": "nycballet"
 },
 {
+"id": "s243b5839e7",
+"date": "2026-12-12",
+"time": "",
+"title": "Yoshitomo Nara \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/yoshitomo-nara",
+"src": "zwirner"
+},
+{
 "id": "s7f40571ee9",
 "date": "2026-12-13",
 "time": "17:00",
@@ -3093,16 +2843,6 @@
 "src": "nycballet"
 },
 {
-"id": "s5684986d31",
-"date": "2026-12-26",
-"time": "",
-"title": "Guided Exhibition Tour \u2014 final day",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/guided-exhibition-tour/",
-"src": "greenwood"
-},
-{
 "id": "sed24aa2c58",
 "date": "2026-12-27",
 "time": "17:00",
@@ -3161,16 +2901,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
 "src": "nycballet"
-},
-{
-"id": "s14154e1997",
-"date": "2027-01-02",
-"time": "",
-"title": "Battle of Brooklyn: Fought and Remembered \u2014 final day",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/battle-of-brooklyn-fought-and-remembered/",
-"src": "greenwood"
 },
 {
 "id": "sce69bd753f",
@@ -3341,16 +3071,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/winter-2027/all-balanchine-ii",
 "src": "nycballet"
-},
-{
-"id": "s42619d3d0c",
-"date": "2027-02-04",
-"time": "",
-"title": "Career Connections",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/career-connections/",
-"src": "emanuel"
 },
 {
 "id": "s748bdb0c0e",
