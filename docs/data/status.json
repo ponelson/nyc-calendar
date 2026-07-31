@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-30T11:01:09+00:00",
-  "healthy": 13,
+  "generated": "2026-07-31T11:23:17+00:00",
+  "healthy": 12,
   "total": 23,
   "venues": [
     {
@@ -56,8 +56,8 @@
       "name": "Simons Foundation",
       "cat": "talks",
       "strategy": "ics",
-      "count": 3,
-      "error": null
+      "count": 0,
+      "error": "no events parsed"
     },
     {
       "id": "broadway",
@@ -80,7 +80,7 @@
       "name": "Cooper Hewitt",
       "cat": "art",
       "strategy": "custom",
-      "count": 18,
+      "count": 14,
       "error": null
     },
     {
@@ -96,7 +96,7 @@
       "name": "David Zwirner",
       "cat": "global",
       "strategy": "jsonld",
-      "count": 33,
+      "count": 28,
       "error": null
     },
     {
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 99,
+      "count": 96,
       "error": null
     },
     {
@@ -168,8 +168,8 @@
       "name": "Alice Austen House",
       "cat": "houses",
       "strategy": "jsonld",
-      "count": 6,
-      "error": null
+      "count": 0,
+      "error": "RuntimeError: HTTP 429"
     },
     {
       "id": "dyckman",
@@ -184,8 +184,8 @@
       "name": "Green-Wood Cemetery",
       "cat": "access",
       "strategy": "ics",
-      "count": 0,
-      "error": "RuntimeError: ConnectionError"
+      "count": 30,
+      "error": null
     }
   ]
 }

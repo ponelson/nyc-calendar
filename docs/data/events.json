@@ -1,57 +1,7 @@
 {
-"generated": "2026-07-30T11:01:09+00:00",
-"count": 419,
+"generated": "2026-07-31T11:23:17+00:00",
+"count": 428,
 "events": [
-{
-"id": "s427d8b8dca",
-"date": "2026-07-29",
-"time": "00:00",
-"title": "CCBx Annual Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-719-630-903-329-934-548-199-455-991/",
-"src": "simons"
-},
-{
-"id": "s4e194c46b5",
-"date": "2026-07-29",
-"time": "19:00",
-"title": "Jazz Samba: Duduka Da Fonseca, Maucha Adnet, Helio Alves",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s79d27e7c5d",
-"date": "2026-07-29",
-"time": "",
-"title": "Family Program | Summer Design Series",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-29-2026/",
-"src": "cooperhewitt"
-},
-{
-"id": "s2bb69d62f8",
-"date": "2026-07-30",
-"time": "00:00",
-"title": "CCBx Annual Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-719-630-903-329-934-548-199-455-991/",
-"src": "simons"
-},
-{
-"id": "sdbb4a3ae9e",
-"date": "2026-07-30",
-"time": "19:00",
-"title": "NYO2",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/30/nyo2-0700pm",
-"src": "carnegie"
-},
 {
 "id": "sfe237f69d2",
 "date": "2026-07-30",
@@ -61,36 +11,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s7f0bb60f44",
-"date": "2026-07-30",
-"time": "19:00",
-"title": "Jazz Samba: Duduka Da Fonseca, Maucha Adnet, Helio Alves",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s56eaaf9c37",
-"date": "2026-07-30",
-"time": "20:00",
-"title": "Thomas F. Hulbert Music International Piano Competition Winners Recital",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/30/thomas-f-hulbert-music-international-piano-competition-winners-recital-0800pm",
-"src": "carnegie"
-},
-{
-"id": "sbddaa265ca",
-"date": "2026-07-31",
-"time": "00:00",
-"title": "CCBx Annual Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/biophysical-modeling-group-meeting-72-261-743-884-234-559-972-159-850-521-759-705-481-364-147-566-983-635-371-681-118-719-630-903-329-934-548-199-455-991/",
-"src": "simons"
 },
 {
 "id": "sfe55de0b5f",
@@ -123,6 +43,26 @@
 "src": "dizzys"
 },
 {
+"id": "sc585cac006",
+"date": "2026-07-31",
+"time": "19:00",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-07-31/",
+"src": "greenwood"
+},
+{
+"id": "sfa3e989e59",
+"date": "2026-07-31",
+"time": "19:45",
+"title": "Rooftop Films Presents: New York Non-Fiction 2026",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/rooftop-films-presents-new-york-non-fiction-2026/",
+"src": "greenwood"
+},
+{
 "id": "s99f1fe0364",
 "date": "2026-07-31",
 "time": "20:00",
@@ -153,6 +93,26 @@
 "src": "zwirner"
 },
 {
+"id": "sdf3d0ff4fa",
+"date": "2026-08-01",
+"time": "09:30",
+"title": "America250: Fourth of July Walking Tour at Green-Wood",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/america250-fourth-of-july-walking-tour-at-green-wood/",
+"src": "greenwood"
+},
+{
+"id": "s73ec13fc43",
+"date": "2026-08-01",
+"time": "10:00",
+"title": "America250: Fourth of July Family Trolley Tour at Green-Wood",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/america250-fourth-of-july-family-trolley-tour-at-green-wood/",
+"src": "greenwood"
+},
+{
 "id": "s564a18b895",
 "date": "2026-08-01",
 "time": "13:00",
@@ -161,6 +121,16 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2026/08/01/overture-music-intensive-2026-gala-concert-0100pm",
 "src": "carnegie"
+},
+{
+"id": "sffd8e3b93e",
+"date": "2026-08-01",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-08-01/",
+"src": "greenwood"
 },
 {
 "id": "s54d870afcb",
@@ -183,6 +153,16 @@
 "src": "dizzys"
 },
 {
+"id": "s9607309f2a",
+"date": "2026-08-01",
+"time": "19:00",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-01/",
+"src": "greenwood"
+},
+{
 "id": "s06049059a3",
 "date": "2026-08-01",
 "time": "19:30",
@@ -193,14 +173,14 @@
 "src": "carnegie"
 },
 {
-"id": "s5f395af5be",
+"id": "se0717b17db",
 "date": "2026-08-01",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575089?skipPreview=true",
-"src": "aliceausten"
+"time": "20:30",
+"title": "Nocturnal Navigators: Green-Wood Bat Walk",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/nocturnal-navigators-green-wood-bat-walk-5/2026-08-01/",
+"src": "greenwood"
 },
 {
 "id": "saf6bc53812",
@@ -211,6 +191,36 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/california-light-and-space-the-21st-century-version",
 "src": "zwirner"
+},
+{
+"id": "s00e8831ed8",
+"date": "2026-08-02",
+"time": "06:00",
+"title": "Birding in Peace",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/birding-in-peace-30/2026-08-02/",
+"src": "greenwood"
+},
+{
+"id": "s7aa7b3cc31",
+"date": "2026-08-02",
+"time": "10:00",
+"title": "Grave Beginnings: Walking Green-Wood",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-08-02/",
+"src": "greenwood"
+},
+{
+"id": "s018ed1c159",
+"date": "2026-08-02",
+"time": "13:00",
+"title": "Green-Wood's Greatest Hits",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-woods-greatest-hits-13/2026-08-02/",
+"src": "greenwood"
 },
 {
 "id": "s4d1ee06e73",
@@ -233,6 +243,16 @@
 "src": "dizzys"
 },
 {
+"id": "s02a7d71700",
+"date": "2026-08-03",
+"time": "18:00",
+"title": "Handwriting the Constitution",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/handwriting-the-constitution/2026-08-03/",
+"src": "greenwood"
+},
+{
 "id": "sa764561b12",
 "date": "2026-08-03",
 "time": "19:00",
@@ -253,6 +273,16 @@
 "src": "carnegie"
 },
 {
+"id": "sad17537635",
+"date": "2026-08-04",
+"time": "19:00",
+"title": "NYO-USA in Berlin, Germany",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/08/04/nyousa-in-berlin-germany-0700pm",
+"src": "carnegie"
+},
+{
 "id": "s14651ce739",
 "date": "2026-08-04",
 "time": "19:00",
@@ -263,6 +293,16 @@
 "src": "dizzys"
 },
 {
+"id": "sce5ba3beca",
+"date": "2026-08-04",
+"time": "19:30",
+"title": "NYO Jazz in San Francisco, California",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/08/04/nyo-jazz-in-san-francisco-california-0730pm",
+"src": "carnegie"
+},
+{
 "id": "sc98d685a74",
 "date": "2026-08-04",
 "time": "",
@@ -271,6 +311,16 @@
 "cat": "art",
 "url": "https://www.cooperhewitt.org/event/discover-design-online-art-of-noise-08-04-2026/",
 "src": "cooperhewitt"
+},
+{
+"id": "s365bccf53d",
+"date": "2026-08-05",
+"time": "10:30",
+"title": "Green-Wood on Wheels: Stroller-Friendly Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-08-05/",
+"src": "greenwood"
 },
 {
 "id": "sb49e334c72",
@@ -313,6 +363,36 @@
 "src": "dizzys"
 },
 {
+"id": "sb23ba9926a",
+"date": "2026-08-07",
+"time": "19:00",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-07/",
+"src": "greenwood"
+},
+{
+"id": "sff40b70e3c",
+"date": "2026-08-08",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-08-08/",
+"src": "greenwood"
+},
+{
+"id": "s7ee3b437de",
+"date": "2026-08-08",
+"time": "15:30",
+"title": "Revolutionary Spirits",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/revolutionary-spirits-7/2026-08-08/",
+"src": "greenwood"
+},
+{
 "id": "sea9f6dbe92",
 "date": "2026-08-08",
 "time": "19:00",
@@ -323,24 +403,44 @@
 "src": "dizzys"
 },
 {
-"id": "s563b6b3a44",
+"id": "sab772b50ae",
 "date": "2026-08-08",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575102?skipPreview=true",
-"src": "aliceausten"
+"time": "19:00",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-08/",
+"src": "greenwood"
 },
 {
-"id": "s891ecbc4ec",
-"date": "2026-08-08",
-"time": "",
-"title": "Concert: Fierce Females",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://spotlighttheatresi.org/product/10549/FIERCE_FEMALES_2026",
-"src": "aliceausten"
+"id": "sc7ca6c5252",
+"date": "2026-08-09",
+"time": "06:00",
+"title": "Birding in Peace",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/birding-in-peace-30/2026-08-09/",
+"src": "greenwood"
+},
+{
+"id": "s548e328c55",
+"date": "2026-08-09",
+"time": "11:00",
+"title": "Grave Beginnings: Green-Wood by Trolley",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley/2026-08-09/",
+"src": "greenwood"
+},
+{
+"id": "se6bc895bc3",
+"date": "2026-08-09",
+"time": "11:00",
+"title": "Battle of Brooklyn Walking Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/battle-of-brooklyn-walking-tour/",
+"src": "greenwood"
 },
 {
 "id": "s476af069c2",
@@ -363,6 +463,26 @@
 "src": "dizzys"
 },
 {
+"id": "s3c8041a852",
+"date": "2026-08-10",
+"time": "20:00",
+"title": "Frank London's Loisaida Fife and Drums Corps.",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/frank-londons-loisaida-fife-and-drums-corps/",
+"src": "greenwood"
+},
+{
+"id": "s69e47ead38",
+"date": "2026-08-11",
+"time": "10:00",
+"title": "Toddler Takeover at the Green-House",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-08-11/",
+"src": "greenwood"
+},
+{
 "id": "s76f3ac400e",
 "date": "2026-08-11",
 "time": "19:00",
@@ -371,6 +491,26 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "saecccdce7d",
+"date": "2026-08-12",
+"time": "18:30",
+"title": "CBH Talk | An Unfinished Revolution: Dialogues on Freedom and Democracy, Part 3 - Kellie Carter Jackson on James Baldwin",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/cbh-talk-an-unfinished-revolution-dialogues-on-freedom-and-democracy-part-3-kellie-carter-jackson-on-james-baldwins-a-letter-to-my-nephew/",
+"src": "greenwood"
+},
+{
+"id": "s9b236739de",
+"date": "2026-08-12",
+"time": "18:30",
+"title": "Grieving & Weaving",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grieving-weaving-7/",
+"src": "greenwood"
 },
 {
 "id": "s8c3573bfec",
@@ -443,6 +583,36 @@
 "src": "dizzys"
 },
 {
+"id": "s1ec20ae21d",
+"date": "2026-08-14",
+"time": "19:00",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-14/",
+"src": "greenwood"
+},
+{
+"id": "s1ad3976aad",
+"date": "2026-08-14",
+"time": "20:30",
+"title": "Nocturnal Navigators: Green-Wood Bat Walk",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/nocturnal-navigators-green-wood-bat-walk-5/2026-08-14/",
+"src": "greenwood"
+},
+{
+"id": "seb7f658907",
+"date": "2026-08-15",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-08-15/",
+"src": "greenwood"
+},
+{
 "id": "sbe9735e94f",
 "date": "2026-08-15",
 "time": "19:00",
@@ -453,14 +623,44 @@
 "src": "dizzys"
 },
 {
-"id": "s0a00f8a54a",
+"id": "s6bda88fe63",
 "date": "2026-08-15",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575159?skipPreview=true",
-"src": "aliceausten"
+"time": "19:00",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-15/",
+"src": "greenwood"
+},
+{
+"id": "sf8a4b5ddb4",
+"date": "2026-08-16",
+"time": "10:00",
+"title": "Birding in Peace: Late-Risers Edition (Members Only)",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/birding-in-peace-late-risers-edition-members-only-8/2026-08-16/",
+"src": "greenwood"
+},
+{
+"id": "sa3dfa922f9",
+"date": "2026-08-16",
+"time": "10:00",
+"title": "Grave Beginnings: Walking Green-Wood",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-08-16/",
+"src": "greenwood"
+},
+{
+"id": "s8030e1b414",
+"date": "2026-08-16",
+"time": "10:00",
+"title": "Gay Gothic: Love, Loss, and the Hereafter",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/gay-gothic-love-loss-and-the-hereafter-6/",
+"src": "greenwood"
 },
 {
 "id": "sf9a79e00a7",
@@ -553,16 +753,6 @@
 "src": "dizzys"
 },
 {
-"id": "sd73a038daa",
-"date": "2026-08-22",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575169?skipPreview=true",
-"src": "aliceausten"
-},
-{
 "id": "s69dc163a4d",
 "date": "2026-08-23",
 "time": "19:00",
@@ -631,16 +821,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s9955020d1b",
-"date": "2026-08-29",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575197?skipPreview=true",
-"src": "aliceausten"
 },
 {
 "id": "s688f3646dd",
@@ -1053,16 +1233,6 @@
 "src": "dizzys"
 },
 {
-"id": "s2e60f2400f",
-"date": "2026-09-20",
-"time": "17:00",
-"title": "Sant Andreu Jazz Band with special guest Paul Nedzela",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "s0652797176",
 "date": "2026-09-20",
 "time": "19:30",
@@ -1113,10 +1283,10 @@
 "src": "nycballet"
 },
 {
-"id": "sa5c906a9f2",
+"id": "s5889120c7f",
 "date": "2026-09-22",
 "time": "",
-"title": "Studio Visit: Maiko Kikuchi at NowHere Studio in Dumbo",
+"title": "Studio Visit: Maiko Kikuchi at NowHere Studio in DUMBO",
 "venue": "Japan Society",
 "cat": "talks",
 "url": "https://japansociety.org/events/studio-visit-maiko-kikuchi-at-nowhere-studio-in-dumbo/",
@@ -1313,16 +1483,6 @@
 "src": "nycballet"
 },
 {
-"id": "saa9afdc312",
-"date": "2026-09-29",
-"time": "",
-"title": "Everyone you\u2019re looking at is also you",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
-"src": "zwirner"
-},
-{
 "id": "sfb4424c3aa",
 "date": "2026-09-30",
 "time": "19:00",
@@ -1341,16 +1501,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
 "src": "nycballet"
-},
-{
-"id": "sa300cacdb3",
-"date": "2026-09-30",
-"time": "",
-"title": "Everyone you\u2019re looking at is also you",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
-"src": "zwirner"
 },
 {
 "id": "sb3fd479d9c",
@@ -1393,16 +1543,6 @@
 "src": "nycballet"
 },
 {
-"id": "s5dd3489903",
-"date": "2026-10-01",
-"time": "",
-"title": "Everyone you\u2019re looking at is also you",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
-"src": "zwirner"
-},
-{
 "id": "sae655e6dc1",
 "date": "2026-10-02",
 "time": "12:00",
@@ -1443,16 +1583,6 @@
 "src": "nycballet"
 },
 {
-"id": "s7a63e0b160",
-"date": "2026-10-02",
-"time": "",
-"title": "Everyone you\u2019re looking at is also you",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
-"src": "zwirner"
-},
-{
 "id": "s47424cc7f3",
 "date": "2026-10-03",
 "time": "19:00",
@@ -1471,16 +1601,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
 "src": "nycballet"
-},
-{
-"id": "se1ed4906b7",
-"date": "2026-10-03",
-"time": "",
-"title": "Everyone you\u2019re looking at is also you",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
-"src": "zwirner"
 },
 {
 "id": "sf0b4028fb1",
@@ -3403,26 +3523,6 @@
 "src": "japansociety"
 },
 {
-"id": "s68ee22c1df",
-"date": "2027-04-03",
-"time": "",
-"title": "Bon Iver\u2019s VOLUMES: ONE &#8220;SELECTIONS FROM MUSIC CONCERTS 2019-2023 BON IVER 6 PIECE BAND&#8221; playing in the Devo",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/bon-ivers-volumes-one-selections-from-music-concerts-2019-2023-bon-iver-6-piece-band-playing-in-the-devon-turnbull-listening-room-04-01-2026/",
-"src": "cooperhewitt"
-},
-{
-"id": "sc25bda0633",
-"date": "2027-04-05",
-"time": "",
-"title": "Carnegie Mansion Tour for the Week of April 5 &#8211; 10",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/carnegie-mansion-tour-for-the-week-of-april-5-10-04-05-2026/",
-"src": "cooperhewitt"
-},
-{
 "id": "sddbe89d9a3",
 "date": "2027-04-11",
 "time": "",
@@ -3541,16 +3641,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/spring-2027/all-balanchine-iv",
 "src": "nycballet"
-},
-{
-"id": "sddd9159aaa",
-"date": "2027-04-26",
-"time": "",
-"title": "Carnegie Mansion Tour for the Week of April 26 &#8211; May 2",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/carnegie-mansion-tour-for-the-week-of-april-26-may-2-04-26-2026/",
-"src": "cooperhewitt"
 },
 {
 "id": "s92e293c545",
