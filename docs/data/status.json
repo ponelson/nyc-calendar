@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T11:23:17+00:00",
-  "healthy": 12,
+  "generated": "2026-08-01T10:29:12+00:00",
+  "healthy": 13,
   "total": 23,
   "venues": [
     {
@@ -40,7 +40,7 @@
       "name": "Japan Society",
       "cat": "talks",
       "strategy": "custom",
-      "count": 27,
+      "count": 34,
       "error": null
     },
     {
@@ -72,7 +72,7 @@
       "name": "Guggenheim",
       "cat": "art",
       "strategy": "custom",
-      "count": 7,
+      "count": 4,
       "error": null
     },
     {
@@ -80,7 +80,7 @@
       "name": "Cooper Hewitt",
       "cat": "art",
       "strategy": "custom",
-      "count": 14,
+      "count": 18,
       "error": null
     },
     {
@@ -96,7 +96,7 @@
       "name": "David Zwirner",
       "cat": "global",
       "strategy": "jsonld",
-      "count": 28,
+      "count": 26,
       "error": null
     },
     {
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 96,
+      "count": 95,
       "error": null
     },
     {
@@ -168,8 +168,8 @@
       "name": "Alice Austen House",
       "cat": "houses",
       "strategy": "jsonld",
-      "count": 0,
-      "error": "RuntimeError: HTTP 429"
+      "count": 6,
+      "error": null
     },
     {
       "id": "dyckman",

@@ -1,37 +1,7 @@
 {
-"generated": "2026-07-31T11:23:17+00:00",
-"count": 428,
+"generated": "2026-08-01T10:29:12+00:00",
+"count": 439,
 "events": [
-{
-"id": "sfe237f69d2",
-"date": "2026-07-30",
-"time": "19:00",
-"title": "King Seiko Presents \u201cSeiko Summer Jazz Camp All Stars\u201d",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "sfe55de0b5f",
-"date": "2026-07-31",
-"time": "19:00",
-"title": "Carnegie Hall Citywide: El Laberinto del Coco",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/31/carnegie-hall-citywide-el-laberinto-del-coco-0700pm",
-"src": "carnegie"
-},
-{
-"id": "sf9ceee3aa4",
-"date": "2026-07-31",
-"time": "19:00",
-"title": "National Youth Orchestra of the United States of America",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/31/national-youth-orchestra-of-the-united-states-of-america-0700pm",
-"src": "carnegie"
-},
 {
 "id": "sc51d0433db",
 "date": "2026-07-31",
@@ -41,56 +11,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "sc585cac006",
-"date": "2026-07-31",
-"time": "19:00",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-07-31/",
-"src": "greenwood"
-},
-{
-"id": "sfa3e989e59",
-"date": "2026-07-31",
-"time": "19:45",
-"title": "Rooftop Films Presents: New York Non-Fiction 2026",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/rooftop-films-presents-new-york-non-fiction-2026/",
-"src": "greenwood"
-},
-{
-"id": "s99f1fe0364",
-"date": "2026-07-31",
-"time": "20:00",
-"title": "Irvine School of Music Student Recital",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/07/31/irvine-school-of-music-student-recital-0800pm",
-"src": "carnegie"
-},
-{
-"id": "sa021c7f01e",
-"date": "2026-07-31",
-"time": "",
-"title": "Steven Shearer \u2014 final day",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/steven-shearer",
-"src": "zwirner"
-},
-{
-"id": "sf6853f1a0d",
-"date": "2026-07-31",
-"time": "",
-"title": "In Solidarity \u2014 final day",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/in-solidarity-a-benefit-for-the-american-immigration-council-and-journey-s-end-refugee-services",
-"src": "zwirner"
 },
 {
 "id": "sdf3d0ff4fa",
@@ -181,6 +101,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/nocturnal-navigators-green-wood-bat-walk-5/2026-08-01/",
 "src": "greenwood"
+},
+{
+"id": "s5f395af5be",
+"date": "2026-08-01",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575089?skipPreview=true",
+"src": "aliceausten"
 },
 {
 "id": "saf6bc53812",
@@ -343,6 +273,16 @@
 "src": "dizzys"
 },
 {
+"id": "s5e65eed3b7",
+"date": "2026-08-06",
+"time": "20:00",
+"title": "NYO-USA in Amsterdam, Netherlands",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/08/06/nyousa-in-amsterdam-netherlands-0800pm",
+"src": "carnegie"
+},
+{
 "id": "s5a0940ec55",
 "date": "2026-08-07",
 "time": "12:00",
@@ -393,6 +333,16 @@
 "src": "greenwood"
 },
 {
+"id": "sa35d151bd6",
+"date": "2026-08-08",
+"time": "16:00",
+"title": "NYO Jazz in Taichung, Taiwan",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/08/08/nyo-jazz-in-taichung-taiwan-0400pm",
+"src": "carnegie"
+},
+{
 "id": "sea9f6dbe92",
 "date": "2026-08-08",
 "time": "19:00",
@@ -411,6 +361,36 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-08/",
 "src": "greenwood"
+},
+{
+"id": "sfd271bd97e",
+"date": "2026-08-08",
+"time": "19:30",
+"title": "NYO-USA in Aldeburgh, England",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/08/08/nyousa-in-aldeburgh-england-0730pm",
+"src": "carnegie"
+},
+{
+"id": "s563b6b3a44",
+"date": "2026-08-08",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575102?skipPreview=true",
+"src": "aliceausten"
+},
+{
+"id": "s891ecbc4ec",
+"date": "2026-08-08",
+"time": "",
+"title": "Concert: Fierce Females",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://spotlighttheatresi.org/product/10549/FIERCE_FEMALES_2026",
+"src": "aliceausten"
 },
 {
 "id": "sc7ca6c5252",
@@ -633,6 +613,16 @@
 "src": "greenwood"
 },
 {
+"id": "s0a00f8a54a",
+"date": "2026-08-15",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575159?skipPreview=true",
+"src": "aliceausten"
+},
+{
 "id": "sf8a4b5ddb4",
 "date": "2026-08-16",
 "time": "10:00",
@@ -660,6 +650,26 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/gay-gothic-love-loss-and-the-hereafter-6/",
+"src": "greenwood"
+},
+{
+"id": "seacb2af79a",
+"date": "2026-08-16",
+"time": "11:00",
+"title": "Spilling Tea About the Revolution",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/spilling-tea-about-the-revolution/",
+"src": "greenwood"
+},
+{
+"id": "s6490b6dbbe",
+"date": "2026-08-16",
+"time": "13:00",
+"title": "Green-Wood's Greatest Hits",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-woods-greatest-hits-13/2026-08-16/",
 "src": "greenwood"
 },
 {
@@ -753,6 +763,16 @@
 "src": "dizzys"
 },
 {
+"id": "sd73a038daa",
+"date": "2026-08-22",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575169?skipPreview=true",
+"src": "aliceausten"
+},
+{
 "id": "s69dc163a4d",
 "date": "2026-08-23",
 "time": "19:00",
@@ -821,6 +841,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s9955020d1b",
+"date": "2026-08-29",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575197?skipPreview=true",
+"src": "aliceausten"
 },
 {
 "id": "s688f3646dd",
@@ -961,6 +991,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s38e9a77e7b",
+"date": "2026-09-08",
+"time": "",
+"title": "Au 108 rue Vieille du Temple \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/au-108-rue-vieille-du-temple",
+"src": "zwirner"
 },
 {
 "id": "sd2df7bd6ef",
@@ -1170,16 +1210,6 @@
 "venue": "David Zwirner",
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/louis-fratino",
-"src": "zwirner"
-},
-{
-"id": "sbdb8194d00",
-"date": "2026-09-18",
-"time": "",
-"title": "Au 108 rue Vieille du Temple \u2014 opens",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/au-108-rue-vieille-du-temple",
 "src": "zwirner"
 },
 {
@@ -4243,44 +4273,124 @@
 "src": "japansociety"
 },
 {
-"id": "s1e8a29a97c",
-"date": "2027-06-29",
+"id": "sc013826361",
+"date": "2027-07-08",
 "time": "",
-"title": "Guggenheim Summer Art Camp",
+"title": "Family Program | Summer Design Series",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-08-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "sf86bbb0c2a",
+"date": "2027-07-15",
+"time": "",
+"title": "Family Program | Summer Design Series",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-15-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "se46de97b5f",
+"date": "2027-07-15",
+"time": "",
+"title": "Close Looking with the Curator",
 "venue": "Guggenheim",
 "cat": "art",
-"url": "https://www.guggenheim.org/event/guggenheim-summer-art-camp",
+"url": "https://www.guggenheim.org/event/close-looking-with-the-curator",
 "src": "guggenheim"
 },
 {
-"id": "s20547689cd",
-"date": "2027-06-30",
+"id": "s331d15f702",
+"date": "2027-07-16",
 "time": "",
-"title": "Guggenheim Summer Art Camp",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/guggenheim-summer-art-camp",
-"src": "guggenheim"
+"title": "My Tokyo Summer",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/my-tokyo-summer/",
+"src": "japansociety"
 },
 {
-"id": "s3a3197d6c1",
-"date": "2027-07-01",
+"id": "sf0be3b29b6",
+"date": "2027-07-18",
 "time": "",
-"title": "Guggenheim Summer Art Camp",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/guggenheim-summer-art-camp",
-"src": "guggenheim"
+"title": "Sheep in the Box",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sheep-in-the-box/",
+"src": "japansociety"
 },
 {
-"id": "scd3f150c5e",
-"date": "2027-07-02",
+"id": "s27978e2510",
+"date": "2027-07-22",
 "time": "",
-"title": "Guggenheim Summer Art Camp",
-"venue": "Guggenheim",
+"title": "Family Program | Summer Design Series",
+"venue": "Cooper Hewitt",
 "cat": "art",
-"url": "https://www.guggenheim.org/event/guggenheim-summer-art-camp",
-"src": "guggenheim"
+"url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-22-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "s7f17508d83",
+"date": "2027-07-22",
+"time": "",
+"title": "Ainu: Indigenous People of Japan",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/ainu-indigenous-people-of-japan/",
+"src": "japansociety"
+},
+{
+"id": "scabe2c0765",
+"date": "2027-07-22",
+"time": "",
+"title": "Sinot: The Dances of the Sar River",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sinot-the-dances-of-the-sar-river/",
+"src": "japansociety"
+},
+{
+"id": "s18e9236745",
+"date": "2027-07-23",
+"time": "",
+"title": "Ipe: The Culinary Heritage of the Ainu",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/ipe-the-culinary-heritage-of-the-ainu/",
+"src": "japansociety"
+},
+{
+"id": "sf6b06190d1",
+"date": "2027-07-23",
+"time": "",
+"title": "Inuye=an ro!: Woodcarving Workshop",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/inuyean-ro-woodcarving-workshop/",
+"src": "japansociety"
+},
+{
+"id": "s90642e4cbf",
+"date": "2027-07-24",
+"time": "",
+"title": "Japanese Heritage Night at Citi Field",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/japanese-heritage-night-at-citi-field/",
+"src": "japansociety"
+},
+{
+"id": "s68c4290515",
+"date": "2027-07-29",
+"time": "",
+"title": "Family Program | Summer Design Series",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-29-2026/",
+"src": "cooperhewitt"
 }
 ]
 }
