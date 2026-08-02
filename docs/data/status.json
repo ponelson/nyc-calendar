@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01T10:29:12+00:00",
-  "healthy": 13,
+  "generated": "2026-08-02T10:27:51+00:00",
+  "healthy": 12,
   "total": 23,
   "venues": [
     {
@@ -8,7 +8,7 @@
       "name": "New York City Ballet",
       "cat": "dance",
       "strategy": "custom",
-      "count": 132,
+      "count": 100,
       "error": null
     },
     {
@@ -96,7 +96,7 @@
       "name": "David Zwirner",
       "cat": "global",
       "strategy": "jsonld",
-      "count": 26,
+      "count": 25,
       "error": null
     },
     {
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 95,
+      "count": 94,
       "error": null
     },
     {
@@ -168,8 +168,8 @@
       "name": "Alice Austen House",
       "cat": "houses",
       "strategy": "jsonld",
-      "count": 6,
-      "error": null
+      "count": 0,
+      "error": "RuntimeError: HTTP 429"
     },
     {
       "id": "dyckman",
