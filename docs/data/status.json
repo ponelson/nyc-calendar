@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-02T10:27:51+00:00",
+  "generated": "2026-08-03T12:15:52+00:00",
   "healthy": 12,
   "total": 23,
   "venues": [
@@ -16,7 +16,7 @@
       "name": "Carnegie Hall",
       "cat": "classical",
       "strategy": "custom",
-      "count": 10,
+      "count": 9,
       "error": null
     },
     {
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 94,
+      "count": 93,
       "error": null
     },
     {
@@ -160,16 +160,16 @@
       "name": "Bartow-Pell Mansion",
       "cat": "houses",
       "strategy": "ics",
-      "count": 19,
-      "error": null
+      "count": 0,
+      "error": "RuntimeError: HTTP 202"
     },
     {
       "id": "aliceausten",
       "name": "Alice Austen House",
       "cat": "houses",
       "strategy": "jsonld",
-      "count": 0,
-      "error": "RuntimeError: HTTP 429"
+      "count": 7,
+      "error": null
     },
     {
       "id": "dyckman",
