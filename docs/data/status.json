@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03T12:15:52+00:00",
+  "generated": "2026-08-04T11:17:52+00:00",
   "healthy": 12,
   "total": 23,
   "venues": [
@@ -96,7 +96,7 @@
       "name": "David Zwirner",
       "cat": "global",
       "strategy": "jsonld",
-      "count": 25,
+      "count": 27,
       "error": null
     },
     {
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 93,
+      "count": 92,
       "error": null
     },
     {

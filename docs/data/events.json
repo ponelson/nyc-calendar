@@ -1,27 +1,7 @@
 {
-"generated": "2026-08-03T12:15:52+00:00",
-"count": 385,
+"generated": "2026-08-04T11:17:52+00:00",
+"count": 386,
 "events": [
-{
-"id": "s1160c00dd9",
-"date": "2026-08-02",
-"time": "19:00",
-"title": "Jazz Samba: Duduka Da Fonseca, Maucha Adnet, Helio Alves",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s02a7d71700",
-"date": "2026-08-03",
-"time": "18:00",
-"title": "Handwriting the Constitution",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/handwriting-the-constitution/2026-08-03/",
-"src": "greenwood"
-},
 {
 "id": "sa764561b12",
 "date": "2026-08-03",
@@ -33,14 +13,14 @@
 "src": "dizzys"
 },
 {
-"id": "s826e447149",
+"id": "s6e06603d02",
 "date": "2026-08-03",
-"time": "19:30",
-"title": "NYO2 in Santo Domingo, Dominican Republic",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/08/03/nyo2-in-santo-domingo-dominican-republic-0730pm",
-"src": "carnegie"
+"time": "",
+"title": "Mackenyu Q&amp;A and Signing",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/mackenyu-qa-and-signing/",
+"src": "japansociety"
 },
 {
 "id": "sad17537635",
@@ -373,6 +353,16 @@
 "src": "dizzys"
 },
 {
+"id": "sbdacaead12",
+"date": "2026-08-12",
+"time": "19:30",
+"title": "NYO Jazz in Shanghai, China",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/08/12/nyo-jazz-in-shanghai-china-0730pm",
+"src": "carnegie"
+},
+{
 "id": "sc3f414bdf7",
 "date": "2026-08-12",
 "time": "",
@@ -453,6 +443,26 @@
 "src": "greenwood"
 },
 {
+"id": "s65b5d35ce9",
+"date": "2026-08-15",
+"time": "10:00",
+"title": "Battle of Brooklyn Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/battle-of-brooklyn-trolley-tour-8/",
+"src": "greenwood"
+},
+{
+"id": "s819b5996e8",
+"date": "2026-08-15",
+"time": "10:00",
+"title": "Green-Wood Book Sale",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-book-sale/2026-08-15/",
+"src": "greenwood"
+},
+{
 "id": "seb7f658907",
 "date": "2026-08-15",
 "time": "13:00",
@@ -520,6 +530,16 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/gay-gothic-love-loss-and-the-hereafter-6/",
+"src": "greenwood"
+},
+{
+"id": "s767b199b90",
+"date": "2026-08-16",
+"time": "10:00",
+"title": "Green-Wood Book Sale",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-book-sale/2026-08-16/",
 "src": "greenwood"
 },
 {
@@ -680,26 +700,6 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/battle-of-brooklyn-250th-anniversary-reenactment/",
-"src": "greenwood"
-},
-{
-"id": "sd15e37ff01",
-"date": "2026-08-22",
-"time": "11:00",
-"title": "CBH Battle of Brooklyn Community Day",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/cbh-battle-of-brooklyn-community-day/",
-"src": "greenwood"
-},
-{
-"id": "sac65eec56a",
-"date": "2026-08-22",
-"time": "12:00",
-"title": "Maryland 400 Remembrance Ceremony & Battle of Brooklyn Living History",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/maryland-400-remembrance-ceremony-battle-of-brooklyn-living-history/",
 "src": "greenwood"
 },
 {
@@ -1181,6 +1181,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s8431fe8310",
+"date": "2026-09-19",
+"time": "",
+"title": "Amadeo Luciano Lorenzato \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/amadeo-luciano-lorenzato",
+"src": "zwirner"
 },
 {
 "id": "s78d61b0f42",
@@ -2280,6 +2290,16 @@
 "venue": "David Zwirner",
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/louis-fratino",
+"src": "zwirner"
+},
+{
+"id": "se4ccf9ad7e",
+"date": "2026-10-31",
+"time": "",
+"title": "Amadeo Luciano Lorenzato \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/amadeo-luciano-lorenzato",
 "src": "zwirner"
 },
 {
@@ -3701,16 +3721,6 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/alex-da-cortes-roy-g-biv-2022",
 "src": "guggenheim"
-},
-{
-"id": "s10ccd9bff3",
-"date": "2027-06-26",
-"time": "",
-"title": "Cocktail &amp; Tour of Susumu Shingu: Elated!",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/cocktail-tour-of-susumu-shingu-elated/",
-"src": "japansociety"
 },
 {
 "id": "s997168ec1c",
