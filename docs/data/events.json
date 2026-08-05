@@ -1,37 +1,7 @@
 {
-"generated": "2026-08-04T11:17:52+00:00",
-"count": 386,
+"generated": "2026-08-05T11:14:11+00:00",
+"count": 402,
 "events": [
-{
-"id": "sa764561b12",
-"date": "2026-08-03",
-"time": "19:00",
-"title": "Joe Gransden Big Band: The Good Life - Happy 100th Tony Bennett!",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s6e06603d02",
-"date": "2026-08-03",
-"time": "",
-"title": "Mackenyu Q&amp;A and Signing",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/mackenyu-qa-and-signing/",
-"src": "japansociety"
-},
-{
-"id": "sad17537635",
-"date": "2026-08-04",
-"time": "19:00",
-"title": "NYO-USA in Berlin, Germany",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/08/04/nyousa-in-berlin-germany-0700pm",
-"src": "carnegie"
-},
 {
 "id": "s14651ce739",
 "date": "2026-08-04",
@@ -43,16 +13,6 @@
 "src": "dizzys"
 },
 {
-"id": "sce5ba3beca",
-"date": "2026-08-04",
-"time": "19:30",
-"title": "NYO Jazz in San Francisco, California",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/08/04/nyo-jazz-in-san-francisco-california-0730pm",
-"src": "carnegie"
-},
-{
 "id": "sc98d685a74",
 "date": "2026-08-04",
 "time": "",
@@ -61,6 +21,126 @@
 "cat": "art",
 "url": "https://www.cooperhewitt.org/event/discover-design-online-art-of-noise-08-04-2026/",
 "src": "cooperhewitt"
+},
+{
+"id": "s924c8df462",
+"date": "2026-08-04",
+"time": "",
+"title": "Works &#038; Process Rotunda Holiday Concert: The Metropolitan Opera Chorus Artists",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/works-process-rotunda-holiday-concert-the-metropolitan-opera-chorus-artists",
+"src": "guggenheim"
+},
+{
+"id": "s5f718532ef",
+"date": "2026-08-04",
+"time": "",
+"title": "Works &#038; Process: Princess Lockerooo\u2019s The NutWAACKer: A Dance Concert",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/works-process-princess-lockerooos-the-nutwaacker-a-dance-concert",
+"src": "guggenheim"
+},
+{
+"id": "sd56029f658",
+"date": "2026-08-04",
+"time": "",
+"title": "Works &#038; Process: Peter &#038; the Wolf by Sergei Prokofiev with Isaac Mizrahi",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/works-process-peter-the-wolf-by-sergei-prokofiev-with-isaac-mizrahi",
+"src": "guggenheim"
+},
+{
+"id": "s793eee092a",
+"date": "2026-08-04",
+"time": "",
+"title": "Works &#038; Process: Eugene O\u2019Neill Theater Center: Robert O\u2019Hara",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/works-process-eugene-oneill-theater-center-robert-ohara",
+"src": "guggenheim"
+},
+{
+"id": "sf7d689d912",
+"date": "2026-08-04",
+"time": "",
+"title": "Works &#038; Process: The Santa Fe Opera: Of One Blood by Brett Dean and Heather Betts",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/works-process-the-santa-fe-opera-of-one-blood-by-brett-dean-and-heather-betts",
+"src": "guggenheim"
+},
+{
+"id": "s094bcefb70",
+"date": "2026-08-04",
+"time": "",
+"title": "Works &#038; Process: Washington National Opera: O\u2019Keeffe: Kiss the Sky by Christopher Tin, Kelley Rourke",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/works-process-washington-national-opera-okeeffe-kiss-the-sky-by-christopher-tin-kelley-rourke",
+"src": "guggenheim"
+},
+{
+"id": "sd8e548a412",
+"date": "2026-08-04",
+"time": "",
+"title": "Works &#038; Process: Minnesota Opera: The Many Deaths of Laila Starr by Kamala Sankaram &#038; Minita Gandhi",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/works-process-minnesota-opera-the-many-deaths-of-laila-starr-by-kamala-sankaram-minita-gandhi",
+"src": "guggenheim"
+},
+{
+"id": "s8ab0a363e6",
+"date": "2026-08-04",
+"time": "",
+"title": "Works &#038; Process: The Metropolitan Opera: Lincoln in the Bardo by Missy Mazzoli and Royce Vavrek",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/works-process-the-metropolitan-opera-lincoln-in-the-bardo-by-missy-mazzoli-and-royce-vavrek",
+"src": "guggenheim"
+},
+{
+"id": "s65347fd0e0",
+"date": "2026-08-04",
+"time": "",
+"title": "Works &#038; Process: Miami City Ballet: Patricia Delgado",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/works-process-miami-city-ballet-patricia-delgado",
+"src": "guggenheim"
+},
+{
+"id": "sf8d53b9fa3",
+"date": "2026-08-04",
+"time": "",
+"title": "Works &#038; Process Rotunda Dance Party: SCUFF Queer Country Dancing",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/works-process-rotunda-dance-party-scuff-queer-country-dancing",
+"src": "guggenheim"
+},
+{
+"id": "sa89d6c8260",
+"date": "2026-08-04",
+"time": "",
+"title": "Works &#038; Process: KEIGWIN + COMPANY: Stage Door \u2013 ArtYard",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/works-process-keigwin-company-stage-door-artyard",
+"src": "guggenheim"
+},
+{
+"id": "sd232cdbd26",
+"date": "2026-08-04",
+"time": "",
+"title": "Works &#038; Process: Paul Taylor Dance Company: Pam Tanowitz and Sarah Crowner",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/works-process-paul-taylor-dance-company-pam-tanowitz-and-sarah-crowner",
+"src": "guggenheim"
 },
 {
 "id": "s365bccf53d",
@@ -130,6 +210,16 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-07/",
+"src": "greenwood"
+},
+{
+"id": "sc174a7fbec",
+"date": "2026-08-08",
+"time": "10:00",
+"title": "The Revolution Continues: Brooklyn\u2019s Black Trailblazers",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/the-revolution-continues-brooklyns-black-trailblazers/",
 "src": "greenwood"
 },
 {
@@ -381,6 +471,16 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/itakan-ro-language-workshop/",
 "src": "japansociety"
+},
+{
+"id": "sf61c360935",
+"date": "2026-08-13",
+"time": "17:00",
+"title": "Carnegie Hall Citywide: <br />\u200bOn Screen: Cavalleria rusticana and Pagliacci",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/08/13/carnegie-hall-citywide-on-screen-cavalleria-rusticana-and-pagliacci-0500pm",
+"src": "carnegie"
 },
 {
 "id": "s93ef8cc2dc",
@@ -663,6 +763,16 @@
 "src": "dizzys"
 },
 {
+"id": "sd36ab394d2",
+"date": "2026-08-20",
+"time": "",
+"title": "Late Shift: Block pARTy",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/late-shift-block-party",
+"src": "guggenheim"
+},
+{
 "id": "s25cdec10a3",
 "date": "2026-08-20",
 "time": "",
@@ -690,16 +800,6 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/rooftop-films-presents-rooftop-shots-closing-night-2026/",
-"src": "greenwood"
-},
-{
-"id": "s47c91050ae",
-"date": "2026-08-22",
-"time": "10:00",
-"title": "Battle of Brooklyn 250th Anniversary Reenactment",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/battle-of-brooklyn-250th-anniversary-reenactment/",
 "src": "greenwood"
 },
 {
@@ -1183,16 +1283,6 @@
 "src": "dizzys"
 },
 {
-"id": "s8431fe8310",
-"date": "2026-09-19",
-"time": "",
-"title": "Amadeo Luciano Lorenzato \u2014 opens",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/amadeo-luciano-lorenzato",
-"src": "zwirner"
-},
-{
 "id": "s78d61b0f42",
 "date": "2026-09-19",
 "time": "",
@@ -1263,10 +1353,10 @@
 "src": "nycballet"
 },
 {
-"id": "s5889120c7f",
+"id": "sa5c906a9f2",
 "date": "2026-09-22",
 "time": "",
-"title": "Studio Visit: Maiko Kikuchi at NowHere Studio in DUMBO",
+"title": "Studio Visit: Maiko Kikuchi at NowHere Studio in Dumbo",
 "venue": "Japan Society",
 "cat": "talks",
 "url": "https://japansociety.org/events/studio-visit-maiko-kikuchi-at-nowhere-studio-in-dumbo/",
@@ -1310,6 +1400,16 @@
 "venue": "David Zwirner",
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/nocturnal",
+"src": "zwirner"
+},
+{
+"id": "s6a0c8f9398",
+"date": "2026-09-23",
+"time": "",
+"title": "Amadeo Luciano Lorenzato \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/amadeo-luciano-lorenzato",
 "src": "zwirner"
 },
 {
@@ -1453,6 +1553,16 @@
 "src": "nycballet"
 },
 {
+"id": "saa9afdc312",
+"date": "2026-09-29",
+"time": "",
+"title": "Everyone you\u2019re looking at is also you",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
+"src": "zwirner"
+},
+{
 "id": "sfb4424c3aa",
 "date": "2026-09-30",
 "time": "19:00",
@@ -1471,6 +1581,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
 "src": "nycballet"
+},
+{
+"id": "sa300cacdb3",
+"date": "2026-09-30",
+"time": "",
+"title": "Everyone you\u2019re looking at is also you",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
+"src": "zwirner"
 },
 {
 "id": "sb3fd479d9c",
@@ -1513,6 +1633,16 @@
 "src": "nycballet"
 },
 {
+"id": "s5dd3489903",
+"date": "2026-10-01",
+"time": "",
+"title": "Everyone you\u2019re looking at is also you",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
+"src": "zwirner"
+},
+{
 "id": "sae655e6dc1",
 "date": "2026-10-02",
 "time": "12:00",
@@ -1543,6 +1673,16 @@
 "src": "nycballet"
 },
 {
+"id": "s7a63e0b160",
+"date": "2026-10-02",
+"time": "",
+"title": "Everyone you\u2019re looking at is also you",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
+"src": "zwirner"
+},
+{
 "id": "s47424cc7f3",
 "date": "2026-10-03",
 "time": "19:00",
@@ -1561,6 +1701,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
 "src": "nycballet"
+},
+{
+"id": "se1ed4906b7",
+"date": "2026-10-03",
+"time": "",
+"title": "Everyone you\u2019re looking at is also you",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
+"src": "zwirner"
 },
 {
 "id": "sf0b4028fb1",
@@ -2293,16 +2443,6 @@
 "src": "zwirner"
 },
 {
-"id": "se4ccf9ad7e",
-"date": "2026-10-31",
-"time": "",
-"title": "Amadeo Luciano Lorenzato \u2014 final day",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/amadeo-luciano-lorenzato",
-"src": "zwirner"
-},
-{
 "id": "s0994bee02f",
 "date": "2026-10-31",
 "time": "",
@@ -2310,6 +2450,16 @@
 "venue": "David Zwirner",
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/roy-decarava-the-sound-i-saw",
+"src": "zwirner"
+},
+{
+"id": "se4ccf9ad7e",
+"date": "2026-10-31",
+"time": "",
+"title": "Amadeo Luciano Lorenzato \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/amadeo-luciano-lorenzato",
 "src": "zwirner"
 },
 {
@@ -3031,6 +3181,16 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/nier-art-showcase-artworks-by-koda-kazuma/",
 "src": "japansociety"
+},
+{
+"id": "sf6d21d2833",
+"date": "2027-04-01",
+"time": "",
+"title": "Works &#038; Process: VOX: American Voices Opera Lab",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/works-process-vox-american-voices-opera-lab",
+"src": "guggenheim"
 },
 {
 "id": "sddbe89d9a3",

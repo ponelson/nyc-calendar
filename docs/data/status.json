@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T11:17:52+00:00",
+  "generated": "2026-08-05T11:14:11+00:00",
   "healthy": 12,
   "total": 23,
   "venues": [
@@ -16,7 +16,7 @@
       "name": "Carnegie Hall",
       "cat": "classical",
       "strategy": "custom",
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
@@ -40,7 +40,7 @@
       "name": "Japan Society",
       "cat": "talks",
       "strategy": "custom",
-      "count": 34,
+      "count": 33,
       "error": null
     },
     {
@@ -72,7 +72,7 @@
       "name": "Guggenheim",
       "cat": "art",
       "strategy": "custom",
-      "count": 4,
+      "count": 18,
       "error": null
     },
     {
@@ -96,7 +96,7 @@
       "name": "David Zwirner",
       "cat": "global",
       "strategy": "jsonld",
-      "count": 27,
+      "count": 32,
       "error": null
     },
     {
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 92,
+      "count": 91,
       "error": null
     },
     {
