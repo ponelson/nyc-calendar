@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T11:14:11+00:00",
-  "healthy": 12,
+  "generated": "2026-08-06T11:14:15+00:00",
+  "healthy": 13,
   "total": 23,
   "venues": [
     {
@@ -72,7 +72,7 @@
       "name": "Guggenheim",
       "cat": "art",
       "strategy": "custom",
-      "count": 18,
+      "count": 6,
       "error": null
     },
     {
@@ -80,7 +80,7 @@
       "name": "Cooper Hewitt",
       "cat": "art",
       "strategy": "custom",
-      "count": 18,
+      "count": 17,
       "error": null
     },
     {
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 91,
+      "count": 90,
       "error": null
     },
     {
@@ -160,8 +160,8 @@
       "name": "Bartow-Pell Mansion",
       "cat": "houses",
       "strategy": "ics",
-      "count": 0,
-      "error": "RuntimeError: HTTP 202"
+      "count": 19,
+      "error": null
     },
     {
       "id": "aliceausten",
