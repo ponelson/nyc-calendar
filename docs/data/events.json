@@ -1,17 +1,7 @@
 {
-"generated": "2026-08-06T11:14:15+00:00",
-"count": 407,
+"generated": "2026-08-07T09:54:11+00:00",
+"count": 408,
 "events": [
-{
-"id": "sb49e334c72",
-"date": "2026-08-05",
-"time": "19:00",
-"title": "Nicole Zuraitis: The Devil I Knew Album Release",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
 {
 "id": "s310d65ea81",
 "date": "2026-08-06",
@@ -23,16 +13,6 @@
 "src": "dizzys"
 },
 {
-"id": "s5e65eed3b7",
-"date": "2026-08-06",
-"time": "20:00",
-"title": "NYO-USA in Amsterdam, Netherlands",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/08/06/nyousa-in-amsterdam-netherlands-0800pm",
-"src": "carnegie"
-},
-{
 "id": "s5a0940ec55",
 "date": "2026-08-07",
 "time": "12:00",
@@ -41,6 +21,16 @@
 "cat": "houses",
 "url": "https://mvhm.org/event/telling-stories-through-art-new-york-city-history-in-prints-and-paintings/",
 "src": "mvhm"
+},
+{
+"id": "s74347c9613",
+"date": "2026-08-07",
+"time": "18:00",
+"title": "Math in Bloom",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/math-in-bloom/",
+"src": "simons"
 },
 {
 "id": "s349b7ce0df",
@@ -381,6 +371,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-14/",
 "src": "greenwood"
+},
+{
+"id": "s4fc4e97f57",
+"date": "2026-08-14",
+"time": "19:30",
+"title": "NYO Jazz in Beijing, China",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/08/14/nyo-jazz-in-beijing-china-0730pm",
+"src": "carnegie"
 },
 {
 "id": "s1ad3976aad",
@@ -1171,6 +1171,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s42c690e8c7",
+"date": "2026-09-19",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575208?skipPreview=true",
+"src": "aliceausten"
 },
 {
 "id": "s78d61b0f42",

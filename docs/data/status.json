@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T11:14:15+00:00",
-  "healthy": 13,
+  "generated": "2026-08-07T09:54:11+00:00",
+  "healthy": 14,
   "total": 23,
   "venues": [
     {
@@ -56,8 +56,8 @@
       "name": "Simons Foundation",
       "cat": "talks",
       "strategy": "ics",
-      "count": 0,
-      "error": "no events parsed"
+      "count": 1,
+      "error": null
     },
     {
       "id": "broadway",
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 90,
+      "count": 89,
       "error": null
     },
     {
@@ -168,7 +168,7 @@
       "name": "Alice Austen House",
       "cat": "houses",
       "strategy": "jsonld",
-      "count": 7,
+      "count": 8,
       "error": null
     },
     {
