@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T09:54:11+00:00",
-  "healthy": 14,
+  "generated": "2026-08-08T09:31:26+00:00",
+  "healthy": 12,
   "total": 23,
   "venues": [
     {
@@ -56,8 +56,8 @@
       "name": "Simons Foundation",
       "cat": "talks",
       "strategy": "ics",
-      "count": 1,
-      "error": null
+      "count": 0,
+      "error": "no events parsed"
     },
     {
       "id": "broadway",
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 89,
+      "count": 88,
       "error": null
     },
     {
@@ -152,7 +152,7 @@
       "name": "Mount Vernon Hotel Museum",
       "cat": "houses",
       "strategy": "ics",
-      "count": 10,
+      "count": 9,
       "error": null
     },
     {
@@ -160,8 +160,8 @@
       "name": "Bartow-Pell Mansion",
       "cat": "houses",
       "strategy": "ics",
-      "count": 19,
-      "error": null
+      "count": 0,
+      "error": "RuntimeError: ConnectTimeout"
     },
     {
       "id": "aliceausten",
