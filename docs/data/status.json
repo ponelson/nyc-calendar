@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T09:31:26+00:00",
-  "healthy": 12,
+  "generated": "2026-08-09T09:31:05+00:00",
+  "healthy": 13,
   "total": 23,
   "venues": [
     {
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 88,
+      "count": 87,
       "error": null
     },
     {
@@ -160,15 +160,15 @@
       "name": "Bartow-Pell Mansion",
       "cat": "houses",
       "strategy": "ics",
-      "count": 0,
-      "error": "RuntimeError: ConnectTimeout"
+      "count": 19,
+      "error": null
     },
     {
       "id": "aliceausten",
       "name": "Alice Austen House",
       "cat": "houses",
       "strategy": "jsonld",
-      "count": 8,
+      "count": 7,
       "error": null
     },
     {
