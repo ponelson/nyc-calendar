@@ -1,47 +1,7 @@
 {
-"generated": "2026-08-11T09:53:53+00:00",
-"count": 402,
+"generated": "2026-08-12T09:55:46+00:00",
+"count": 401,
 "events": [
-{
-"id": "s581238040f",
-"date": "2026-08-10",
-"time": "19:00",
-"title": "Jazz House Kids, hosted by Christian McBride",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s69e47ead38",
-"date": "2026-08-11",
-"time": "10:00",
-"title": "Toddler Takeover at the Green-House",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-08-11/",
-"src": "greenwood"
-},
-{
-"id": "s76f3ac400e",
-"date": "2026-08-11",
-"time": "19:00",
-"title": "Steve Nelson: The Art of the Vibraphone",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s077e640f96",
-"date": "2026-08-11",
-"time": "19:30",
-"title": "NYO Jazz in Shanghai, China",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/08/11/nyo-jazz-in-shanghai-china-0730pm",
-"src": "carnegie"
-},
 {
 "id": "saecccdce7d",
 "date": "2026-08-12",
@@ -620,6 +580,16 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/battle-of-brooklyn-a-farce-in-two-acts/",
+"src": "greenwood"
+},
+{
+"id": "sc660e3ee15",
+"date": "2026-08-27",
+"time": "19:45",
+"title": "Moonlight Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/moonlight-tour-14/2026-08-27/",
 "src": "greenwood"
 },
 {
@@ -1473,6 +1443,16 @@
 "src": "carnegie"
 },
 {
+"id": "s01bddf9b78",
+"date": "2026-10-01",
+"time": "20:00",
+"title": "Diana Jipa, Violin<br />\u0218tefan Doniga, Piano",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/01/diana-jipa-violin-stefan-doniga-piano-0800pm",
+"src": "carnegie"
+},
+{
 "id": "s5dd3489903",
 "date": "2026-10-01",
 "time": "",
@@ -1511,6 +1491,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "sd346e39fbf",
+"date": "2026-10-02",
+"time": "19:30",
+"title": "Chasing Dreams: Bard East/West Ensemble and China Now Chamber Orchestra",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/02/chasing-dreams-bard-eastwest-ensemble-and-china-now-chamber-orchestra-0730pm",
+"src": "carnegie"
 },
 {
 "id": "s46fce0a395",
