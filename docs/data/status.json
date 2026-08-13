@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T09:55:46+00:00",
-  "healthy": 13,
+  "generated": "2026-08-13T09:56:01+00:00",
+  "healthy": 12,
   "total": 23,
   "venues": [
     {
@@ -16,7 +16,7 @@
       "name": "Carnegie Hall",
       "cat": "classical",
       "strategy": "custom",
-      "count": 9,
+      "count": 10,
       "error": null
     },
     {
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 83,
+      "count": 82,
       "error": null
     },
     {
@@ -160,8 +160,8 @@
       "name": "Bartow-Pell Mansion",
       "cat": "houses",
       "strategy": "ics",
-      "count": 19,
-      "error": null
+      "count": 0,
+      "error": "RuntimeError: HTTP 202"
     },
     {
       "id": "aliceausten",

@@ -1,47 +1,7 @@
 {
-"generated": "2026-08-12T09:55:46+00:00",
-"count": 401,
+"generated": "2026-08-13T09:56:01+00:00",
+"count": 382,
 "events": [
-{
-"id": "saecccdce7d",
-"date": "2026-08-12",
-"time": "18:30",
-"title": "CBH Talk | An Unfinished Revolution: Dialogues on Freedom and Democracy, Part 3 - Kellie Carter Jackson on James Baldwin",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/cbh-talk-an-unfinished-revolution-dialogues-on-freedom-and-democracy-part-3-kellie-carter-jackson-on-james-baldwins-a-letter-to-my-nephew/",
-"src": "greenwood"
-},
-{
-"id": "s9b236739de",
-"date": "2026-08-12",
-"time": "18:30",
-"title": "Grieving & Weaving",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grieving-weaving-7/",
-"src": "greenwood"
-},
-{
-"id": "s8c3573bfec",
-"date": "2026-08-12",
-"time": "19:00",
-"title": "Ehud Asherie Trio",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "sbdacaead12",
-"date": "2026-08-12",
-"time": "19:30",
-"title": "NYO Jazz in Shanghai, China",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/08/12/nyo-jazz-in-shanghai-china-0730pm",
-"src": "carnegie"
-},
 {
 "id": "sc3f414bdf7",
 "date": "2026-08-12",
@@ -603,6 +563,26 @@
 "src": "dizzys"
 },
 {
+"id": "se1e8ca2c87",
+"date": "2026-08-29",
+"time": "12:00",
+"title": "Last Saturdays: Open Classroom",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/last-saturdays-open-classroom/2026-08-29/",
+"src": "greenwood"
+},
+{
+"id": "s28e25975fa",
+"date": "2026-08-29",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-08-29/",
+"src": "greenwood"
+},
+{
 "id": "s95b3a170db",
 "date": "2026-08-29",
 "time": "19:00",
@@ -631,6 +611,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s0f4356fd7f",
+"date": "2026-08-30",
+"time": "",
+"title": "ASL Tour of Guggenheim Pop: 1960 to Now",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/asl-tour-of-guggenheim-pop-1960-to-now",
+"src": "guggenheim"
 },
 {
 "id": "s0d60ab9ca9",
@@ -711,16 +701,6 @@
 "cat": "houses",
 "url": "https://mvhm.org/event/from-useful-to-beautiful-a-decorative-arts-tour-of-mvhmg/",
 "src": "mvhm"
-},
-{
-"id": "s9a77076395",
-"date": "2026-09-04",
-"time": "18:00",
-"title": "September's First Friday with Miles East",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/mays-first-friday-with-miles-east/",
-"src": "bartowpell"
 },
 {
 "id": "s9ed802bb0c",
@@ -873,16 +853,6 @@
 "src": "japansociety"
 },
 {
-"id": "s31fcf5c3a4",
-"date": "2026-09-12",
-"time": "10:00",
-"title": "Bartow-Brocante Market",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/bartow-brocante-market/",
-"src": "bartowpell"
-},
-{
 "id": "s496fa448c8",
 "date": "2026-09-12",
 "time": "19:00",
@@ -911,16 +881,6 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/dan-flavin-grids-hong-kong",
 "src": "zwirner"
-},
-{
-"id": "s8da2c94b84",
-"date": "2026-09-13",
-"time": "10:00",
-"title": "Bartow-Brocante Market",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/bartow-brocante-market/",
-"src": "bartowpell"
 },
 {
 "id": "sa8de3a526b",
@@ -1171,16 +1131,6 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/amadeo-luciano-lorenzato",
 "src": "zwirner"
-},
-{
-"id": "s0b1f20d967",
-"date": "2026-09-24",
-"time": "19:00",
-"title": "Expanding the Discourse: Poetry Readings by David Mills",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/expanding-the-discourse-poetry-readings-by-david-mills/",
-"src": "bartowpell"
 },
 {
 "id": "s60b2842bd1",
@@ -1473,16 +1423,6 @@
 "src": "mvhm"
 },
 {
-"id": "sb5b45f2487",
-"date": "2026-10-02",
-"time": "18:00",
-"title": "First Friday with Warren Banholzer",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/first-friday-with-warren-banholzer-4/",
-"src": "bartowpell"
-},
-{
 "id": "s090bc023e0",
 "date": "2026-10-02",
 "time": "19:00",
@@ -1511,6 +1451,26 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
 "src": "nycballet"
+},
+{
+"id": "s7bccc1f75f",
+"date": "2026-10-02",
+"time": "20:00",
+"title": "Voices Unbound: A Benefit Concert of New Chamber Works for Facta Non Verba",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/02/voices-unbound-a-benefit-concert-of-new-chamber-works-for-facta-non-verba-0800pm",
+"src": "carnegie"
+},
+{
+"id": "s67060cb147",
+"date": "2026-10-02",
+"time": "20:00",
+"title": "Ludovico Einaudi",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/02/ludovico-einaudi-0800pm",
+"src": "carnegie"
 },
 {
 "id": "s7a63e0b160",
@@ -1793,16 +1753,6 @@
 "src": "nycballet"
 },
 {
-"id": "sdea1b8ae16",
-"date": "2026-10-10",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
-},
-{
 "id": "sdbca5ed90b",
 "date": "2026-10-10",
 "time": "19:00",
@@ -1843,16 +1793,6 @@
 "src": "nycballet"
 },
 {
-"id": "s1d7103e953",
-"date": "2026-10-11",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
-},
-{
 "id": "sf3d09baf2e",
 "date": "2026-10-11",
 "time": "19:00",
@@ -1863,16 +1803,6 @@
 "src": "dizzys"
 },
 {
-"id": "s00eb1d1cde",
-"date": "2026-10-12",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
-},
-{
 "id": "sd40d9cb9bd",
 "date": "2026-10-12",
 "time": "19:00",
@@ -1881,16 +1811,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s0ee350becb",
-"date": "2026-10-13",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
 },
 {
 "id": "s94fb90f0f1",
@@ -1921,16 +1841,6 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/navigating-stem-career-opportunities-funding-and-immigration-pathways-inside-the-us/",
 "src": "nyas"
-},
-{
-"id": "s466f2dc686",
-"date": "2026-10-14",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
 },
 {
 "id": "s7f4edb9faa",
@@ -1973,16 +1883,6 @@
 "src": "emanuel"
 },
 {
-"id": "se68b8533ae",
-"date": "2026-10-15",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
-},
-{
 "id": "sf41f46e179",
 "date": "2026-10-15",
 "time": "19:00",
@@ -2003,16 +1903,6 @@
 "src": "nycballet"
 },
 {
-"id": "sae4893df37",
-"date": "2026-10-16",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
-},
-{
 "id": "s23a89e239c",
 "date": "2026-10-16",
 "time": "19:00",
@@ -2031,16 +1921,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
-},
-{
-"id": "s92ac6265ee",
-"date": "2026-10-17",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
 },
 {
 "id": "s1634e913e4",
@@ -2101,16 +1981,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/adrian-danchig-waring-farewell",
 "src": "nycballet"
-},
-{
-"id": "s54eca76d09",
-"date": "2026-10-18",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
 },
 {
 "id": "seebdc475fc",
@@ -2241,16 +2111,6 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/emma-mcintyre",
 "src": "zwirner"
-},
-{
-"id": "s071091bce6",
-"date": "2026-10-25",
-"time": "16:00",
-"title": "Free workshop: Jane Austen\u2019s Country Dance",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/free-workshop-jane-austens-country-dance-3/",
-"src": "bartowpell"
 },
 {
 "id": "s64c1c39bf2",
@@ -2481,46 +2341,6 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/ai-tools-for-literature-review-writing-and-research-productivity/",
 "src": "nyas"
-},
-{
-"id": "sa0921e04eb",
-"date": "2026-11-06",
-"time": "19:00",
-"title": "Dungeons and Dragons Weekend",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
-"src": "bartowpell"
-},
-{
-"id": "s1ee78ccfb8",
-"date": "2026-11-07",
-"time": "11:00",
-"title": "Bartow-Pell Tree ID Walk",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/bartow-pell-tree-id-walk-2/",
-"src": "bartowpell"
-},
-{
-"id": "s28cf528f50",
-"date": "2026-11-07",
-"time": "19:00",
-"title": "Dungeons and Dragons Weekend",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
-"src": "bartowpell"
-},
-{
-"id": "sa335b00fe1",
-"date": "2026-11-08",
-"time": "19:00",
-"title": "Dungeons and Dragons Weekend",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
-"src": "bartowpell"
 },
 {
 "id": "s4acd84c532",
@@ -3911,16 +3731,6 @@
 "cat": "art",
 "url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-15-2026/",
 "src": "cooperhewitt"
-},
-{
-"id": "se46de97b5f",
-"date": "2027-07-15",
-"time": "",
-"title": "Close Looking with the Curator",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/close-looking-with-the-curator",
-"src": "guggenheim"
 },
 {
 "id": "s331d15f702",
