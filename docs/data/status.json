@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T09:56:01+00:00",
+  "generated": "2026-08-14T09:55:21+00:00",
   "healthy": 12,
   "total": 23,
   "venues": [
@@ -72,7 +72,7 @@
       "name": "Guggenheim",
       "cat": "art",
       "strategy": "custom",
-      "count": 6,
+      "count": 15,
       "error": null
     },
     {
@@ -161,7 +161,7 @@
       "cat": "houses",
       "strategy": "ics",
       "count": 0,
-      "error": "RuntimeError: HTTP 202"
+      "error": "RuntimeError: ConnectTimeout"
     },
     {
       "id": "aliceausten",

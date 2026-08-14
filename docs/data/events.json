@@ -1,37 +1,7 @@
 {
-"generated": "2026-08-13T09:56:01+00:00",
-"count": 382,
+"generated": "2026-08-14T09:55:21+00:00",
+"count": 391,
 "events": [
-{
-"id": "sc3f414bdf7",
-"date": "2026-08-12",
-"time": "",
-"title": "Ikarkar=an ro!: Embroidery Workshop",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/ikarkaran-ro-embroidery-workshop/",
-"src": "japansociety"
-},
-{
-"id": "s02c73b4996",
-"date": "2026-08-12",
-"time": "",
-"title": "Itak=an ro!: Language Workshop",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/itakan-ro-language-workshop/",
-"src": "japansociety"
-},
-{
-"id": "sf61c360935",
-"date": "2026-08-13",
-"time": "17:00",
-"title": "Carnegie Hall Citywide: <br />\u200bOn Screen: Cavalleria rusticana and Pagliacci",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/08/13/carnegie-hall-citywide-on-screen-cavalleria-rusticana-and-pagliacci-0500pm",
-"src": "carnegie"
-},
 {
 "id": "s93ef8cc2dc",
 "date": "2026-08-13",
@@ -833,6 +803,16 @@
 "src": "zwirner"
 },
 {
+"id": "s22fcfd52cc",
+"date": "2026-09-10",
+"time": "",
+"title": "exonemo: Terminal at NowHere \u2014 opens",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/exonemo-terminal-at-nowhere/",
+"src": "japansociety"
+},
+{
 "id": "sb5cea9b7b3",
 "date": "2026-09-11",
 "time": "19:00",
@@ -1483,6 +1463,16 @@
 "src": "zwirner"
 },
 {
+"id": "se55ab60d82",
+"date": "2026-10-03",
+"time": "13:00",
+"title": "American Masters Music Awards Winners Concert",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/03/american-masters-music-awards-winners-concert-0100pm",
+"src": "carnegie"
+},
+{
 "id": "s47424cc7f3",
 "date": "2026-10-03",
 "time": "19:00",
@@ -1691,6 +1681,26 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
+},
+{
+"id": "s32eef8e90f",
+"date": "2026-10-07",
+"time": "",
+"title": "Ziv Koren&#8217;s October 7 War Museum Exhibition Closing Night",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/ziv-korens-october-7-war-museum-exhibition-closing-night/",
+"src": "emanuel"
+},
+{
+"id": "sd257a027d1",
+"date": "2026-10-07",
+"time": "",
+"title": "Ziv Koren&#8217;s October 7 War Museum Exhibition Opening Night",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/ziv-korens-october-7-war-museum-exhibition-opening-night/",
+"src": "emanuel"
 },
 {
 "id": "sb986d957a3",
@@ -2163,6 +2173,16 @@
 "src": "dizzys"
 },
 {
+"id": "s5849122eaa",
+"date": "2026-10-27",
+"time": "",
+"title": "Live Podcast Taping of &#8220;Call Me Back&#8221; with Dan Senor",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/live-podcast-taping-of-call-me-back-with-dan-senor/",
+"src": "emanuel"
+},
+{
 "id": "s7a97273a77",
 "date": "2026-10-27",
 "time": "",
@@ -2293,26 +2313,6 @@
 "src": "emanuel"
 },
 {
-"id": "sb8cafae36f",
-"date": "2026-11-02",
-"time": "",
-"title": "Tikkun Olam: Last Day of Coat Drive for Urban Outreach \u2014 opens",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/tikkun-olam-last-day-of-coat-drive-for-urban-outreach/",
-"src": "emanuel"
-},
-{
-"id": "sfa4ccb399f",
-"date": "2026-11-02",
-"time": "",
-"title": "Tikkun Olam: First Day of Coat Drive for Urban Outreach \u2014 opens",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/tikkun-olam-first-day-of-coat-drive-for-urban-outreach/",
-"src": "emanuel"
-},
-{
 "id": "s6a960decac",
 "date": "2026-11-04",
 "time": "",
@@ -2341,6 +2341,16 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/ai-tools-for-literature-review-writing-and-research-productivity/",
 "src": "nyas"
+},
+{
+"id": "sbd9d8de4b8",
+"date": "2026-11-07",
+"time": "",
+"title": "exonemo: Terminal at NowHere \u2014 final day",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/exonemo-terminal-at-nowhere/",
+"src": "japansociety"
 },
 {
 "id": "s4acd84c532",
@@ -2383,24 +2393,34 @@
 "src": "japansociety"
 },
 {
-"id": "s976e6e0fdb",
-"date": "2026-12-04",
+"id": "s857d82ae8a",
+"date": "2026-11-19",
 "time": "",
-"title": "Tikkun Olam: Last Day of Coat Drive for Urban Outreach \u2014 final day",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/tikkun-olam-last-day-of-coat-drive-for-urban-outreach/",
-"src": "emanuel"
+"title": "Member Morning: Guggenheim Pop",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/member-morning-guggenheim-pop",
+"src": "guggenheim"
 },
 {
-"id": "se320219886",
-"date": "2026-12-04",
+"id": "saae8326a3c",
+"date": "2026-12-08",
 "time": "",
-"title": "Tikkun Olam: First Day of Coat Drive for Urban Outreach \u2014 final day",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/tikkun-olam-first-day-of-coat-drive-for-urban-outreach/",
-"src": "emanuel"
+"title": "Winter Member Shopping Week",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/winter-member-shopping-week",
+"src": "guggenheim"
+},
+{
+"id": "s0f5ef2717c",
+"date": "2026-12-09",
+"time": "",
+"title": "Winter Member Shopping Week",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/winter-member-shopping-week",
+"src": "guggenheim"
 },
 {
 "id": "sa63dcc530c",
@@ -2411,6 +2431,26 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/scientific-publishing-at-the-edge-trust-and-authority-in-the-age-of-ai-and-open-access/",
 "src": "nyas"
+},
+{
+"id": "s0fe3b5c6ad",
+"date": "2026-12-10",
+"time": "",
+"title": "Winter Member Shopping Week",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/winter-member-shopping-week",
+"src": "guggenheim"
+},
+{
+"id": "s9507116a22",
+"date": "2026-12-11",
+"time": "",
+"title": "Winter Member Shopping Week",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/winter-member-shopping-week",
+"src": "guggenheim"
 },
 {
 "id": "sb04a465347",
@@ -2463,6 +2503,26 @@
 "src": "zwirner"
 },
 {
+"id": "s0cc8b2f840",
+"date": "2026-12-12",
+"time": "",
+"title": "Winter Member Shopping Week",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/winter-member-shopping-week",
+"src": "guggenheim"
+},
+{
+"id": "sffd8a1a7ec",
+"date": "2026-12-13",
+"time": "",
+"title": "Winter Member Shopping Week",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/winter-member-shopping-week",
+"src": "guggenheim"
+},
+{
 "id": "sbfb5482e8d",
 "date": "2026-12-13",
 "time": "",
@@ -2470,6 +2530,16 @@
 "venue": "Guggenheim",
 "cat": "art",
 "url": "https://www.guggenheim.org/event/sketch-with-jeff-storytelling-and-art-at-the-guggenheim",
+"src": "guggenheim"
+},
+{
+"id": "s6faf1b4158",
+"date": "2026-12-14",
+"time": "",
+"title": "Winter Member Shopping Week",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/winter-member-shopping-week",
 "src": "guggenheim"
 },
 {
@@ -2481,6 +2551,16 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/marty-supreme/",
 "src": "japansociety"
+},
+{
+"id": "s9cba6d4fe9",
+"date": "2026-12-15",
+"time": "",
+"title": "Winter Member Shopping Week",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/winter-member-shopping-week",
+"src": "guggenheim"
 },
 {
 "id": "s5caa8efbd5",
@@ -2971,6 +3051,16 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/vaccines-and-immune-therapies-for-chronic-diseases/",
 "src": "nyas"
+},
+{
+"id": "sba9221aff0",
+"date": "2027-03-20",
+"time": "",
+"title": "Evan Gershkovich in Conversation with David Remnick",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/evan-gershkovich-in-conversation-with-david-remnick/",
+"src": "emanuel"
 },
 {
 "id": "sfd7c5c10a7",
