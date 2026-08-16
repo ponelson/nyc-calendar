@@ -1,47 +1,7 @@
 {
-"generated": "2026-08-15T09:18:46+00:00",
-"count": 397,
+"generated": "2026-08-16T09:20:11+00:00",
+"count": 402,
 "events": [
-{
-"id": "sac88287fd7",
-"date": "2026-08-14",
-"time": "19:00",
-"title": "Warren Wolf with Alex Brown and Strings perform Chick Corea&#039;s Lyric Suite for Sextet",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s65b5d35ce9",
-"date": "2026-08-15",
-"time": "10:00",
-"title": "Battle of Brooklyn Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/battle-of-brooklyn-trolley-tour-8/",
-"src": "greenwood"
-},
-{
-"id": "s819b5996e8",
-"date": "2026-08-15",
-"time": "10:00",
-"title": "Green-Wood Book Sale",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-book-sale/2026-08-15/",
-"src": "greenwood"
-},
-{
-"id": "seb7f658907",
-"date": "2026-08-15",
-"time": "13:00",
-"title": "Discover Green-Wood Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-08-15/",
-"src": "greenwood"
-},
 {
 "id": "sbe9735e94f",
 "date": "2026-08-15",
@@ -51,16 +11,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s6bda88fe63",
-"date": "2026-08-15",
-"time": "19:00",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-47/2026-08-15/",
-"src": "greenwood"
 },
 {
 "id": "sf8a4b5ddb4",
@@ -343,6 +293,16 @@
 "src": "dizzys"
 },
 {
+"id": "sd73a038daa",
+"date": "2026-08-22",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575169?skipPreview=true",
+"src": "aliceausten"
+},
+{
 "id": "sf241aa6cb5",
 "date": "2026-08-23",
 "time": "10:00",
@@ -483,6 +443,16 @@
 "src": "dizzys"
 },
 {
+"id": "s9955020d1b",
+"date": "2026-08-29",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575197?skipPreview=true",
+"src": "aliceausten"
+},
+{
 "id": "s396eaf3950",
 "date": "2026-08-30",
 "time": "10:00",
@@ -500,6 +470,16 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/bee-the-solution-community-science-with-the-bee-conservancy-at-green-wood/",
+"src": "greenwood"
+},
+{
+"id": "se199cc58db",
+"date": "2026-08-30",
+"time": "11:00",
+"title": "Grave Beginnings: Green-Wood by Trolley",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley/2026-08-30/",
 "src": "greenwood"
 },
 {
@@ -563,6 +543,16 @@
 "src": "emanuel"
 },
 {
+"id": "sf0db327f9f",
+"date": "2026-09-02",
+"time": "10:30",
+"title": "Green-Wood on Wheels: Stroller-Friendly Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-09-02/",
+"src": "greenwood"
+},
+{
 "id": "s85a422f488",
 "date": "2026-09-02",
 "time": "19:00",
@@ -623,6 +613,16 @@
 "src": "dizzys"
 },
 {
+"id": "sdcef615722",
+"date": "2026-09-05",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-09-05/",
+"src": "greenwood"
+},
+{
 "id": "sd871ef8650",
 "date": "2026-09-05",
 "time": "19:00",
@@ -631,6 +631,26 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "se437b4ea62",
+"date": "2026-09-05",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575206?skipPreview=true",
+"src": "aliceausten"
+},
+{
+"id": "s3bab450348",
+"date": "2026-09-06",
+"time": "10:00",
+"title": "Grave Beginnings: Walking Green-Wood",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-09-06/",
+"src": "greenwood"
 },
 {
 "id": "s0ab7aa11e4",
@@ -793,6 +813,16 @@
 "src": "dizzys"
 },
 {
+"id": "scbbd69378c",
+"date": "2026-09-12",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575207?skipPreview=true",
+"src": "aliceausten"
+},
+{
 "id": "s571ab3c40a",
 "date": "2026-09-12",
 "time": "",
@@ -921,6 +951,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s42c690e8c7",
+"date": "2026-09-19",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575208?skipPreview=true",
+"src": "aliceausten"
 },
 {
 "id": "s78d61b0f42",
@@ -1151,6 +1191,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/jewels",
 "src": "nycballet"
+},
+{
+"id": "s29bc25b114",
+"date": "2026-09-26",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575209?skipPreview=true",
+"src": "aliceausten"
 },
 {
 "id": "s4a832ab1cc",

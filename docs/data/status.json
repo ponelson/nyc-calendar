@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T09:18:46+00:00",
-  "healthy": 12,
+  "generated": "2026-08-16T09:20:11+00:00",
+  "healthy": 13,
   "total": 23,
   "venues": [
     {
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 81,
+      "count": 80,
       "error": null
     },
     {
@@ -168,8 +168,8 @@
       "name": "Alice Austen House",
       "cat": "houses",
       "strategy": "jsonld",
-      "count": 0,
-      "error": "RuntimeError: HTTP 429"
+      "count": 6,
+      "error": null
     },
     {
       "id": "dyckman",
