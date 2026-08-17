@@ -1,87 +1,7 @@
 {
-"generated": "2026-08-16T09:20:11+00:00",
-"count": 402,
+"generated": "2026-08-17T09:33:12+00:00",
+"count": 394,
 "events": [
-{
-"id": "sbe9735e94f",
-"date": "2026-08-15",
-"time": "19:00",
-"title": "Warren Wolf with Alex Brown and Strings perform Chick Corea&#039;s Lyric Suite for Sextet",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "sf8a4b5ddb4",
-"date": "2026-08-16",
-"time": "10:00",
-"title": "Birding in Peace: Late-Risers Edition (Members Only)",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/birding-in-peace-late-risers-edition-members-only-8/2026-08-16/",
-"src": "greenwood"
-},
-{
-"id": "sa3dfa922f9",
-"date": "2026-08-16",
-"time": "10:00",
-"title": "Grave Beginnings: Walking Green-Wood",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-08-16/",
-"src": "greenwood"
-},
-{
-"id": "s8030e1b414",
-"date": "2026-08-16",
-"time": "10:00",
-"title": "Gay Gothic: Love, Loss, and the Hereafter",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/gay-gothic-love-loss-and-the-hereafter-6/",
-"src": "greenwood"
-},
-{
-"id": "s767b199b90",
-"date": "2026-08-16",
-"time": "10:00",
-"title": "Green-Wood Book Sale",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-book-sale/2026-08-16/",
-"src": "greenwood"
-},
-{
-"id": "seacb2af79a",
-"date": "2026-08-16",
-"time": "11:00",
-"title": "Spilling Tea About the Revolution",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/spilling-tea-about-the-revolution/",
-"src": "greenwood"
-},
-{
-"id": "s6490b6dbbe",
-"date": "2026-08-16",
-"time": "13:00",
-"title": "Green-Wood's Greatest Hits",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-woods-greatest-hits-13/2026-08-16/",
-"src": "greenwood"
-},
-{
-"id": "sf9a79e00a7",
-"date": "2026-08-16",
-"time": "19:00",
-"title": "Warren Wolf with Alex Brown and Strings perform Chick Corea&#039;s Lyric Suite for Sextet",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
 {
 "id": "sf07923d305",
 "date": "2026-08-17",
@@ -293,16 +213,6 @@
 "src": "dizzys"
 },
 {
-"id": "sd73a038daa",
-"date": "2026-08-22",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575169?skipPreview=true",
-"src": "aliceausten"
-},
-{
 "id": "sf241aa6cb5",
 "date": "2026-08-23",
 "time": "10:00",
@@ -441,16 +351,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s9955020d1b",
-"date": "2026-08-29",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575197?skipPreview=true",
-"src": "aliceausten"
 },
 {
 "id": "s396eaf3950",
@@ -633,16 +533,6 @@
 "src": "dizzys"
 },
 {
-"id": "se437b4ea62",
-"date": "2026-09-05",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575206?skipPreview=true",
-"src": "aliceausten"
-},
-{
 "id": "s3bab450348",
 "date": "2026-09-06",
 "time": "10:00",
@@ -661,6 +551,26 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s7274d7052e",
+"date": "2026-09-07",
+"time": "18:00",
+"title": "Handwriting the Constitution",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/handwriting-the-constitution/2026-09-07/",
+"src": "greenwood"
+},
+{
+"id": "sd75bd5f032",
+"date": "2026-09-08",
+"time": "10:00",
+"title": "Toddler Takeover at the Green-House",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-09-08/",
+"src": "greenwood"
 },
 {
 "id": "s4215363d5d",
@@ -691,6 +601,16 @@
 "cat": "houses",
 "url": "https://mvhm.org/event/plein-air-4-part-watercolor-workshop/",
 "src": "mvhm"
+},
+{
+"id": "sa06c3de03f",
+"date": "2026-09-09",
+"time": "18:30",
+"title": "Signatures for Safekeeping: Preparing End-of-Life Documents",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/signatures-for-safekeeping-preparing-end-of-life-documents/2026-09-09/",
+"src": "greenwood"
 },
 {
 "id": "s7bb3c8456e",
@@ -763,6 +683,16 @@
 "src": "zwirner"
 },
 {
+"id": "s7c4d9f044f",
+"date": "2026-09-10",
+"time": "",
+"title": "Life, Liberty, and the Pursuit of Land \u2014 opens",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/life-liberty-and-the-pursuit-of-land/",
+"src": "greenwood"
+},
+{
 "id": "s22fcfd52cc",
 "date": "2026-09-10",
 "time": "",
@@ -781,6 +711,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s39ebdcb817",
+"date": "2026-09-11",
+"time": "19:00",
+"title": "Notes of Tribute: Viewing the 9/11 Memorial Lights",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/notes-of-tribute-viewing-the-9-11-memorial-lights-2/",
+"src": "greenwood"
 },
 {
 "id": "sf8620f36a6",
@@ -803,6 +743,16 @@
 "src": "bartowpell"
 },
 {
+"id": "s4fc1afbfec",
+"date": "2026-09-12",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-09-12/",
+"src": "greenwood"
+},
+{
 "id": "s496fa448c8",
 "date": "2026-09-12",
 "time": "19:00",
@@ -811,16 +761,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "scbbd69378c",
-"date": "2026-09-12",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575207?skipPreview=true",
-"src": "aliceausten"
 },
 {
 "id": "s571ab3c40a",
@@ -951,16 +891,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s42c690e8c7",
-"date": "2026-09-19",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575208?skipPreview=true",
-"src": "aliceausten"
 },
 {
 "id": "s78d61b0f42",
@@ -1191,16 +1121,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/jewels",
 "src": "nycballet"
-},
-{
-"id": "s29bc25b114",
-"date": "2026-09-26",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575209?skipPreview=true",
-"src": "aliceausten"
 },
 {
 "id": "s4a832ab1cc",
@@ -2693,6 +2613,16 @@
 "src": "zwirner"
 },
 {
+"id": "s825b57b307",
+"date": "2027-01-03",
+"time": "",
+"title": "Life, Liberty, and the Pursuit of Land \u2014 final day",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/life-liberty-and-the-pursuit-of-land/",
+"src": "greenwood"
+},
+{
 "id": "s3cd368d88b",
 "date": "2027-01-09",
 "time": "",
@@ -3111,16 +3041,6 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/encore-build-your-own-shakuhachi-crafting-workshop/",
 "src": "japansociety"
-},
-{
-"id": "sd89dcb3716",
-"date": "2027-03-03",
-"time": "",
-"title": "HealthNext AI Summit 2025",
-"venue": "New York Academy of Sciences",
-"cat": "talks",
-"url": "https://www.nyas.org/shaping-science/events/healthnext-summit/",
-"src": "nyas"
 },
 {
 "id": "s5b3900eaf9",

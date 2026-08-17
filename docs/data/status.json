@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T09:20:11+00:00",
-  "healthy": 13,
+  "generated": "2026-08-17T09:33:12+00:00",
+  "healthy": 12,
   "total": 23,
   "venues": [
     {
@@ -48,7 +48,7 @@
       "name": "New York Academy of Sciences",
       "cat": "talks",
       "strategy": "custom",
-      "count": 21,
+      "count": 20,
       "error": null
     },
     {
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 80,
+      "count": 78,
       "error": null
     },
     {
@@ -168,8 +168,8 @@
       "name": "Alice Austen House",
       "cat": "houses",
       "strategy": "jsonld",
-      "count": 6,
-      "error": null
+      "count": 0,
+      "error": "RuntimeError: HTTP 429"
     },
     {
       "id": "dyckman",
@@ -184,7 +184,7 @@
       "name": "Green-Wood Cemetery",
       "cat": "access",
       "strategy": "ics",
-      "count": 31,
+      "count": 32,
       "error": null
     }
   ]
