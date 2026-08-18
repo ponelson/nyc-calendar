@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T09:33:12+00:00",
+  "generated": "2026-08-18T09:25:10+00:00",
   "healthy": 12,
   "total": 23,
   "venues": [
@@ -48,7 +48,7 @@
       "name": "New York Academy of Sciences",
       "cat": "talks",
       "strategy": "custom",
-      "count": 20,
+      "count": 21,
       "error": null
     },
     {
@@ -120,7 +120,7 @@
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "jsonld",
-      "count": 78,
+      "count": 77,
       "error": null
     },
     {
@@ -160,16 +160,16 @@
       "name": "Bartow-Pell Mansion",
       "cat": "houses",
       "strategy": "ics",
-      "count": 20,
-      "error": null
+      "count": 0,
+      "error": "RuntimeError: HTTP 202"
     },
     {
       "id": "aliceausten",
       "name": "Alice Austen House",
       "cat": "houses",
       "strategy": "jsonld",
-      "count": 0,
-      "error": "RuntimeError: HTTP 429"
+      "count": 6,
+      "error": null
     },
     {
       "id": "dyckman",

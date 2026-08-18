@@ -1,17 +1,7 @@
 {
-"generated": "2026-08-17T09:33:12+00:00",
-"count": 394,
+"generated": "2026-08-18T09:25:10+00:00",
+"count": 380,
 "events": [
-{
-"id": "sf07923d305",
-"date": "2026-08-17",
-"time": "19:00",
-"title": "Jason Marshall Big Band",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
 {
 "id": "s3b33fad5a7",
 "date": "2026-08-18",
@@ -213,6 +203,16 @@
 "src": "dizzys"
 },
 {
+"id": "sd73a038daa",
+"date": "2026-08-22",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575169?skipPreview=true",
+"src": "aliceausten"
+},
+{
 "id": "sf241aa6cb5",
 "date": "2026-08-23",
 "time": "10:00",
@@ -351,6 +351,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s9955020d1b",
+"date": "2026-08-29",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575197?skipPreview=true",
+"src": "aliceausten"
 },
 {
 "id": "s396eaf3950",
@@ -493,16 +503,6 @@
 "src": "mvhm"
 },
 {
-"id": "s9a77076395",
-"date": "2026-09-04",
-"time": "18:00",
-"title": "September's First Friday with Miles East",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/mays-first-friday-with-miles-east/",
-"src": "bartowpell"
-},
-{
 "id": "s9ed802bb0c",
 "date": "2026-09-04",
 "time": "19:00",
@@ -531,6 +531,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "se437b4ea62",
+"date": "2026-09-05",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575206?skipPreview=true",
+"src": "aliceausten"
 },
 {
 "id": "s3bab450348",
@@ -633,16 +643,6 @@
 "src": "mvhm"
 },
 {
-"id": "sd65af9f4ae",
-"date": "2026-09-10",
-"time": "19:00",
-"title": "Annual Membership Meeting",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/annual-membership-meeting/",
-"src": "bartowpell"
-},
-{
 "id": "sdd8afdf330",
 "date": "2026-09-10",
 "time": "19:00",
@@ -733,16 +733,6 @@
 "src": "japansociety"
 },
 {
-"id": "s31fcf5c3a4",
-"date": "2026-09-12",
-"time": "10:00",
-"title": "Bartow-Brocante Market",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/bartow-brocante-market/",
-"src": "bartowpell"
-},
-{
 "id": "s4fc1afbfec",
 "date": "2026-09-12",
 "time": "13:00",
@@ -763,6 +753,16 @@
 "src": "dizzys"
 },
 {
+"id": "scbbd69378c",
+"date": "2026-09-12",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575207?skipPreview=true",
+"src": "aliceausten"
+},
+{
 "id": "s571ab3c40a",
 "date": "2026-09-12",
 "time": "",
@@ -771,16 +771,6 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/dan-flavin-grids-hong-kong",
 "src": "zwirner"
-},
-{
-"id": "s8da2c94b84",
-"date": "2026-09-13",
-"time": "10:00",
-"title": "Bartow-Brocante Market",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/bartow-brocante-market/",
-"src": "bartowpell"
 },
 {
 "id": "sa8de3a526b",
@@ -891,6 +881,16 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
+},
+{
+"id": "s42c690e8c7",
+"date": "2026-09-19",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575208?skipPreview=true",
+"src": "aliceausten"
 },
 {
 "id": "s78d61b0f42",
@@ -1023,16 +1023,6 @@
 "src": "zwirner"
 },
 {
-"id": "s0b1f20d967",
-"date": "2026-09-24",
-"time": "19:00",
-"title": "Expanding the Discourse: Poetry Readings by David Mills",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/expanding-the-discourse-poetry-readings-by-david-mills/",
-"src": "bartowpell"
-},
-{
 "id": "s60b2842bd1",
 "date": "2026-09-24",
 "time": "19:00",
@@ -1121,6 +1111,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/jewels",
 "src": "nycballet"
+},
+{
+"id": "s29bc25b114",
+"date": "2026-09-26",
+"time": "",
+"title": "Free Gentle Yoga on the Lawn (registration required)",
+"venue": "Alice Austen House",
+"cat": "houses",
+"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575209?skipPreview=true",
+"src": "aliceausten"
 },
 {
 "id": "s4a832ab1cc",
@@ -1311,16 +1311,6 @@
 "cat": "houses",
 "url": "https://mvhm.org/event/a-current-of-change-the-erie-canal-and-the-mount-vernon-hotel/",
 "src": "mvhm"
-},
-{
-"id": "sb5b45f2487",
-"date": "2026-10-02",
-"time": "18:00",
-"title": "First Friday with Warren Banholzer",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/first-friday-with-warren-banholzer-4/",
-"src": "bartowpell"
 },
 {
 "id": "s090bc023e0",
@@ -1693,16 +1683,6 @@
 "src": "nycballet"
 },
 {
-"id": "sdea1b8ae16",
-"date": "2026-10-10",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
-},
-{
 "id": "sdbca5ed90b",
 "date": "2026-10-10",
 "time": "19:00",
@@ -1743,16 +1723,6 @@
 "src": "nycballet"
 },
 {
-"id": "s1d7103e953",
-"date": "2026-10-11",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
-},
-{
 "id": "sf3d09baf2e",
 "date": "2026-10-11",
 "time": "19:00",
@@ -1763,16 +1733,6 @@
 "src": "dizzys"
 },
 {
-"id": "s00eb1d1cde",
-"date": "2026-10-12",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
-},
-{
 "id": "sd40d9cb9bd",
 "date": "2026-10-12",
 "time": "19:00",
@@ -1781,16 +1741,6 @@
 "cat": "jazz",
 "url": "https://www.jazz.org/dizzys/",
 "src": "dizzys"
-},
-{
-"id": "s0ee350becb",
-"date": "2026-10-13",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
 },
 {
 "id": "s94fb90f0f1",
@@ -1821,16 +1771,6 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/navigating-stem-career-opportunities-funding-and-immigration-pathways-inside-the-us/",
 "src": "nyas"
-},
-{
-"id": "s466f2dc686",
-"date": "2026-10-14",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
 },
 {
 "id": "s7f4edb9faa",
@@ -1873,16 +1813,6 @@
 "src": "emanuel"
 },
 {
-"id": "se68b8533ae",
-"date": "2026-10-15",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
-},
-{
 "id": "sf41f46e179",
 "date": "2026-10-15",
 "time": "19:00",
@@ -1903,16 +1833,6 @@
 "src": "nycballet"
 },
 {
-"id": "sae4893df37",
-"date": "2026-10-16",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
-},
-{
 "id": "s23a89e239c",
 "date": "2026-10-16",
 "time": "19:00",
@@ -1931,16 +1851,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
-},
-{
-"id": "s92ac6265ee",
-"date": "2026-10-17",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
 },
 {
 "id": "s1634e913e4",
@@ -2001,16 +1911,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/adrian-danchig-waring-farewell",
 "src": "nycballet"
-},
-{
-"id": "s54eca76d09",
-"date": "2026-10-18",
-"time": "17:00",
-"title": "Intended by Amy Frey",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
-"src": "bartowpell"
 },
 {
 "id": "seebdc475fc",
@@ -2141,16 +2041,6 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/emma-mcintyre",
 "src": "zwirner"
-},
-{
-"id": "s071091bce6",
-"date": "2026-10-25",
-"time": "16:00",
-"title": "Free workshop: Jane Austen\u2019s Country Dance",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/free-workshop-jane-austens-country-dance-3/",
-"src": "bartowpell"
 },
 {
 "id": "s64c1c39bf2",
@@ -2353,36 +2243,6 @@
 "src": "nyas"
 },
 {
-"id": "sa0921e04eb",
-"date": "2026-11-06",
-"time": "19:00",
-"title": "Dungeons and Dragons Weekend",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
-"src": "bartowpell"
-},
-{
-"id": "s1ee78ccfb8",
-"date": "2026-11-07",
-"time": "11:00",
-"title": "Bartow-Pell Tree ID Walk",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/bartow-pell-tree-id-walk-2/",
-"src": "bartowpell"
-},
-{
-"id": "s28cf528f50",
-"date": "2026-11-07",
-"time": "19:00",
-"title": "Dungeons and Dragons Weekend",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
-"src": "bartowpell"
-},
-{
 "id": "sbd9d8de4b8",
 "date": "2026-11-07",
 "time": "",
@@ -2391,16 +2251,6 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/exonemo-terminal-at-nowhere/",
 "src": "japansociety"
-},
-{
-"id": "sa335b00fe1",
-"date": "2026-11-08",
-"time": "19:00",
-"title": "Dungeons and Dragons Weekend",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
-"src": "bartowpell"
 },
 {
 "id": "s4acd84c532",
@@ -2441,6 +2291,16 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/the-seven-bridges/",
 "src": "japansociety"
+},
+{
+"id": "sf41ea66898",
+"date": "2026-11-18",
+"time": "",
+"title": "The 208th Annual Meeting of The New York Academy of Sciences",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/208th-annual-meeting-of-the-new-york-academy-of-sciences/",
+"src": "nyas"
 },
 {
 "id": "s857d82ae8a",
