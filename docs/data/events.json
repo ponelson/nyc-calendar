@@ -1,17 +1,7 @@
 {
-"generated": "2026-08-18T09:25:10+00:00",
-"count": 380,
+"generated": "2026-08-19T09:26:30+00:00",
+"count": 315,
 "events": [
-{
-"id": "s3b33fad5a7",
-"date": "2026-08-18",
-"time": "19:00",
-"title": "Marius Van Den Brink: \u201cThe Bird Sings\u201d Album Release Show",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
 {
 "id": "s1d4c2b9b9b",
 "date": "2026-08-19",
@@ -33,16 +23,6 @@
 "src": "greenwood"
 },
 {
-"id": "s55dfb1194a",
-"date": "2026-08-19",
-"time": "19:00",
-"title": "Lolivone de la Rosa: Jewels Album Release",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "scc355264aa",
 "date": "2026-08-19",
 "time": "19:00",
@@ -51,16 +31,6 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/after-hours-picnic-members-only/",
 "src": "greenwood"
-},
-{
-"id": "sd52b16874a",
-"date": "2026-08-19",
-"time": "21:00",
-"title": "Dida Pelled: I Wish You Would",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "s70b98313f0",
@@ -83,16 +53,6 @@
 "src": "greenwood"
 },
 {
-"id": "s97c6bcd6af",
-"date": "2026-08-20",
-"time": "19:00",
-"title": "Shenel Johns Album Release",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "sd36ab394d2",
 "date": "2026-08-20",
 "time": "",
@@ -111,16 +71,6 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/late-shift",
 "src": "guggenheim"
-},
-{
-"id": "s2bf6406eda",
-"date": "2026-08-21",
-"time": "19:00",
-"title": "Marilyn Maye",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "sc072dffb6e",
@@ -193,26 +143,6 @@
 "src": "greenwood"
 },
 {
-"id": "s644eedde07",
-"date": "2026-08-22",
-"time": "19:00",
-"title": "Marilyn Maye",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "sd73a038daa",
-"date": "2026-08-22",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575169?skipPreview=true",
-"src": "aliceausten"
-},
-{
 "id": "sf241aa6cb5",
 "date": "2026-08-23",
 "time": "10:00",
@@ -221,16 +151,6 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/the-battle-of-brooklyn-250-the-meaning-of-freedom/",
 "src": "greenwood"
-},
-{
-"id": "s69dc163a4d",
-"date": "2026-08-23",
-"time": "19:00",
-"title": "Marilyn Maye",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "se6fd071ea0",
@@ -243,16 +163,6 @@
 "src": "greenwood"
 },
 {
-"id": "s746d739048",
-"date": "2026-08-24",
-"time": "19:00",
-"title": "Jared Schonig Big Band: Live Album Release Celebration",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "s6104593dd7",
 "date": "2026-08-25",
 "time": "10:00",
@@ -261,36 +171,6 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-08-25/",
 "src": "greenwood"
-},
-{
-"id": "s6787b78694",
-"date": "2026-08-25",
-"time": "19:00",
-"title": "Sexmob at 30",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s6e95e7221c",
-"date": "2026-08-26",
-"time": "19:00",
-"title": "Sexmob at 30",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s0db7fcb27b",
-"date": "2026-08-27",
-"time": "19:00",
-"title": "Denise Thimes",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "s27a5ef80e2",
@@ -313,16 +193,6 @@
 "src": "greenwood"
 },
 {
-"id": "sb71c7d9bb3",
-"date": "2026-08-28",
-"time": "19:00",
-"title": "Gerald Clayton",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "se1e8ca2c87",
 "date": "2026-08-29",
 "time": "12:00",
@@ -341,26 +211,6 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-08-29/",
 "src": "greenwood"
-},
-{
-"id": "s95b3a170db",
-"date": "2026-08-29",
-"time": "19:00",
-"title": "Gerald Clayton",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s9955020d1b",
-"date": "2026-08-29",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575197?skipPreview=true",
-"src": "aliceausten"
 },
 {
 "id": "s396eaf3950",
@@ -393,16 +243,6 @@
 "src": "greenwood"
 },
 {
-"id": "s688f3646dd",
-"date": "2026-08-30",
-"time": "19:00",
-"title": "Gerald Clayton",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "s0f4356fd7f",
 "date": "2026-08-30",
 "time": "",
@@ -411,26 +251,6 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/asl-tour-of-guggenheim-pop-1960-to-now",
 "src": "guggenheim"
-},
-{
-"id": "s0d60ab9ca9",
-"date": "2026-08-31",
-"time": "19:00",
-"title": "2nd Annual Kenny Dorham Festival \u2013 Big Band Edition",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "sf76daa3766",
-"date": "2026-09-01",
-"time": "19:00",
-"title": "Salsa Meets Jazz",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "s3b608fe4f1",
@@ -463,26 +283,6 @@
 "src": "greenwood"
 },
 {
-"id": "s85a422f488",
-"date": "2026-09-02",
-"time": "19:00",
-"title": "Yoko Miwa Trio with special guest Mikayla Shirley",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s3a94e8eb03",
-"date": "2026-09-03",
-"time": "19:00",
-"title": "Ronnie Foster Trio",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "s78c8ff65e1",
 "date": "2026-09-03",
 "time": "",
@@ -503,14 +303,14 @@
 "src": "mvhm"
 },
 {
-"id": "s9ed802bb0c",
+"id": "s9a77076395",
 "date": "2026-09-04",
-"time": "19:00",
-"title": "Ann Hampton Callaway: I Get a Kick Out of Cole",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
+"time": "18:00",
+"title": "September's First Friday with Miles East",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/mays-first-friday-with-miles-east/",
+"src": "bartowpell"
 },
 {
 "id": "sdcef615722",
@@ -523,26 +323,6 @@
 "src": "greenwood"
 },
 {
-"id": "sd871ef8650",
-"date": "2026-09-05",
-"time": "19:00",
-"title": "Ann Hampton Callaway: I Get a Kick Out of Cole",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "se437b4ea62",
-"date": "2026-09-05",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575206?skipPreview=true",
-"src": "aliceausten"
-},
-{
 "id": "s3bab450348",
 "date": "2026-09-06",
 "time": "10:00",
@@ -551,16 +331,6 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-09-06/",
 "src": "greenwood"
-},
-{
-"id": "s0ab7aa11e4",
-"date": "2026-09-06",
-"time": "19:00",
-"title": "Ann Hampton Callaway: I Get a Kick Out of Cole",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "s7274d7052e",
@@ -581,16 +351,6 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-09-08/",
 "src": "greenwood"
-},
-{
-"id": "s4215363d5d",
-"date": "2026-09-08",
-"time": "19:00",
-"title": "Isaiah J. Thompson Quartet",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "s38e9a77e7b",
@@ -623,16 +383,6 @@
 "src": "greenwood"
 },
 {
-"id": "s7bb3c8456e",
-"date": "2026-09-09",
-"time": "19:00",
-"title": "Isaiah J. Thompson Quartet",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "s5c3611d710",
 "date": "2026-09-10",
 "time": "15:00",
@@ -643,14 +393,14 @@
 "src": "mvhm"
 },
 {
-"id": "sdd8afdf330",
+"id": "sd65af9f4ae",
 "date": "2026-09-10",
 "time": "19:00",
-"title": "Saxophone Colossus: Celebrating Sonny Rollins",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
+"title": "Annual Membership Meeting",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/annual-membership-meeting/",
+"src": "bartowpell"
 },
 {
 "id": "sae81d8d3b8",
@@ -703,16 +453,6 @@
 "src": "japansociety"
 },
 {
-"id": "sb5cea9b7b3",
-"date": "2026-09-11",
-"time": "19:00",
-"title": "Gaia Wilmer Large Ensemble featuring M\u00f4nica Salmaso: Reflections on Gilberto Gil",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "s39ebdcb817",
 "date": "2026-09-11",
 "time": "19:00",
@@ -733,6 +473,16 @@
 "src": "japansociety"
 },
 {
+"id": "s31fcf5c3a4",
+"date": "2026-09-12",
+"time": "10:00",
+"title": "Bartow-Brocante Market",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/bartow-brocante-market/",
+"src": "bartowpell"
+},
+{
 "id": "s4fc1afbfec",
 "date": "2026-09-12",
 "time": "13:00",
@@ -741,26 +491,6 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-09-12/",
 "src": "greenwood"
-},
-{
-"id": "s496fa448c8",
-"date": "2026-09-12",
-"time": "19:00",
-"title": "Gaia Wilmer Large Ensemble featuring M\u00f4nica Salmaso: Reflections on Gilberto Gil",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "scbbd69378c",
-"date": "2026-09-12",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575207?skipPreview=true",
-"src": "aliceausten"
 },
 {
 "id": "s571ab3c40a",
@@ -773,54 +503,14 @@
 "src": "zwirner"
 },
 {
-"id": "sa8de3a526b",
+"id": "s8da2c94b84",
 "date": "2026-09-13",
-"time": "19:00",
-"title": "Gaia Wilmer Large Ensemble featuring M\u00f4nica Salmaso: Reflections on Gilberto Gil",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "sb7c2fc8271",
-"date": "2026-09-14",
-"time": "19:00",
-"title": "Summer Camargo and the Essentially Ellington Alumni Big Band",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "sc70f2c7e9f",
-"date": "2026-09-15",
-"time": "19:00",
-"title": "Dayramir Gonz\u00e1lez Quartet",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "se128915660",
-"date": "2026-09-16",
-"time": "19:00",
-"title": "Bobby Watson Quintet",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s5f2f88be7d",
-"date": "2026-09-17",
-"time": "19:00",
-"title": "Aaron Diehl Trio",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
+"time": "10:00",
+"title": "Bartow-Brocante Market",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/bartow-brocante-market/",
+"src": "bartowpell"
 },
 {
 "id": "s51ff9ba86c",
@@ -831,16 +521,6 @@
 "cat": "houses",
 "url": "https://mvhm.org/event/wining-and-dining-in-1820s-and-1830s-nyc-a-culinary-history-tour-2/",
 "src": "mvhm"
-},
-{
-"id": "sf603ee26ac",
-"date": "2026-09-18",
-"time": "19:00",
-"title": "Aaron Diehl Trio",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "sf609346c0a",
@@ -873,26 +553,6 @@
 "src": "mvhm"
 },
 {
-"id": "sc2f2949aa4",
-"date": "2026-09-19",
-"time": "19:00",
-"title": "Aaron Diehl Trio",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s42c690e8c7",
-"date": "2026-09-19",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575208?skipPreview=true",
-"src": "aliceausten"
-},
-{
 "id": "s78d61b0f42",
 "date": "2026-09-19",
 "time": "",
@@ -901,56 +561,6 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/roy-decarava-the-sound-i-saw",
 "src": "zwirner"
-},
-{
-"id": "sd33e7e68ce",
-"date": "2026-09-20",
-"time": "17:00",
-"title": "Sant Andreu Jazz Band with special guest Paul Nedzela - Ellingtoniana",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s0652797176",
-"date": "2026-09-20",
-"time": "19:30",
-"title": "Sant Andreu Jazz Band - The Jazz House Sessions with Paul Nedzela",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "sf5abc771de",
-"date": "2026-09-20",
-"time": "21:00",
-"title": "Sant Andreu Jazz Band: \u00c8LIA BASTIDA MEETS PAUL NEDZELA",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "sceee206192",
-"date": "2026-09-21",
-"time": "19:00",
-"title": "Frank Carlberg Large Ensemble",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s2b8065b2e3",
-"date": "2026-09-22",
-"time": "19:00",
-"title": "John Coltrane Centennial Celebration",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "s86ac58c37e",
@@ -983,16 +593,6 @@
 "src": "mvhm"
 },
 {
-"id": "s8e18931e44",
-"date": "2026-09-23",
-"time": "19:00",
-"title": "John Coltrane Centennial Celebration",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "s53a470585c",
 "date": "2026-09-23",
 "time": "19:30",
@@ -1023,14 +623,14 @@
 "src": "zwirner"
 },
 {
-"id": "s60b2842bd1",
+"id": "s0b1f20d967",
 "date": "2026-09-24",
 "time": "19:00",
-"title": "John Coltrane Centennial Celebration",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
+"title": "Expanding the Discourse: Poetry Readings by David Mills",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/expanding-the-discourse-poetry-readings-by-david-mills/",
+"src": "bartowpell"
 },
 {
 "id": "s242168e02c",
@@ -1063,16 +663,6 @@
 "src": "nyas"
 },
 {
-"id": "s6a32596347",
-"date": "2026-09-25",
-"time": "19:00",
-"title": "John Coltrane Centennial Celebration",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "s4834f96d85",
 "date": "2026-09-25",
 "time": "19:30",
@@ -1093,16 +683,6 @@
 "src": "emanuel"
 },
 {
-"id": "s5deff17469",
-"date": "2026-09-26",
-"time": "19:00",
-"title": "John Coltrane Centennial Celebration",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "s930c3eedd3",
 "date": "2026-09-26",
 "time": "19:30",
@@ -1113,16 +693,6 @@
 "src": "nycballet"
 },
 {
-"id": "s29bc25b114",
-"date": "2026-09-26",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575209?skipPreview=true",
-"src": "aliceausten"
-},
-{
 "id": "s4a832ab1cc",
 "date": "2026-09-27",
 "time": "15:00",
@@ -1131,36 +701,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/jewels",
 "src": "nycballet"
-},
-{
-"id": "se43c93d616",
-"date": "2026-09-27",
-"time": "19:00",
-"title": "John Coltrane Centennial Celebration",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s215c2179a5",
-"date": "2026-09-28",
-"time": "19:00",
-"title": "Joe Block Quintet: There is Always Hope Album Release Show",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s98ad91f6fa",
-"date": "2026-09-29",
-"time": "19:00",
-"title": "YoungArts 45th Anniversary Jazz Celebration feat. Emmet Cohen & Friends",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "s4e3f871ef3",
@@ -1181,16 +721,6 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
 "src": "zwirner"
-},
-{
-"id": "sfb4424c3aa",
-"date": "2026-09-30",
-"time": "19:00",
-"title": "Atom String Quartet",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "se200ab52e1",
@@ -1253,16 +783,6 @@
 "src": "emanuel"
 },
 {
-"id": "s559e8c4378",
-"date": "2026-10-01",
-"time": "19:00",
-"title": "Paula West",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "sb8e97ac282",
 "date": "2026-10-01",
 "time": "19:00",
@@ -1313,14 +833,14 @@
 "src": "mvhm"
 },
 {
-"id": "s090bc023e0",
+"id": "sb5b45f2487",
 "date": "2026-10-02",
-"time": "19:00",
-"title": "Paula West",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
+"time": "18:00",
+"title": "First Friday with Warren Banholzer",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/first-friday-with-warren-banholzer-4/",
+"src": "bartowpell"
 },
 {
 "id": "sd346e39fbf",
@@ -1381,16 +901,6 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2026/10/03/american-masters-music-awards-winners-concert-0100pm",
 "src": "carnegie"
-},
-{
-"id": "s47424cc7f3",
-"date": "2026-10-03",
-"time": "19:00",
-"title": "Paula West",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "sfb7c47b83b",
@@ -1503,26 +1013,6 @@
 "src": "nycballet"
 },
 {
-"id": "s194a6f7e86",
-"date": "2026-10-04",
-"time": "17:00",
-"title": "Songbook Sundays: Kander & Ebb",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s9aeff2490a",
-"date": "2026-10-05",
-"time": "19:00",
-"title": "Ted Nash Big Band: Presidential Suite",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "s72681e5d87",
 "date": "2026-10-05",
 "time": "",
@@ -1541,16 +1031,6 @@
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/center-for-interfaith-dialogue-jewish-and-catholic-law-in-dialogue/",
 "src": "emanuel"
-},
-{
-"id": "sc465b7bd6f",
-"date": "2026-10-06",
-"time": "19:00",
-"title": "Bluesday: Doug Wamble Blues In The Present Tense",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "se7cd89f609",
@@ -1581,16 +1061,6 @@
 "cat": "houses",
 "url": "https://mvhm.org/event/telling-stories-through-art-new-york-city-history-in-prints-and-paintings-3/",
 "src": "mvhm"
-},
-{
-"id": "s1a325869e6",
-"date": "2026-10-07",
-"time": "19:00",
-"title": "Papo V\u00e1zquez Mighty Pirates Troubadours",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "s5ab06fd56f",
@@ -1633,16 +1103,6 @@
 "src": "emanuel"
 },
 {
-"id": "s401d9cf973",
-"date": "2026-10-08",
-"time": "19:00",
-"title": "Papo V\u00e1zquez Mighty Pirates Troubadours",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "s90aee63ec7",
 "date": "2026-10-08",
 "time": "19:30",
@@ -1651,16 +1111,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/all-balanchine-i",
 "src": "nycballet"
-},
-{
-"id": "se7515b0247",
-"date": "2026-10-09",
-"time": "19:00",
-"title": "Akira Tana and Friends featuring Atsuko Hashimoto and Skylar Tang",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "s6c6a8ed807",
@@ -1683,14 +1133,14 @@
 "src": "nycballet"
 },
 {
-"id": "sdbca5ed90b",
+"id": "sdea1b8ae16",
 "date": "2026-10-10",
-"time": "19:00",
-"title": "Akira Tana and Friends featuring Atsuko Hashimoto and Skylar Tang",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
 "id": "sc3edf4bbea",
@@ -1723,34 +1173,34 @@
 "src": "nycballet"
 },
 {
-"id": "sf3d09baf2e",
+"id": "s1d7103e953",
 "date": "2026-10-11",
-"time": "19:00",
-"title": "Akira Tana and Friends featuring Atsuko Hashimoto and Skylar Tang",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
-"id": "sd40d9cb9bd",
+"id": "s00eb1d1cde",
 "date": "2026-10-12",
-"time": "19:00",
-"title": "Steven Feifke Big Band Album Release",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
-"id": "s94fb90f0f1",
+"id": "s0ee350becb",
 "date": "2026-10-13",
-"time": "19:00",
-"title": "Corcoran Holt Quintet: Freedom of Art Album Release",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
 "id": "s1a209f4b9f",
@@ -1773,14 +1223,14 @@
 "src": "nyas"
 },
 {
-"id": "s7f4edb9faa",
+"id": "s466f2dc686",
 "date": "2026-10-14",
-"time": "19:00",
-"title": "Tenor Legacy with Lew Tabackin",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
 "id": "sf756ea0e75",
@@ -1813,14 +1263,14 @@
 "src": "emanuel"
 },
 {
-"id": "sf41f46e179",
+"id": "se68b8533ae",
 "date": "2026-10-15",
-"time": "19:00",
-"title": "David Gibson Nonet",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
 "id": "s874a702705",
@@ -1833,14 +1283,14 @@
 "src": "nycballet"
 },
 {
-"id": "s23a89e239c",
+"id": "sae4893df37",
 "date": "2026-10-16",
-"time": "19:00",
-"title": "Ekep Nkwelle",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
 "id": "s64e3651f6a",
@@ -1853,14 +1303,14 @@
 "src": "nycballet"
 },
 {
-"id": "s1634e913e4",
+"id": "s92ac6265ee",
 "date": "2026-10-17",
-"time": "19:00",
-"title": "Ekep Nkwelle",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
 "id": "se4118fd27d",
@@ -1913,14 +1363,14 @@
 "src": "nycballet"
 },
 {
-"id": "seebdc475fc",
+"id": "s54eca76d09",
 "date": "2026-10-18",
-"time": "19:00",
-"title": "Ekep Nkwelle",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
 "id": "saeac5a8888",
@@ -1933,16 +1383,6 @@
 "src": "emanuel"
 },
 {
-"id": "sc4fec97935",
-"date": "2026-10-19",
-"time": "19:00",
-"title": "Juilliard Jazz Ensembles",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "sf2f12923ce",
 "date": "2026-10-19",
 "time": "",
@@ -1951,26 +1391,6 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/oscar-murillo-unfinished-thinking-paintings-and-social-maps",
 "src": "zwirner"
-},
-{
-"id": "sa441b1779c",
-"date": "2026-10-20",
-"time": "19:00",
-"title": "No(w) Beauty",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s29685f5ce8",
-"date": "2026-10-21",
-"time": "19:00",
-"title": "Dizzy Gillespie Birthday with Jon Faddis",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "s5187a56938",
@@ -1993,16 +1413,6 @@
 "src": "emanuel"
 },
 {
-"id": "s68a96d16f2",
-"date": "2026-10-22",
-"time": "19:00",
-"title": "Carl Allen\u2019s Messengers of Jazz - A Tribute to Art Blakey\u2019s Jazz Messengers",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "s0bf090bf6d",
 "date": "2026-10-22",
 "time": "",
@@ -2011,26 +1421,6 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/introduction-to-project-management-for-research-teams/",
 "src": "nyas"
-},
-{
-"id": "sf25c5230d7",
-"date": "2026-10-23",
-"time": "19:00",
-"title": "Carl Allen\u2019s Messengers of Jazz - A Tribute to Art Blakey\u2019s Jazz Messengers",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "s0fb192e51f",
-"date": "2026-10-24",
-"time": "19:00",
-"title": "Carl Allen\u2019s Messengers of Jazz - A Tribute to Art Blakey\u2019s Jazz Messengers",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "sa6c8f7bc87",
@@ -2043,14 +1433,14 @@
 "src": "zwirner"
 },
 {
-"id": "s64c1c39bf2",
+"id": "s071091bce6",
 "date": "2026-10-25",
-"time": "19:00",
-"title": "Carl Allen\u2019s Messengers of Jazz - A Tribute to Art Blakey\u2019s Jazz Messengers",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
+"time": "16:00",
+"title": "Free workshop: Jane Austen\u2019s Country Dance",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/free-workshop-jane-austens-country-dance-3/",
+"src": "bartowpell"
 },
 {
 "id": "s306d0a12f6",
@@ -2063,16 +1453,6 @@
 "src": "emanuel"
 },
 {
-"id": "s050263253b",
-"date": "2026-10-26",
-"time": "19:00",
-"title": "Mike LeDonne Big Band: 70th Birthday Celebration",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "s5bdc325102",
 "date": "2026-10-26",
 "time": "",
@@ -2081,16 +1461,6 @@
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/connecting-at-emanu-el-new-member-conversations-with-rabbi-davidson/",
 "src": "emanuel"
-},
-{
-"id": "scd6d1ac4fc",
-"date": "2026-10-27",
-"time": "19:00",
-"title": "Johnny O&#039;Neal Birthday Celebration",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "s5849122eaa",
@@ -2113,16 +1483,6 @@
 "src": "emanuel"
 },
 {
-"id": "scdafc15b1e",
-"date": "2026-10-28",
-"time": "19:00",
-"title": "Greg Hutchinson&#039;s Kind of Now: The Pulse of Miles Davis",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "sc838960c92",
 "date": "2026-10-28",
 "time": "",
@@ -2133,16 +1493,6 @@
 "src": "nyas"
 },
 {
-"id": "sa5f1161010",
-"date": "2026-10-29",
-"time": "19:00",
-"title": "Greg Hutchinson&#039;s Kind of Now: The Pulse of Miles Davis",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
 "id": "s6a84f87ef7",
 "date": "2026-10-29",
 "time": "",
@@ -2151,26 +1501,6 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/yoshitomo-nara",
 "src": "zwirner"
-},
-{
-"id": "saa68580755",
-"date": "2026-10-30",
-"time": "19:00",
-"title": "Greg Hutchinson&#039;s Kind of Now: The Pulse of Miles Davis",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
-},
-{
-"id": "se06397624e",
-"date": "2026-10-31",
-"time": "19:00",
-"title": "Greg Hutchinson&#039;s Kind of Now: The Pulse of Miles Davis",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://www.jazz.org/dizzys/",
-"src": "dizzys"
 },
 {
 "id": "s90015b1478",
@@ -2243,6 +1573,36 @@
 "src": "nyas"
 },
 {
+"id": "sa0921e04eb",
+"date": "2026-11-06",
+"time": "19:00",
+"title": "Dungeons and Dragons Weekend",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
+"src": "bartowpell"
+},
+{
+"id": "s1ee78ccfb8",
+"date": "2026-11-07",
+"time": "11:00",
+"title": "Bartow-Pell Tree ID Walk",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/bartow-pell-tree-id-walk-2/",
+"src": "bartowpell"
+},
+{
+"id": "s28cf528f50",
+"date": "2026-11-07",
+"time": "19:00",
+"title": "Dungeons and Dragons Weekend",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
+"src": "bartowpell"
+},
+{
 "id": "sbd9d8de4b8",
 "date": "2026-11-07",
 "time": "",
@@ -2251,6 +1611,16 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/exonemo-terminal-at-nowhere/",
 "src": "japansociety"
+},
+{
+"id": "sa335b00fe1",
+"date": "2026-11-08",
+"time": "19:00",
+"title": "Dungeons and Dragons Weekend",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
+"src": "bartowpell"
 },
 {
 "id": "s4acd84c532",
@@ -2291,16 +1661,6 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/the-seven-bridges/",
 "src": "japansociety"
-},
-{
-"id": "sf41ea66898",
-"date": "2026-11-18",
-"time": "",
-"title": "The 208th Annual Meeting of The New York Academy of Sciences",
-"venue": "New York Academy of Sciences",
-"cat": "talks",
-"url": "https://www.nyas.org/shaping-science/events/208th-annual-meeting-of-the-new-york-academy-of-sciences/",
-"src": "nyas"
 },
 {
 "id": "s857d82ae8a",
@@ -3451,16 +2811,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/spring-2027/eclectic-nycb-iii",
 "src": "nycballet"
-},
-{
-"id": "s2fcc8d7911",
-"date": "2027-05-20",
-"time": "",
-"title": "The Chemical Biology Discussion Group End-of-Year Symposium",
-"venue": "New York Academy of Sciences",
-"cat": "talks",
-"url": "https://www.nyas.org/shaping-science/events/chemical-biology-discussion-group-end-of-year-symposium-2027/",
-"src": "nyas"
 },
 {
 "id": "sae9d901ee8",
