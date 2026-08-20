@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-19T09:26:30+00:00",
-  "healthy": 11,
+  "generated": "2026-08-20T09:26:25+00:00",
+  "healthy": 12,
   "total": 23,
   "venues": [
     {
@@ -24,7 +24,7 @@
       "name": "Temple Emanu-El \u2014 Streicker",
       "cat": "classical",
       "strategy": "custom",
-      "count": 30,
+      "count": 31,
       "error": null
     },
     {
@@ -168,8 +168,8 @@
       "name": "Alice Austen House",
       "cat": "houses",
       "strategy": "jsonld",
-      "count": 0,
-      "error": "RuntimeError: HTTP 429"
+      "count": 6,
+      "error": null
     },
     {
       "id": "dyckman",
