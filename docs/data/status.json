@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T09:28:50+00:00",
+  "generated": "2026-08-22T09:21:33+00:00",
   "healthy": 12,
   "total": 23,
   "venues": [
@@ -72,7 +72,7 @@
       "name": "Guggenheim",
       "cat": "art",
       "strategy": "custom",
-      "count": 14,
+      "count": 13,
       "error": null
     },
     {
@@ -160,8 +160,8 @@
       "name": "Bartow-Pell Mansion",
       "cat": "houses",
       "strategy": "ics",
-      "count": 20,
-      "error": null
+      "count": 0,
+      "error": "RuntimeError: ConnectTimeout"
     },
     {
       "id": "aliceausten",
@@ -176,8 +176,8 @@
       "name": "Dyckman Farmhouse",
       "cat": "houses",
       "strategy": "ics",
-      "count": 0,
-      "error": "no events parsed"
+      "count": 1,
+      "error": null
     },
     {
       "id": "greenwood",
