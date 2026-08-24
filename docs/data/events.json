@@ -1,27 +1,7 @@
 {
-"generated": "2026-08-23T09:20:37+00:00",
-"count": 325,
+"generated": "2026-08-24T09:38:30+00:00",
+"count": 324,
 "events": [
-{
-"id": "sd73a038daa",
-"date": "2026-08-22",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575169?skipPreview=true",
-"src": "aliceausten"
-},
-{
-"id": "sf241aa6cb5",
-"date": "2026-08-23",
-"time": "10:00",
-"title": "The Battle of Brooklyn 250: The Meaning of Freedom",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/the-battle-of-brooklyn-250-the-meaning-of-freedom/",
-"src": "greenwood"
-},
 {
 "id": "se6fd071ea0",
 "date": "2026-08-23",
@@ -771,6 +751,16 @@
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/family-shabbat-881/",
 "src": "emanuel"
+},
+{
+"id": "s02f76e7425",
+"date": "2026-09-26",
+"time": "12:00",
+"title": "Last Saturdays: Open Classroom",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/last-saturdays-open-classroom-4/",
+"src": "greenwood"
 },
 {
 "id": "s930c3eedd3",
