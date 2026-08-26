@@ -1,17 +1,7 @@
 {
-"generated": "2026-08-25T09:27:26+00:00",
+"generated": "2026-08-26T09:33:31+00:00",
 "count": 304,
 "events": [
-{
-"id": "s6104593dd7",
-"date": "2026-08-25",
-"time": "10:00",
-"title": "Toddler Takeover at the Green-House",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-08-25/",
-"src": "greenwood"
-},
 {
 "id": "s27a5ef80e2",
 "date": "2026-08-27",
@@ -489,7 +479,7 @@
 "title": "Mortal Matters",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
-"url": "https://www.green-wood.com/event/save-the-date-mortal-matters/",
+"url": "https://www.green-wood.com/event/mortal-matters/",
 "src": "greenwood"
 },
 {
@@ -513,6 +503,16 @@
 "src": "zwirner"
 },
 {
+"id": "s01a8b1081b",
+"date": "2026-09-19",
+"time": "10:00",
+"title": "The Revolution Continues: Brooklyn\u2019s Black Trailblazers",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/the-revolution-continues-brooklyns-black-trailblazers-2/",
+"src": "greenwood"
+},
+{
 "id": "se8fb17c756",
 "date": "2026-09-19",
 "time": "15:00",
@@ -529,7 +529,7 @@
 "title": "Mortal Matters",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
-"url": "https://www.green-wood.com/event/save-the-date-mortal-matters/",
+"url": "https://www.green-wood.com/event/mortal-matters/",
 "src": "greenwood"
 },
 {
@@ -559,7 +559,7 @@
 "title": "Mortal Matters",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
-"url": "https://www.green-wood.com/event/save-the-date-mortal-matters/",
+"url": "https://www.green-wood.com/event/mortal-matters/",
 "src": "greenwood"
 },
 {
