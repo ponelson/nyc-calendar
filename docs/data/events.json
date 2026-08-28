@@ -1,37 +1,7 @@
 {
-"generated": "2026-08-27T19:21:53+00:00",
-"count": 329,
+"generated": "2026-08-28T20:31:29+00:00",
+"count": 328,
 "events": [
-{
-"id": "s27a5ef80e2",
-"date": "2026-08-27",
-"time": "19:00",
-"title": "Battle of Brooklyn: A Farce in Two Acts",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/battle-of-brooklyn-a-farce-in-two-acts/",
-"src": "greenwood"
-},
-{
-"id": "sc660e3ee15",
-"date": "2026-08-27",
-"time": "19:45",
-"title": "Moonlight Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/moonlight-tour-14/2026-08-27/",
-"src": "greenwood"
-},
-{
-"id": "se9c922ce32",
-"date": "2026-08-28",
-"time": "14:00",
-"title": "Guided Tour with Museum Admission",
-"venue": "Dyckman Farmhouse",
-"cat": "houses",
-"url": "https://dyckmanfarmhouse.org/event/guided-tour-with-museum-admission-22/",
-"src": "dyckman"
-},
 {
 "id": "s807baca2e9",
 "date": "2026-08-29",
@@ -593,6 +563,16 @@
 "src": "greenwood"
 },
 {
+"id": "sfc1e480f46",
+"date": "2026-09-19",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-09-19/",
+"src": "greenwood"
+},
+{
 "id": "se8fb17c756",
 "date": "2026-09-19",
 "time": "15:00",
@@ -631,6 +611,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/roy-decarava-the-sound-i-saw",
 "src": "zwirner"
+},
+{
+"id": "s3e3301c5c2",
+"date": "2026-09-20",
+"time": "10:00",
+"title": "Grave Beginnings: Walking Green-Wood",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-09-20/",
+"src": "greenwood"
 },
 {
 "id": "s4d9e6ef17c",
