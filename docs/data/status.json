@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T20:31:29+00:00",
-  "healthy": 13,
+  "generated": "2026-08-29T14:07:06+00:00",
+  "healthy": 12,
   "total": 23,
   "venues": [
     {
@@ -160,15 +160,15 @@
       "name": "Bartow-Pell Mansion",
       "cat": "houses",
       "strategy": "ics",
-      "count": 20,
-      "error": null
+      "count": 0,
+      "error": "RuntimeError: HTTP 202"
     },
     {
       "id": "aliceausten",
       "name": "Alice Austen House",
       "cat": "houses",
       "strategy": "jsonld",
-      "count": 5,
+      "count": 4,
       "error": null
     },
     {
