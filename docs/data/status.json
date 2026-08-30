@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T14:07:06+00:00",
-  "healthy": 12,
+  "generated": "2026-08-30T14:08:31+00:00",
+  "healthy": 13,
   "total": 23,
   "venues": [
     {
@@ -160,8 +160,8 @@
       "name": "Bartow-Pell Mansion",
       "cat": "houses",
       "strategy": "ics",
-      "count": 0,
-      "error": "RuntimeError: HTTP 202"
+      "count": 20,
+      "error": null
     },
     {
       "id": "aliceausten",
@@ -176,7 +176,7 @@
       "name": "Dyckman Farmhouse",
       "cat": "houses",
       "strategy": "ics",
-      "count": 5,
+      "count": 4,
       "error": null
     },
     {
