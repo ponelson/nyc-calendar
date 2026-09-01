@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-31T16:34:41+00:00",
-  "healthy": 12,
+  "generated": "2026-09-01T13:50:05+00:00",
+  "healthy": 13,
   "total": 23,
   "venues": [
     {
@@ -40,7 +40,7 @@
       "name": "Japan Society",
       "cat": "talks",
       "strategy": "custom",
-      "count": 32,
+      "count": 36,
       "error": null
     },
     {
@@ -72,7 +72,7 @@
       "name": "Guggenheim",
       "cat": "art",
       "strategy": "custom",
-      "count": 13,
+      "count": 27,
       "error": null
     },
     {
@@ -80,7 +80,7 @@
       "name": "Cooper Hewitt",
       "cat": "art",
       "strategy": "custom",
-      "count": 17,
+      "count": 18,
       "error": null
     },
     {
@@ -160,8 +160,8 @@
       "name": "Bartow-Pell Mansion",
       "cat": "houses",
       "strategy": "ics",
-      "count": 0,
-      "error": "RuntimeError: HTTP 202"
+      "count": 20,
+      "error": null
     },
     {
       "id": "aliceausten",
