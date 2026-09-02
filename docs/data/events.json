@@ -1,5 +1,5 @@
 {
-"generated": "2026-09-01T13:50:05+00:00",
+"generated": "2026-09-02T13:07:31+00:00",
 "count": 345,
 "events": [
 {
@@ -593,6 +593,16 @@
 "src": "mvhm"
 },
 {
+"id": "saa4fb6e1c4",
+"date": "2026-09-23",
+"time": "18:15",
+"title": "Carnegie Hall Citywide: <br />\u200bOn Screen: Verdi\u2019s Rigoletto",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/09/23/carnegie-hall-citywide-on-screenverdis-rigoletto-0615pm",
+"src": "carnegie"
+},
+{
 "id": "s53a470585c",
 "date": "2026-09-23",
 "time": "19:30",
@@ -1000,16 +1010,6 @@
 "venue": "Carnegie Hall",
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2026/10/03/haikyung-suh-piano-0730pm",
-"src": "carnegie"
-},
-{
-"id": "sd5d86b6afc",
-"date": "2026-10-03",
-"time": "19:30",
-"title": "Ilya Kaler, Violin<br />\u200bRasa Vitkauskaite, Piano<br />\u200bWith special guests Paquito D'Rivera, Jonathan Cohler, Dave Egga",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/03/ilya-kaler-violin-rasa-vitkauskaite-piano-with-special-guests-paquito-drivera-0730pm",
 "src": "carnegie"
 },
 {
