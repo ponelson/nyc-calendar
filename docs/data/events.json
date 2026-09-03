@@ -1,37 +1,7 @@
 {
-"generated": "2026-09-02T13:07:31+00:00",
-"count": 345,
+"generated": "2026-09-03T13:09:21+00:00",
+"count": 342,
 "events": [
-{
-"id": "s3b608fe4f1",
-"date": "2026-09-01",
-"time": "",
-"title": "Let&#8217;s Play! Thanksgiving Special",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/lets-play-thanksgiving/",
-"src": "emanuel"
-},
-{
-"id": "scfe1a297f5",
-"date": "2026-09-01",
-"time": "",
-"title": "Let&#8217;s Play! Sukkot Edition",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/lets-play-2-128/",
-"src": "emanuel"
-},
-{
-"id": "sf0db327f9f",
-"date": "2026-09-02",
-"time": "10:30",
-"title": "Green-Wood on Wheels: Stroller-Friendly Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-09-02/",
-"src": "greenwood"
-},
 {
 "id": "s78c8ff65e1",
 "date": "2026-09-03",
@@ -123,16 +93,6 @@
 "src": "greenwood"
 },
 {
-"id": "s175c56bcbf",
-"date": "2026-09-07",
-"time": "",
-"title": "Opening Reception: Gen\u2019ichir\u014d Inokuma\u2019s NYC Salon",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/opening-reception-genichiro-inokumas-nyc-salon/",
-"src": "japansociety"
-},
-{
 "id": "sd75bd5f032",
 "date": "2026-09-08",
 "time": "10:00",
@@ -151,6 +111,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/au-108-rue-vieille-du-temple",
 "src": "zwirner"
+},
+{
+"id": "s8c72d73fa9",
+"date": "2026-09-08",
+"time": "",
+"title": "Opening Reception: Gen\u2019ichir\u014d Inokuma\u2019s NYC Salon",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/opening-reception-genichiro-inokumas-nyc-salon/",
+"src": "japansociety"
 },
 {
 "id": "s0401fd92f9",
@@ -791,6 +761,16 @@
 "cat": "houses",
 "url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575209?skipPreview=true",
 "src": "aliceausten"
+},
+{
+"id": "se4965f20c7",
+"date": "2026-09-27",
+"time": "06:30",
+"title": "Birding In Peace",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/birding-in-peace-32/2026-09-27/",
+"src": "greenwood"
 },
 {
 "id": "s4a832ab1cc",
@@ -2671,16 +2651,6 @@
 "cat": "art",
 "url": "https://www.cooperhewitt.org/event/carnegie-mansion-tour-for-the-week-of-may-3-may-9-05-03-2026/",
 "src": "cooperhewitt"
-},
-{
-"id": "s441442e5ec",
-"date": "2027-05-03",
-"time": "",
-"title": "Tikkun Olam: Project Prom 2027 (Dress Selection Day 3)",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/tikkun-olam-project-prom-2027-dress-selection-day-3/",
-"src": "emanuel"
 },
 {
 "id": "sef6c9510eb",
