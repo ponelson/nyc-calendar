@@ -1,36 +1,16 @@
 {
-"generated": "2026-09-04T13:03:31+00:00",
-"count": 324,
+"generated": "2026-09-05T12:15:36+00:00",
+"count": 341,
 "events": [
 {
-"id": "s78c8ff65e1",
-"date": "2026-09-03",
-"time": "",
-"title": "Japanese Oktoberfest",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/japanese-oktoberfest/",
-"src": "japansociety"
-},
-{
-"id": "s795862f67e",
+"id": "s9a77076395",
 "date": "2026-09-04",
-"time": "12:00",
-"title": "From Useful to Beautiful: A Decorative Arts Tour of MVHM&G",
-"venue": "Mount Vernon Hotel Museum",
+"time": "18:00",
+"title": "September's First Friday with Miles East",
+"venue": "Bartow-Pell Mansion",
 "cat": "houses",
-"url": "https://mvhm.org/event/from-useful-to-beautiful-a-decorative-arts-tour-of-mvhmg/",
-"src": "mvhm"
-},
-{
-"id": "s96f8e051b7",
-"date": "2026-09-04",
-"time": "14:00",
-"title": "Guided Tour with Museum Admission",
-"venue": "Dyckman Farmhouse",
-"cat": "houses",
-"url": "https://dyckmanfarmhouse.org/event/guided-tour-with-museum-admission-24/",
-"src": "dyckman"
+"url": "https://www.bartowpellmansionmuseum.org/events/mays-first-friday-with-miles-east/",
+"src": "bartowpell"
 },
 {
 "id": "sa9d22a4abe",
@@ -153,6 +133,16 @@
 "src": "mvhm"
 },
 {
+"id": "sd65af9f4ae",
+"date": "2026-09-10",
+"time": "19:00",
+"title": "Annual Membership Meeting",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/annual-membership-meeting/",
+"src": "bartowpell"
+},
+{
 "id": "sae81d8d3b8",
 "date": "2026-09-10",
 "time": "",
@@ -223,6 +213,16 @@
 "src": "japansociety"
 },
 {
+"id": "s31fcf5c3a4",
+"date": "2026-09-12",
+"time": "10:00",
+"title": "Bartow-Brocante Market",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/bartow-brocante-market/",
+"src": "bartowpell"
+},
+{
 "id": "s7d1a3c23a7",
 "date": "2026-09-12",
 "time": "11:00",
@@ -281,6 +281,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/birding-in-peace-32/2026-09-13/",
 "src": "greenwood"
+},
+{
+"id": "s8da2c94b84",
+"date": "2026-09-13",
+"time": "10:00",
+"title": "Bartow-Brocante Market",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/bartow-brocante-market/",
+"src": "bartowpell"
 },
 {
 "id": "s1a82bbcea0",
@@ -571,6 +581,16 @@
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/women-of-emanu-el-morning-supervised-class/",
 "src": "emanuel"
+},
+{
+"id": "s0b1f20d967",
+"date": "2026-09-24",
+"time": "19:00",
+"title": "Expanding the Discourse: Poetry Readings by David Mills",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/expanding-the-discourse-poetry-readings-by-david-mills/",
+"src": "bartowpell"
 },
 {
 "id": "s242168e02c",
@@ -871,6 +891,16 @@
 "cat": "houses",
 "url": "https://mvhm.org/event/a-current-of-change-the-erie-canal-and-the-mount-vernon-hotel/",
 "src": "mvhm"
+},
+{
+"id": "sb5b45f2487",
+"date": "2026-10-02",
+"time": "18:00",
+"title": "First Friday with Warren Banholzer",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/first-friday-with-warren-banholzer-4/",
+"src": "bartowpell"
 },
 {
 "id": "sd346e39fbf",
@@ -1183,6 +1213,16 @@
 "src": "nycballet"
 },
 {
+"id": "sdea1b8ae16",
+"date": "2026-10-10",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
 "id": "sc3edf4bbea",
 "date": "2026-10-10",
 "time": "19:30",
@@ -1213,6 +1253,36 @@
 "src": "nycballet"
 },
 {
+"id": "s1d7103e953",
+"date": "2026-10-11",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
+"id": "s00eb1d1cde",
+"date": "2026-10-12",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
+"id": "s0ee350becb",
+"date": "2026-10-13",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
 "id": "s1a209f4b9f",
 "date": "2026-10-13",
 "time": "19:30",
@@ -1231,6 +1301,16 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/navigating-stem-career-opportunities-funding-and-immigration-pathways-inside-the-us/",
 "src": "nyas"
+},
+{
+"id": "s466f2dc686",
+"date": "2026-10-14",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
 "id": "sf756ea0e75",
@@ -1263,6 +1343,16 @@
 "src": "emanuel"
 },
 {
+"id": "se68b8533ae",
+"date": "2026-10-15",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
 "id": "s874a702705",
 "date": "2026-10-15",
 "time": "19:30",
@@ -1273,6 +1363,16 @@
 "src": "nycballet"
 },
 {
+"id": "sae4893df37",
+"date": "2026-10-16",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
+},
+{
 "id": "s64e3651f6a",
 "date": "2026-10-16",
 "time": "19:30",
@@ -1281,6 +1381,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
+},
+{
+"id": "s92ac6265ee",
+"date": "2026-10-17",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
 "id": "se4118fd27d",
@@ -1321,6 +1431,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/adrian-danchig-waring-farewell",
 "src": "nycballet"
+},
+{
+"id": "s54eca76d09",
+"date": "2026-10-18",
+"time": "17:00",
+"title": "Intended by Amy Frey",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/intended-by-amy-frey/",
+"src": "bartowpell"
 },
 {
 "id": "saeac5a8888",
@@ -1391,6 +1511,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/emma-mcintyre",
 "src": "zwirner"
+},
+{
+"id": "s071091bce6",
+"date": "2026-10-25",
+"time": "16:00",
+"title": "Free workshop: Jane Austen\u2019s Country Dance",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/free-workshop-jane-austens-country-dance-3/",
+"src": "bartowpell"
 },
 {
 "id": "s306d0a12f6",
@@ -1523,6 +1653,36 @@
 "src": "nyas"
 },
 {
+"id": "sa0921e04eb",
+"date": "2026-11-06",
+"time": "19:00",
+"title": "Dungeons and Dragons Weekend",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
+"src": "bartowpell"
+},
+{
+"id": "s1ee78ccfb8",
+"date": "2026-11-07",
+"time": "11:00",
+"title": "Bartow-Pell Tree ID Walk",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/bartow-pell-tree-id-walk-2/",
+"src": "bartowpell"
+},
+{
+"id": "s28cf528f50",
+"date": "2026-11-07",
+"time": "19:00",
+"title": "Dungeons and Dragons Weekend",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
+"src": "bartowpell"
+},
+{
 "id": "sbd9d8de4b8",
 "date": "2026-11-07",
 "time": "",
@@ -1531,6 +1691,16 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/exonemo-terminal-at-nowhere/",
 "src": "japansociety"
+},
+{
+"id": "sa335b00fe1",
+"date": "2026-11-08",
+"time": "19:00",
+"title": "Dungeons and Dragons Weekend",
+"venue": "Bartow-Pell Mansion",
+"cat": "houses",
+"url": "https://www.bartowpellmansionmuseum.org/events/dungeons-and-dragons-weekend-2/",
+"src": "bartowpell"
 },
 {
 "id": "s4acd84c532",

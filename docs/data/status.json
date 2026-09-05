@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T13:03:31+00:00",
-  "healthy": 12,
+  "generated": "2026-09-05T12:15:36+00:00",
+  "healthy": 13,
   "total": 23,
   "venues": [
     {
@@ -40,7 +40,7 @@
       "name": "Japan Society",
       "cat": "talks",
       "strategy": "custom",
-      "count": 36,
+      "count": 35,
       "error": null
     },
     {
@@ -152,7 +152,7 @@
       "name": "Mount Vernon Hotel Museum",
       "cat": "houses",
       "strategy": "ics",
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
@@ -160,8 +160,8 @@
       "name": "Bartow-Pell Mansion",
       "cat": "houses",
       "strategy": "ics",
-      "count": 0,
-      "error": "RuntimeError: HTTP 202"
+      "count": 20,
+      "error": null
     },
     {
       "id": "aliceausten",
@@ -176,7 +176,7 @@
       "name": "Dyckman Farmhouse",
       "cat": "houses",
       "strategy": "ics",
-      "count": 4,
+      "count": 3,
       "error": null
     },
     {
