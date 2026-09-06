@@ -1,37 +1,7 @@
 {
-"generated": "2026-09-05T12:15:36+00:00",
-"count": 341,
+"generated": "2026-09-06T12:30:14+00:00",
+"count": 339,
 "events": [
-{
-"id": "s9a77076395",
-"date": "2026-09-04",
-"time": "18:00",
-"title": "September's First Friday with Miles East",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/mays-first-friday-with-miles-east/",
-"src": "bartowpell"
-},
-{
-"id": "sa9d22a4abe",
-"date": "2026-09-05",
-"time": "12:00",
-"title": "Guided Tour with Museum Admission",
-"venue": "Dyckman Farmhouse",
-"cat": "houses",
-"url": "https://dyckmanfarmhouse.org/event/guided-tour-with-museum-admission-25/",
-"src": "dyckman"
-},
-{
-"id": "sdcef615722",
-"date": "2026-09-05",
-"time": "13:00",
-"title": "Discover Green-Wood Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-09-05/",
-"src": "greenwood"
-},
 {
 "id": "se437b4ea62",
 "date": "2026-09-05",
@@ -740,6 +710,16 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/birding-in-peace-32/2026-09-27/",
+"src": "greenwood"
+},
+{
+"id": "s1ecbe80a53",
+"date": "2026-09-27",
+"time": "11:00",
+"title": "Grave Beginnings: Green-Wood by Trolley",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley/2026-09-27/",
 "src": "greenwood"
 },
 {

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05T12:15:36+00:00",
+  "generated": "2026-09-06T12:30:14+00:00",
   "healthy": 13,
   "total": 23,
   "venues": [
@@ -160,7 +160,7 @@
       "name": "Bartow-Pell Mansion",
       "cat": "houses",
       "strategy": "ics",
-      "count": 20,
+      "count": 19,
       "error": null
     },
     {
@@ -176,7 +176,7 @@
       "name": "Dyckman Farmhouse",
       "cat": "houses",
       "strategy": "ics",
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
