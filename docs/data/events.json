@@ -1,27 +1,7 @@
 {
-"generated": "2026-09-06T12:30:14+00:00",
-"count": 339,
+"generated": "2026-09-07T14:38:05+00:00",
+"count": 338,
 "events": [
-{
-"id": "se437b4ea62",
-"date": "2026-09-05",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575206?skipPreview=true",
-"src": "aliceausten"
-},
-{
-"id": "s3bab450348",
-"date": "2026-09-06",
-"time": "10:00",
-"title": "Grave Beginnings: Walking Green-Wood",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-09-06/",
-"src": "greenwood"
-},
 {
 "id": "s7274d7052e",
 "date": "2026-09-07",
@@ -720,6 +700,16 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley/2026-09-27/",
+"src": "greenwood"
+},
+{
+"id": "s68908cb690",
+"date": "2026-09-27",
+"time": "13:00",
+"title": "Green-Wood's Greatest Hits",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-woods-greatest-hits-13/2026-09-27/",
 "src": "greenwood"
 },
 {
