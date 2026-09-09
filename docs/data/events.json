@@ -1,17 +1,7 @@
 {
-"generated": "2026-09-08T13:12:16+00:00",
-"count": 338,
+"generated": "2026-09-09T13:17:30+00:00",
+"count": 339,
 "events": [
-{
-"id": "sd75bd5f032",
-"date": "2026-09-08",
-"time": "10:00",
-"title": "Toddler Takeover at the Green-House",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-09-08/",
-"src": "greenwood"
-},
 {
 "id": "s38e9a77e7b",
 "date": "2026-09-08",
@@ -33,16 +23,6 @@
 "src": "japansociety"
 },
 {
-"id": "s0401fd92f9",
-"date": "2026-09-09",
-"time": "06:30",
-"title": "Birding In Peace",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/birding-in-peace-32/2026-09-09/",
-"src": "greenwood"
-},
-{
 "id": "sd2df7bd6ef",
 "date": "2026-09-09",
 "time": "10:30",
@@ -51,6 +31,16 @@
 "cat": "houses",
 "url": "https://mvhm.org/event/plein-air-4-part-watercolor-workshop/",
 "src": "mvhm"
+},
+{
+"id": "s82f24cd3a1",
+"date": "2026-09-09",
+"time": "18:00",
+"title": "When Supermassive Black Holes Get Hungry",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/when-supermassive-black-holes-get-hungry/",
+"src": "simons"
 },
 {
 "id": "sa06c3de03f",
@@ -239,7 +229,7 @@
 "title": "Birding in Peace: Late-Risers Edition (Members Only)",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
-"url": "https://www.green-wood.com/event/birding-in-peace-late-risers-edition-members-only-9/2026-09-13/",
+"url": "https://www.green-wood.com/event/birding-in-peace-late-risers-edition-members-only-9/",
 "src": "greenwood"
 },
 {
@@ -713,16 +703,6 @@
 "src": "nycballet"
 },
 {
-"id": "se5d0fdc598",
-"date": "2026-09-29",
-"time": "13:00",
-"title": "Member Dress Rehearsal",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/member-dress-rehearsal",
-"src": "nycballet"
-},
-{
 "id": "s4e3f871ef3",
 "date": "2026-09-29",
 "time": "19:30",
@@ -923,6 +903,26 @@
 "src": "zwirner"
 },
 {
+"id": "sf860657cdc",
+"date": "2026-10-03",
+"time": "10:00",
+"title": "Stranger Than Fiction Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/stranger-than-fiction-trolley-tour-4/",
+"src": "greenwood"
+},
+{
+"id": "sa3980024e4",
+"date": "2026-10-03",
+"time": "10:15",
+"title": "Dinosaurs in Action: Green-Wood\u2019s Birds of Prey",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/dinosaurs-in-action-green-woods-birds-of-prey/",
+"src": "greenwood"
+},
+{
 "id": "se55ab60d82",
 "date": "2026-10-03",
 "time": "13:00",
@@ -1081,6 +1081,16 @@
 "cat": "art",
 "url": "https://www.cooperhewitt.org/event/discover-design-online-design-across-time-10-06-2026/",
 "src": "cooperhewitt"
+},
+{
+"id": "sd9798a2a65",
+"date": "2026-10-06",
+"time": "",
+"title": "Gen\u2019ichir\u014d Inokuma\u2019s NYC Salon Symposium",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/genichiro-inokumas-nyc-salon-symposium/",
+"src": "japansociety"
 },
 {
 "id": "s844885a36d",
