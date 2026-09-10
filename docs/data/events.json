@@ -1,57 +1,7 @@
 {
-"generated": "2026-09-09T13:17:30+00:00",
-"count": 339,
+"generated": "2026-09-10T13:14:55+00:00",
+"count": 336,
 "events": [
-{
-"id": "s38e9a77e7b",
-"date": "2026-09-08",
-"time": "",
-"title": "Au 108 rue Vieille du Temple \u2014 opens",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/au-108-rue-vieille-du-temple",
-"src": "zwirner"
-},
-{
-"id": "s8c72d73fa9",
-"date": "2026-09-08",
-"time": "",
-"title": "Opening Reception: Gen\u2019ichir\u014d Inokuma\u2019s NYC Salon",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/opening-reception-genichiro-inokumas-nyc-salon/",
-"src": "japansociety"
-},
-{
-"id": "sd2df7bd6ef",
-"date": "2026-09-09",
-"time": "10:30",
-"title": "Plein Air 4-Part Watercolor Workshop",
-"venue": "Mount Vernon Hotel Museum",
-"cat": "houses",
-"url": "https://mvhm.org/event/plein-air-4-part-watercolor-workshop/",
-"src": "mvhm"
-},
-{
-"id": "s82f24cd3a1",
-"date": "2026-09-09",
-"time": "18:00",
-"title": "When Supermassive Black Holes Get Hungry",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/when-supermassive-black-holes-get-hungry/",
-"src": "simons"
-},
-{
-"id": "sa06c3de03f",
-"date": "2026-09-09",
-"time": "18:30",
-"title": "Signatures for Safekeeping: Preparing End-of-Life Documents",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/signatures-for-safekeeping-preparing-end-of-life-documents/2026-09-09/",
-"src": "greenwood"
-},
 {
 "id": "s5c3611d710",
 "date": "2026-09-10",
@@ -101,16 +51,6 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/scott-kahn",
 "src": "zwirner"
-},
-{
-"id": "s7c4d9f044f",
-"date": "2026-09-10",
-"time": "",
-"title": "Life, Liberty, and the Pursuit of Land \u2014 opens",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/life-liberty-and-the-pursuit-of-land/",
-"src": "greenwood"
 },
 {
 "id": "s22fcfd52cc",
@@ -703,6 +643,16 @@
 "src": "nycballet"
 },
 {
+"id": "sd284142881",
+"date": "2026-09-27",
+"time": "",
+"title": "The Inside Track: Christopher Payne on Photographing the MTA",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/the-inside-track-christopher-payne-on-photographing-the-mta-09-23-2026/",
+"src": "cooperhewitt"
+},
+{
 "id": "s4e3f871ef3",
 "date": "2026-09-29",
 "time": "19:30",
@@ -903,6 +853,16 @@
 "src": "zwirner"
 },
 {
+"id": "sbcdc6a3b64",
+"date": "2026-10-02",
+"time": "",
+"title": "Simchat Torah Family Party",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/simchat-torah-family-party/",
+"src": "emanuel"
+},
+{
 "id": "sf860657cdc",
 "date": "2026-10-03",
 "time": "10:00",
@@ -910,6 +870,16 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/stranger-than-fiction-trolley-tour-4/",
+"src": "greenwood"
+},
+{
+"id": "s2c54e302b3",
+"date": "2026-10-03",
+"time": "10:00",
+"title": "Celebrate City of Forest Day at Green-Wood!",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/celebrate-city-of-forest-day-at-green-wood/",
 "src": "greenwood"
 },
 {
@@ -931,6 +901,26 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2026/10/03/american-masters-music-awards-winners-concert-0100pm",
 "src": "carnegie"
+},
+{
+"id": "s563908fcf7",
+"date": "2026-10-03",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-10-03/",
+"src": "greenwood"
+},
+{
+"id": "s081909d7a4",
+"date": "2026-10-03",
+"time": "18:00",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-49/2026-10-03/1/",
+"src": "greenwood"
 },
 {
 "id": "sfb7c47b83b",
@@ -1703,16 +1693,6 @@
 "src": "zwirner"
 },
 {
-"id": "sa71c9b4c91",
-"date": "2026-11-14",
-"time": "",
-"title": "America's 250th Anniversary Tour of Fort Greene \u2014 final day",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/americas-250th-anniversary-tour-of-fort-greene/",
-"src": "greenwood"
-},
-{
 "id": "s7898fe5eac",
 "date": "2026-11-15",
 "time": "",
@@ -1891,16 +1871,6 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/oscar-murillo-unfinished-thinking-paintings-and-social-maps",
 "src": "zwirner"
-},
-{
-"id": "s825b57b307",
-"date": "2027-01-03",
-"time": "",
-"title": "Life, Liberty, and the Pursuit of Land \u2014 final day",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/life-liberty-and-the-pursuit-of-land/",
-"src": "greenwood"
 },
 {
 "id": "s3cd368d88b",
