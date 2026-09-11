@@ -1,17 +1,7 @@
 {
-"generated": "2026-09-10T13:14:55+00:00",
-"count": 336,
+"generated": "2026-09-11T13:09:47+00:00",
+"count": 333,
 "events": [
-{
-"id": "s5c3611d710",
-"date": "2026-09-10",
-"time": "15:00",
-"title": "Telling Stories Through Art: New York City History in Prints and Paintings",
-"venue": "Mount Vernon Hotel Museum",
-"cat": "houses",
-"url": "https://mvhm.org/event/telling-stories-through-art-new-york-city-history-in-prints-and-paintings-2/",
-"src": "mvhm"
-},
 {
 "id": "sd65af9f4ae",
 "date": "2026-09-10",
@@ -233,6 +223,16 @@
 "src": "mvhm"
 },
 {
+"id": "s1f7c7d46b5",
+"date": "2026-09-18",
+"time": "16:00",
+"title": "Mortal Matters",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/mortal-matters/",
+"src": "greenwood"
+},
+{
 "id": "s9ba0b3b2eb",
 "date": "2026-09-18",
 "time": "18:00",
@@ -241,16 +241,6 @@
 "cat": "houses",
 "url": "https://dyckmanfarmhouse.org/event/brewing-up-history-from-farm-to-bar-2/",
 "src": "dyckman"
-},
-{
-"id": "s1f7c7d46b5",
-"date": "2026-09-18",
-"time": "18:00",
-"title": "Mortal Matters",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/mortal-matters/",
-"src": "greenwood"
 },
 {
 "id": "sf609346c0a",
@@ -303,16 +293,6 @@
 "src": "mvhm"
 },
 {
-"id": "sb47e4342ea",
-"date": "2026-09-19",
-"time": "18:00",
-"title": "Mortal Matters",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/mortal-matters/",
-"src": "greenwood"
-},
-{
 "id": "s42c690e8c7",
 "date": "2026-09-19",
 "time": "",
@@ -340,16 +320,6 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-09-20/",
-"src": "greenwood"
-},
-{
-"id": "s4d9e6ef17c",
-"date": "2026-09-20",
-"time": "18:00",
-"title": "Mortal Matters",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/mortal-matters/",
 "src": "greenwood"
 },
 {
