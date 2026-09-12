@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11T13:09:47+00:00",
+  "generated": "2026-09-12T12:32:43+00:00",
   "healthy": 13,
   "total": 23,
   "venues": [
@@ -40,7 +40,7 @@
       "name": "Japan Society",
       "cat": "talks",
       "strategy": "custom",
-      "count": 35,
+      "count": 34,
       "error": null
     },
     {
@@ -96,7 +96,7 @@
       "name": "David Zwirner",
       "cat": "global",
       "strategy": "jsonld",
-      "count": 31,
+      "count": 28,
       "error": null
     },
     {
@@ -160,7 +160,7 @@
       "name": "Bartow-Pell Mansion",
       "cat": "houses",
       "strategy": "ics",
-      "count": 19,
+      "count": 18,
       "error": null
     },
     {
@@ -184,7 +184,7 @@
       "name": "Green-Wood Cemetery",
       "cat": "access",
       "strategy": "ics",
-      "count": 30,
+      "count": 29,
       "error": null
     }
   ]

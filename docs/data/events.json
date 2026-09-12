@@ -1,67 +1,7 @@
 {
-"generated": "2026-09-11T13:09:47+00:00",
-"count": 333,
+"generated": "2026-09-12T12:32:43+00:00",
+"count": 327,
 "events": [
-{
-"id": "sd65af9f4ae",
-"date": "2026-09-10",
-"time": "19:00",
-"title": "Annual Membership Meeting",
-"venue": "Bartow-Pell Mansion",
-"cat": "houses",
-"url": "https://www.bartowpellmansionmuseum.org/events/annual-membership-meeting/",
-"src": "bartowpell"
-},
-{
-"id": "sae81d8d3b8",
-"date": "2026-09-10",
-"time": "",
-"title": "Nate Lowman \u2014 opens",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/nate-lowman",
-"src": "zwirner"
-},
-{
-"id": "s174747fb34",
-"date": "2026-09-10",
-"time": "",
-"title": "Thomas Ruff \u2014 opens",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/thomas-ruff-jpegs-ny",
-"src": "zwirner"
-},
-{
-"id": "s36f3ba51e1",
-"date": "2026-09-10",
-"time": "",
-"title": "Scott Kahn \u2014 opens",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/scott-kahn",
-"src": "zwirner"
-},
-{
-"id": "s22fcfd52cc",
-"date": "2026-09-10",
-"time": "",
-"title": "exonemo: Terminal at NowHere \u2014 opens",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/exonemo-terminal-at-nowhere/",
-"src": "japansociety"
-},
-{
-"id": "s39ebdcb817",
-"date": "2026-09-11",
-"time": "19:00",
-"title": "Notes of Tribute: Viewing the 9/11 Memorial Lights",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/notes-of-tribute-viewing-the-9-11-memorial-lights-2/",
-"src": "greenwood"
-},
 {
 "id": "sf8620f36a6",
 "date": "2026-09-11",
@@ -885,11 +825,11 @@
 {
 "id": "s081909d7a4",
 "date": "2026-10-03",
-"time": "18:00",
+"time": "18:30",
 "title": "Green-Wood After Hours",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-49/2026-10-03/1/",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-49/2026-10-03/2/",
 "src": "greenwood"
 },
 {
