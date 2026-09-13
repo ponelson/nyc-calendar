@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-12T12:32:43+00:00",
-  "healthy": 13,
+  "generated": "2026-09-13T13:34:17+00:00",
+  "healthy": 12,
   "total": 23,
   "venues": [
     {
@@ -40,7 +40,7 @@
       "name": "Japan Society",
       "cat": "talks",
       "strategy": "custom",
-      "count": 34,
+      "count": 33,
       "error": null
     },
     {
@@ -96,7 +96,7 @@
       "name": "David Zwirner",
       "cat": "global",
       "strategy": "jsonld",
-      "count": 28,
+      "count": 27,
       "error": null
     },
     {
@@ -160,8 +160,8 @@
       "name": "Bartow-Pell Mansion",
       "cat": "houses",
       "strategy": "ics",
-      "count": 18,
-      "error": null
+      "count": 0,
+      "error": "RuntimeError: HTTP 202"
     },
     {
       "id": "aliceausten",
