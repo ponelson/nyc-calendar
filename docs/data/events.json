@@ -1,47 +1,7 @@
 {
-"generated": "2026-09-13T13:34:17+00:00",
+"generated": "2026-09-14T15:29:16+00:00",
 "count": 307,
 "events": [
-{
-"id": "scbbd69378c",
-"date": "2026-09-12",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575207?skipPreview=true",
-"src": "aliceausten"
-},
-{
-"id": "s1a82bbcea0",
-"date": "2026-09-13",
-"time": "10:00",
-"title": "Birding in Peace: Late-Risers Edition (Members Only)",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/birding-in-peace-late-risers-edition-members-only-9/",
-"src": "greenwood"
-},
-{
-"id": "scc4557e5e9",
-"date": "2026-09-13",
-"time": "11:00",
-"title": "Grave Beginnings: Green-Wood by Trolley",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley/2026-09-13/",
-"src": "greenwood"
-},
-{
-"id": "sff735fcb22",
-"date": "2026-09-13",
-"time": "13:00",
-"title": "Green-Wood's Greatest Hits",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-woods-greatest-hits-13/2026-09-13/",
-"src": "greenwood"
-},
 {
 "id": "s8ec1486236",
 "date": "2026-09-15",
@@ -543,6 +503,16 @@
 "src": "nyas"
 },
 {
+"id": "s49bb18a2df",
+"date": "2026-09-30",
+"time": "",
+"title": "Open to All: Experience Emanu-El\u2019s Sukkah Up Close",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/open-to-all-experience-emanu-els-sukkah-up-close/",
+"src": "emanuel"
+},
+{
 "id": "s7bfb0be466",
 "date": "2026-09-30",
 "time": "",
@@ -943,6 +913,26 @@
 "src": "emanuel"
 },
 {
+"id": "s4ed955b635",
+"date": "2026-10-07",
+"time": "06:30",
+"title": "Birding In Peace",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/birding-in-peace-32/2026-10-07/",
+"src": "greenwood"
+},
+{
+"id": "s072de64ffa",
+"date": "2026-10-07",
+"time": "10:30",
+"title": "Green-Wood on Wheels: Stroller-Friendly Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-10-07/",
+"src": "greenwood"
+},
+{
 "id": "sfc86d4dff2",
 "date": "2026-10-07",
 "time": "11:00",
@@ -951,6 +941,16 @@
 "cat": "houses",
 "url": "https://mvhm.org/event/telling-stories-through-art-new-york-city-history-in-prints-and-paintings-3/",
 "src": "mvhm"
+},
+{
+"id": "s80012a2010",
+"date": "2026-10-07",
+"time": "18:30",
+"title": "A Day in the Life of a Funeral Celebrant",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/a-day-in-the-life-of-a-funeral-celebrant/",
+"src": "greenwood"
 },
 {
 "id": "s5ab06fd56f",
