@@ -1,5 +1,5 @@
 {
-"generated": "2026-09-14T15:29:16+00:00",
+"generated": "2026-09-15T14:01:48+00:00",
 "count": 307,
 "events": [
 {
@@ -851,6 +851,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
 "src": "nycballet"
+},
+{
+"id": "s52e27f3402",
+"date": "2026-10-05",
+"time": "",
+"title": "Lyceum Society: Tool Kits for Environmental Engineers and Economists",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/lyceum-society-tool-kits-for-environmental-engineers-and-economists/",
+"src": "nyas"
 },
 {
 "id": "s72681e5d87",
@@ -3000,16 +3010,6 @@
 "venue": "Guggenheim",
 "cat": "art",
 "url": "https://www.guggenheim.org/event/works-process-keigwin-company-stage-door-artyard",
-"src": "guggenheim"
-},
-{
-"id": "sb4840b1c30",
-"date": "2027-08-04",
-"time": "",
-"title": "Works &#038; Process: Paul Taylor Dance Company: Pam Tanowitz and Sarah Crowner",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/works-process-paul-taylor-dance-company-pam-tanowitz-and-sarah-crowner",
 "src": "guggenheim"
 },
 {
