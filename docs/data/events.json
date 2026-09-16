@@ -1,17 +1,7 @@
 {
-"generated": "2026-09-15T14:01:48+00:00",
-"count": 307,
+"generated": "2026-09-16T13:55:20+00:00",
+"count": 308,
 "events": [
-{
-"id": "s8ec1486236",
-"date": "2026-09-15",
-"time": "18:30",
-"title": "CBH Talk | Jesse Wegman and Alexis Coe Discuss \"The Lost Founder: James Wilson and the Forgotten Fight for a People's Co",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/cbh-talk-jesse-wegman-and-alexis-coe-discuss-the-lost-founder-james-wilson-and-the-forgotten-fight-for-a-peoples-constitution/",
-"src": "greenwood"
-},
 {
 "id": "sc20df0be09",
 "date": "2026-09-16",
@@ -23,13 +13,23 @@
 "src": "greenwood"
 },
 {
+"id": "s8343db809f",
+"date": "2026-09-16",
+"time": "18:00",
+"title": "How, and What, Does AlphaFold Learn About Protein Structure?",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/how-and-what-does-alphafold-learn-about-protein-structure/",
+"src": "simons"
+},
+{
 "id": "s35bb4f8f2f",
 "date": "2026-09-16",
 "time": "18:30",
 "title": "Grieving & Weaving",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
-"url": "https://www.green-wood.com/event/grieving-weaving-5/2026-09-16/",
+"url": "https://www.green-wood.com/event/grieving-weaving-5/",
 "src": "greenwood"
 },
 {
@@ -1011,6 +1011,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/all-balanchine-i",
 "src": "nycballet"
+},
+{
+"id": "s27f392a237",
+"date": "2026-10-09",
+"time": "18:00",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-49/2026-10-09/1/",
+"src": "greenwood"
 },
 {
 "id": "s6c6a8ed807",
