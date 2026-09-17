@@ -1,36 +1,36 @@
 {
-"generated": "2026-09-16T13:55:20+00:00",
-"count": 308,
+"generated": "2026-09-17T13:59:08+00:00",
+"count": 314,
 "events": [
 {
-"id": "sc20df0be09",
-"date": "2026-09-16",
-"time": "10:30",
-"title": "Green-Wood on Wheels: Stroller-Friendly Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-09-16/",
-"src": "greenwood"
-},
-{
-"id": "s8343db809f",
-"date": "2026-09-16",
-"time": "18:00",
-"title": "How, and What, Does AlphaFold Learn About Protein Structure?",
+"id": "s96c5e469ac",
+"date": "2026-09-17",
+"time": "00:00",
+"title": "2026 Simons Collaboration on Learning the Universe Annual Meeting",
 "venue": "Simons Foundation",
 "cat": "talks",
-"url": "https://www.simonsfoundation.org/event/how-and-what-does-alphafold-learn-about-protein-structure/",
+"url": "https://www.simonsfoundation.org/event/simons-collaboration-on-learning-the-universe-annual-meeting-2026/",
 "src": "simons"
 },
 {
-"id": "s35bb4f8f2f",
-"date": "2026-09-16",
-"time": "18:30",
-"title": "Grieving & Weaving",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grieving-weaving-5/",
-"src": "greenwood"
+"id": "s3c93f5a981",
+"date": "2026-09-17",
+"time": "16:00",
+"title": "Flatiron Seminar Series: Jeff Soules",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/flatiron-seminar-series-jeff-soules/",
+"src": "simons"
+},
+{
+"id": "se28171a0a8",
+"date": "2026-09-18",
+"time": "00:00",
+"title": "2026 Simons Collaboration on Learning the Universe Annual Meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/simons-collaboration-on-learning-the-universe-annual-meeting-2026/",
+"src": "simons"
 },
 {
 "id": "s51ff9ba86c",
@@ -81,6 +81,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/emma-mcintyre",
 "src": "zwirner"
+},
+{
+"id": "s104ec46cbe",
+"date": "2026-09-19",
+"time": "00:00",
+"title": "2026 Simons Collaboration on Learning the Universe Annual Meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/simons-collaboration-on-learning-the-universe-annual-meeting-2026/",
+"src": "simons"
 },
 {
 "id": "s01a8b1081b",
@@ -301,6 +311,26 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/lincoln-in-the-bardo-immersive-cemetery-preview/",
 "src": "greenwood"
+},
+{
+"id": "sbd3a7f14b7",
+"date": "2026-09-25",
+"time": "18:30",
+"title": "Concierto al aire libre: las temporadas de Inwood",
+"venue": "Dyckman Farmhouse",
+"cat": "houses",
+"url": "https://dyckmanfarmhouse.org/event/concierto-al-aire-libre-las-temporadas-de-inwood/",
+"src": "dyckman"
+},
+{
+"id": "s63450d3499",
+"date": "2026-09-25",
+"time": "18:30",
+"title": "Back Porch Concert: The Seasons of Inwood",
+"venue": "Dyckman Farmhouse",
+"cat": "houses",
+"url": "https://dyckmanfarmhouse.org/event/back-porch-concert-the-seasons-of-inwood/",
+"src": "dyckman"
 },
 {
 "id": "s4834f96d85",
@@ -1015,11 +1045,11 @@
 {
 "id": "s27f392a237",
 "date": "2026-10-09",
-"time": "18:00",
+"time": "18:30",
 "title": "Green-Wood After Hours",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-49/2026-10-09/1/",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-49/2026-10-09/2/",
 "src": "greenwood"
 },
 {
@@ -1031,6 +1061,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
 "src": "nycballet"
+},
+{
+"id": "s078163375b",
+"date": "2026-10-10",
+"time": "10:00",
+"title": "Crime and Catastrophe Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/crime-and-catastrophe-trolley-tour-5/",
+"src": "greenwood"
 },
 {
 "id": "se3815150d2",
@@ -1151,6 +1191,26 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
+},
+{
+"id": "s1bee7f71c9",
+"date": "2026-10-17",
+"time": "10:00",
+"title": "El festival de oto\u00f1o de 2026",
+"venue": "Dyckman Farmhouse",
+"cat": "houses",
+"url": "https://dyckmanfarmhouse.org/event/el-festival-de-otono/",
+"src": "dyckman"
+},
+{
+"id": "sf1229ccecf",
+"date": "2026-10-17",
+"time": "10:00",
+"title": "Fall Festival 2026",
+"venue": "Dyckman Farmhouse",
+"cat": "houses",
+"url": "https://dyckmanfarmhouse.org/event/fall-festival-2026/",
+"src": "dyckman"
 },
 {
 "id": "se4118fd27d",
@@ -1431,6 +1491,16 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/the-seven-bridges/",
 "src": "japansociety"
+},
+{
+"id": "sbcc2ffbe75",
+"date": "2026-11-19",
+"time": "",
+"title": "Discover Design at Andrew Heiskell Braille and Talking Book Library: Design Across Time",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/discover-design-at-andrew-heiskell-braille-and-talking-book-library-design-across-time-11-19-2026/",
+"src": "cooperhewitt"
 },
 {
 "id": "s857d82ae8a",
@@ -2801,16 +2871,6 @@
 "cat": "art",
 "url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-15-2026/",
 "src": "cooperhewitt"
-},
-{
-"id": "s331d15f702",
-"date": "2027-07-16",
-"time": "",
-"title": "My Tokyo Summer",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/my-tokyo-summer/",
-"src": "japansociety"
 },
 {
 "id": "sf0be3b29b6",
