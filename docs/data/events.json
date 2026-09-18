@@ -1,6 +1,6 @@
 {
-"generated": "2026-09-17T13:59:08+00:00",
-"count": 314,
+"generated": "2026-09-18T13:17:55+00:00",
+"count": 311,
 "events": [
 {
 "id": "s96c5e469ac",
@@ -10,16 +10,6 @@
 "venue": "Simons Foundation",
 "cat": "talks",
 "url": "https://www.simonsfoundation.org/event/simons-collaboration-on-learning-the-universe-annual-meeting-2026/",
-"src": "simons"
-},
-{
-"id": "s3c93f5a981",
-"date": "2026-09-17",
-"time": "16:00",
-"title": "Flatiron Seminar Series: Jeff Soules",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/flatiron-seminar-series-jeff-soules/",
 "src": "simons"
 },
 {
@@ -1243,6 +1233,16 @@
 "src": "zwirner"
 },
 {
+"id": "s984758f572",
+"date": "2026-10-17",
+"time": "",
+"title": "Family Art Day: Button-Making Inspired by Art of Inokuma",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/family-art-day-button-making-inspired-by-art-of-inokuma/",
+"src": "japansociety"
+},
+{
 "id": "s9492794ccb",
 "date": "2026-10-18",
 "time": "15:00",
@@ -2193,16 +2193,6 @@
 "src": "nyas"
 },
 {
-"id": "s25d22bf70a",
-"date": "2027-04-19",
-"time": "",
-"title": "Carnegie Mansion Tour for the Week of April 19 &#8211; 24",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/carnegie-mansion-tour-for-the-week-of-april-19-24-04-19-2026/",
-"src": "cooperhewitt"
-},
-{
 "id": "s250eccd7a9",
 "date": "2027-04-20",
 "time": "19:30",
@@ -2260,16 +2250,6 @@
 "venue": "Cooper Hewitt",
 "cat": "art",
 "url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-the-ojas-team-playing-jeff-parker-in-the-listening-room-05-11-2026/",
-"src": "cooperhewitt"
-},
-{
-"id": "sfdf3a4674b",
-"date": "2027-04-23",
-"time": "",
-"title": "Live Operator Hours: Featuring BODY SOUND in the Listening Room",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-body-sound-in-the-listening-room-04-24-2026/",
 "src": "cooperhewitt"
 },
 {
@@ -2461,16 +2441,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/spring-2027/eclectic-nycb-ii",
 "src": "nycballet"
-},
-{
-"id": "s1260170536",
-"date": "2027-05-09",
-"time": "",
-"title": "Chanoyu in the Everyday: A Guide to the Zen Tea Ceremony and its Evolution",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/chanoyu-in-the-everyday-a-guide-to-the-zen-tea-ceremony-and-its-evolution/",
-"src": "japansociety"
 },
 {
 "id": "s85491caefd",
