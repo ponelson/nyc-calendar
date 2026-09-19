@@ -1,57 +1,7 @@
 {
-"generated": "2026-09-18T13:17:55+00:00",
-"count": 311,
+"generated": "2026-09-19T12:48:12+00:00",
+"count": 306,
 "events": [
-{
-"id": "s96c5e469ac",
-"date": "2026-09-17",
-"time": "00:00",
-"title": "2026 Simons Collaboration on Learning the Universe Annual Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/simons-collaboration-on-learning-the-universe-annual-meeting-2026/",
-"src": "simons"
-},
-{
-"id": "se28171a0a8",
-"date": "2026-09-18",
-"time": "00:00",
-"title": "2026 Simons Collaboration on Learning the Universe Annual Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/simons-collaboration-on-learning-the-universe-annual-meeting-2026/",
-"src": "simons"
-},
-{
-"id": "s51ff9ba86c",
-"date": "2026-09-18",
-"time": "12:00",
-"title": "Wining and Dining in 1820s and 1830s NYC: A Culinary History Tour",
-"venue": "Mount Vernon Hotel Museum",
-"cat": "houses",
-"url": "https://mvhm.org/event/wining-and-dining-in-1820s-and-1830s-nyc-a-culinary-history-tour-2/",
-"src": "mvhm"
-},
-{
-"id": "s1f7c7d46b5",
-"date": "2026-09-18",
-"time": "16:00",
-"title": "Mortal Matters",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/mortal-matters/",
-"src": "greenwood"
-},
-{
-"id": "s9ba0b3b2eb",
-"date": "2026-09-18",
-"time": "18:00",
-"title": "Brewing Up History: From Farm to Bar",
-"venue": "Dyckman Farmhouse",
-"cat": "houses",
-"url": "https://dyckmanfarmhouse.org/event/brewing-up-history-from-farm-to-bar-2/",
-"src": "dyckman"
-},
 {
 "id": "sf609346c0a",
 "date": "2026-09-18",
@@ -71,26 +21,6 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/emma-mcintyre",
 "src": "zwirner"
-},
-{
-"id": "s104ec46cbe",
-"date": "2026-09-19",
-"time": "00:00",
-"title": "2026 Simons Collaboration on Learning the Universe Annual Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/simons-collaboration-on-learning-the-universe-annual-meeting-2026/",
-"src": "simons"
-},
-{
-"id": "s01a8b1081b",
-"date": "2026-09-19",
-"time": "10:00",
-"title": "The Revolution Continues: Brooklyn\u2019s Black Trailblazers",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/the-revolution-continues-brooklyns-black-trailblazers-2/",
-"src": "greenwood"
 },
 {
 "id": "sfc1e480f46",
@@ -1073,6 +1003,16 @@
 "src": "dyckman"
 },
 {
+"id": "sd7c5ca2cd0",
+"date": "2026-10-10",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-10-10/",
+"src": "greenwood"
+},
+{
 "id": "s7068cbe480",
 "date": "2026-10-10",
 "time": "14:00",
@@ -1081,6 +1021,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
+},
+{
+"id": "s2db4ec86b1",
+"date": "2026-10-10",
+"time": "15:30",
+"title": "Revolutionary Spirits",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/revolutionary-spirits-7/2026-10-10/",
+"src": "greenwood"
 },
 {
 "id": "sc3edf4bbea",
