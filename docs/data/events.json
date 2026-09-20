@@ -1,56 +1,16 @@
 {
-"generated": "2026-09-19T12:48:12+00:00",
-"count": 306,
+"generated": "2026-09-20T13:22:04+00:00",
+"count": 303,
 "events": [
 {
-"id": "sf609346c0a",
-"date": "2026-09-18",
-"time": "",
-"title": "Louis Fratino \u2014 opens",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/louis-fratino",
-"src": "zwirner"
-},
-{
-"id": "sa409976e70",
-"date": "2026-09-18",
-"time": "",
-"title": "Emma McIntyre \u2014 opens",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/emma-mcintyre",
-"src": "zwirner"
-},
-{
-"id": "sfc1e480f46",
+"id": "sb47e4342ea",
 "date": "2026-09-19",
-"time": "13:00",
-"title": "Discover Green-Wood Trolley Tour",
+"time": "10:00",
+"title": "Mortal Matters",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
-"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-09-19/",
+"url": "https://www.green-wood.com/event/mortal-matters/",
 "src": "greenwood"
-},
-{
-"id": "se8fb17c756",
-"date": "2026-09-19",
-"time": "15:00",
-"title": "Wining & Dining in 1820s & 1830s NYC: Culinary History Tour & Wine Tasting",
-"venue": "Mount Vernon Hotel Museum",
-"cat": "houses",
-"url": "https://mvhm.org/event/wining-dining-in-1820s-1830s-nyc-culinary-history-tour-wine-tasting/",
-"src": "mvhm"
-},
-{
-"id": "s42c690e8c7",
-"date": "2026-09-19",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575208?skipPreview=true",
-"src": "aliceausten"
 },
 {
 "id": "s78d61b0f42",
@@ -61,6 +21,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/roy-decarava-the-sound-i-saw",
 "src": "zwirner"
+},
+{
+"id": "s4d9e6ef17c",
+"date": "2026-09-20",
+"time": "10:00",
+"title": "Mortal Matters",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/mortal-matters/",
+"src": "greenwood"
 },
 {
 "id": "s3e3301c5c2",
