@@ -1,47 +1,7 @@
 {
-"generated": "2026-09-20T13:22:04+00:00",
-"count": 303,
+"generated": "2026-09-21T15:31:23+00:00",
+"count": 281,
 "events": [
-{
-"id": "sb47e4342ea",
-"date": "2026-09-19",
-"time": "10:00",
-"title": "Mortal Matters",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/mortal-matters/",
-"src": "greenwood"
-},
-{
-"id": "s78d61b0f42",
-"date": "2026-09-19",
-"time": "",
-"title": "Roy DeCarava \u2014 opens",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/roy-decarava-the-sound-i-saw",
-"src": "zwirner"
-},
-{
-"id": "s4d9e6ef17c",
-"date": "2026-09-20",
-"time": "10:00",
-"title": "Mortal Matters",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/mortal-matters/",
-"src": "greenwood"
-},
-{
-"id": "s3e3301c5c2",
-"date": "2026-09-20",
-"time": "10:00",
-"title": "Grave Beginnings: Walking Green-Wood",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-09-20/",
-"src": "greenwood"
-},
 {
 "id": "s960f2a3919",
 "date": "2026-09-22",
@@ -341,16 +301,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/jewels",
 "src": "nycballet"
-},
-{
-"id": "sd284142881",
-"date": "2026-09-27",
-"time": "",
-"title": "The Inside Track: Christopher Payne on Photographing the MTA",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/the-inside-track-christopher-payne-on-photographing-the-mta-09-23-2026/",
-"src": "cooperhewitt"
 },
 {
 "id": "s4e3f871ef3",
@@ -813,16 +763,6 @@
 "src": "nycballet"
 },
 {
-"id": "s07c09db583",
-"date": "2026-10-06",
-"time": "",
-"title": "Discover Design Online: Design Across Time",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/discover-design-online-design-across-time-10-06-2026/",
-"src": "cooperhewitt"
-},
-{
 "id": "sd9798a2a65",
 "date": "2026-10-06",
 "time": "",
@@ -1000,6 +940,16 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/revolutionary-spirits-7/2026-10-10/",
+"src": "greenwood"
+},
+{
+"id": "s7af47c3c8c",
+"date": "2026-10-10",
+"time": "18:30",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-49/2026-10-10/2/",
 "src": "greenwood"
 },
 {
@@ -1411,16 +1361,6 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/the-seven-bridges/",
 "src": "japansociety"
-},
-{
-"id": "sbcc2ffbe75",
-"date": "2026-11-19",
-"time": "",
-"title": "Discover Design at Andrew Heiskell Braille and Talking Book Library: Design Across Time",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/discover-design-at-andrew-heiskell-braille-and-talking-book-library-design-across-time-11-19-2026/",
-"src": "cooperhewitt"
 },
 {
 "id": "s857d82ae8a",
@@ -2153,26 +2093,6 @@
 "src": "nycballet"
 },
 {
-"id": "sdf06d174f0",
-"date": "2027-04-23",
-"time": "",
-"title": "Live Operator Hours: Featuring Kalia Vandever in the Listening Room",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-kalia-vandever-in-the-listening-room-05-12-2026/",
-"src": "cooperhewitt"
-},
-{
-"id": "sf037d1e074",
-"date": "2027-04-23",
-"time": "",
-"title": "Live Operator Hours: Featuring the OJAS Team playing Jeff Parker in the Listening Room",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-the-ojas-team-playing-jeff-parker-in-the-listening-room-05-11-2026/",
-"src": "cooperhewitt"
-},
-{
 "id": "s11eaed54ac",
 "date": "2027-04-24",
 "time": "19:30",
@@ -2283,16 +2203,6 @@
 "src": "nycballet"
 },
 {
-"id": "sf15159362a",
-"date": "2027-05-03",
-"time": "",
-"title": "Carnegie Mansion Tour for the Week of May 3 &#8211; May 9",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/carnegie-mansion-tour-for-the-week-of-may-3-may-9-05-03-2026/",
-"src": "cooperhewitt"
-},
-{
 "id": "sef6c9510eb",
 "date": "2027-05-04",
 "time": "19:30",
@@ -2361,16 +2271,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/spring-2027/eclectic-nycb-ii",
 "src": "nycballet"
-},
-{
-"id": "s85491caefd",
-"date": "2027-05-10",
-"time": "",
-"title": "Carnegie Mansion Tour on Sunday, May 10",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/carnegie-mansion-tour-on-sunday-may-10-05-10-2026/",
-"src": "cooperhewitt"
 },
 {
 "id": "s4de9e2b670",
@@ -2463,16 +2363,6 @@
 "src": "nycballet"
 },
 {
-"id": "se8cf0d04ac",
-"date": "2027-05-16",
-"time": "",
-"title": "Live Operator Hours: Featuring Warp Records in the Listening Room",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-warp-records-in-the-listening-room-05-23-2026/",
-"src": "cooperhewitt"
-},
-{
 "id": "s84add1e09d",
 "date": "2027-05-18",
 "time": "19:30",
@@ -2543,16 +2433,6 @@
 "src": "nycballet"
 },
 {
-"id": "s9fcd5be260",
-"date": "2027-05-23",
-"time": "",
-"title": "Live Operator Hours: Featuring Warp Records in the Listening Room",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-warp-records-in-the-listening-room-05-16-2026/",
-"src": "cooperhewitt"
-},
-{
 "id": "sebd7963b61",
 "date": "2027-05-25",
 "time": "19:30",
@@ -2613,36 +2493,6 @@
 "src": "nycballet"
 },
 {
-"id": "s2948ed5658",
-"date": "2027-05-31",
-"time": "",
-"title": "Tour Made in America with Photographer Christopher Payne &#8211; RESCHEDULED for May 31",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/tour-made-in-america-with-photographer-christopher-payne-rescheduled-for-may-31-05-17-2026/",
-"src": "cooperhewitt"
-},
-{
-"id": "sf1386fc694",
-"date": "2027-06-03",
-"time": "",
-"title": "Discover Design Online: Made in America",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/discover-design-online-made-in-america-06-03-2026/",
-"src": "cooperhewitt"
-},
-{
-"id": "s01192b4c36",
-"date": "2027-06-06",
-"time": "",
-"title": "Live Operator Hours: Featuring Warp Records in the Listening Room",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-warp-records-in-the-listening-room-06-06-2026/",
-"src": "cooperhewitt"
-},
-{
 "id": "s8df795b49b",
 "date": "2027-06-08",
 "time": "",
@@ -2661,26 +2511,6 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/reimagining-neurodegeneration-treatments/",
 "src": "nyas"
-},
-{
-"id": "s6e4a81f1aa",
-"date": "2027-06-12",
-"time": "",
-"title": "Live Operator Hours: Featuring Mary Halvorson in the Listening Room",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-mary-halvorson-in-the-listening-room-06-11-2026/",
-"src": "cooperhewitt"
-},
-{
-"id": "sd31aa478f0",
-"date": "2027-06-14",
-"time": "",
-"title": "Design in Motion / Dise\u00f1o en Movimiento",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/design-in-motion-diseno-en-movimiento-06-14-2026/",
-"src": "cooperhewitt"
 },
 {
 "id": "s082b6ac68b",
@@ -2743,26 +2573,6 @@
 "src": "japansociety"
 },
 {
-"id": "sc013826361",
-"date": "2027-07-08",
-"time": "",
-"title": "Family Program | Summer Design Series",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-08-2026/",
-"src": "cooperhewitt"
-},
-{
-"id": "sf86bbb0c2a",
-"date": "2027-07-15",
-"time": "",
-"title": "Family Program | Summer Design Series",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-15-2026/",
-"src": "cooperhewitt"
-},
-{
 "id": "sf0be3b29b6",
 "date": "2027-07-18",
 "time": "",
@@ -2771,16 +2581,6 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/sheep-in-the-box/",
 "src": "japansociety"
-},
-{
-"id": "s27978e2510",
-"date": "2027-07-22",
-"time": "",
-"title": "Family Program | Summer Design Series",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-22-2026/",
-"src": "cooperhewitt"
 },
 {
 "id": "s7f17508d83",
@@ -2833,16 +2633,6 @@
 "src": "japansociety"
 },
 {
-"id": "s68c4290515",
-"date": "2027-07-29",
-"time": "",
-"title": "Family Program | Summer Design Series",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-29-2026/",
-"src": "cooperhewitt"
-},
-{
 "id": "s5a547270b1",
 "date": "2027-08-02",
 "time": "",
@@ -2851,16 +2641,6 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/curious-about-the-building",
 "src": "guggenheim"
-},
-{
-"id": "s2d12a222d4",
-"date": "2027-08-04",
-"time": "",
-"title": "Discover Design Online: Art of Noise",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/discover-design-online-art-of-noise-08-04-2026/",
-"src": "cooperhewitt"
 },
 {
 "id": "s96c2009522",
