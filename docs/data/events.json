@@ -1,6 +1,6 @@
 {
-"generated": "2026-09-21T15:31:23+00:00",
-"count": 281,
+"generated": "2026-09-22T13:48:46+00:00",
+"count": 292,
 "events": [
 {
 "id": "s960f2a3919",
@@ -91,6 +91,26 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/amadeo-luciano-lorenzato",
 "src": "zwirner"
+},
+{
+"id": "sb8f4cfabde",
+"date": "2026-09-23",
+"time": "",
+"title": "Tikkun Olam: Last Day of Sukkot Apple Drive",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/last-day-of-sukkot-apple-drive-5787/",
+"src": "emanuel"
+},
+{
+"id": "s7bf793bfff",
+"date": "2026-09-23",
+"time": "",
+"title": "Tikkun Olam: First Day of Sukkot Apple Drive",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tikkun-olam-first-day-of-sukkot-food-drive-370/",
+"src": "emanuel"
 },
 {
 "id": "s607875b292",
@@ -253,16 +273,6 @@
 "src": "nycballet"
 },
 {
-"id": "s29bc25b114",
-"date": "2026-09-26",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575209?skipPreview=true",
-"src": "aliceausten"
-},
-{
 "id": "se4965f20c7",
 "date": "2026-09-27",
 "time": "06:30",
@@ -371,6 +381,16 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/ace-the-faculty-interview/",
 "src": "nyas"
+},
+{
+"id": "s13849a8178",
+"date": "2026-09-30",
+"time": "",
+"title": "Community Sukkah Viewing",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/community-sukkah-viewing/",
+"src": "emanuel"
 },
 {
 "id": "s49bb18a2df",
@@ -723,6 +743,26 @@
 "src": "nycballet"
 },
 {
+"id": "s8bed9362aa",
+"date": "2026-10-04",
+"time": "",
+"title": "Everyone you\u2019re looking at is also you",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
+"src": "zwirner"
+},
+{
+"id": "s1825f14e43",
+"date": "2026-10-05",
+"time": "",
+"title": "Everyone you\u2019re looking at is also you",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
+"src": "zwirner"
+},
+{
 "id": "s52e27f3402",
 "date": "2026-10-05",
 "time": "",
@@ -761,6 +801,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
 "src": "nycballet"
+},
+{
+"id": "s3c77bee364",
+"date": "2026-10-06",
+"time": "",
+"title": "Everyone you\u2019re looking at is also you",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
+"src": "zwirner"
 },
 {
 "id": "sd9798a2a65",
@@ -833,6 +883,16 @@
 "src": "nycballet"
 },
 {
+"id": "s33e71a51a6",
+"date": "2026-10-07",
+"time": "",
+"title": "Everyone you\u2019re looking at is also you",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
+"src": "zwirner"
+},
+{
 "id": "s32eef8e90f",
 "date": "2026-10-07",
 "time": "",
@@ -873,6 +933,16 @@
 "src": "nycballet"
 },
 {
+"id": "s9734f340c1",
+"date": "2026-10-08",
+"time": "",
+"title": "Everyone you\u2019re looking at is also you",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
+"src": "zwirner"
+},
+{
 "id": "s27f392a237",
 "date": "2026-10-09",
 "time": "18:30",
@@ -891,6 +961,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
 "src": "nycballet"
+},
+{
+"id": "s4ca3191fad",
+"date": "2026-10-09",
+"time": "",
+"title": "Everyone you\u2019re looking at is also you",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
+"src": "zwirner"
 },
 {
 "id": "s078163375b",
@@ -970,6 +1050,16 @@
 "venue": "David Zwirner",
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/au-108-rue-vieille-du-temple",
+"src": "zwirner"
+},
+{
+"id": "s75979f810f",
+"date": "2026-10-10",
+"time": "",
+"title": "Everyone you\u2019re looking at is also you",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
 "src": "zwirner"
 },
 {
@@ -1141,6 +1231,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/oscar-murillo-unfinished-thinking-paintings-and-social-maps",
 "src": "zwirner"
+},
+{
+"id": "s8ec39f8d2f",
+"date": "2026-10-20",
+"time": "",
+"title": "Estrangement Support Group: You Are Not Alone",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/estrangement-support-group/",
+"src": "emanuel"
 },
 {
 "id": "s5187a56938",
@@ -1321,6 +1421,16 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/ai-tools-for-literature-review-writing-and-research-productivity/",
 "src": "nyas"
+},
+{
+"id": "s6ce5a90f8d",
+"date": "2026-11-06",
+"time": "12:00",
+"title": "Spies Among Us: From the American Revolution to 1830s New York",
+"venue": "Mount Vernon Hotel Museum",
+"cat": "houses",
+"url": "https://mvhm.org/event/spies-among-us-from-the-american-revolution-to-1830s-new-york/",
+"src": "mvhm"
 },
 {
 "id": "sbd9d8de4b8",
@@ -1513,6 +1623,16 @@
 "src": "guggenheim"
 },
 {
+"id": "s0a1831921c",
+"date": "2026-12-19",
+"time": "",
+"title": "Oscar Murillo \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/oscar-murillo-unfinished-thinking-paintings-and-social-maps",
+"src": "zwirner"
+},
+{
 "id": "s5caa8efbd5",
 "date": "2026-12-19",
 "time": "",
@@ -1520,16 +1640,6 @@
 "venue": "David Zwirner",
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/no-plan-at-all-prints-from-borch-editions",
-"src": "zwirner"
-},
-{
-"id": "sec651f618e",
-"date": "2026-12-23",
-"time": "",
-"title": "Oscar Murillo \u2014 final day",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/oscar-murillo-unfinished-thinking-paintings-and-social-maps",
 "src": "zwirner"
 },
 {
