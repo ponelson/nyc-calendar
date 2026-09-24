@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-22T13:48:46+00:00",
-  "healthy": 10,
+  "generated": "2026-09-24T13:56:46+00:00",
+  "healthy": 12,
   "total": 23,
   "venues": [
     {
@@ -8,7 +8,7 @@
       "name": "New York City Ballet",
       "cat": "dance",
       "strategy": "custom",
-      "count": 100,
+      "count": 99,
       "error": null
     },
     {
@@ -24,7 +24,7 @@
       "name": "Temple Emanu-El \u2014 Streicker",
       "cat": "classical",
       "strategy": "custom",
-      "count": 34,
+      "count": 35,
       "error": null
     },
     {
@@ -40,7 +40,7 @@
       "name": "Japan Society",
       "cat": "talks",
       "strategy": "custom",
-      "count": 32,
+      "count": 33,
       "error": null
     },
     {
@@ -56,8 +56,8 @@
       "name": "Simons Foundation",
       "cat": "talks",
       "strategy": "ics",
-      "count": 0,
-      "error": "no events parsed"
+      "count": 3,
+      "error": null
     },
     {
       "id": "broadway",
@@ -96,7 +96,7 @@
       "name": "David Zwirner",
       "cat": "global",
       "strategy": "jsonld",
-      "count": 31,
+      "count": 33,
       "error": null
     },
     {
@@ -152,7 +152,7 @@
       "name": "Mount Vernon Hotel Museum",
       "cat": "houses",
       "strategy": "ics",
-      "count": 5,
+      "count": 8,
       "error": null
     },
     {
@@ -161,15 +161,15 @@
       "cat": "houses",
       "strategy": "ics",
       "count": 0,
-      "error": "RuntimeError: HTTP 403"
+      "error": "RuntimeError: HTTP 202"
     },
     {
       "id": "aliceausten",
       "name": "Alice Austen House",
       "cat": "houses",
       "strategy": "jsonld",
-      "count": 0,
-      "error": "RuntimeError: HTTP 429"
+      "count": 1,
+      "error": null
     },
     {
       "id": "dyckman",
