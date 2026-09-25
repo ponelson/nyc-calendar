@@ -1,47 +1,7 @@
 {
-"generated": "2026-09-24T13:56:46+00:00",
-"count": 302,
+"generated": "2026-09-25T14:20:44+00:00",
+"count": 301,
 "events": [
-{
-"id": "s53a470585c",
-"date": "2026-09-23",
-"time": "19:30",
-"title": "Jewels",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/jewels",
-"src": "nycballet"
-},
-{
-"id": "sa0bbbd9016",
-"date": "2026-09-23",
-"time": "",
-"title": "Nocturnal \u2014 opens",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/nocturnal",
-"src": "zwirner"
-},
-{
-"id": "s6a0c8f9398",
-"date": "2026-09-23",
-"time": "",
-"title": "Amadeo Luciano Lorenzato \u2014 opens",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/amadeo-luciano-lorenzato",
-"src": "zwirner"
-},
-{
-"id": "s607875b292",
-"date": "2026-09-23",
-"time": "",
-"title": "Women of Emanu-El: Morning Supervised Bridge Class",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-morning-supervised-class/",
-"src": "emanuel"
-},
 {
 "id": "s99fb2a75a4",
 "date": "2026-09-24",
@@ -123,6 +83,16 @@
 "src": "simons"
 },
 {
+"id": "sa62aff7256",
+"date": "2026-09-25",
+"time": "15:00",
+"title": "CCA Colloquium: Paco Villaescusa",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/cca-colloquium-paco-villaescusa/",
+"src": "simons"
+},
+{
 "id": "s8a4eef42b1",
 "date": "2026-09-25",
 "time": "18:00",
@@ -131,6 +101,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/lincoln-in-the-bardo-immersive-cemetery-preview/",
 "src": "greenwood"
+},
+{
+"id": "s48608f1c33",
+"date": "2026-09-25",
+"time": "18:00",
+"title": "Finding Your Math Roots",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/finding-your-math-roots/",
+"src": "simons"
 },
 {
 "id": "sbd3a7f14b7",
@@ -203,16 +183,6 @@
 "src": "greenwood"
 },
 {
-"id": "s83280d4bf2",
-"date": "2026-09-26",
-"time": "13:00",
-"title": "Discover Green-Wood Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-09-26/",
-"src": "greenwood"
-},
-{
 "id": "s46417178a4",
 "date": "2026-09-26",
 "time": "14:00",
@@ -250,26 +220,6 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/birding-in-peace-32/2026-09-27/",
-"src": "greenwood"
-},
-{
-"id": "s1ecbe80a53",
-"date": "2026-09-27",
-"time": "11:00",
-"title": "Grave Beginnings: Green-Wood by Trolley",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley/2026-09-27/",
-"src": "greenwood"
-},
-{
-"id": "s68908cb690",
-"date": "2026-09-27",
-"time": "13:00",
-"title": "Green-Wood's Greatest Hits",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-woods-greatest-hits-13/2026-09-27/",
 "src": "greenwood"
 },
 {
@@ -563,16 +513,6 @@
 "src": "carnegie"
 },
 {
-"id": "s563908fcf7",
-"date": "2026-10-03",
-"time": "13:00",
-"title": "Discover Green-Wood Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-10-03/",
-"src": "greenwood"
-},
-{
 "id": "s081909d7a4",
 "date": "2026-10-03",
 "time": "18:30",
@@ -683,16 +623,6 @@
 "src": "emanuel"
 },
 {
-"id": "s318a0a73e2",
-"date": "2026-10-03",
-"time": "",
-"title": "Tot Shabbat: Celebrating Gratitude",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/tot-shabbat-celebrating-gratitude/",
-"src": "emanuel"
-},
-{
 "id": "s6d749660f7",
 "date": "2026-10-04",
 "time": "06:30",
@@ -720,16 +650,6 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/meet-your-green-neighbors-11/",
-"src": "greenwood"
-},
-{
-"id": "sbcf4ffe492",
-"date": "2026-10-04",
-"time": "13:00",
-"title": "Green-Wood's Greatest Hits",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-woods-greatest-hits-13/2026-10-04/",
 "src": "greenwood"
 },
 {
@@ -1003,16 +923,6 @@
 "src": "dyckman"
 },
 {
-"id": "sd7c5ca2cd0",
-"date": "2026-10-10",
-"time": "13:00",
-"title": "Discover Green-Wood Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-19/2026-10-10/",
-"src": "greenwood"
-},
-{
 "id": "s7068cbe480",
 "date": "2026-10-10",
 "time": "14:00",
@@ -1083,6 +993,16 @@
 "src": "zwirner"
 },
 {
+"id": "s629a0fcba4",
+"date": "2026-10-11",
+"time": "14:00",
+"title": "Catch the Colors: Fall at Green-Wood",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/catch-the-colors-fall-at-green-wood-2/2026-10-11/",
+"src": "greenwood"
+},
+{
 "id": "s34c1e9adfc",
 "date": "2026-10-11",
 "time": "15:00",
@@ -1091,6 +1011,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
+},
+{
+"id": "s7db5455853",
+"date": "2026-10-13",
+"time": "10:00",
+"title": "Toddler Takeover at the Green-House",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-10-13/",
+"src": "greenwood"
 },
 {
 "id": "s1a209f4b9f",
@@ -1151,6 +1081,26 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
+},
+{
+"id": "se7ed4ccf8e",
+"date": "2026-10-15",
+"time": "",
+"title": "Late Shift",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/late-shift",
+"src": "guggenheim"
+},
+{
+"id": "s6d33d95091",
+"date": "2026-10-16",
+"time": "19:30",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-49/2026-10-16/4/",
+"src": "greenwood"
 },
 {
 "id": "s64e3651f6a",
@@ -1523,6 +1473,16 @@
 "src": "mvhm"
 },
 {
+"id": "sf7e02dc38d",
+"date": "2026-11-13",
+"time": "",
+"title": "Thomas Ruff \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/thomas-ruff",
+"src": "zwirner"
+},
+{
 "id": "s7a4f7cb35b",
 "date": "2026-11-14",
 "time": "",
@@ -1561,6 +1521,26 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/member-morning-guggenheim-pop",
 "src": "guggenheim"
+},
+{
+"id": "s77bc45a040",
+"date": "2026-11-23",
+"time": "",
+"title": "Frank Walter \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/frank-walter",
+"src": "zwirner"
+},
+{
+"id": "s0d24f26a22",
+"date": "2026-11-24",
+"time": "",
+"title": "Rose Wylie \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/rose-wylie-napoleon-and-wild-flowers",
+"src": "zwirner"
 },
 {
 "id": "saae8326a3c",
@@ -1743,6 +1723,16 @@
 "src": "zwirner"
 },
 {
+"id": "sbfff484b6d",
+"date": "2026-12-20",
+"time": "",
+"title": "Frank Walter \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/frank-walter",
+"src": "zwirner"
+},
+{
 "id": "s3cd368d88b",
 "date": "2027-01-09",
 "time": "",
@@ -1921,6 +1911,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/winter-2027/contemporary-choreography-ii",
 "src": "nycballet"
+},
+{
+"id": "sd26507a150",
+"date": "2027-02-06",
+"time": "",
+"title": "Thomas Ruff \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/thomas-ruff",
+"src": "zwirner"
 },
 {
 "id": "s51fbc353e7",
@@ -2161,6 +2161,16 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/encore-build-your-own-shakuhachi-crafting-workshop/",
 "src": "japansociety"
+},
+{
+"id": "scb4b3038d9",
+"date": "2027-03-06",
+"time": "",
+"title": "Rose Wylie \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/rose-wylie-napoleon-and-wild-flowers",
+"src": "zwirner"
 },
 {
 "id": "s5b3900eaf9",
@@ -2943,16 +2953,6 @@
 "src": "guggenheim"
 },
 {
-"id": "s1caf5f713d",
-"date": "2027-08-04",
-"time": "",
-"title": "Works &#038; Process Rotunda Dance Party: SCUFF Queer Country Dancing",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/works-process-rotunda-dance-party-scuff-queer-country-dancing",
-"src": "guggenheim"
-},
-{
 "id": "s19249e3fec",
 "date": "2027-08-04",
 "time": "",
@@ -3001,16 +3001,6 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/sinotan-ro-ainu-dance-workshop/",
 "src": "japansociety"
-},
-{
-"id": "sa1c6a64b48",
-"date": "2027-08-20",
-"time": "",
-"title": "Late Shift",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/late-shift",
-"src": "guggenheim"
 },
 {
 "id": "s81621b464f",
