@@ -1,137 +1,7 @@
 {
-"generated": "2026-09-25T14:20:44+00:00",
-"count": 301,
+"generated": "2026-09-26T13:30:46+00:00",
+"count": 294,
 "events": [
-{
-"id": "s99fb2a75a4",
-"date": "2026-09-24",
-"time": "00:00",
-"title": "2026 Simons Collaboration on the Physics of Learning and Neural Computation Annual Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/simons-collaboration-on-the-physics-of-learning-and-neural-computation-annual-meeting-2026/",
-"src": "simons"
-},
-{
-"id": "s242168e02c",
-"date": "2026-09-24",
-"time": "19:30",
-"title": "Jewels",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/jewels",
-"src": "nycballet"
-},
-{
-"id": "sab16af01a5",
-"date": "2026-09-24",
-"time": "",
-"title": "Daichi Takagi \u2014 opens",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/daichi-takagi-suchness",
-"src": "zwirner"
-},
-{
-"id": "s2769902312",
-"date": "2026-09-24",
-"time": "",
-"title": "An Interview with Mieko Kawakami: An Owl Takes Flight at Dawn",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/an-interview-with-mieko-kawakami-an-owl-takes-flight-at-dawn/",
-"src": "japansociety"
-},
-{
-"id": "sb2de7e3bed",
-"date": "2026-09-24",
-"time": "",
-"title": "Navigating STEM Career Opportunities, Funding, and Immigration Pathways Outside the U.S.",
-"venue": "New York Academy of Sciences",
-"cat": "talks",
-"url": "https://www.nyas.org/shaping-science/events/navigating-stem-career-opportunities-funding-and-immigration-pathways-outside-the-us/",
-"src": "nyas"
-},
-{
-"id": "s90fb6b93f1",
-"date": "2026-09-24",
-"time": "",
-"title": "Women of Emanu-El: Thursday Evening Bridge Supervised Play",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-thursday-evening-bridge-supervised-play/",
-"src": "emanuel"
-},
-{
-"id": "sb6576d861c",
-"date": "2026-09-24",
-"time": "",
-"title": "Women of Emanu-El: Thursday Morning Intermediate Bridge Class",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-thursday-morning-intermediate-bridge-class/",
-"src": "emanuel"
-},
-{
-"id": "s1b19d06bfe",
-"date": "2026-09-25",
-"time": "00:00",
-"title": "2026 Simons Collaboration on the Physics of Learning and Neural Computation Annual Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/simons-collaboration-on-the-physics-of-learning-and-neural-computation-annual-meeting-2026/",
-"src": "simons"
-},
-{
-"id": "sa62aff7256",
-"date": "2026-09-25",
-"time": "15:00",
-"title": "CCA Colloquium: Paco Villaescusa",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/cca-colloquium-paco-villaescusa/",
-"src": "simons"
-},
-{
-"id": "s8a4eef42b1",
-"date": "2026-09-25",
-"time": "18:00",
-"title": "Lincoln in the Bardo Immersive Cemetery Preview",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/lincoln-in-the-bardo-immersive-cemetery-preview/",
-"src": "greenwood"
-},
-{
-"id": "s48608f1c33",
-"date": "2026-09-25",
-"time": "18:00",
-"title": "Finding Your Math Roots",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/finding-your-math-roots/",
-"src": "simons"
-},
-{
-"id": "sbd3a7f14b7",
-"date": "2026-09-25",
-"time": "18:30",
-"title": "Concierto al aire libre: las temporadas de Inwood",
-"venue": "Dyckman Farmhouse",
-"cat": "houses",
-"url": "https://dyckmanfarmhouse.org/event/concierto-al-aire-libre-las-temporadas-de-inwood/",
-"src": "dyckman"
-},
-{
-"id": "s63450d3499",
-"date": "2026-09-25",
-"time": "18:30",
-"title": "Back Porch Concert: The Seasons of Inwood",
-"venue": "Dyckman Farmhouse",
-"cat": "houses",
-"url": "https://dyckmanfarmhouse.org/event/back-porch-concert-the-seasons-of-inwood/",
-"src": "dyckman"
-},
 {
 "id": "s4834f96d85",
 "date": "2026-09-25",
@@ -153,16 +23,6 @@
 "src": "emanuel"
 },
 {
-"id": "sd094030c94",
-"date": "2026-09-26",
-"time": "00:00",
-"title": "2026 Simons Collaboration on the Physics of Learning and Neural Computation Annual Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/simons-collaboration-on-the-physics-of-learning-and-neural-computation-annual-meeting-2026/",
-"src": "simons"
-},
-{
 "id": "sb2d51f4536",
 "date": "2026-09-26",
 "time": "10:00",
@@ -180,6 +40,16 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/last-saturdays-open-classroom-4/",
+"src": "greenwood"
+},
+{
+"id": "sbfaa6ba4c3",
+"date": "2026-09-26",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour (Cancelled)",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-cancelled/",
 "src": "greenwood"
 },
 {
@@ -213,13 +83,23 @@
 "src": "aliceausten"
 },
 {
-"id": "se4965f20c7",
+"id": "s35e78766c5",
 "date": "2026-09-27",
 "time": "06:30",
-"title": "Birding In Peace",
+"title": "Birding In Peace (cancelled)",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
-"url": "https://www.green-wood.com/event/birding-in-peace-32/2026-09-27/",
+"url": "https://www.green-wood.com/event/birding-in-peace-33/",
+"src": "greenwood"
+},
+{
+"id": "sbb1398606f",
+"date": "2026-09-27",
+"time": "11:00",
+"title": "Grave Beginnings: Green-Wood By Trolley (Cancelled)",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley-2/",
 "src": "greenwood"
 },
 {
@@ -513,13 +393,13 @@
 "src": "carnegie"
 },
 {
-"id": "s081909d7a4",
+"id": "s563908fcf7",
 "date": "2026-10-03",
-"time": "18:30",
-"title": "Green-Wood After Hours",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-49/2026-10-03/2/",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-23/",
 "src": "greenwood"
 },
 {
@@ -653,6 +533,16 @@
 "src": "greenwood"
 },
 {
+"id": "sbcf4ffe492",
+"date": "2026-10-04",
+"time": "13:00",
+"title": "Green-Wood's Greatest Hits",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-woods-greatest-hits-14/",
+"src": "greenwood"
+},
+{
 "id": "sc7e1455637",
 "date": "2026-10-04",
 "time": "15:00",
@@ -711,6 +601,16 @@
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/center-for-interfaith-dialogue-jewish-and-catholic-law-in-dialogue/",
 "src": "emanuel"
+},
+{
+"id": "seb8119195d",
+"date": "2026-10-06",
+"time": "18:30",
+"title": "Grieving & Weaving",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grieving-weaving-8/2026-10-06/",
+"src": "greenwood"
 },
 {
 "id": "se7cd89f609",
@@ -843,6 +743,16 @@
 "src": "emanuel"
 },
 {
+"id": "s6cff9786d4",
+"date": "2026-10-08",
+"time": "18:30",
+"title": "Grieving & Weaving",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grieving-weaving-8/2026-10-08/",
+"src": "greenwood"
+},
+{
 "id": "s90aee63ec7",
 "date": "2026-10-08",
 "time": "19:30",
@@ -871,16 +781,6 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/annual-sake-tasting/",
 "src": "japansociety"
-},
-{
-"id": "s27f392a237",
-"date": "2026-10-09",
-"time": "18:30",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-49/2026-10-09/2/",
-"src": "greenwood"
 },
 {
 "id": "s6c6a8ed807",
@@ -923,6 +823,16 @@
 "src": "dyckman"
 },
 {
+"id": "sd7c5ca2cd0",
+"date": "2026-10-10",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-24/",
+"src": "greenwood"
+},
+{
 "id": "s7068cbe480",
 "date": "2026-10-10",
 "time": "14:00",
@@ -940,16 +850,6 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/revolutionary-spirits-7/2026-10-10/",
-"src": "greenwood"
-},
-{
-"id": "s7af47c3c8c",
-"date": "2026-10-10",
-"time": "18:30",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-49/2026-10-10/2/",
 "src": "greenwood"
 },
 {
@@ -991,6 +891,26 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
 "src": "zwirner"
+},
+{
+"id": "sb4f2bb9f7a",
+"date": "2026-10-11",
+"time": "11:00",
+"title": "Grave Beginnings: Green-Wood By Trolley",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley-8/",
+"src": "greenwood"
+},
+{
+"id": "s545e0222fc",
+"date": "2026-10-11",
+"time": "13:00",
+"title": "Green-Wood's Greatest Hits",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-woods-greatest-hits-15/",
+"src": "greenwood"
 },
 {
 "id": "s629a0fcba4",
@@ -1093,16 +1013,6 @@
 "src": "guggenheim"
 },
 {
-"id": "s6d33d95091",
-"date": "2026-10-16",
-"time": "19:30",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-49/2026-10-16/4/",
-"src": "greenwood"
-},
-{
 "id": "s64e3651f6a",
 "date": "2026-10-16",
 "time": "19:30",
@@ -1131,6 +1041,26 @@
 "cat": "houses",
 "url": "https://dyckmanfarmhouse.org/event/fall-festival-2026/",
 "src": "dyckman"
+},
+{
+"id": "sab171b5be1",
+"date": "2026-10-17",
+"time": "10:00",
+"title": "Shaping LGBTQ+ History: A Family Tour and Workshop",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/shaping-lgbtq-history-a-family-tour-and-workshop/",
+"src": "greenwood"
+},
+{
+"id": "s8e03db832e",
+"date": "2026-10-17",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-25/",
+"src": "greenwood"
 },
 {
 "id": "se4118fd27d",
