@@ -1,67 +1,7 @@
 {
-"generated": "2026-09-26T13:30:46+00:00",
-"count": 294,
+"generated": "2026-09-27T14:26:30+00:00",
+"count": 291,
 "events": [
-{
-"id": "s4834f96d85",
-"date": "2026-09-25",
-"time": "19:30",
-"title": "Jewels",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/jewels",
-"src": "nycballet"
-},
-{
-"id": "s676be84ef5",
-"date": "2026-09-25",
-"time": "",
-"title": "Family Shabbat",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/family-shabbat-881/",
-"src": "emanuel"
-},
-{
-"id": "sb2d51f4536",
-"date": "2026-09-26",
-"time": "10:00",
-"title": "Field of Legends: Baseball Greats of Green-Wood Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/field-of-legends-baseball-greats-of-green-wood-trolley-tour/",
-"src": "greenwood"
-},
-{
-"id": "s02f76e7425",
-"date": "2026-09-26",
-"time": "12:00",
-"title": "Last Saturdays: Open Classroom",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/last-saturdays-open-classroom-4/",
-"src": "greenwood"
-},
-{
-"id": "sbfaa6ba4c3",
-"date": "2026-09-26",
-"time": "13:00",
-"title": "Discover Green-Wood Trolley Tour (Cancelled)",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-cancelled/",
-"src": "greenwood"
-},
-{
-"id": "s46417178a4",
-"date": "2026-09-26",
-"time": "14:00",
-"title": "Explore Green-Wood\u2019s Fungal Biodiversity: Cemetery Meadow",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/explore-green-woods-fungal-biodiversity-cemetery-meadow/",
-"src": "greenwood"
-},
 {
 "id": "s930c3eedd3",
 "date": "2026-09-26",
@@ -71,26 +11,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/jewels",
 "src": "nycballet"
-},
-{
-"id": "s29bc25b114",
-"date": "2026-09-26",
-"time": "",
-"title": "Free Gentle Yoga on the Lawn (registration required)",
-"venue": "Alice Austen House",
-"cat": "houses",
-"url": "https://momence.com/Be-Yoga-%26-Dance-SI/Free-Gentle-Yoga-%40-Alice-Austen-House-/133575209?skipPreview=true",
-"src": "aliceausten"
-},
-{
-"id": "s35e78766c5",
-"date": "2026-09-27",
-"time": "06:30",
-"title": "Birding In Peace (cancelled)",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/birding-in-peace-33/",
-"src": "greenwood"
 },
 {
 "id": "sbb1398606f",
@@ -1063,6 +983,16 @@
 "src": "greenwood"
 },
 {
+"id": "s70865abab7",
+"date": "2026-10-17",
+"time": "15:00",
+"title": "Secrets in Stone",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/secrets-in-stone-13/2026-10-17/",
+"src": "greenwood"
+},
+{
 "id": "se4118fd27d",
 "date": "2026-10-17",
 "time": "19:30",
@@ -1101,6 +1031,46 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/family-art-day-button-making-inspired-by-art-of-inokuma/",
 "src": "japansociety"
+},
+{
+"id": "sace7ee9669",
+"date": "2026-10-18",
+"time": "06:30",
+"title": "Birding In Peace",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/birding-in-peace-32/2026-10-18/",
+"src": "greenwood"
+},
+{
+"id": "sc869fc7892",
+"date": "2026-10-18",
+"time": "10:00",
+"title": "Grave Beginnings: Walking Green-Wood",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-10-18/",
+"src": "greenwood"
+},
+{
+"id": "saefb0a8b24",
+"date": "2026-10-18",
+"time": "13:00",
+"title": "Green-Wood's Greatest Hits",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-woods-greatest-hits-16/",
+"src": "greenwood"
+},
+{
+"id": "s2b71327f8e",
+"date": "2026-10-18",
+"time": "15:00",
+"title": "Fame, Fortune, & the Forgotten: The Untold Stories of Victorian Women",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/fame-fortune-the-forgotten-the-untold-stories-of-victorian-women-3/",
+"src": "greenwood"
 },
 {
 "id": "s9492794ccb",

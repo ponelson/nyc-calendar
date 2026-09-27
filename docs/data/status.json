@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-26T13:30:46+00:00",
-  "healthy": 11,
+  "generated": "2026-09-27T14:26:30+00:00",
+  "healthy": 10,
   "total": 23,
   "venues": [
     {
@@ -8,7 +8,7 @@
       "name": "New York City Ballet",
       "cat": "dance",
       "strategy": "custom",
-      "count": 97,
+      "count": 96,
       "error": null
     },
     {
@@ -24,7 +24,7 @@
       "name": "Temple Emanu-El \u2014 Streicker",
       "cat": "classical",
       "strategy": "custom",
-      "count": 31,
+      "count": 30,
       "error": null
     },
     {
@@ -161,15 +161,15 @@
       "cat": "houses",
       "strategy": "ics",
       "count": 0,
-      "error": "RuntimeError: HTTP 403"
+      "error": "RuntimeError: HTTP 202"
     },
     {
       "id": "aliceausten",
       "name": "Alice Austen House",
       "cat": "houses",
       "strategy": "jsonld",
-      "count": 1,
-      "error": null
+      "count": 0,
+      "error": "no events parsed"
     },
     {
       "id": "dyckman",
