@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-27T14:26:30+00:00",
-  "healthy": 10,
+  "generated": "2026-09-28T17:13:51+00:00",
+  "healthy": 11,
   "total": 23,
   "venues": [
     {
@@ -8,7 +8,7 @@
       "name": "New York City Ballet",
       "cat": "dance",
       "strategy": "custom",
-      "count": 96,
+      "count": 127,
       "error": null
     },
     {
@@ -72,7 +72,7 @@
       "name": "Guggenheim",
       "cat": "art",
       "strategy": "custom",
-      "count": 25,
+      "count": 24,
       "error": null
     },
     {
@@ -80,8 +80,8 @@
       "name": "Cooper Hewitt",
       "cat": "art",
       "strategy": "custom",
-      "count": 0,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.cooperhewitt.org/wp-json/wp/v2/ch_events?per_page=100"
+      "count": 20,
+      "error": null
     },
     {
       "id": "rubin",
