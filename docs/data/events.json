@@ -1,27 +1,7 @@
 {
-"generated": "2026-09-28T17:13:51+00:00",
-"count": 341,
+"generated": "2026-09-29T15:16:16+00:00",
+"count": 340,
 "events": [
-{
-"id": "s4a832ab1cc",
-"date": "2026-09-27",
-"time": "15:00",
-"title": "Jewels",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/jewels",
-"src": "nycballet"
-},
-{
-"id": "sd284142881",
-"date": "2026-09-27",
-"time": "",
-"title": "The Inside Track: Christopher Payne on Photographing the MTA",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/the-inside-track-christopher-payne-on-photographing-the-mta-09-23-2026/",
-"src": "cooperhewitt"
-},
 {
 "id": "s4cbd0e8c4d",
 "date": "2026-09-28",
@@ -1141,6 +1121,16 @@
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/estrangement-support-group/",
 "src": "emanuel"
+},
+{
+"id": "s958b87fec6",
+"date": "2026-10-21",
+"time": "",
+"title": "Making the Museum: Inside Victoria &amp; Albert&#8217;s East Storehouse",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/making-the-museum-inside-victoria-alberts-east-storehouse-10-21-2026/",
+"src": "cooperhewitt"
 },
 {
 "id": "s5187a56938",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T17:13:51+00:00",
+  "generated": "2026-09-29T15:16:16+00:00",
   "healthy": 11,
   "total": 23,
   "venues": [
@@ -8,7 +8,7 @@
       "name": "New York City Ballet",
       "cat": "dance",
       "strategy": "custom",
-      "count": 127,
+      "count": 126,
       "error": null
     },
     {
@@ -161,7 +161,7 @@
       "cat": "houses",
       "strategy": "ics",
       "count": 0,
-      "error": "RuntimeError: HTTP 202"
+      "error": "RuntimeError: HTTP 403"
     },
     {
       "id": "aliceausten",
