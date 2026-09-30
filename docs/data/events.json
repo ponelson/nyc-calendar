@@ -1,27 +1,7 @@
 {
-"generated": "2026-09-29T15:16:16+00:00",
-"count": 340,
+"generated": "2026-09-30T15:30:39+00:00",
+"count": 331,
 "events": [
-{
-"id": "s4cbd0e8c4d",
-"date": "2026-09-28",
-"time": "",
-"title": "Tikkun Olam: Last Day of Sukkot Apple Drive \u2014 opens",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/last-day-of-sukkot-apple-drive-5787/",
-"src": "emanuel"
-},
-{
-"id": "sfe9d32d2dd",
-"date": "2026-09-28",
-"time": "",
-"title": "Tikkun Olam: First Day of Sukkot Apple Drive \u2014 opens",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/tikkun-olam-first-day-of-sukkot-food-drive-370/",
-"src": "emanuel"
-},
 {
 "id": "s4e3f871ef3",
 "date": "2026-09-29",
@@ -43,6 +23,26 @@
 "src": "zwirner"
 },
 {
+"id": "s7dd5882d02",
+"date": "2026-09-30",
+"time": "00:00",
+"title": "2026 Simons Society of Fellows Alumni Symposium",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/simons-society-of-fellows-alumni-symposium-2026/",
+"src": "simons"
+},
+{
+"id": "se8f74bc05c",
+"date": "2026-09-30",
+"time": "10:00",
+"title": "Planets in the Galactic Context Workshop",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/planets-in-the-galactic-context-workshop/",
+"src": "simons"
+},
+{
 "id": "se200ab52e1",
 "date": "2026-09-30",
 "time": "19:30",
@@ -51,26 +51,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
 "src": "nycballet"
-},
-{
-"id": "s9705802936",
-"date": "2026-09-30",
-"time": "20:00",
-"title": "Camerata Nordica Octet",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/09/30/camerata-nordica-octet-0800pm",
-"src": "carnegie"
-},
-{
-"id": "s708276fda0",
-"date": "2026-09-30",
-"time": "20:00",
-"title": "Jacob Collier",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/09/30/jacob-collier-0800pm",
-"src": "carnegie"
 },
 {
 "id": "sa300cacdb3",
@@ -123,6 +103,26 @@
 "src": "emanuel"
 },
 {
+"id": "s81454fc0ef",
+"date": "2026-10-01",
+"time": "00:00",
+"title": "2026 Simons Society of Fellows Alumni Symposium",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/simons-society-of-fellows-alumni-symposium-2026/",
+"src": "simons"
+},
+{
+"id": "se5d123b6d1",
+"date": "2026-10-01",
+"time": "10:00",
+"title": "Planets in the Galactic Context Workshop",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/planets-in-the-galactic-context-workshop/",
+"src": "simons"
+},
+{
 "id": "s7df250b492",
 "date": "2026-10-01",
 "time": "17:00",
@@ -143,26 +143,6 @@
 "src": "nycballet"
 },
 {
-"id": "sbe074291cf",
-"date": "2026-10-01",
-"time": "20:00",
-"title": "Ludovico Einaudi",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/01/ludovico-einaudi-0800pm",
-"src": "carnegie"
-},
-{
-"id": "s01bddf9b78",
-"date": "2026-10-01",
-"time": "20:00",
-"title": "Diana Jipa, Violin<br />\u0218tefan Doniga, Piano",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/01/diana-jipa-violin-stefan-doniga-piano-0800pm",
-"src": "carnegie"
-},
-{
 "id": "s5dd3489903",
 "date": "2026-10-01",
 "time": "",
@@ -171,6 +151,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
 "src": "zwirner"
+},
+{
+"id": "s74f40c0b62",
+"date": "2026-10-02",
+"time": "10:00",
+"title": "Planets in the Galactic Context Workshop",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/planets-in-the-galactic-context-workshop/",
+"src": "simons"
 },
 {
 "id": "sae655e6dc1",
@@ -193,16 +183,6 @@
 "src": "greenwood"
 },
 {
-"id": "sd346e39fbf",
-"date": "2026-10-02",
-"time": "19:30",
-"title": "Chasing Dreams: Bard East/West Ensemble and China Now Chamber Orchestra",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/02/chasing-dreams-bard-eastwest-ensemble-and-china-now-chamber-orchestra-0730pm",
-"src": "carnegie"
-},
-{
 "id": "s46fce0a395",
 "date": "2026-10-02",
 "time": "19:30",
@@ -211,26 +191,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
 "src": "nycballet"
-},
-{
-"id": "s7bccc1f75f",
-"date": "2026-10-02",
-"time": "20:00",
-"title": "Voices Unbound: A Benefit Concert of New Chamber Works for Facta Non Verba",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/02/voices-unbound-a-benefit-concert-of-new-chamber-works-for-facta-non-verba-0800pm",
-"src": "carnegie"
-},
-{
-"id": "s67060cb147",
-"date": "2026-10-02",
-"time": "20:00",
-"title": "Ludovico Einaudi",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/02/ludovico-einaudi-0800pm",
-"src": "carnegie"
 },
 {
 "id": "s7a63e0b160",
@@ -283,16 +243,6 @@
 "src": "greenwood"
 },
 {
-"id": "se55ab60d82",
-"date": "2026-10-03",
-"time": "13:00",
-"title": "American Masters Music Awards Winners Concert",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/03/american-masters-music-awards-winners-concert-0100pm",
-"src": "carnegie"
-},
-{
 "id": "s563908fcf7",
 "date": "2026-10-03",
 "time": "13:00",
@@ -303,24 +253,14 @@
 "src": "greenwood"
 },
 {
-"id": "sfb7c47b83b",
+"id": "s081909d7a4",
 "date": "2026-10-03",
-"time": "19:30",
-"title": "Hai-Kyung Suh, Piano",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/03/haikyung-suh-piano-0730pm",
-"src": "carnegie"
-},
-{
-"id": "sd5d86b6afc",
-"date": "2026-10-03",
-"time": "19:30",
-"title": "Ilya Kaler, Violin<br />\u200bRasa Vitkauskaite, Piano<br />\u200bWith special guests Paquito D'Rivera, Jonathan Cohler, Dave Egga",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/03/ilya-kaler-violin-rasa-vitkauskaite-piano-with-special-guests-paquito-drivera-0730pm",
-"src": "carnegie"
+"time": "18:30",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-52/",
+"src": "greenwood"
 },
 {
 "id": "scc0b7a671b",
@@ -693,6 +633,16 @@
 "src": "japansociety"
 },
 {
+"id": "s27f392a237",
+"date": "2026-10-09",
+"time": "18:30",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-53/",
+"src": "greenwood"
+},
+{
 "id": "s6c6a8ed807",
 "date": "2026-10-09",
 "time": "19:30",
@@ -760,6 +710,16 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/revolutionary-spirits-7/2026-10-10/",
+"src": "greenwood"
+},
+{
+"id": "s7af47c3c8c",
+"date": "2026-10-10",
+"time": "18:30",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-54/",
 "src": "greenwood"
 },
 {
@@ -943,6 +903,16 @@
 "src": "nycballet"
 },
 {
+"id": "s6df033f457",
+"date": "2026-10-16",
+"time": "",
+"title": "Shabbat Dinner Together at Chelsea Market",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/shabbat-dinner-together-602-343/",
+"src": "emanuel"
+},
+{
 "id": "s1bee7f71c9",
 "date": "2026-10-17",
 "time": "10:00",
@@ -961,36 +931,6 @@
 "cat": "houses",
 "url": "https://dyckmanfarmhouse.org/event/fall-festival-2026/",
 "src": "dyckman"
-},
-{
-"id": "sab171b5be1",
-"date": "2026-10-17",
-"time": "10:00",
-"title": "Shaping LGBTQ+ History: A Family Tour and Workshop",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/shaping-lgbtq-history-a-family-tour-and-workshop/",
-"src": "greenwood"
-},
-{
-"id": "s8e03db832e",
-"date": "2026-10-17",
-"time": "13:00",
-"title": "Discover Green-Wood Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-25/",
-"src": "greenwood"
-},
-{
-"id": "s70865abab7",
-"date": "2026-10-17",
-"time": "15:00",
-"title": "Secrets in Stone",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/secrets-in-stone-13/2026-10-17/",
-"src": "greenwood"
 },
 {
 "id": "se4118fd27d",
@@ -1031,36 +971,6 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/family-art-day-button-making-inspired-by-art-of-inokuma/",
 "src": "japansociety"
-},
-{
-"id": "sace7ee9669",
-"date": "2026-10-18",
-"time": "06:30",
-"title": "Birding In Peace",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/birding-in-peace-32/2026-10-18/",
-"src": "greenwood"
-},
-{
-"id": "sc869fc7892",
-"date": "2026-10-18",
-"time": "10:00",
-"title": "Grave Beginnings: Walking Green-Wood",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-10-18/",
-"src": "greenwood"
-},
-{
-"id": "saefb0a8b24",
-"date": "2026-10-18",
-"time": "13:00",
-"title": "Green-Wood's Greatest Hits",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-woods-greatest-hits-16/",
-"src": "greenwood"
 },
 {
 "id": "s9492794ccb",
@@ -1193,16 +1103,6 @@
 "src": "emanuel"
 },
 {
-"id": "s5bdc325102",
-"date": "2026-10-26",
-"time": "",
-"title": "Connecting at Emanu-El: New Member Conversations with Rabbi Davidson",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/connecting-at-emanu-el-new-member-conversations-with-rabbi-davidson/",
-"src": "emanuel"
-},
-{
 "id": "s5849122eaa",
 "date": "2026-10-27",
 "time": "",
@@ -1231,6 +1131,16 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/mentoring-up-in-stem-strengthening-relationships/",
 "src": "nyas"
+},
+{
+"id": "s54bfa7d403",
+"date": "2026-10-29",
+"time": "18:00",
+"title": "Opening Reception: Spot P!",
+"venue": "Dyckman Farmhouse",
+"cat": "houses",
+"url": "https://dyckmanfarmhouse.org/event/opening-reception-spot-p/",
+"src": "dyckman"
 },
 {
 "id": "s6a84f87ef7",
