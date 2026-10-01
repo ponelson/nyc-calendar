@@ -1,37 +1,7 @@
 {
-"generated": "2026-09-30T15:30:39+00:00",
-"count": 331,
+"generated": "2026-10-01T15:53:18+00:00",
+"count": 354,
 "events": [
-{
-"id": "s4e3f871ef3",
-"date": "2026-09-29",
-"time": "19:30",
-"title": "Masters at Work I",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
-"src": "nycballet"
-},
-{
-"id": "saa9afdc312",
-"date": "2026-09-29",
-"time": "",
-"title": "Everyone you\u2019re looking at is also you",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
-"src": "zwirner"
-},
-{
-"id": "s7dd5882d02",
-"date": "2026-09-30",
-"time": "00:00",
-"title": "2026 Simons Society of Fellows Alumni Symposium",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/simons-society-of-fellows-alumni-symposium-2026/",
-"src": "simons"
-},
 {
 "id": "se8f74bc05c",
 "date": "2026-09-30",
@@ -73,43 +43,13 @@
 "src": "nyas"
 },
 {
-"id": "s13849a8178",
-"date": "2026-09-30",
-"time": "",
-"title": "Community Sukkah Viewing",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/community-sukkah-viewing/",
-"src": "emanuel"
-},
-{
-"id": "s49bb18a2df",
-"date": "2026-09-30",
-"time": "",
-"title": "Open to All: Experience Emanu-El\u2019s Sukkah Up Close",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/open-to-all-experience-emanu-els-sukkah-up-close/",
-"src": "emanuel"
-},
-{
-"id": "s7bfb0be466",
-"date": "2026-09-30",
-"time": "",
-"title": "Community as Family: Zoom Virtual Meeting",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/community-as-family-virtual-meeting-3-188-606/",
-"src": "emanuel"
-},
-{
-"id": "s81454fc0ef",
+"id": "sc37dbbb08b",
 "date": "2026-10-01",
 "time": "00:00",
-"title": "2026 Simons Society of Fellows Alumni Symposium",
+"title": "2026 Simons Collaboration on Moduli of Varieties Annual Meeting",
 "venue": "Simons Foundation",
 "cat": "talks",
-"url": "https://www.simonsfoundation.org/event/simons-society-of-fellows-alumni-symposium-2026/",
+"url": "https://www.simonsfoundation.org/event/simons-collaboration-on-moduli-of-varieties-annual-meeting-2026/",
 "src": "simons"
 },
 {
@@ -143,6 +83,26 @@
 "src": "nycballet"
 },
 {
+"id": "sbe074291cf",
+"date": "2026-10-01",
+"time": "20:00",
+"title": "Ludovico Einaudi",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/01/ludovico-einaudi-0800pm",
+"src": "carnegie"
+},
+{
+"id": "s01bddf9b78",
+"date": "2026-10-01",
+"time": "20:00",
+"title": "Diana Jipa, Violin<br />\u0218tefan Doniga, Piano",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/01/diana-jipa-violin-stefan-doniga-piano-0800pm",
+"src": "carnegie"
+},
+{
 "id": "s5dd3489903",
 "date": "2026-10-01",
 "time": "",
@@ -151,6 +111,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
 "src": "zwirner"
+},
+{
+"id": "s93d8b508dc",
+"date": "2026-10-02",
+"time": "00:00",
+"title": "2026 Simons Collaboration on Moduli of Varieties Annual Meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/simons-collaboration-on-moduli-of-varieties-annual-meeting-2026/",
+"src": "simons"
 },
 {
 "id": "s74f40c0b62",
@@ -183,6 +153,16 @@
 "src": "greenwood"
 },
 {
+"id": "sd346e39fbf",
+"date": "2026-10-02",
+"time": "19:30",
+"title": "Chasing Dreams: Bard East/West Ensemble and China Now Chamber Orchestra",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/02/chasing-dreams-bard-eastwest-ensemble-and-china-now-chamber-orchestra-0730pm",
+"src": "carnegie"
+},
+{
 "id": "s46fce0a395",
 "date": "2026-10-02",
 "time": "19:30",
@@ -191,6 +171,26 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
 "src": "nycballet"
+},
+{
+"id": "s7bccc1f75f",
+"date": "2026-10-02",
+"time": "20:00",
+"title": "Voices Unbound: A Benefit Concert of New Chamber Works for Facta Non Verba",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/02/voices-unbound-a-benefit-concert-of-new-chamber-works-for-facta-non-verba-0800pm",
+"src": "carnegie"
+},
+{
+"id": "s67060cb147",
+"date": "2026-10-02",
+"time": "20:00",
+"title": "Ludovico Einaudi",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/02/ludovico-einaudi-0800pm",
+"src": "carnegie"
 },
 {
 "id": "s7a63e0b160",
@@ -211,6 +211,16 @@
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/simchat-torah-family-party/",
 "src": "emanuel"
+},
+{
+"id": "sf8a91a6c9c",
+"date": "2026-10-03",
+"time": "00:00",
+"title": "2026 Simons Collaboration on Moduli of Varieties Annual Meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/simons-collaboration-on-moduli-of-varieties-annual-meeting-2026/",
+"src": "simons"
 },
 {
 "id": "sf860657cdc",
@@ -243,6 +253,16 @@
 "src": "greenwood"
 },
 {
+"id": "se55ab60d82",
+"date": "2026-10-03",
+"time": "13:00",
+"title": "American Masters Music Awards Winners Concert",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/03/american-masters-music-awards-winners-concert-0100pm",
+"src": "carnegie"
+},
+{
 "id": "s563908fcf7",
 "date": "2026-10-03",
 "time": "13:00",
@@ -263,6 +283,26 @@
 "src": "greenwood"
 },
 {
+"id": "sfb7c47b83b",
+"date": "2026-10-03",
+"time": "19:30",
+"title": "Hai-Kyung Suh, Piano",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/03/haikyung-suh-piano-0730pm",
+"src": "carnegie"
+},
+{
+"id": "sd5d86b6afc",
+"date": "2026-10-03",
+"time": "19:30",
+"title": "Ilya Kaler, Violin<br />\u200bRasa Vitkauskaite, Piano<br />\u200bWith special guests Paquito D'Rivera, Jonathan Cohler, Dave Egga",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/03/ilya-kaler-violin-rasa-vitkauskaite-piano-with-special-guests-paquito-drivera-0730pm",
+"src": "carnegie"
+},
+{
 "id": "scc0b7a671b",
 "date": "2026-10-03",
 "time": "19:30",
@@ -271,6 +311,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
 "src": "nycballet"
+},
+{
+"id": "s04e08d526d",
+"date": "2026-10-03",
+"time": "20:00",
+"title": "New York Franz Liszt International Piano Competition Grand Final",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/03/new-york-franz-liszt-international-piano-competition-grand-final-0800pm",
+"src": "carnegie"
 },
 {
 "id": "se1ed4906b7",
@@ -373,6 +423,16 @@
 "src": "greenwood"
 },
 {
+"id": "sb401dd8022",
+"date": "2026-10-04",
+"time": "13:00",
+"title": "Mohan Liu, Piano <br />\u200bYangmingtian Zhao, Piano <br />\u200bSteven Spooner, Piano",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/04/mohan-liu-piano-yangmingtian-zhao-piano-steven-spooner-piano-0100pm",
+"src": "carnegie"
+},
+{
 "id": "sbcf4ffe492",
 "date": "2026-10-04",
 "time": "13:00",
@@ -380,6 +440,16 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/green-woods-greatest-hits-14/",
+"src": "greenwood"
+},
+{
+"id": "sfff8941cd4",
+"date": "2026-10-04",
+"time": "14:00",
+"title": "Explore Green-Wood\u2019s Fungal Biodiversity: Cemetery Meadow",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/explore-green-woods-fungal-biodiversity-cemetery-meadow/",
 "src": "greenwood"
 },
 {
@@ -883,16 +953,6 @@
 "src": "guggenheim"
 },
 {
-"id": "s5bdc86a345",
-"date": "2026-10-16",
-"time": "14:00",
-"title": "TGIF! Afterschool Story and Craft Hour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/tgif-2/",
-"src": "greenwood"
-},
-{
 "id": "s64e3651f6a",
 "date": "2026-10-16",
 "time": "19:30",
@@ -983,26 +1043,6 @@
 "src": "nycballet"
 },
 {
-"id": "s6958d01364",
-"date": "2026-10-18",
-"time": "",
-"title": "Tikkun Olam: Last Day of Sukkot Apple Drive \u2014 final day",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/last-day-of-sukkot-apple-drive-5787/",
-"src": "emanuel"
-},
-{
-"id": "s98bcc8ff6b",
-"date": "2026-10-18",
-"time": "",
-"title": "Tikkun Olam: First Day of Sukkot Apple Drive \u2014 final day",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/tikkun-olam-first-day-of-sukkot-food-drive-370/",
-"src": "emanuel"
-},
-{
 "id": "saeac5a8888",
 "date": "2026-10-18",
 "time": "",
@@ -1021,6 +1061,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/oscar-murillo-unfinished-thinking-paintings-and-social-maps",
 "src": "zwirner"
+},
+{
+"id": "sc12a5b6a71",
+"date": "2026-10-20",
+"time": "",
+"title": "The Art of Good Company: Painting at Emanu-El",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/the-art-of-good-company-painting-at-emanu-el/",
+"src": "emanuel"
 },
 {
 "id": "s8ec39f8d2f",
@@ -1253,16 +1303,6 @@
 "src": "mvhm"
 },
 {
-"id": "sbd9d8de4b8",
-"date": "2026-11-07",
-"time": "",
-"title": "exonemo: Terminal at NowHere \u2014 final day",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/exonemo-terminal-at-nowhere/",
-"src": "japansociety"
-},
-{
 "id": "s9af960d332",
 "date": "2026-11-09",
 "time": "15:00",
@@ -1281,6 +1321,16 @@
 "cat": "houses",
 "url": "https://mvhm.org/event/an-unlikely-barn-the-mount-vernon-hotel-museum-early-villa-building/",
 "src": "mvhm"
+},
+{
+"id": "sda6f09f2cf",
+"date": "2026-11-10",
+"time": "",
+"title": "Under the Oculus: A Celebration of Visionaries",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/under-the-oculus-a-celebration-of-visionaries",
+"src": "guggenheim"
 },
 {
 "id": "sf7e02dc38d",
@@ -3311,6 +3361,186 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/asl-tour-of-guggenheim-pop-1960-to-now",
 "src": "guggenheim"
+},
+{
+"id": "sdcf0f4d044",
+"date": "2027-09-03",
+"time": "",
+"title": "Japanese Oktoberfest",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/japanese-oktoberfest/",
+"src": "japansociety"
+},
+{
+"id": "s5b742184bd",
+"date": "2027-09-08",
+"time": "",
+"title": "Opening Reception: Gen\u2019ichir\u014d Inokuma\u2019s NYC Salon",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/opening-reception-genichiro-inokumas-nyc-salon/",
+"src": "japansociety"
+},
+{
+"id": "s14dfba1e96",
+"date": "2027-09-10",
+"time": "",
+"title": "exonemo: Terminal at NowHere \u2014 opens",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/exonemo-terminal-at-nowhere/",
+"src": "japansociety"
+},
+{
+"id": "s9418e77b80",
+"date": "2027-09-11",
+"time": "",
+"title": "Opening Reception | Chiharu Shiota: Two Home Countries",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/opening-reception-chiharu-shiota-two-home-countries/",
+"src": "japansociety"
+},
+{
+"id": "sa7226275b5",
+"date": "2027-09-21",
+"time": "",
+"title": "Caf\u00e9 Rebay x Patrick Rosal",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/cafe-rebay-x-patrick-rosal",
+"src": "guggenheim"
+},
+{
+"id": "sb246a29cc2",
+"date": "2027-09-22",
+"time": "",
+"title": "Women of Emanu-El: Fall Tuesday Evening Beginner Bridge Class",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-fall-tuesday-evening-beginner-bridge-class/",
+"src": "emanuel"
+},
+{
+"id": "s272a08c4c9",
+"date": "2027-09-23",
+"time": "",
+"title": "Women of Emanu-El: Morning Supervised Bridge Class",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-morning-supervised-class/",
+"src": "emanuel"
+},
+{
+"id": "s62d0149eff",
+"date": "2027-09-24",
+"time": "",
+"title": "An Interview with Mieko Kawakami: An Owl Takes Flight at Dawn",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/an-interview-with-mieko-kawakami-an-owl-takes-flight-at-dawn/",
+"src": "japansociety"
+},
+{
+"id": "s71c5c62462",
+"date": "2027-09-24",
+"time": "",
+"title": "Women of Emanu-El: Thursday Evening Bridge Supervised Play",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-thursday-evening-bridge-supervised-play/",
+"src": "emanuel"
+},
+{
+"id": "s63de66a122",
+"date": "2027-09-24",
+"time": "",
+"title": "Women of Emanu-El: Thursday Morning Intermediate Bridge Class",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-thursday-morning-intermediate-bridge-class/",
+"src": "emanuel"
+},
+{
+"id": "sa26ae3bbf8",
+"date": "2027-09-25",
+"time": "",
+"title": "Family Shabbat",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/family-shabbat-881/",
+"src": "emanuel"
+},
+{
+"id": "s7c7b67a700",
+"date": "2027-09-28",
+"time": "",
+"title": "Tikkun Olam: Last Day of Sukkot Apple Drive \u2014 opens",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/last-day-of-sukkot-apple-drive-5787/",
+"src": "emanuel"
+},
+{
+"id": "scf5da6ae93",
+"date": "2027-09-28",
+"time": "",
+"title": "Tikkun Olam: First Day of Sukkot Apple Drive \u2014 opens",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tikkun-olam-first-day-of-sukkot-food-drive-370/",
+"src": "emanuel"
+},
+{
+"id": "sd3cf03ee53",
+"date": "2027-09-30",
+"time": "",
+"title": "Community Sukkah Viewing",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/community-sukkah-viewing/",
+"src": "emanuel"
+},
+{
+"id": "sd92631d76e",
+"date": "2027-09-30",
+"time": "",
+"title": "Open to All: Experience Emanu-El\u2019s Sukkah Up Close",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/open-to-all-experience-emanu-els-sukkah-up-close/",
+"src": "emanuel"
+},
+{
+"id": "sa9d3065a0c",
+"date": "2027-09-30",
+"time": "",
+"title": "Community as Family: Zoom Virtual Meeting",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/community-as-family-virtual-meeting-3-188-606/",
+"src": "emanuel"
+},
+{
+"id": "s4fbd7b1dea",
+"date": "2027-10-18",
+"time": "",
+"title": "Tikkun Olam: Last Day of Sukkot Apple Drive \u2014 final day",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/last-day-of-sukkot-apple-drive-5787/",
+"src": "emanuel"
+},
+{
+"id": "sd4870cc344",
+"date": "2027-10-18",
+"time": "",
+"title": "Tikkun Olam: First Day of Sukkot Apple Drive \u2014 final day",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/tikkun-olam-first-day-of-sukkot-food-drive-370/",
+"src": "emanuel"
 }
 ]
 }
