@@ -1,47 +1,7 @@
 {
-"generated": "2026-10-01T15:53:18+00:00",
-"count": 354,
+"generated": "2026-10-02T15:14:01+00:00",
+"count": 351,
 "events": [
-{
-"id": "se8f74bc05c",
-"date": "2026-09-30",
-"time": "10:00",
-"title": "Planets in the Galactic Context Workshop",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/planets-in-the-galactic-context-workshop/",
-"src": "simons"
-},
-{
-"id": "se200ab52e1",
-"date": "2026-09-30",
-"time": "19:30",
-"title": "Masters at Work I",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
-"src": "nycballet"
-},
-{
-"id": "sa300cacdb3",
-"date": "2026-09-30",
-"time": "",
-"title": "Everyone you\u2019re looking at is also you",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
-"src": "zwirner"
-},
-{
-"id": "sb3fd479d9c",
-"date": "2026-09-30",
-"time": "",
-"title": "Ace the Faculty Interview: Insights from Preparation to Execution",
-"venue": "New York Academy of Sciences",
-"cat": "talks",
-"url": "https://www.nyas.org/shaping-science/events/ace-the-faculty-interview/",
-"src": "nyas"
-},
 {
 "id": "sc37dbbb08b",
 "date": "2026-10-01",
@@ -63,16 +23,6 @@
 "src": "simons"
 },
 {
-"id": "s7df250b492",
-"date": "2026-10-01",
-"time": "17:00",
-"title": "Fall Teacher Happy Hour: Green-House and Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/fall-teacher-happy-hour-green-house-and-trolley-tour/",
-"src": "greenwood"
-},
-{
 "id": "sb8e97ac282",
 "date": "2026-10-01",
 "time": "19:00",
@@ -81,26 +31,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/fall-fashion-gala",
 "src": "nycballet"
-},
-{
-"id": "sbe074291cf",
-"date": "2026-10-01",
-"time": "20:00",
-"title": "Ludovico Einaudi",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/01/ludovico-einaudi-0800pm",
-"src": "carnegie"
-},
-{
-"id": "s01bddf9b78",
-"date": "2026-10-01",
-"time": "20:00",
-"title": "Diana Jipa, Violin<br />\u0218tefan Doniga, Piano",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/01/diana-jipa-violin-stefan-doniga-piano-0800pm",
-"src": "carnegie"
 },
 {
 "id": "s5dd3489903",
@@ -143,14 +73,24 @@
 "src": "mvhm"
 },
 {
-"id": "s964c570ba9",
+"id": "s3f967af62b",
 "date": "2026-10-02",
 "time": "14:00",
-"title": "TGIF! Afterschool Story and Craft Hour",
+"title": "TGIF! Afterschool Story and Craft Hour (Cancelled)",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/tgif-1/",
 "src": "greenwood"
+},
+{
+"id": "s9965b557e8",
+"date": "2026-10-02",
+"time": "15:00",
+"title": "CCA Colloquium: Eve Ostriker",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/cca-colloquium-tbd-october-2-2026/",
+"src": "simons"
 },
 {
 "id": "sd346e39fbf",
@@ -443,6 +383,16 @@
 "src": "greenwood"
 },
 {
+"id": "s23bed6b684",
+"date": "2026-10-04",
+"time": "14:00",
+"title": "Frieren: Beyond Journey's End Film Concert",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/04/frieren-beyond-journeys-end-film-concert-0200pm",
+"src": "carnegie"
+},
+{
 "id": "sfff8941cd4",
 "date": "2026-10-04",
 "time": "14:00",
@@ -461,6 +411,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
 "src": "nycballet"
+},
+{
+"id": "s46e2b0a579",
+"date": "2026-10-04",
+"time": "19:30",
+"title": "Manhattan International Piano Competition Winners Recital",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/04/manhattan-international-piano-competition-winners-recital-0730pm",
+"src": "carnegie"
 },
 {
 "id": "s8bed9362aa",
@@ -951,6 +911,16 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/late-shift",
 "src": "guggenheim"
+},
+{
+"id": "s5bdc86a345",
+"date": "2026-10-16",
+"time": "14:00",
+"title": "TGIF! Afterschool Story and Craft Hour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/tgif-2/",
+"src": "greenwood"
 },
 {
 "id": "s64e3651f6a",
