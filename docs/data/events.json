@@ -1,107 +1,7 @@
 {
-"generated": "2026-10-02T15:14:01+00:00",
-"count": 351,
+"generated": "2026-10-03T14:06:29+00:00",
+"count": 342,
 "events": [
-{
-"id": "sc37dbbb08b",
-"date": "2026-10-01",
-"time": "00:00",
-"title": "2026 Simons Collaboration on Moduli of Varieties Annual Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/simons-collaboration-on-moduli-of-varieties-annual-meeting-2026/",
-"src": "simons"
-},
-{
-"id": "se5d123b6d1",
-"date": "2026-10-01",
-"time": "10:00",
-"title": "Planets in the Galactic Context Workshop",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/planets-in-the-galactic-context-workshop/",
-"src": "simons"
-},
-{
-"id": "sb8e97ac282",
-"date": "2026-10-01",
-"time": "19:00",
-"title": "Fall Fashion Gala",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/fall-fashion-gala",
-"src": "nycballet"
-},
-{
-"id": "s5dd3489903",
-"date": "2026-10-01",
-"time": "",
-"title": "Everyone you\u2019re looking at is also you",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
-"src": "zwirner"
-},
-{
-"id": "s93d8b508dc",
-"date": "2026-10-02",
-"time": "00:00",
-"title": "2026 Simons Collaboration on Moduli of Varieties Annual Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/simons-collaboration-on-moduli-of-varieties-annual-meeting-2026/",
-"src": "simons"
-},
-{
-"id": "s74f40c0b62",
-"date": "2026-10-02",
-"time": "10:00",
-"title": "Planets in the Galactic Context Workshop",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/planets-in-the-galactic-context-workshop/",
-"src": "simons"
-},
-{
-"id": "sae655e6dc1",
-"date": "2026-10-02",
-"time": "12:00",
-"title": "A Current of Change: The Erie Canal and the Mount Vernon Hotel",
-"venue": "Mount Vernon Hotel Museum",
-"cat": "houses",
-"url": "https://mvhm.org/event/a-current-of-change-the-erie-canal-and-the-mount-vernon-hotel/",
-"src": "mvhm"
-},
-{
-"id": "s3f967af62b",
-"date": "2026-10-02",
-"time": "14:00",
-"title": "TGIF! Afterschool Story and Craft Hour (Cancelled)",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/tgif-1/",
-"src": "greenwood"
-},
-{
-"id": "s9965b557e8",
-"date": "2026-10-02",
-"time": "15:00",
-"title": "CCA Colloquium: Eve Ostriker",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/cca-colloquium-tbd-october-2-2026/",
-"src": "simons"
-},
-{
-"id": "sd346e39fbf",
-"date": "2026-10-02",
-"time": "19:30",
-"title": "Chasing Dreams: Bard East/West Ensemble and China Now Chamber Orchestra",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/02/chasing-dreams-bard-eastwest-ensemble-and-china-now-chamber-orchestra-0730pm",
-"src": "carnegie"
-},
 {
 "id": "s46fce0a395",
 "date": "2026-10-02",
@@ -111,26 +11,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
 "src": "nycballet"
-},
-{
-"id": "s7bccc1f75f",
-"date": "2026-10-02",
-"time": "20:00",
-"title": "Voices Unbound: A Benefit Concert of New Chamber Works for Facta Non Verba",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/02/voices-unbound-a-benefit-concert-of-new-chamber-works-for-facta-non-verba-0800pm",
-"src": "carnegie"
-},
-{
-"id": "s67060cb147",
-"date": "2026-10-02",
-"time": "20:00",
-"title": "Ludovico Einaudi",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/02/ludovico-einaudi-0800pm",
-"src": "carnegie"
 },
 {
 "id": "s7a63e0b160",
@@ -151,16 +31,6 @@
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/simchat-torah-family-party/",
 "src": "emanuel"
-},
-{
-"id": "sf8a91a6c9c",
-"date": "2026-10-03",
-"time": "00:00",
-"title": "2026 Simons Collaboration on Moduli of Varieties Annual Meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/simons-collaboration-on-moduli-of-varieties-annual-meeting-2026/",
-"src": "simons"
 },
 {
 "id": "sf860657cdc",
@@ -423,6 +293,16 @@
 "src": "carnegie"
 },
 {
+"id": "s2ab5cdf4a4",
+"date": "2026-10-04",
+"time": "19:30",
+"title": "From Taverner to Today - Christ Church Cathedral Choir at 500",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/04/from-taverner-to-today---christ-church-cathedral-choir-at-500-0730pm",
+"src": "carnegie"
+},
+{
 "id": "s8bed9362aa",
 "date": "2026-10-04",
 "time": "",
@@ -431,6 +311,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
 "src": "zwirner"
+},
+{
+"id": "sf3431e0db9",
+"date": "2026-10-05",
+"time": "19:00",
+"title": "PRM Gala Concert",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/05/prm-gala-concert-0700pm",
+"src": "carnegie"
 },
 {
 "id": "s1825f14e43",
@@ -920,6 +810,16 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/tgif-2/",
+"src": "greenwood"
+},
+{
+"id": "s6d33d95091",
+"date": "2026-10-16",
+"time": "18:00",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-55/2026-10-16/1/",
 "src": "greenwood"
 },
 {
@@ -3511,6 +3411,16 @@
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/tikkun-olam-first-day-of-sukkot-food-drive-370/",
 "src": "emanuel"
+},
+{
+"id": "s6e57d3236a",
+"date": "2027-11-07",
+"time": "",
+"title": "exonemo: Terminal at NowHere \u2014 final day",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/exonemo-terminal-at-nowhere/",
+"src": "japansociety"
 }
 ]
 }
