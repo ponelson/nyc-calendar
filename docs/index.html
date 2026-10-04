@@ -28,6 +28,7 @@
     --c-houses:#6b7a8f;
     --c-access:#8b6b45;
     --c-islands:#0f9bb0;
+    --c-streets:#d4356b;
   }
   *{box-sizing:border-box;margin:0;padding:0}
   html{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
@@ -275,6 +276,7 @@ const CATS = [
   {id:'houses',    name:'Historic Houses',  color:'var(--c-houses)'},
   {id:'access',    name:'Special Access',   color:'var(--c-access)'},
   {id:'islands',   name:'Islands',          color:'var(--c-islands)'},
+  {id:'streets',   name:'Streets & Parades', color:'var(--c-streets)'},
 ];
 const CAT = Object.fromEntries(CATS.map(c=>[c.id,c]));
 
