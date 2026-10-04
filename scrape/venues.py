@@ -296,6 +296,11 @@ VENUES = [
       "https://www.nyc.gov/site/hart/index.page", strategy="link"),
     V("northbrother", "North Brother Island", "islands",
       "https://www.nycgovparks.org/parks/north-brother-island", strategy="link"),
+
+    # ---------------- streets: festivals, parades, closures ----------------
+    V("nycpermits", "NYC Permitted Events", "streets",
+      "https://www.nyc.gov/events",
+      strategy="custom", adapter="nyc_events"),
 ]
 
 BY_ID = {v["id"]: v for v in VENUES}
