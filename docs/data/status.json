@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-03T14:06:29+00:00",
+  "generated": "2026-10-04T14:32:37+00:00",
   "healthy": 11,
-  "total": 23,
+  "total": 24,
   "venues": [
     {
       "id": "nycballet",
       "name": "New York City Ballet",
       "cat": "dance",
       "strategy": "custom",
-      "count": 123,
+      "count": 122,
       "error": null
     },
     {
@@ -24,7 +24,7 @@
       "name": "Temple Emanu-El \u2014 Streicker",
       "cat": "classical",
       "strategy": "custom",
-      "count": 36,
+      "count": 35,
       "error": null
     },
     {
@@ -96,7 +96,7 @@
       "name": "David Zwirner",
       "cat": "global",
       "strategy": "jsonld",
-      "count": 33,
+      "count": 32,
       "error": null
     },
     {
@@ -184,8 +184,16 @@
       "name": "Green-Wood Cemetery",
       "cat": "access",
       "strategy": "ics",
-      "count": 27,
+      "count": 25,
       "error": null
+    },
+    {
+      "id": "nycpermits",
+      "name": "NYC Permitted Events",
+      "cat": "streets",
+      "strategy": "custom",
+      "count": 0,
+      "error": "ModuleNotFoundError: No module named 'scrape.adapters.nyc_events'"
     }
   ]
 }

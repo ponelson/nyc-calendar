@@ -1,117 +1,7 @@
 {
-"generated": "2026-10-03T14:06:29+00:00",
-"count": 342,
+"generated": "2026-10-04T14:32:37+00:00",
+"count": 337,
 "events": [
-{
-"id": "s46fce0a395",
-"date": "2026-10-02",
-"time": "19:30",
-"title": "Contemporary Choreography I",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
-"src": "nycballet"
-},
-{
-"id": "s7a63e0b160",
-"date": "2026-10-02",
-"time": "",
-"title": "Everyone you\u2019re looking at is also you",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
-"src": "zwirner"
-},
-{
-"id": "sbcdc6a3b64",
-"date": "2026-10-02",
-"time": "",
-"title": "Simchat Torah Family Party",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/simchat-torah-family-party/",
-"src": "emanuel"
-},
-{
-"id": "sf860657cdc",
-"date": "2026-10-03",
-"time": "10:00",
-"title": "Stranger Than Fiction Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/stranger-than-fiction-trolley-tour-4/",
-"src": "greenwood"
-},
-{
-"id": "s2c54e302b3",
-"date": "2026-10-03",
-"time": "10:00",
-"title": "Celebrate City of Forest Day at Green-Wood!",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/celebrate-city-of-forest-day-at-green-wood/",
-"src": "greenwood"
-},
-{
-"id": "sa3980024e4",
-"date": "2026-10-03",
-"time": "10:15",
-"title": "Dinosaurs in Action: Green-Wood\u2019s Birds of Prey",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/dinosaurs-in-action-green-woods-birds-of-prey/",
-"src": "greenwood"
-},
-{
-"id": "se55ab60d82",
-"date": "2026-10-03",
-"time": "13:00",
-"title": "American Masters Music Awards Winners Concert",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/03/american-masters-music-awards-winners-concert-0100pm",
-"src": "carnegie"
-},
-{
-"id": "s563908fcf7",
-"date": "2026-10-03",
-"time": "13:00",
-"title": "Discover Green-Wood Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-23/",
-"src": "greenwood"
-},
-{
-"id": "s081909d7a4",
-"date": "2026-10-03",
-"time": "18:30",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-52/",
-"src": "greenwood"
-},
-{
-"id": "sfb7c47b83b",
-"date": "2026-10-03",
-"time": "19:30",
-"title": "Hai-Kyung Suh, Piano",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/03/haikyung-suh-piano-0730pm",
-"src": "carnegie"
-},
-{
-"id": "sd5d86b6afc",
-"date": "2026-10-03",
-"time": "19:30",
-"title": "Ilya Kaler, Violin<br />\u200bRasa Vitkauskaite, Piano<br />\u200bWith special guests Paquito D'Rivera, Jonathan Cohler, Dave Egga",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/03/ilya-kaler-violin-rasa-vitkauskaite-piano-with-special-guests-paquito-drivera-0730pm",
-"src": "carnegie"
-},
 {
 "id": "scc0b7a671b",
 "date": "2026-10-03",
@@ -121,16 +11,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
 "src": "nycballet"
-},
-{
-"id": "s04e08d526d",
-"date": "2026-10-03",
-"time": "20:00",
-"title": "New York Franz Liszt International Piano Competition Grand Final",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/03/new-york-franz-liszt-international-piano-competition-grand-final-0800pm",
-"src": "carnegie"
 },
 {
 "id": "se1ed4906b7",
@@ -201,16 +81,6 @@
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/tot-shabbat-celebrating-chanukah/",
 "src": "emanuel"
-},
-{
-"id": "s6d749660f7",
-"date": "2026-10-04",
-"time": "06:30",
-"title": "Birding In Peace",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/birding-in-peace-32/2026-10-04/",
-"src": "greenwood"
 },
 {
 "id": "sdf39ff17f6",
@@ -323,6 +193,16 @@
 "src": "carnegie"
 },
 {
+"id": "s67d14c93e8",
+"date": "2026-10-05",
+"time": "19:30",
+"title": "A Celebration of Rodgers and Hart",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/05/a-celebration-of-rodgers-and-hart-0730pm",
+"src": "carnegie"
+},
+{
 "id": "s1825f14e43",
 "date": "2026-10-05",
 "time": "",
@@ -371,6 +251,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/grieving-weaving-8/2026-10-06/",
 "src": "greenwood"
+},
+{
+"id": "s368dd91540",
+"date": "2026-10-06",
+"time": "19:00",
+"title": "The 15th Kajiki's Artist Show",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/06/the-15th-kajikis-artist-show-0700pm",
+"src": "carnegie"
 },
 {
 "id": "se7cd89f609",
@@ -463,6 +353,16 @@
 "src": "greenwood"
 },
 {
+"id": "sb569f78b05",
+"date": "2026-10-07",
+"time": "19:30",
+"title": "Adam Gyorgy Foundation Gala 2026",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/07/adam-gyorgy-foundation-gala-2026-0730pm",
+"src": "carnegie"
+},
+{
 "id": "s5ab06fd56f",
 "date": "2026-10-07",
 "time": "19:30",
@@ -521,6 +421,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/grieving-weaving-8/2026-10-08/",
 "src": "greenwood"
+},
+{
+"id": "s7a4725e2a7",
+"date": "2026-10-08",
+"time": "19:00",
+"title": "Carnegie Hall\u2019s Opening Night Gala<br />Berliner Philharmoniker",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/08/carnegie-halls-opening-night-gala-berliner-philharmoniker-0700pm",
+"src": "carnegie"
 },
 {
 "id": "s90aee63ec7",
@@ -815,11 +725,11 @@
 {
 "id": "s6d33d95091",
 "date": "2026-10-16",
-"time": "18:00",
+"time": "19:30",
 "title": "Green-Wood After Hours",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-55/2026-10-16/1/",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-55/2026-10-16/4/",
 "src": "greenwood"
 },
 {
@@ -861,6 +771,46 @@
 "cat": "houses",
 "url": "https://dyckmanfarmhouse.org/event/fall-festival-2026/",
 "src": "dyckman"
+},
+{
+"id": "sab171b5be1",
+"date": "2026-10-17",
+"time": "10:00",
+"title": "Shaping LGBTQ+ History: A Family Tour and Workshop",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/shaping-lgbtq-history-a-family-tour-and-workshop/",
+"src": "greenwood"
+},
+{
+"id": "s8e03db832e",
+"date": "2026-10-17",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-25/",
+"src": "greenwood"
+},
+{
+"id": "s70865abab7",
+"date": "2026-10-17",
+"time": "15:00",
+"title": "Secrets in Stone",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/secrets-in-stone-13/2026-10-17/",
+"src": "greenwood"
+},
+{
+"id": "s24c3f56686",
+"date": "2026-10-17",
+"time": "17:00",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-56/2026-10-17/1/",
+"src": "greenwood"
 },
 {
 "id": "se4118fd27d",
