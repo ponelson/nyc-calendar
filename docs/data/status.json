@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-05T17:39:09+00:00",
-  "healthy": 13,
+  "generated": "2026-10-06T15:36:59+00:00",
+  "healthy": 12,
   "total": 29,
   "venues": [
     {
@@ -8,7 +8,7 @@
       "name": "New York City Ballet",
       "cat": "dance",
       "strategy": "custom",
-      "count": 121,
+      "count": 120,
       "error": null
     },
     {
@@ -24,7 +24,7 @@
       "name": "Carnegie Hall",
       "cat": "classical",
       "strategy": "custom",
-      "count": 10,
+      "count": 9,
       "error": null
     },
     {
@@ -88,8 +88,8 @@
       "name": "Simons Foundation",
       "cat": "talks",
       "strategy": "ics",
-      "count": 1,
-      "error": null
+      "count": 0,
+      "error": "no events parsed"
     },
     {
       "id": "broadway",
@@ -104,7 +104,7 @@
       "name": "Guggenheim",
       "cat": "art",
       "strategy": "custom",
-      "count": 25,
+      "count": 24,
       "error": null
     },
     {
@@ -128,7 +128,7 @@
       "name": "David Zwirner",
       "cat": "global",
       "strategy": "jsonld",
-      "count": 31,
+      "count": 30,
       "error": null
     },
     {

@@ -1,57 +1,7 @@
 {
-"generated": "2026-10-05T17:39:09+00:00",
-"count": 501,
+"generated": "2026-10-06T15:36:59+00:00",
+"count": 496,
 "events": [
-{
-"id": "sc7e1455637",
-"date": "2026-10-04",
-"time": "15:00",
-"title": "Contemporary Choreography I",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
-"src": "nycballet"
-},
-{
-"id": "s8bed9362aa",
-"date": "2026-10-04",
-"time": "",
-"title": "Everyone you\u2019re looking at is also you",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
-"src": "zwirner"
-},
-{
-"id": "s45b17935a9",
-"date": "2026-10-05",
-"time": "09:30",
-"title": "DMFT-QE Symposium: October 5th",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/dmft-qe-symposium-october-5th-467-239-243-90-886-734-763-653-14-534-904-761-884-233-584/",
-"src": "simons"
-},
-{
-"id": "sf3431e0db9",
-"date": "2026-10-05",
-"time": "19:00",
-"title": "PRM Gala Concert",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/05/prm-gala-concert-0700pm",
-"src": "carnegie"
-},
-{
-"id": "s67d14c93e8",
-"date": "2026-10-05",
-"time": "19:30",
-"title": "A Celebration of Rodgers and Hart",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/05/a-celebration-of-rodgers-and-hart-0730pm",
-"src": "carnegie"
-},
 {
 "id": "s1825f14e43",
 "date": "2026-10-05",
@@ -165,11 +115,11 @@
 {
 "id": "s4ed955b635",
 "date": "2026-10-07",
-"time": "06:30",
+"time": "07:00",
 "title": "Birding In Peace",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
-"url": "https://www.green-wood.com/event/birding-in-peace-32/2026-10-07/",
+"url": "https://www.green-wood.com/event/birding-in-peace-34/",
 "src": "greenwood"
 },
 {
@@ -473,6 +423,16 @@
 "src": "greenwood"
 },
 {
+"id": "sb640e90c7e",
+"date": "2026-10-10",
+"time": "19:30",
+"title": "Cancelled: Special Venue Music Awards Winners Recital",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/10/cancelled-special-venue-music-awards-winners-recital-0730pm",
+"src": "carnegie"
+},
+{
 "id": "sc3edf4bbea",
 "date": "2026-10-10",
 "time": "19:30",
@@ -483,10 +443,10 @@
 "src": "nycballet"
 },
 {
-"id": "s7085b08938",
+"id": "s5d49a1f3f9",
 "date": "2026-10-10",
 "time": "20:00",
-"title": "Dudamel Conducts Adams\u2019s 9/11 Memorial Work in Paris",
+"title": "Dudamel Leads Prokofiev, J. Adams & Di Castri in Paris",
 "venue": "New York Philharmonic",
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct10",
@@ -553,10 +513,10 @@
 "src": "nycballet"
 },
 {
-"id": "s228be70ff1",
+"id": "sbe434bdf51",
 "date": "2026-10-12",
 "time": "20:00",
-"title": "Dudamel Conducts Adams\u2019s 9/11 Memorial Work in Barcelona",
+"title": "Dudamel Leads Prokofiev, J. Adams & Di Castri in Barcelona",
 "venue": "New York Philharmonic",
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct12",
@@ -583,10 +543,10 @@
 "src": "nycballet"
 },
 {
-"id": "s12ba5097c0",
+"id": "sdb1c03798d",
 "date": "2026-10-13",
 "time": "19:30",
-"title": "Dudamel Conducts Adams\u2019s 9/11 Memorial Work in Madrid",
+"title": "Dudamel Leads Prokofiev, J. Adams & Di Castri in Madrid",
 "venue": "New York Philharmonic",
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct13",
@@ -853,10 +813,10 @@
 "src": "emanuel"
 },
 {
-"id": "s77a2dfff7d",
+"id": "s17d0f7e575",
 "date": "2026-10-19",
 "time": "20:00",
-"title": "Dudamel Conducts Adams\u2019s 9/11 Memorial Work in Hamburg",
+"title": "Dudamel Leads Prokofiev, J. Adams & Di Castri in Hamburg",
 "venue": "New York Philharmonic",
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct19",
@@ -943,10 +903,10 @@
 "src": "nyphil"
 },
 {
-"id": "s87bef04459",
+"id": "s425806cc51",
 "date": "2026-10-22",
 "time": "19:30",
-"title": "Dudamel Conducts Adams\u2019s 9/11 Memorial Work in Vienna",
+"title": "Dudamel Leads Prokofiev, J. Adams & Di Castri in Vienna",
 "venue": "New York Philharmonic",
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct22",
@@ -1103,16 +1063,6 @@
 "src": "nyphil"
 },
 {
-"id": "s6a84f87ef7",
-"date": "2026-10-29",
-"time": "",
-"title": "Yoshitomo Nara \u2014 opens",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/yoshitomo-nara",
-"src": "zwirner"
-},
-{
 "id": "sad5a0bcb86",
 "date": "2026-10-30",
 "time": "09:15",
@@ -1251,6 +1201,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/thibaudet-performs-liszt",
 "src": "nyphil"
+},
+{
+"id": "sacefe5ef82",
+"date": "2026-11-05",
+"time": "",
+"title": "Yoshitomo Nara \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/yoshitomo-nara",
+"src": "zwirner"
 },
 {
 "id": "sa48c2fff28",
@@ -4770,16 +4730,6 @@
 "venue": "Guggenheim",
 "cat": "art",
 "url": "https://www.guggenheim.org/event/works-process-minnesota-opera-the-many-deaths-of-laila-starr-by-kamala-sankaram-minita-gandhi",
-"src": "guggenheim"
-},
-{
-"id": "s2022f23b12",
-"date": "2027-08-04",
-"time": "",
-"title": "Works &#038; Process: The Metropolitan Opera: Lincoln in the Bardo by Missy Mazzoli and Royce Vavrek",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/works-process-the-metropolitan-opera-lincoln-in-the-bardo-by-missy-mazzoli-and-royce-vavrek",
 "src": "guggenheim"
 },
 {
