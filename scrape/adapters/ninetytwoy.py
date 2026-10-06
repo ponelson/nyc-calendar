@@ -11,6 +11,8 @@ Prefix + Title + Suffix is the real event line, e.g.
 """
 from datetime import datetime, timezone
 
+import re
+import html as _html
 from .. import render
 
 
@@ -20,6 +22,12 @@ def _cat_from_menu(menu):
         return (lvl0[0] if lvl0 else "").lower()
     except Exception:  # noqa: BLE001
         return ""
+
+
+TAGS = re.compile(r"<[^>]+>")
+
+def _clean(t):
+    return TAGS.sub("", _html.unescape(t or "")).strip()
 
 
 def run(venue):
@@ -32,7 +40,7 @@ def run(venue):
         results = body.get("results", [body]) if isinstance(body, dict) else []
         for res in results:
             for h in res.get("hits", []):
-                title = (h.get("Title") or "").strip()
+                title = _clean(h.get("Title"))
                 epoch = h.get("FirstDate")
                 if not title or not epoch:
                     continue
@@ -40,8 +48,8 @@ def run(venue):
                     when = datetime.fromtimestamp(int(epoch), tz=timezone.utc)
                 except (ValueError, TypeError, OSError):
                     continue
-                prefix = (h.get("Prefix") or "").strip()
-                suffix = (h.get("Suffix") or "").strip()
+                prefix = _clean(h.get("Prefix"))
+                suffix = _clean(h.get("Suffix"))
                 full = title
                 if suffix:
                     full = f"{title} — {suffix}"

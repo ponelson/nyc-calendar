@@ -9,6 +9,8 @@ the AJAX response — a flat list of shows. Confirmed fields:
 title is already the performer billing, which is exactly what we want.
 """
 import re
+import html as _html
+from .. import render
 
 from .. import render
 
@@ -45,7 +47,7 @@ def run(venue):
         for e in rows:
             if not isinstance(e, dict):
                 continue
-            title = TAGS.sub("", e.get("title") or "").strip()
+            title = TAGS.sub("", _html.unescape(e.get("title") or "")).strip()
             day = e.get("start")
             if not title or not day:
                 continue

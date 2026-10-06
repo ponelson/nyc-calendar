@@ -53,7 +53,7 @@ VENUES = [
       "https://www.metmuseum.org/events", strategy="link"),
     V("morgan", "The Morgan Library", "classical",
       "https://www.themorgan.org/programs", strategy="link"),
-    V("92ny_music", "92NY", "classical", "https://www.92ny.org/concerts", strategy="custom", adapter="ninetytwoy"),
+    V("92ny_music", "92NY", "classical", "https://www.92ny.org/whats-on/calendar", strategy="custom", adapter="ninetytwoy"),
     V("bargemusic", "Bargemusic", "classical", "https://www.bargemusic.org/", strategy="render"),
     V("sawdust", "National Sawdust", "classical",
       "https://nationalsawdust.org/calendar/", strategy="link"),
@@ -90,7 +90,7 @@ VENUES = [
       "https://www.armoryonpark.org/programs_events/calendar", strategy="link"),
 
     # ---------------- talks & theater ----------------
-    V("92ny_talks", "92NY — Talks", "talks", "https://www.92ny.org/talks", strategy="custom", adapter="ninetytwoy"),
+    V("92ny_talks", "92NY — Talks", "talks", "https://www.92ny.org/whats-on/calendar", strategy="custom", adapter="ninetytwoy"),
     V("nypl", "LIVE from NYPL", "talks",
       "https://www.nypl.org/events/programs/live", strategy="link"),
     V("greenespace", "The Greene Space", "talks", "https://www.thegreenespace.org/", strategy="link"),
@@ -250,7 +250,7 @@ VENUES = [
     V("mezzrow", "Mezzrow", "jazz", "https://www.mezzrow.com/", strategy="custom", adapter="wordpress"),
     V("dizzys", "Dizzy's Club", "jazz", "https://www.jazz.org/dizzys/", strategy="jsonld"),
     V("smoke", "Smoke Jazz Club", "jazz", "https://www.smokejazz.com/", strategy="custom", adapter="wordpress"),
-    V("birdland", "Birdland", "jazz", "https://www.birdlandjazz.com/", strategy="custom", adapter="birdland"),
+    V("birdland", "Birdland", "jazz", "https://www.birdlandjazz.com/calendar/", strategy="custom", adapter="birdland"),
     V("jazzgallery", "The Jazz Gallery", "jazz", "https://jazzgallery.org/calendar/", strategy="custom", adapter="wordpress"),
     V("nines", "The Nines", "jazz", "https://www.thenines.nyc/", enabled=False, strategy="link"),
     V("lunatico", "Bar LunÀtico", "jazz", "https://www.barlunatico.com/", strategy="custom", adapter="wordpress"),
