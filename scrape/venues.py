@@ -44,7 +44,7 @@ VENUES = [
 
     # ---------------- classical ----------------
     V("nyphil", "New York Philharmonic", "classical",
-      "https://nyphil.org/concerts-tickets/calendar/", strategy="link"),
+      "https://nyphil.org/concerts-tickets/calendar/", strategy="custom", adapter="nyphil"),
     V("carnegie", "Carnegie Hall", "classical",
       "https://www.carnegiehall.org/Calendar", strategy="custom", adapter="carnegie"),
     V("townhall", "The Town Hall", "classical", "https://thetownhall.org/calendar/", strategy="link"),
@@ -53,7 +53,7 @@ VENUES = [
       "https://www.metmuseum.org/events", strategy="link"),
     V("morgan", "The Morgan Library", "classical",
       "https://www.themorgan.org/programs", strategy="link"),
-    V("92ny_music", "92NY", "classical", "https://www.92ny.org/concerts", strategy="link"),
+    V("92ny_music", "92NY", "classical", "https://www.92ny.org/concerts", strategy="custom", adapter="ninetytwoy"),
     V("bargemusic", "Bargemusic", "classical", "https://www.bargemusic.org/", strategy="render"),
     V("sawdust", "National Sawdust", "classical",
       "https://nationalsawdust.org/calendar/", strategy="link"),
@@ -81,13 +81,16 @@ VENUES = [
       "https://www.bethmorrisonprojects.org/", strategy="link"),
     V("operalafayette", "Opera Lafayette", "opera", "https://operalafayette.org/", strategy="link"),
     V("onsite", "On Site Opera", "opera", "https://www.osopera.org/", strategy="link"),
+    V("metopera", "Metropolitan Opera", "opera",
+      "https://www.metopera.org/season/2026-27-season/",
+      strategy="custom", adapter="metopera"),
     V("nycopera", "New York City Opera", "opera", "https://nycopera.com/", strategy="link"),
     V("bam", "BAM", "opera", "https://www.bam.org/", strategy="render"),
     V("armory", "Park Avenue Armory", "opera",
       "https://www.armoryonpark.org/programs_events/calendar", strategy="link"),
 
     # ---------------- talks & theater ----------------
-    V("92ny_talks", "92NY — Talks", "talks", "https://www.92ny.org/talks", strategy="link"),
+    V("92ny_talks", "92NY — Talks", "talks", "https://www.92ny.org/talks", strategy="custom", adapter="ninetytwoy"),
     V("nypl", "LIVE from NYPL", "talks",
       "https://www.nypl.org/events/programs/live", strategy="link"),
     V("greenespace", "The Greene Space", "talks", "https://www.thegreenespace.org/", strategy="link"),
@@ -132,9 +135,6 @@ VENUES = [
       "https://www.carnegiecouncil.org/events", strategy="link"),
     V("japansociety", "Japan Society", "talks", "https://japansociety.org/events/", strategy="custom", adapter="wordpress", wp_type="events"),
     V("fiaf", "FIAF", "talks", "https://fiaf.org/events/", strategy="link"),
-    V("casaitaliana", "Casa Italiana NYU", "talks",
-      "https://www.casaitaliananyu.org/events/",
-      strategy="custom", adapter="wordpress", wp="tribe"),
     V("italianacademy", "Italian Academy, Columbia", "talks",
       "https://italianacademy.columbia.edu/events", strategy="link"),
     V("amnh", "American Museum of Natural History", "talks",
@@ -250,7 +250,7 @@ VENUES = [
     V("mezzrow", "Mezzrow", "jazz", "https://www.mezzrow.com/", strategy="custom", adapter="wordpress"),
     V("dizzys", "Dizzy's Club", "jazz", "https://www.jazz.org/dizzys/", strategy="jsonld"),
     V("smoke", "Smoke Jazz Club", "jazz", "https://www.smokejazz.com/", strategy="custom", adapter="wordpress"),
-    V("birdland", "Birdland", "jazz", "https://www.birdlandjazz.com/", strategy="link"),
+    V("birdland", "Birdland", "jazz", "https://www.birdlandjazz.com/", strategy="custom", adapter="birdland"),
     V("jazzgallery", "The Jazz Gallery", "jazz", "https://jazzgallery.org/calendar/", strategy="custom", adapter="wordpress"),
     V("nines", "The Nines", "jazz", "https://www.thenines.nyc/", enabled=False, strategy="link"),
     V("lunatico", "Bar LunÀtico", "jazz", "https://www.barlunatico.com/", strategy="custom", adapter="wordpress"),
@@ -299,6 +299,11 @@ VENUES = [
       "https://www.nyc.gov/site/hart/index.page", strategy="link"),
     V("northbrother", "North Brother Island", "islands",
       "https://www.nycgovparks.org/parks/north-brother-island", strategy="link"),
+
+    # ---------------- streets: festivals, parades, closures ----------------
+    V("nycpermits", "NYC Permitted Events", "streets",
+      "https://www.nyc.gov/events",
+      strategy="custom", adapter="nyc_events"),
 ]
 
 BY_ID = {v["id"]: v for v in VENUES}
