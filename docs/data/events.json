@@ -1,7 +1,47 @@
 {
-"generated": "2026-10-06T15:36:59+00:00",
-"count": 496,
+"generated": "2026-10-06T20:07:38+00:00",
+"count": 861,
 "events": [
+{
+"id": "sc360ffd9e5",
+"date": "2026-10-05",
+"time": "",
+"title": "Douglas Smith with George Langnas: The City Without Jews",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/the-city-without-jews",
+"src": "92ny_music"
+},
+{
+"id": "se0ffe89b49",
+"date": "2026-10-05",
+"time": "",
+"title": "Christy Carlson Romano in Conversation with Francesca Mariano: Once Upon a Trainwreck",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/christy-carlson-romano",
+"src": "92ny_music"
+},
+{
+"id": "s92e855f01c",
+"date": "2026-10-05",
+"time": "",
+"title": "Douglas Smith with George Langnas: The City Without Jews",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/the-city-without-jews",
+"src": "92ny_talks"
+},
+{
+"id": "s988a44a851",
+"date": "2026-10-05",
+"time": "",
+"title": "Christy Carlson Romano in Conversation with Francesca Mariano: Once Upon a Trainwreck",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/christy-carlson-romano",
+"src": "92ny_talks"
+},
 {
 "id": "s1825f14e43",
 "date": "2026-10-05",
@@ -43,6 +83,16 @@
 "src": "emanuel"
 },
 {
+"id": "se4e9538952",
+"date": "2026-10-06",
+"time": "17:30",
+"title": "Vince Giordano and the Nighthawks",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-7/",
+"src": "birdland"
+},
+{
 "id": "seb8119195d",
 "date": "2026-10-06",
 "time": "18:30",
@@ -51,6 +101,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/grieving-weaving-8/2026-10-06/",
 "src": "greenwood"
+},
+{
+"id": "s36914c3cdb",
+"date": "2026-10-06",
+"time": "19:00",
+"title": "THE MICHAEL BRECKER QUINDECTET featuring DONNY McCASLIN Artistic & Musical Director: Meg Okura",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/meg-okura-presents-the-michael-brecker-quindectet-legacy-project-feat-donny-mccaslin/",
+"src": "birdland"
 },
 {
 "id": "s368dd91540",
@@ -63,6 +123,16 @@
 "src": "carnegie"
 },
 {
+"id": "s0c02c34539",
+"date": "2026-10-06",
+"time": "19:30",
+"title": "Wolfgang Amadeus Mozart: Cos\u00ec fan tutte",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/cosi-fan-tutte/",
+"src": "metopera"
+},
+{
 "id": "se7cd89f609",
 "date": "2026-10-06",
 "time": "19:30",
@@ -71,6 +141,36 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
 "src": "nycballet"
+},
+{
+"id": "s3e23809ef0",
+"date": "2026-10-06",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-10/",
+"src": "stanns"
+},
+{
+"id": "s9a0a0e3bea",
+"date": "2026-10-06",
+"time": "",
+"title": "Michael Douglas in Conversation with Happy Sad Confused\u2019s Josh Horowitz: One Helluva Ride",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/michael-douglas-in-conversation-one-helluva-ride",
+"src": "92ny_music"
+},
+{
+"id": "sd9b239afde",
+"date": "2026-10-06",
+"time": "",
+"title": "Michael Douglas in Conversation with Happy Sad Confused\u2019s Josh Horowitz: One Helluva Ride",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/michael-douglas-in-conversation-one-helluva-ride",
+"src": "92ny_talks"
 },
 {
 "id": "s07c09db583",
@@ -143,6 +243,16 @@
 "src": "mvhm"
 },
 {
+"id": "s6ad6a8f15d",
+"date": "2026-10-07",
+"time": "17:30",
+"title": "David Ostwald's Louis Armstrong Eternity Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/david-ostwalds-louis-armstrong-eternity-band/",
+"src": "birdland"
+},
+{
 "id": "s80012a2010",
 "date": "2026-10-07",
 "time": "18:30",
@@ -151,6 +261,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/a-day-in-the-life-of-a-funeral-celebrant/",
 "src": "greenwood"
+},
+{
+"id": "sb92d86969a",
+"date": "2026-10-07",
+"time": "19:00",
+"title": "Ron Carter Foursight Quartet",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carter-quartet-with-donald-vega/",
+"src": "birdland"
 },
 {
 "id": "sb569f78b05",
@@ -163,6 +283,16 @@
 "src": "carnegie"
 },
 {
+"id": "s423b5f5fc2",
+"date": "2026-10-07",
+"time": "19:30",
+"title": "Giacomo Puccini: La Boh\u00e8me",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
+"src": "metopera"
+},
+{
 "id": "s5ab06fd56f",
 "date": "2026-10-07",
 "time": "19:30",
@@ -171,6 +301,106 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
+},
+{
+"id": "sc58f6599c3",
+"date": "2026-10-07",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-12/",
+"src": "stanns"
+},
+{
+"id": "s8d459a916c",
+"date": "2026-10-07",
+"time": "20:30",
+"title": "Frank Vignola's Guitar Night with Rodney Jones and Pasquale Grasso",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/frank-vignolas-guitar-night-with-pasquale-grasso-10/",
+"src": "birdland"
+},
+{
+"id": "sc3ae2e03d5",
+"date": "2026-10-07",
+"time": "",
+"title": "Yoga Nidra & Sound Bath",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/class/t/yoga-nidra-and-sound-bath",
+"src": "92ny_music"
+},
+{
+"id": "sb0c2f60ea2",
+"date": "2026-10-07",
+"time": "",
+"title": "Kevin Roose in Conversation with PJ Vogt: Human Connection in the Age of AI",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/kevin-roose-in-conversation",
+"src": "92ny_music"
+},
+{
+"id": "sb64691f9fc",
+"date": "2026-10-07",
+"time": "",
+"title": "Across the Divide: A Palestinian and an Israeli Father Choose Dialogue \u2014 Jaser AbuMoussa and Jonathan Dekel-Chen with Cl",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/across-the-divide",
+"src": "92ny_music"
+},
+{
+"id": "se443ea702d",
+"date": "2026-10-07",
+"time": "",
+"title": "Israeli Folk Dance (Open Session)",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/class/israeli-folk-dance-open-session",
+"src": "92ny_music"
+},
+{
+"id": "s1a893d4405",
+"date": "2026-10-07",
+"time": "",
+"title": "Yoga Nidra & Sound Bath",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/class/t/yoga-nidra-and-sound-bath",
+"src": "92ny_talks"
+},
+{
+"id": "s2573e92246",
+"date": "2026-10-07",
+"time": "",
+"title": "Kevin Roose in Conversation with PJ Vogt: Human Connection in the Age of AI",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/kevin-roose-in-conversation",
+"src": "92ny_talks"
+},
+{
+"id": "sf46f6b1ca7",
+"date": "2026-10-07",
+"time": "",
+"title": "Across the Divide: A Palestinian and an Israeli Father Choose Dialogue \u2014 Jaser AbuMoussa and Jonathan Dekel-Chen with Cl",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/across-the-divide",
+"src": "92ny_talks"
+},
+{
+"id": "sc5d61fee12",
+"date": "2026-10-07",
+"time": "",
+"title": "Israeli Folk Dance (Open Session)",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/class/israeli-folk-dance-open-session",
+"src": "92ny_talks"
 },
 {
 "id": "s33e71a51a6",
@@ -213,6 +443,16 @@
 "src": "emanuel"
 },
 {
+"id": "sfbeef33451",
+"date": "2026-10-08",
+"time": "17:30",
+"title": "The High Society New Orleans Jazz Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/the-high-society-new-orleans-jazz-band-3/",
+"src": "birdland"
+},
+{
 "id": "s6cff9786d4",
 "date": "2026-10-08",
 "time": "18:30",
@@ -221,6 +461,26 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/grieving-weaving-8/2026-10-08/",
 "src": "greenwood"
+},
+{
+"id": "s6a1f3ae74b",
+"date": "2026-10-08",
+"time": "19:00",
+"title": "Ron Carter Foursight Quartet",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carter-quartet-with-donald-vega-3/",
+"src": "birdland"
+},
+{
+"id": "s071ff2ca89",
+"date": "2026-10-08",
+"time": "19:00",
+"title": "Ron Carter\u2019s Foursight Quartet with Donald Vega Livestream",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carters-foursight-quartet-with-donald-vega-livestream/",
+"src": "birdland"
 },
 {
 "id": "s7a4725e2a7",
@@ -233,6 +493,16 @@
 "src": "carnegie"
 },
 {
+"id": "s40076b4b22",
+"date": "2026-10-08",
+"time": "19:30",
+"title": "Giuseppe Verdi: Macbeth",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/macbeth/",
+"src": "metopera"
+},
+{
 "id": "s90aee63ec7",
 "date": "2026-10-08",
 "time": "19:30",
@@ -241,6 +511,56 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/all-balanchine-i",
 "src": "nycballet"
+},
+{
+"id": "sa02cfc88cf",
+"date": "2026-10-08",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-13/",
+"src": "stanns"
+},
+{
+"id": "s7320171f58",
+"date": "2026-10-08",
+"time": "",
+"title": "Shark Tank Stars and Showrunner in Conversation: Season 18 Highlights Screening and Talkback \u2014 Robert Herjavec, Lori Gre",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/shark-tank-stars-in-conversation",
+"src": "92ny_music"
+},
+{
+"id": "s17f6fd05c7",
+"date": "2026-10-08",
+"time": "",
+"title": "David Treuer: The Savage Mind",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/david-treuer-the-savage-mind",
+"src": "92ny_music"
+},
+{
+"id": "s355e1156d3",
+"date": "2026-10-08",
+"time": "",
+"title": "Shark Tank Stars and Showrunner in Conversation: Season 18 Highlights Screening and Talkback \u2014 Robert Herjavec, Lori Gre",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/shark-tank-stars-in-conversation",
+"src": "92ny_talks"
+},
+{
+"id": "s232356154e",
+"date": "2026-10-08",
+"time": "",
+"title": "David Treuer: The Savage Mind",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/david-treuer-the-savage-mind",
+"src": "92ny_talks"
 },
 {
 "id": "s9734f340c1",
@@ -263,6 +583,16 @@
 "src": "japansociety"
 },
 {
+"id": "sb3233c6ab3",
+"date": "2026-10-09",
+"time": "17:30",
+"title": "Birdland Big Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/birdland-big-band-2/",
+"src": "birdland"
+},
+{
 "id": "s8b313c3ad5",
 "date": "2026-10-09",
 "time": "18:30",
@@ -283,6 +613,16 @@
 "src": "greenwood"
 },
 {
+"id": "sb1592c73d4",
+"date": "2026-10-09",
+"time": "19:00",
+"title": "Thelonious Monk Birthday Celebration",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/thelonious-monk-birthday-celebration/",
+"src": "birdland"
+},
+{
 "id": "s8378c80fdd",
 "date": "2026-10-09",
 "time": "19:30",
@@ -293,6 +633,16 @@
 "src": "carnegie"
 },
 {
+"id": "sea88d51edb",
+"date": "2026-10-09",
+"time": "19:30",
+"title": "Giacomo Puccini: La Boh\u00e8me",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
+"src": "metopera"
+},
+{
 "id": "s6c6a8ed807",
 "date": "2026-10-09",
 "time": "19:30",
@@ -301,6 +651,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
 "src": "nycballet"
+},
+{
+"id": "s669295ca1f",
+"date": "2026-10-09",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-14/",
+"src": "stanns"
 },
 {
 "id": "sc28d50af27",
@@ -321,6 +681,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct9",
 "src": "nyphil"
+},
+{
+"id": "s3e4dda4063",
+"date": "2026-10-09",
+"time": "20:30",
+"title": "Ron Carter Foursight Quartet",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carter-quartet-with-donald-vega-5/",
+"src": "birdland"
 },
 {
 "id": "s4ca3191fad",
@@ -373,6 +743,16 @@
 "src": "greenwood"
 },
 {
+"id": "s9eef94dac3",
+"date": "2026-10-10",
+"time": "13:00",
+"title": "Giacomo Puccini: La Boh\u00e8me",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
+"src": "metopera"
+},
+{
 "id": "s7068cbe480",
 "date": "2026-10-10",
 "time": "14:00",
@@ -403,6 +783,16 @@
 "src": "greenwood"
 },
 {
+"id": "sd57743bf15",
+"date": "2026-10-10",
+"time": "17:30",
+"title": "Pasquale Grasso Trio",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/pasquale-grasso-trio-8/",
+"src": "birdland"
+},
+{
 "id": "s7af47c3c8c",
 "date": "2026-10-10",
 "time": "18:30",
@@ -411,6 +801,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/green-wood-after-hours-54/",
 "src": "greenwood"
+},
+{
+"id": "scf659c0a44",
+"date": "2026-10-10",
+"time": "19:00",
+"title": "Thelonious Monk Birthday Celebration",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/thelonious-monk-birthday-celebration-3/",
+"src": "birdland"
 },
 {
 "id": "scf646b6135",
@@ -443,6 +843,26 @@
 "src": "nycballet"
 },
 {
+"id": "s45ff58263a",
+"date": "2026-10-10",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-16/",
+"src": "stanns"
+},
+{
+"id": "s831488b049",
+"date": "2026-10-10",
+"time": "20:00",
+"title": "Wolfgang Amadeus Mozart: Cos\u00ec fan tutte",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/cosi-fan-tutte/",
+"src": "metopera"
+},
+{
 "id": "s5d49a1f3f9",
 "date": "2026-10-10",
 "time": "20:00",
@@ -451,6 +871,36 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct10",
 "src": "nyphil"
+},
+{
+"id": "scbf8075018",
+"date": "2026-10-10",
+"time": "20:30",
+"title": "Ron Carter Foursight Quartet",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carter-quartet-with-donald-vega-7/",
+"src": "birdland"
+},
+{
+"id": "sb129c1664c",
+"date": "2026-10-10",
+"time": "",
+"title": "Red Riding Hood",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/red-riding-hood",
+"src": "92ny_music"
+},
+{
+"id": "s75e1704c2c",
+"date": "2026-10-10",
+"time": "",
+"title": "Red Riding Hood",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/red-riding-hood",
+"src": "92ny_talks"
 },
 {
 "id": "sf2e95cfb97",
@@ -503,6 +953,16 @@
 "src": "greenwood"
 },
 {
+"id": "sb1233fd8e9",
+"date": "2026-10-11",
+"time": "15:00",
+"title": "Giuseppe Verdi: Macbeth",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/macbeth/",
+"src": "metopera"
+},
+{
 "id": "s34c1e9adfc",
 "date": "2026-10-11",
 "time": "15:00",
@@ -511,6 +971,116 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
+},
+{
+"id": "s66d142c8b1",
+"date": "2026-10-11",
+"time": "17:00",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-17/",
+"src": "stanns"
+},
+{
+"id": "s885b34600e",
+"date": "2026-10-11",
+"time": "17:30",
+"title": "Amy London: Alto Madness Album Release",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/amy-london-alto-madness-album-release/",
+"src": "birdland"
+},
+{
+"id": "s57207feb0f",
+"date": "2026-10-11",
+"time": "19:00",
+"title": "Thelonious Monk Birthday Celebration",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/thelonious-monk-birthday-celebration-5/",
+"src": "birdland"
+},
+{
+"id": "s380c375a4c",
+"date": "2026-10-11",
+"time": "20:30",
+"title": "The Birdland Latin Jazz Orchestra",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/the-birdland-latin-jazz-orchestra-53/",
+"src": "birdland"
+},
+{
+"id": "sb58933b44e",
+"date": "2026-10-11",
+"time": "",
+"title": "Red Riding Hood",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/red-riding-hood",
+"src": "92ny_music"
+},
+{
+"id": "s6a5cbf59e0",
+"date": "2026-10-11",
+"time": "",
+"title": "Alon Shaya and June Hersh in Conversation with The Sporkful\u2019s Dan Pashman: Memories of a Good Meal",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/memories-of-a-good-meal",
+"src": "92ny_music"
+},
+{
+"id": "s173fdfe7f6",
+"date": "2026-10-11",
+"time": "",
+"title": "Red Riding Hood",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/red-riding-hood",
+"src": "92ny_talks"
+},
+{
+"id": "s6c78805fd6",
+"date": "2026-10-11",
+"time": "",
+"title": "Alon Shaya and June Hersh in Conversation with The Sporkful\u2019s Dan Pashman: Memories of a Good Meal",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/memories-of-a-good-meal",
+"src": "92ny_talks"
+},
+{
+"id": "s28c10c7057",
+"date": "2026-10-12",
+"time": "17:30",
+"title": "Vince Giordano and the Nighthawks",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-89/",
+"src": "birdland"
+},
+{
+"id": "s568fbbb7a6",
+"date": "2026-10-12",
+"time": "19:00",
+"title": "Julie Halston & Jackie Hoffman Livestream",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/julie-halston-jackie-hoffman-livestream/",
+"src": "birdland"
+},
+{
+"id": "sa4baa16687",
+"date": "2026-10-12",
+"time": "19:00",
+"title": "VIRTUAL HALSTON LIVE with Julie Halston and Jackie Hoffman",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/virtual-halston-live-with-julie-halston-and-jackie-hoffman/",
+"src": "birdland"
 },
 {
 "id": "sbe434bdf51",
@@ -523,6 +1093,76 @@
 "src": "nyphil"
 },
 {
+"id": "s6dae41bde9",
+"date": "2026-10-12",
+"time": "21:30",
+"title": "Jim Caruso's Cast Party with Billy Stritch",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/jim-carusos-cast-party-26/",
+"src": "birdland"
+},
+{
+"id": "sf233baec69",
+"date": "2026-10-12",
+"time": "",
+"title": "E!\u2019s The Golden Life: Exclusive Clips & Conversation \u2014 Kelly Bensimon, Countess Luann de Lesseps, Dorinda Medley, Sonja ",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/the-golden-life",
+"src": "92ny_music"
+},
+{
+"id": "s5ef5541f65",
+"date": "2026-10-12",
+"time": "",
+"title": "Nara Smith in Conversation with Ashley Graham: Homemade",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/nara-smith-in-conversation-homemade",
+"src": "92ny_music"
+},
+{
+"id": "sf44d549776",
+"date": "2026-10-12",
+"time": "",
+"title": "Walter Isaacson and Mustafa Suleyman in Conversation: The Age of AI \u2014 A Live Recording of The Builders",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/walter-isaacson-and-mustafa-suleyman",
+"src": "92ny_music"
+},
+{
+"id": "s539d4d41e4",
+"date": "2026-10-12",
+"time": "",
+"title": "E!\u2019s The Golden Life: Exclusive Clips & Conversation \u2014 Kelly Bensimon, Countess Luann de Lesseps, Dorinda Medley, Sonja ",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/the-golden-life",
+"src": "92ny_talks"
+},
+{
+"id": "sd76765d826",
+"date": "2026-10-12",
+"time": "",
+"title": "Nara Smith in Conversation with Ashley Graham: Homemade",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/nara-smith-in-conversation-homemade",
+"src": "92ny_talks"
+},
+{
+"id": "s3d7387826b",
+"date": "2026-10-12",
+"time": "",
+"title": "Walter Isaacson and Mustafa Suleyman in Conversation: The Age of AI \u2014 A Live Recording of The Builders",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/walter-isaacson-and-mustafa-suleyman",
+"src": "92ny_talks"
+},
+{
 "id": "s7db5455853",
 "date": "2026-10-13",
 "time": "10:00",
@@ -531,6 +1171,36 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-10-13/",
 "src": "greenwood"
+},
+{
+"id": "sf2b0e1d3a3",
+"date": "2026-10-13",
+"time": "17:30",
+"title": "Vince Giordano and the Nighthawks",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-91/",
+"src": "birdland"
+},
+{
+"id": "sfba89d5bfd",
+"date": "2026-10-13",
+"time": "19:00",
+"title": "Frank Catalano Quintet feat. Randy Brecker",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/frank-catalano-quartet-feat-randy-brecker/",
+"src": "birdland"
+},
+{
+"id": "sbc5f4787ed",
+"date": "2026-10-13",
+"time": "19:30",
+"title": "Wolfgang Amadeus Mozart: Cos\u00ec fan tutte",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/cosi-fan-tutte/",
+"src": "metopera"
 },
 {
 "id": "s1a209f4b9f",
@@ -553,6 +1223,76 @@
 "src": "nyphil"
 },
 {
+"id": "s7f18a03cb1",
+"date": "2026-10-13",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-18/",
+"src": "stanns"
+},
+{
+"id": "s424564e9d7",
+"date": "2026-10-13",
+"time": "",
+"title": "The Game: Peter King in Conversation with Adam Schefter",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/the-game-peter-king-with-adam-schefter",
+"src": "92ny_music"
+},
+{
+"id": "s2cfb055db2",
+"date": "2026-10-13",
+"time": "",
+"title": "Michael Gorra with Brenda Wineapple: The Storytellers",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/michael-gorra-the-storytellers",
+"src": "92ny_music"
+},
+{
+"id": "s51cf50de4d",
+"date": "2026-10-13",
+"time": "",
+"title": "Kim Ghattas with Richard Engel: The Best Kind of American",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/kim-ghattas-with-richard-engel",
+"src": "92ny_music"
+},
+{
+"id": "s89143a9237",
+"date": "2026-10-13",
+"time": "",
+"title": "The Game: Peter King in Conversation with Adam Schefter",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/the-game-peter-king-with-adam-schefter",
+"src": "92ny_talks"
+},
+{
+"id": "s36dfa5e6e2",
+"date": "2026-10-13",
+"time": "",
+"title": "Michael Gorra with Brenda Wineapple: The Storytellers",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/michael-gorra-the-storytellers",
+"src": "92ny_talks"
+},
+{
+"id": "s4885c77189",
+"date": "2026-10-13",
+"time": "",
+"title": "Kim Ghattas with Richard Engel: The Best Kind of American",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/kim-ghattas-with-richard-engel",
+"src": "92ny_talks"
+},
+{
 "id": "sa8f2e39cd9",
 "date": "2026-10-13",
 "time": "",
@@ -561,6 +1301,36 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/navigating-stem-career-opportunities-funding-and-immigration-pathways-inside-the-us/",
 "src": "nyas"
+},
+{
+"id": "se97e797906",
+"date": "2026-10-14",
+"time": "17:30",
+"title": "David Ostwald's Louis Armstrong Eternity Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/david-ostwalds-louis-armstrong-eternity-band-2/",
+"src": "birdland"
+},
+{
+"id": "s3c068aa101",
+"date": "2026-10-14",
+"time": "19:00",
+"title": "Ron Carter Duo Featuring Bill Frisell",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carter-duo-featuring-bill-frisell/",
+"src": "birdland"
+},
+{
+"id": "sa321771c65",
+"date": "2026-10-14",
+"time": "19:30",
+"title": "Giuseppe Verdi: Macbeth",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/macbeth/",
+"src": "metopera"
 },
 {
 "id": "sf756ea0e75",
@@ -583,6 +1353,126 @@
 "src": "nyphil"
 },
 {
+"id": "sb2d6c2ecc3",
+"date": "2026-10-14",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-19/",
+"src": "stanns"
+},
+{
+"id": "seab65fda84",
+"date": "2026-10-14",
+"time": "20:30",
+"title": "Frank Vignola's Guitar Night with Peter Bernstein and Pasquale Grasso",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/frank-vignolas-guitar-night-with-pasquale-grasso-11/",
+"src": "birdland"
+},
+{
+"id": "s3fa23e9fb1",
+"date": "2026-10-14",
+"time": "",
+"title": "Ellen Vora in Conversation with Michael Barbaro: Season of the Witch",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/ellen-vora-with-michael-barbaro-season-of-the-witch",
+"src": "92ny_music"
+},
+{
+"id": "s208dd73bd9",
+"date": "2026-10-14",
+"time": "",
+"title": "Wicker Advance Screening with Olivia Colman, Alexander Skarsg\u00e5rd, Eleanor Wilson, and Alex Huston Fischer in Conversatio",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/wicker",
+"src": "92ny_music"
+},
+{
+"id": "s8225084b3f",
+"date": "2026-10-14",
+"time": "",
+"title": "Matti Friedman in Conversation with Stephanie Butnick: Rethinking Jewish Identity, Beyond the West \u2014 The Simon Family Le",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/matti-friedman-with-stephanie-butnick",
+"src": "92ny_music"
+},
+{
+"id": "s18c90d616f",
+"date": "2026-10-14",
+"time": "",
+"title": "Janet Reitman in Conversation with George Packer: The Inheritance",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/janet-reitman-with-george-packer",
+"src": "92ny_music"
+},
+{
+"id": "sc12a17e067",
+"date": "2026-10-14",
+"time": "",
+"title": "Israeli Folk Dance (Open Session)",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/class/israeli-folk-dance-open-session",
+"src": "92ny_music"
+},
+{
+"id": "se81e4f3ab8",
+"date": "2026-10-14",
+"time": "",
+"title": "Ellen Vora in Conversation with Michael Barbaro: Season of the Witch",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/ellen-vora-with-michael-barbaro-season-of-the-witch",
+"src": "92ny_talks"
+},
+{
+"id": "sd43196cbd1",
+"date": "2026-10-14",
+"time": "",
+"title": "Wicker Advance Screening with Olivia Colman, Alexander Skarsg\u00e5rd, Eleanor Wilson, and Alex Huston Fischer in Conversatio",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/wicker",
+"src": "92ny_talks"
+},
+{
+"id": "scba8b704ec",
+"date": "2026-10-14",
+"time": "",
+"title": "Matti Friedman in Conversation with Stephanie Butnick: Rethinking Jewish Identity, Beyond the West \u2014 The Simon Family Le",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/matti-friedman-with-stephanie-butnick",
+"src": "92ny_talks"
+},
+{
+"id": "s3afcc02846",
+"date": "2026-10-14",
+"time": "",
+"title": "Janet Reitman in Conversation with George Packer: The Inheritance",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/janet-reitman-with-george-packer",
+"src": "92ny_talks"
+},
+{
+"id": "s1ce3555007",
+"date": "2026-10-14",
+"time": "",
+"title": "Israeli Folk Dance (Open Session)",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/class/israeli-folk-dance-open-session",
+"src": "92ny_talks"
+},
+{
 "id": "s74bd760dfc",
 "date": "2026-10-14",
 "time": "",
@@ -603,6 +1493,46 @@
 "src": "emanuel"
 },
 {
+"id": "sec74aba215",
+"date": "2026-10-15",
+"time": "17:30",
+"title": "The High Society New Orleans Jazz Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/the-high-society-new-orleans-jazz-band-43/",
+"src": "birdland"
+},
+{
+"id": "s5c5ebae946",
+"date": "2026-10-15",
+"time": "19:00",
+"title": "Ron Carter Duo Featuring Bill Frisell",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carter-duo-featuring-bill-frisell-3/",
+"src": "birdland"
+},
+{
+"id": "sa877f5a44f",
+"date": "2026-10-15",
+"time": "19:00",
+"title": "Ron Carter & Bill Frisell Livestream",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carter-bill-frisell-livestream/",
+"src": "birdland"
+},
+{
+"id": "sb0c8627ea4",
+"date": "2026-10-15",
+"time": "19:30",
+"title": "Giacomo Puccini: La Boh\u00e8me",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
+"src": "metopera"
+},
+{
 "id": "s874a702705",
 "date": "2026-10-15",
 "time": "19:30",
@@ -611,6 +1541,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
+},
+{
+"id": "s86d65f2d98",
+"date": "2026-10-15",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-20/",
+"src": "stanns"
 },
 {
 "id": "se7ed4ccf8e",
@@ -633,6 +1573,26 @@
 "src": "greenwood"
 },
 {
+"id": "s7bf25643c5",
+"date": "2026-10-16",
+"time": "17:30",
+"title": "Birdland Big Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/birdland-big-band-27/",
+"src": "birdland"
+},
+{
+"id": "s79bc12e72f",
+"date": "2026-10-16",
+"time": "19:00",
+"title": "Carole J. Bufford: Chanteuse",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/carole-j-bufford/",
+"src": "birdland"
+},
+{
 "id": "s6d33d95091",
 "date": "2026-10-16",
 "time": "19:30",
@@ -643,6 +1603,16 @@
 "src": "greenwood"
 },
 {
+"id": "s8e4ef9c5fb",
+"date": "2026-10-16",
+"time": "19:30",
+"title": "Giacomo Puccini: La Boh\u00e8me",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
+"src": "metopera"
+},
+{
 "id": "s64e3651f6a",
 "date": "2026-10-16",
 "time": "19:30",
@@ -651,6 +1621,66 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
+},
+{
+"id": "s2fc06180a9",
+"date": "2026-10-16",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-21/",
+"src": "stanns"
+},
+{
+"id": "s52954ea313",
+"date": "2026-10-16",
+"time": "20:30",
+"title": "Ron Carter Duo Featuring Bill Frisell",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carter-duo-featuring-bill-frisell-5/",
+"src": "birdland"
+},
+{
+"id": "sbfeb8387ea",
+"date": "2026-10-16",
+"time": "",
+"title": "Johnnie Cruise Mercer: The Good News Suite \u2014 Featuring TheREDprojectNYC Movement Ensemble",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/johnnie-cruise-mercer-the-good-news-suite",
+"src": "92ny_music"
+},
+{
+"id": "sb7cd6b2e67",
+"date": "2026-10-16",
+"time": "",
+"title": "Kind of Blue Band: Miles Davis Centennial Celebration I",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/a-kind-of-blue-band-acoustic-miles",
+"src": "92ny_music"
+},
+{
+"id": "s3d7c2378c1",
+"date": "2026-10-16",
+"time": "",
+"title": "Johnnie Cruise Mercer: The Good News Suite \u2014 Featuring TheREDprojectNYC Movement Ensemble",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/johnnie-cruise-mercer-the-good-news-suite",
+"src": "92ny_talks"
+},
+{
+"id": "s7087114516",
+"date": "2026-10-16",
+"time": "",
+"title": "Kind of Blue Band: Miles Davis Centennial Celebration I",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/a-kind-of-blue-band-acoustic-miles",
+"src": "92ny_talks"
 },
 {
 "id": "s6df033f457",
@@ -703,6 +1733,16 @@
 "src": "greenwood"
 },
 {
+"id": "sc61c3b708c",
+"date": "2026-10-17",
+"time": "13:00",
+"title": "Giuseppe Verdi: Macbeth",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/macbeth/",
+"src": "metopera"
+},
+{
 "id": "s70865abab7",
 "date": "2026-10-17",
 "time": "15:00",
@@ -711,6 +1751,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/secrets-in-stone-13/2026-10-17/",
 "src": "greenwood"
+},
+{
+"id": "s13d70be447",
+"date": "2026-10-17",
+"time": "17:30",
+"title": "Pasquale Grasso Trio",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/pasquale-grasso-trio-9/",
+"src": "birdland"
 },
 {
 "id": "s24c3f56686",
@@ -723,6 +1773,16 @@
 "src": "greenwood"
 },
 {
+"id": "s989623c685",
+"date": "2026-10-17",
+"time": "19:00",
+"title": "Carole J. Bufford: Chanteuse",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/carole-j-bufford-3/",
+"src": "birdland"
+},
+{
 "id": "se4118fd27d",
 "date": "2026-10-17",
 "time": "19:30",
@@ -733,6 +1793,26 @@
 "src": "nycballet"
 },
 {
+"id": "s81f9fff622",
+"date": "2026-10-17",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-23/",
+"src": "stanns"
+},
+{
+"id": "s4567531f1f",
+"date": "2026-10-17",
+"time": "20:00",
+"title": "Wolfgang Amadeus Mozart: Cos\u00ec fan tutte",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/cosi-fan-tutte/",
+"src": "metopera"
+},
+{
 "id": "sc93e060a3b",
 "date": "2026-10-17",
 "time": "20:00",
@@ -741,6 +1821,76 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct17",
 "src": "nyphil"
+},
+{
+"id": "sea9f7998f2",
+"date": "2026-10-17",
+"time": "20:30",
+"title": "Ron Carter Duo Featuring Bill Frisell",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carter-duo-featuring-bill-frisell-7/",
+"src": "birdland"
+},
+{
+"id": "sfefbb1e980",
+"date": "2026-10-17",
+"time": "",
+"title": "92NY NEXUS Dinner Before the Jazz",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/nexus-dinner-before-the-jazz",
+"src": "92ny_music"
+},
+{
+"id": "sa864e2fb0c",
+"date": "2026-10-17",
+"time": "",
+"title": "Johnnie Cruise Mercer: The Good News Suite \u2014 Featuring TheREDprojectNYC Movement Ensemble",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/johnnie-cruise-mercer-the-good-news-suite",
+"src": "92ny_music"
+},
+{
+"id": "sc58f0ab8cf",
+"date": "2026-10-17",
+"time": "",
+"title": "Miles Electric Band (M.E.B.): Miles Davis Centennial Celebration II",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/miles-electric-band-electric-miles",
+"src": "92ny_music"
+},
+{
+"id": "sdc302dbffc",
+"date": "2026-10-17",
+"time": "",
+"title": "92NY NEXUS Dinner Before the Jazz",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/nexus-dinner-before-the-jazz",
+"src": "92ny_talks"
+},
+{
+"id": "sb77dfcd9a9",
+"date": "2026-10-17",
+"time": "",
+"title": "Johnnie Cruise Mercer: The Good News Suite \u2014 Featuring TheREDprojectNYC Movement Ensemble",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/johnnie-cruise-mercer-the-good-news-suite",
+"src": "92ny_talks"
+},
+{
+"id": "sbb2abe0afb",
+"date": "2026-10-17",
+"time": "",
+"title": "Miles Electric Band (M.E.B.): Miles Davis Centennial Celebration II",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/miles-electric-band-electric-miles",
+"src": "92ny_talks"
 },
 {
 "id": "s02351fb3f9",
@@ -793,6 +1943,36 @@
 "src": "nycballet"
 },
 {
+"id": "s5f163bc945",
+"date": "2026-10-18",
+"time": "17:30",
+"title": "Adi Yeshaya Jazz Orchestra feat. Jennifer Grimm",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/adi-yeshaya-jazz-orchestra-feat-jennifer-grimm/",
+"src": "birdland"
+},
+{
+"id": "s15c448b13d",
+"date": "2026-10-18",
+"time": "19:00",
+"title": "Carole J. Bufford: Chanteuse",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/carole-j-bufford-5/",
+"src": "birdland"
+},
+{
+"id": "s5e9a8a169f",
+"date": "2026-10-18",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-31/",
+"src": "stanns"
+},
+{
 "id": "s9bb86829a0",
 "date": "2026-10-18",
 "time": "20:00",
@@ -801,6 +1981,96 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct18",
 "src": "nyphil"
+},
+{
+"id": "s4db8185b39",
+"date": "2026-10-18",
+"time": "20:30",
+"title": "The Birdland Latin Jazz Orchestra",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/the-birdland-latin-jazz-orchestra-55/",
+"src": "birdland"
+},
+{
+"id": "sbba7c2475e",
+"date": "2026-10-18",
+"time": "",
+"title": "Red Riding Hood",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/red-riding-hood",
+"src": "92ny_music"
+},
+{
+"id": "s12370c33c0",
+"date": "2026-10-18",
+"time": "",
+"title": "Seussical\u2122 \u2013 Theatre Young Audiences",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/seussical-theatre-young-audiences",
+"src": "92ny_music"
+},
+{
+"id": "sc45466494c",
+"date": "2026-10-18",
+"time": "",
+"title": "Yoga Nidra & Sound Bath",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/class/t/yoga-nidra-and-sound-bath",
+"src": "92ny_music"
+},
+{
+"id": "s7474e7e39a",
+"date": "2026-10-18",
+"time": "",
+"title": "Mario: Documentary Screening and Conversation with Ken Auletta, Madeline Cuomo, Steven Cohen, and Teddy Kunhardt",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/mario-documentary-screening-and-conversation",
+"src": "92ny_music"
+},
+{
+"id": "seeed21bb6c",
+"date": "2026-10-18",
+"time": "",
+"title": "Red Riding Hood",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/red-riding-hood",
+"src": "92ny_talks"
+},
+{
+"id": "s59600009a5",
+"date": "2026-10-18",
+"time": "",
+"title": "Seussical\u2122 \u2013 Theatre Young Audiences",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/seussical-theatre-young-audiences",
+"src": "92ny_talks"
+},
+{
+"id": "sa814778b2f",
+"date": "2026-10-18",
+"time": "",
+"title": "Yoga Nidra & Sound Bath",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/class/t/yoga-nidra-and-sound-bath",
+"src": "92ny_talks"
+},
+{
+"id": "s83aa9ff531",
+"date": "2026-10-18",
+"time": "",
+"title": "Mario: Documentary Screening and Conversation with Ken Auletta, Madeline Cuomo, Steven Cohen, and Teddy Kunhardt",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/mario-documentary-screening-and-conversation",
+"src": "92ny_talks"
 },
 {
 "id": "saeac5a8888",
@@ -813,6 +2083,46 @@
 "src": "emanuel"
 },
 {
+"id": "s05e01aa1cc",
+"date": "2026-10-19",
+"time": "17:30",
+"title": "Vince Giordano and the Nighthawks",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-117/",
+"src": "birdland"
+},
+{
+"id": "sfd632ce1e5",
+"date": "2026-10-19",
+"time": "19:00",
+"title": "Julie Benko Livestream",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/julie-benko-livestream/",
+"src": "birdland"
+},
+{
+"id": "s965a991bb1",
+"date": "2026-10-19",
+"time": "19:00",
+"title": "Julie Benko: Broadway Goes to the Movies",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/julie-benko-broadway-goes-to-the-movies/",
+"src": "birdland"
+},
+{
+"id": "s72643d5d54",
+"date": "2026-10-19",
+"time": "20:00",
+"title": "MISSY MAZZOLI / LIBRETTO BY ROYCE VAVREK / BASED ON THE NOVEL BY GEORGE SAUNDERS: Lincoln in the Bardo",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
+"src": "metopera"
+},
+{
 "id": "s17d0f7e575",
 "date": "2026-10-19",
 "time": "20:00",
@@ -821,6 +2131,56 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct19",
 "src": "nyphil"
+},
+{
+"id": "s0f2ed68370",
+"date": "2026-10-19",
+"time": "21:30",
+"title": "Jim Caruso's Cast Party with Billy Stritch",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/jim-carusos-cast-party-27/",
+"src": "birdland"
+},
+{
+"id": "s9a9c58a770",
+"date": "2026-10-19",
+"time": "",
+"title": "Laurence Leamer with Derek Blasberg: Ladies\u2019 Man \u2014 The Careless Heart of John F. Kennedy",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/laurence-leamer-ladies-man",
+"src": "92ny_music"
+},
+{
+"id": "s4026db88d6",
+"date": "2026-10-19",
+"time": "",
+"title": "Would Israel be Better Off Without American Aid? \u2014 Michael Oren and Jonathan Schanzer with Bret Stephens",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/would-israel-be-better-off-without-american-aid",
+"src": "92ny_music"
+},
+{
+"id": "s1911883dc8",
+"date": "2026-10-19",
+"time": "",
+"title": "Laurence Leamer with Derek Blasberg: Ladies\u2019 Man \u2014 The Careless Heart of John F. Kennedy",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/laurence-leamer-ladies-man",
+"src": "92ny_talks"
+},
+{
+"id": "s8b6d0296e1",
+"date": "2026-10-19",
+"time": "",
+"title": "Would Israel be Better Off Without American Aid? \u2014 Michael Oren and Jonathan Schanzer with Bret Stephens",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/would-israel-be-better-off-without-american-aid",
+"src": "92ny_talks"
 },
 {
 "id": "sf2f12923ce",
@@ -833,6 +2193,86 @@
 "src": "zwirner"
 },
 {
+"id": "s80b5b27b88",
+"date": "2026-10-20",
+"time": "17:30",
+"title": "Vince Giordano and the Nighthawks",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-119/",
+"src": "birdland"
+},
+{
+"id": "se206eb397b",
+"date": "2026-10-20",
+"time": "19:00",
+"title": "Anderson Brothers play Benny Goodman",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/anderson-brothers-play-benny-goodman/",
+"src": "birdland"
+},
+{
+"id": "sac3bd9e6dd",
+"date": "2026-10-20",
+"time": "19:30",
+"title": "Giuseppe Verdi: Macbeth",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/macbeth/",
+"src": "metopera"
+},
+{
+"id": "sd6befb28b5",
+"date": "2026-10-20",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-25/",
+"src": "stanns"
+},
+{
+"id": "s73bcb411c8",
+"date": "2026-10-20",
+"time": "",
+"title": "Jonathan Mahler and Kathy Wylde in Conversation with Thomas Dyja: The Gods of New York and a City Transformed",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/jonathan-mahler-and-kathy-wylde-with-thomas-dyja",
+"src": "92ny_music"
+},
+{
+"id": "s7f2a61d3af",
+"date": "2026-10-20",
+"time": "",
+"title": "Simon Schama in Conversation with 92NY\u2019s Rabbi David Ingber: A New History of Antisemitism",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/simon-schama-with-rabbi-david-ingber",
+"src": "92ny_music"
+},
+{
+"id": "sc9349f2a2b",
+"date": "2026-10-20",
+"time": "",
+"title": "Jonathan Mahler and Kathy Wylde in Conversation with Thomas Dyja: The Gods of New York and a City Transformed",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/jonathan-mahler-and-kathy-wylde-with-thomas-dyja",
+"src": "92ny_talks"
+},
+{
+"id": "s617a7fb490",
+"date": "2026-10-20",
+"time": "",
+"title": "Simon Schama in Conversation with 92NY\u2019s Rabbi David Ingber: A New History of Antisemitism",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/simon-schama-with-rabbi-david-ingber",
+"src": "92ny_talks"
+},
+{
 "id": "sc12a5b6a71",
 "date": "2026-10-20",
 "time": "",
@@ -843,14 +2283,34 @@
 "src": "emanuel"
 },
 {
-"id": "s8ec39f8d2f",
+"id": "s9badf0677e",
 "date": "2026-10-20",
 "time": "",
-"title": "Estrangement Support Group: You Are Not Alone",
+"title": "Finding Hope and Healing: A Family Estrangement Support Group",
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/estrangement-support-group/",
 "src": "emanuel"
+},
+{
+"id": "s363b178cfe",
+"date": "2026-10-21",
+"time": "17:30",
+"title": "David Ostwald's Louis Armstrong Eternity Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/david-ostwalds-louis-armstrong-eternity-band-21/",
+"src": "birdland"
+},
+{
+"id": "sdf81b81287",
+"date": "2026-10-21",
+"time": "19:00",
+"title": "Ron Carter's Great Big Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carters-great-big-band/",
+"src": "birdland"
 },
 {
 "id": "sefd0a1fc15",
@@ -861,6 +2321,126 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct21",
 "src": "nyphil"
+},
+{
+"id": "sdeca98840b",
+"date": "2026-10-21",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-26/",
+"src": "stanns"
+},
+{
+"id": "s7f3d794049",
+"date": "2026-10-21",
+"time": "20:30",
+"title": "Frank Vignola's Guitar Night with Matt Munisteri and Pasquale Grasso",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/frank-vignolas-guitar-night-with-pasquale-grasso-12/",
+"src": "birdland"
+},
+{
+"id": "s0864e6d2b1",
+"date": "2026-10-21",
+"time": "",
+"title": "Sunset Yoga & Mocktails \u2014 David Hollander",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/sunset-yoga-mocktails",
+"src": "92ny_music"
+},
+{
+"id": "s47c85fdf8a",
+"date": "2026-10-21",
+"time": "",
+"title": "Excuse My Grandma: A Live Podcast Recording with Kim Murstein and Gail Rudnick",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/excuse-my-grandma",
+"src": "92ny_music"
+},
+{
+"id": "s82dd384843",
+"date": "2026-10-21",
+"time": "",
+"title": "Taylor Swift, \u201cLove Story,\u201d and the Ancient Roman Art of Writing About Love \u2014 with NYU\u2019s David Levene",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/david-levene-reading-roman-elegy-through-taylor-swift",
+"src": "92ny_music"
+},
+{
+"id": "sbc4f340c3c",
+"date": "2026-10-21",
+"time": "",
+"title": "Susan Orlean with John Wilson: Joyride",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/susan-orlean-joyride",
+"src": "92ny_music"
+},
+{
+"id": "s5cb0ae99f7",
+"date": "2026-10-21",
+"time": "",
+"title": "Israeli Folk Dance (Open Session)",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/class/israeli-folk-dance-open-session",
+"src": "92ny_music"
+},
+{
+"id": "sa3c2f5f3a3",
+"date": "2026-10-21",
+"time": "",
+"title": "Sunset Yoga & Mocktails \u2014 David Hollander",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/sunset-yoga-mocktails",
+"src": "92ny_talks"
+},
+{
+"id": "s7cb1d54bf0",
+"date": "2026-10-21",
+"time": "",
+"title": "Excuse My Grandma: A Live Podcast Recording with Kim Murstein and Gail Rudnick",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/excuse-my-grandma",
+"src": "92ny_talks"
+},
+{
+"id": "sc44b66f14d",
+"date": "2026-10-21",
+"time": "",
+"title": "Taylor Swift, \u201cLove Story,\u201d and the Ancient Roman Art of Writing About Love \u2014 with NYU\u2019s David Levene",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/david-levene-reading-roman-elegy-through-taylor-swift",
+"src": "92ny_talks"
+},
+{
+"id": "s149f92edb7",
+"date": "2026-10-21",
+"time": "",
+"title": "Susan Orlean with John Wilson: Joyride",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/susan-orlean-joyride",
+"src": "92ny_talks"
+},
+{
+"id": "s539e9e20ee",
+"date": "2026-10-21",
+"time": "",
+"title": "Israeli Folk Dance (Open Session)",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/class/israeli-folk-dance-open-session",
+"src": "92ny_talks"
 },
 {
 "id": "s958b87fec6",
@@ -903,6 +2483,46 @@
 "src": "nyphil"
 },
 {
+"id": "s24d1ff0041",
+"date": "2026-10-22",
+"time": "17:30",
+"title": "The High Society New Orleans Jazz Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/the-high-society-new-orleans-jazz-band-57/",
+"src": "birdland"
+},
+{
+"id": "sa404155bb1",
+"date": "2026-10-22",
+"time": "19:00",
+"title": "Ron Carter's Great Big Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carters-great-big-band-3/",
+"src": "birdland"
+},
+{
+"id": "s39183f9f46",
+"date": "2026-10-22",
+"time": "19:00",
+"title": "Ron Carter\u2019s Great Big Band Livestream",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carters-great-big-band-livestream/",
+"src": "birdland"
+},
+{
+"id": "s67955812f3",
+"date": "2026-10-22",
+"time": "19:30",
+"title": "Giacomo Puccini: La Boh\u00e8me",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
+"src": "metopera"
+},
+{
 "id": "s425806cc51",
 "date": "2026-10-22",
 "time": "19:30",
@@ -911,6 +2531,76 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct22",
 "src": "nyphil"
+},
+{
+"id": "s0a3b972a21",
+"date": "2026-10-22",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-27/",
+"src": "stanns"
+},
+{
+"id": "s1727b04ccb",
+"date": "2026-10-22",
+"time": "",
+"title": "Women inPower: Secrets of Leadership with Indra Nooyi, Former Chairman and CEO of PepsiCo in Conversation with CBS Satur",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/secrets-of-leadership-with-indra-nooyi",
+"src": "92ny_music"
+},
+{
+"id": "sa6c10102d1",
+"date": "2026-10-22",
+"time": "",
+"title": "The Sun Also Rises at 100: Michael Shannon, Richard Schiff, Jay McInerney, and others \u2014 with Angela Hemingway Charles, P",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/the-sun-also-rises-at-100",
+"src": "92ny_music"
+},
+{
+"id": "s126a9a3515",
+"date": "2026-10-22",
+"time": "",
+"title": "Jewish or Antisemitic LIVE: Hosted by Eitan Levine featuring Talia Lichtstein and Raanan Hershberg with music by Max Ash",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/jewish-or-antisemitic-live",
+"src": "92ny_music"
+},
+{
+"id": "s18186e973f",
+"date": "2026-10-22",
+"time": "",
+"title": "Women inPower: Secrets of Leadership with Indra Nooyi, Former Chairman and CEO of PepsiCo in Conversation with CBS Satur",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/secrets-of-leadership-with-indra-nooyi",
+"src": "92ny_talks"
+},
+{
+"id": "s8e566824ad",
+"date": "2026-10-22",
+"time": "",
+"title": "The Sun Also Rises at 100: Michael Shannon, Richard Schiff, Jay McInerney, and others \u2014 with Angela Hemingway Charles, P",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/the-sun-also-rises-at-100",
+"src": "92ny_talks"
+},
+{
+"id": "sf50f481d3b",
+"date": "2026-10-22",
+"time": "",
+"title": "Jewish or Antisemitic LIVE: Hosted by Eitan Levine featuring Talia Lichtstein and Raanan Hershberg with music by Max Ash",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/jewish-or-antisemitic-live",
+"src": "92ny_talks"
 },
 {
 "id": "s0bf090bf6d",
@@ -923,6 +2613,126 @@
 "src": "nyas"
 },
 {
+"id": "s88e9ca6228",
+"date": "2026-10-23",
+"time": "17:30",
+"title": "Birdland Big Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/birdland-big-band-28/",
+"src": "birdland"
+},
+{
+"id": "se1950e8063",
+"date": "2026-10-23",
+"time": "19:00",
+"title": "Curtis Stigers",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/curtis-stigers/",
+"src": "birdland"
+},
+{
+"id": "se4f1ea24a9",
+"date": "2026-10-23",
+"time": "19:30",
+"title": "Wolfgang Amadeus Mozart: Cos\u00ec fan tutte",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/cosi-fan-tutte/",
+"src": "metopera"
+},
+{
+"id": "se0e00d74bf",
+"date": "2026-10-23",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-28/",
+"src": "stanns"
+},
+{
+"id": "sf431e09f22",
+"date": "2026-10-23",
+"time": "20:30",
+"title": "Ron Carter's Great Big Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carters-great-big-band-5/",
+"src": "birdland"
+},
+{
+"id": "s1b984f795e",
+"date": "2026-10-23",
+"time": "",
+"title": "Shabbat B\u2019ivrit (Hebrew Speaking Shabbat Dinner) \u2014 Daniel Klein and Dagan Shimoni",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/shabbat-b-ivrit",
+"src": "92ny_music"
+},
+{
+"id": "s1306950d30",
+"date": "2026-10-23",
+"time": "",
+"title": "Ema Nikolovska, mezzo-soprano & Sean Shibe, guitar: Orlando",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/ema-nikolovska-and-sean-shibe",
+"src": "92ny_music"
+},
+{
+"id": "s59a2b86b1f",
+"date": "2026-10-23",
+"time": "",
+"title": "Shabbat B\u2019ivrit (Hebrew Speaking Shabbat Dinner) \u2014 Daniel Klein and Dagan Shimoni",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/shabbat-b-ivrit",
+"src": "92ny_talks"
+},
+{
+"id": "sf0ba9a0086",
+"date": "2026-10-23",
+"time": "",
+"title": "Ema Nikolovska, mezzo-soprano & Sean Shibe, guitar: Orlando",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/ema-nikolovska-and-sean-shibe",
+"src": "92ny_talks"
+},
+{
+"id": "s65ac8c2c83",
+"date": "2026-10-24",
+"time": "13:00",
+"title": "MISSY MAZZOLI / LIBRETTO BY ROYCE VAVREK / BASED ON THE NOVEL BY GEORGE SAUNDERS: Lincoln in the Bardo",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
+"src": "metopera"
+},
+{
+"id": "s828d5993c1",
+"date": "2026-10-24",
+"time": "17:30",
+"title": "Pasquale Grasso Trio",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/pasquale-grasso-trio-10/",
+"src": "birdland"
+},
+{
+"id": "se7d6d67111",
+"date": "2026-10-24",
+"time": "19:00",
+"title": "Curtis Stigers",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/curtis-stigers-3/",
+"src": "birdland"
+},
+{
 "id": "s2fe536ad58",
 "date": "2026-10-24",
 "time": "19:30",
@@ -931,6 +2741,76 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/artist-spotlight-lisa-batiashvili",
 "src": "nyphil"
+},
+{
+"id": "s61af7eee60",
+"date": "2026-10-24",
+"time": "19:30",
+"title": "Kramer/Fauci",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/kramer-fauci-30/",
+"src": "stanns"
+},
+{
+"id": "s11f7002c87",
+"date": "2026-10-24",
+"time": "20:00",
+"title": "Giacomo Puccini: La Boh\u00e8me",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
+"src": "metopera"
+},
+{
+"id": "sa5c3c559c1",
+"date": "2026-10-24",
+"time": "20:30",
+"title": "Ron Carter's Great Big Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carters-great-big-band-7/",
+"src": "birdland"
+},
+{
+"id": "sbec70ee6b9",
+"date": "2026-10-24",
+"time": "",
+"title": "Red Riding Hood",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/red-riding-hood",
+"src": "92ny_music"
+},
+{
+"id": "s314089dfac",
+"date": "2026-10-24",
+"time": "",
+"title": "Seussical\u2122 \u2013 Theatre Young Audiences",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/seussical-theatre-young-audiences",
+"src": "92ny_music"
+},
+{
+"id": "sa89817db3b",
+"date": "2026-10-24",
+"time": "",
+"title": "Red Riding Hood",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/red-riding-hood",
+"src": "92ny_talks"
+},
+{
+"id": "s022f32b170",
+"date": "2026-10-24",
+"time": "",
+"title": "Seussical\u2122 \u2013 Theatre Young Audiences",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/seussical-theatre-young-audiences",
+"src": "92ny_talks"
 },
 {
 "id": "se36b251916",
@@ -953,6 +2833,136 @@
 "src": "zwirner"
 },
 {
+"id": "s4c8ce1e9e2",
+"date": "2026-10-25",
+"time": "17:30",
+"title": "June Cavlan: \"Celebrating Ella\"",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/june-cavlan/",
+"src": "birdland"
+},
+{
+"id": "sd97c181a55",
+"date": "2026-10-25",
+"time": "19:00",
+"title": "Curtis Stigers",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/curtis-stigers-5/",
+"src": "birdland"
+},
+{
+"id": "s76d4b35b20",
+"date": "2026-10-25",
+"time": "20:30",
+"title": "The Birdland Latin Jazz Orchestra",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/the-birdland-latin-jazz-orchestra-57/",
+"src": "birdland"
+},
+{
+"id": "sa0e4a5b87e",
+"date": "2026-10-25",
+"time": "",
+"title": "92NY NEXUS Hudson Valley Apple Picking and Fall Foliage",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/nexus-hudson-valley-apple-picking-and-fall-foliage",
+"src": "92ny_music"
+},
+{
+"id": "sd05caf5df4",
+"date": "2026-10-25",
+"time": "",
+"title": "Red Riding Hood",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/red-riding-hood",
+"src": "92ny_music"
+},
+{
+"id": "sb9624b5e82",
+"date": "2026-10-25",
+"time": "",
+"title": "Seussical\u2122 \u2013 Theatre Young Audiences",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/seussical-theatre-young-audiences",
+"src": "92ny_music"
+},
+{
+"id": "s7357ed4d00",
+"date": "2026-10-25",
+"time": "",
+"title": "Movement, Breath & Meditation Workshop",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/class/t/movement-breath-and-meditation-workshop",
+"src": "92ny_music"
+},
+{
+"id": "sc7033391e8",
+"date": "2026-10-25",
+"time": "",
+"title": "Lox Club at 92NY: Live Dating Show \u2014 Austin Kevitch, Dylan Kevitch, Harmonie Krieger, and Sam Karshenboym",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/lox-club-live-at-92ny",
+"src": "92ny_music"
+},
+{
+"id": "s74b18859fa",
+"date": "2026-10-25",
+"time": "",
+"title": "92NY NEXUS Hudson Valley Apple Picking and Fall Foliage",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/nexus-hudson-valley-apple-picking-and-fall-foliage",
+"src": "92ny_talks"
+},
+{
+"id": "sc5b4f61ba6",
+"date": "2026-10-25",
+"time": "",
+"title": "Red Riding Hood",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/red-riding-hood",
+"src": "92ny_talks"
+},
+{
+"id": "s21a8f65406",
+"date": "2026-10-25",
+"time": "",
+"title": "Seussical\u2122 \u2013 Theatre Young Audiences",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/seussical-theatre-young-audiences",
+"src": "92ny_talks"
+},
+{
+"id": "s39cd327a0a",
+"date": "2026-10-25",
+"time": "",
+"title": "Movement, Breath & Meditation Workshop",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/class/t/movement-breath-and-meditation-workshop",
+"src": "92ny_talks"
+},
+{
+"id": "s2b6a12f056",
+"date": "2026-10-25",
+"time": "",
+"title": "Lox Club at 92NY: Live Dating Show \u2014 Austin Kevitch, Dylan Kevitch, Harmonie Krieger, and Sam Karshenboym",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/lox-club-live-at-92ny",
+"src": "92ny_talks"
+},
+{
 "id": "s4f6971eaf9",
 "date": "2026-10-25",
 "time": "",
@@ -971,6 +2981,206 @@
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/the-emanu-el-theatre-company/",
 "src": "emanuel"
+},
+{
+"id": "sea8e65fe12",
+"date": "2026-10-26",
+"time": "17:30",
+"title": "Vince Giordano and the Nighthawks",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-121/",
+"src": "birdland"
+},
+{
+"id": "s95588c39af",
+"date": "2026-10-26",
+"time": "19:00",
+"title": "Phillip Officer Sings A Mabel Mercer Broadway Portfolio",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/phillip-officer-sings-a-mabel-mercer-broadway-portfolio/",
+"src": "birdland"
+},
+{
+"id": "s6a00c75dbd",
+"date": "2026-10-26",
+"time": "19:30",
+"title": "MISSY MAZZOLI / LIBRETTO BY ROYCE VAVREK / BASED ON THE NOVEL BY GEORGE SAUNDERS: Lincoln in the Bardo",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
+"src": "metopera"
+},
+{
+"id": "s7d15c64126",
+"date": "2026-10-26",
+"time": "21:30",
+"title": "Jim Caruso's Cast Party with Billy Stritch",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/jim-carusos-cast-party-28/",
+"src": "birdland"
+},
+{
+"id": "s639b522b74",
+"date": "2026-10-26",
+"time": "",
+"title": "Filter the Facts: Are Your Diet and Drinking Habits Scarring Your Liver? \u2014 Meena B. Bansal, MD with Steve Fecteau, CPXP",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/filter-the-facts",
+"src": "92ny_music"
+},
+{
+"id": "sabef9d1348",
+"date": "2026-10-26",
+"time": "",
+"title": "An Evening with Tituss Burgess",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/an-evening-with-tituss-burgess",
+"src": "92ny_music"
+},
+{
+"id": "sfc11267c75",
+"date": "2026-10-26",
+"time": "",
+"title": "Maira Kalman: Joy",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/maira-kalman-joy",
+"src": "92ny_music"
+},
+{
+"id": "s9e9333c2a7",
+"date": "2026-10-26",
+"time": "",
+"title": "Filter the Facts: Are Your Diet and Drinking Habits Scarring Your Liver? \u2014 Meena B. Bansal, MD with Steve Fecteau, CPXP",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/filter-the-facts",
+"src": "92ny_talks"
+},
+{
+"id": "s47138423f8",
+"date": "2026-10-26",
+"time": "",
+"title": "An Evening with Tituss Burgess",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/an-evening-with-tituss-burgess",
+"src": "92ny_talks"
+},
+{
+"id": "sfda697a2e3",
+"date": "2026-10-26",
+"time": "",
+"title": "Maira Kalman: Joy",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/maira-kalman-joy",
+"src": "92ny_talks"
+},
+{
+"id": "s728c799c02",
+"date": "2026-10-27",
+"time": "17:30",
+"title": "Vince Giordano and the Nighthawks",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-123/",
+"src": "birdland"
+},
+{
+"id": "s2ba4a17e2b",
+"date": "2026-10-27",
+"time": "19:00",
+"title": "Alexa Tarantino Quartet",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/alexa-tarantino-quartet/",
+"src": "birdland"
+},
+{
+"id": "sfe3b2bb778",
+"date": "2026-10-27",
+"time": "",
+"title": "Narratives: Let Go of the Stories That Keep You Stuck \u2014 Nancy Colier",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/narratives-let-go-of-the-stories-that-keep-you-stuck",
+"src": "92ny_music"
+},
+{
+"id": "s9c70c00e3e",
+"date": "2026-10-27",
+"time": "",
+"title": "Lawrence Wright with Preet Bharara: Redemption",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/lawrence-wright",
+"src": "92ny_music"
+},
+{
+"id": "sfafdfff9ca",
+"date": "2026-10-27",
+"time": "",
+"title": "Nik Cohn with Ben Ratliff: Corner Boy",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/nik-cohn-with-ben-ratliff-corner-boy",
+"src": "92ny_music"
+},
+{
+"id": "s6ee40b240d",
+"date": "2026-10-27",
+"time": "",
+"title": "A New York Times Games Night to celebrate the release of Connections, the Book! with puzzle editors Wyna Liu, Joel Fagli",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/a-new-york-times-games-night",
+"src": "92ny_music"
+},
+{
+"id": "s6ec38042d7",
+"date": "2026-10-27",
+"time": "",
+"title": "Narratives: Let Go of the Stories That Keep You Stuck \u2014 Nancy Colier",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/narratives-let-go-of-the-stories-that-keep-you-stuck",
+"src": "92ny_talks"
+},
+{
+"id": "s14aaa1f8e6",
+"date": "2026-10-27",
+"time": "",
+"title": "Lawrence Wright with Preet Bharara: Redemption",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/lawrence-wright",
+"src": "92ny_talks"
+},
+{
+"id": "s96155e3b0d",
+"date": "2026-10-27",
+"time": "",
+"title": "Nik Cohn with Ben Ratliff: Corner Boy",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/nik-cohn-with-ben-ratliff-corner-boy",
+"src": "92ny_talks"
+},
+{
+"id": "s66a8bc3d0d",
+"date": "2026-10-27",
+"time": "",
+"title": "A New York Times Games Night to celebrate the release of Connections, the Book! with puzzle editors Wyna Liu, Joel Fagli",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/a-new-york-times-games-night",
+"src": "92ny_talks"
 },
 {
 "id": "s5849122eaa",
@@ -993,6 +3203,26 @@
 "src": "emanuel"
 },
 {
+"id": "s6a513318b4",
+"date": "2026-10-28",
+"time": "17:30",
+"title": "David Ostwald's Louis Armstrong Eternity Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/david-ostwalds-louis-armstrong-eternity-band-31/",
+"src": "birdland"
+},
+{
+"id": "sdb4b31c950",
+"date": "2026-10-28",
+"time": "19:00",
+"title": "Ron Carter's Foursight Quartet",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carters-foursight-quartet/",
+"src": "birdland"
+},
+{
 "id": "sd820eabc6c",
 "date": "2026-10-28",
 "time": "19:30",
@@ -1001,6 +3231,106 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/get-out-in-concert",
 "src": "nyphil"
+},
+{
+"id": "s3b4b09a30a",
+"date": "2026-10-28",
+"time": "20:00",
+"title": "Giacomo Puccini: La Boh\u00e8me",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
+"src": "metopera"
+},
+{
+"id": "s57724a5560",
+"date": "2026-10-28",
+"time": "20:30",
+"title": "Frank Vignola's Guitar Night with Scott Robinson and Pasquale Grasso",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/frank-vignolas-guitar-night-with-pasquale-grasso-13/",
+"src": "birdland"
+},
+{
+"id": "s55dbb3ce82",
+"date": "2026-10-28",
+"time": "",
+"title": "S\u014d Percussion: Steve Reich\u2019s Drumming \u2014 A 90th birthday celebration event",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/so-percussion-steve-reich-s-drumming",
+"src": "92ny_music"
+},
+{
+"id": "s0290802c2e",
+"date": "2026-10-28",
+"time": "",
+"title": "Daniel Kraus with Josh Brolin: Angel Down and the Future of Sci-Fi",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/daniel-kraus",
+"src": "92ny_music"
+},
+{
+"id": "sea331d313f",
+"date": "2026-10-28",
+"time": "",
+"title": "Annie Lowrey in Conversation with PJ Vogt: The Time Tax",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/annie-lowrey-and-pj-vogt-the-time-tax",
+"src": "92ny_music"
+},
+{
+"id": "sa8de3d9714",
+"date": "2026-10-28",
+"time": "",
+"title": "Israeli Folk Dance (Open Session)",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/class/israeli-folk-dance-open-session",
+"src": "92ny_music"
+},
+{
+"id": "sba9441b557",
+"date": "2026-10-28",
+"time": "",
+"title": "S\u014d Percussion: Steve Reich\u2019s Drumming \u2014 A 90th birthday celebration event",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/so-percussion-steve-reich-s-drumming",
+"src": "92ny_talks"
+},
+{
+"id": "sc7596d5b42",
+"date": "2026-10-28",
+"time": "",
+"title": "Daniel Kraus with Josh Brolin: Angel Down and the Future of Sci-Fi",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/daniel-kraus",
+"src": "92ny_talks"
+},
+{
+"id": "scfc6640fd8",
+"date": "2026-10-28",
+"time": "",
+"title": "Annie Lowrey in Conversation with PJ Vogt: The Time Tax",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/annie-lowrey-and-pj-vogt-the-time-tax",
+"src": "92ny_talks"
+},
+{
+"id": "sca5acefd21",
+"date": "2026-10-28",
+"time": "",
+"title": "Israeli Folk Dance (Open Session)",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/class/israeli-folk-dance-open-session",
+"src": "92ny_talks"
 },
 {
 "id": "sc838960c92",
@@ -1043,6 +3373,16 @@
 "src": "nyphil"
 },
 {
+"id": "sc507986d23",
+"date": "2026-10-29",
+"time": "17:30",
+"title": "The High Society New Orleans Jazz Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/the-high-society-new-orleans-jazz-band-59/",
+"src": "birdland"
+},
+{
 "id": "s54bfa7d403",
 "date": "2026-10-29",
 "time": "18:00",
@@ -1053,6 +3393,36 @@
 "src": "dyckman"
 },
 {
+"id": "s78f7930ae7",
+"date": "2026-10-29",
+"time": "19:00",
+"title": "Ron Carter's Foursight Quartet",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carters-foursight-quartet-3/",
+"src": "birdland"
+},
+{
+"id": "sc9ec1182d1",
+"date": "2026-10-29",
+"time": "19:00",
+"title": "Ron Carter\u2019s Foursight Quartet with Renee Rosnes Livestream",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carters-foursight-quartet-with-renee-rosnes-livestream/",
+"src": "birdland"
+},
+{
+"id": "sa3afa85647",
+"date": "2026-10-29",
+"time": "19:30",
+"title": "MISSY MAZZOLI / LIBRETTO BY ROYCE VAVREK / BASED ON THE NOVEL BY GEORGE SAUNDERS: Lincoln in the Bardo",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
+"src": "metopera"
+},
+{
 "id": "s3603df4bb3",
 "date": "2026-10-29",
 "time": "19:30",
@@ -1061,6 +3431,66 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/get-out-in-concert",
 "src": "nyphil"
+},
+{
+"id": "sd32f60af9e",
+"date": "2026-10-29",
+"time": "",
+"title": "Christopher WilliamsSpectre de la Rose (World Premiere)La Rh\u00e9torique des Dieux (New York Premiere)",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/christopher-williams",
+"src": "92ny_music"
+},
+{
+"id": "s4d18b3e572",
+"date": "2026-10-29",
+"time": "",
+"title": "Silas House with Colum McCann: The Tulip Poplars",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/silas-house-the-tulip-poplars",
+"src": "92ny_music"
+},
+{
+"id": "s6b1ce27521",
+"date": "2026-10-29",
+"time": "",
+"title": "Fashion Icons with Fern Mallis: Iris van Herpen",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/fashion-icons-iris-van-herpen",
+"src": "92ny_music"
+},
+{
+"id": "sfcf31f26c7",
+"date": "2026-10-29",
+"time": "",
+"title": "Christopher WilliamsSpectre de la Rose (World Premiere)La Rh\u00e9torique des Dieux (New York Premiere)",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/christopher-williams",
+"src": "92ny_talks"
+},
+{
+"id": "sbec1d44e2e",
+"date": "2026-10-29",
+"time": "",
+"title": "Silas House with Colum McCann: The Tulip Poplars",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/silas-house-the-tulip-poplars",
+"src": "92ny_talks"
+},
+{
+"id": "sbfabb604e5",
+"date": "2026-10-29",
+"time": "",
+"title": "Fashion Icons with Fern Mallis: Iris van Herpen",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/fashion-icons-iris-van-herpen",
+"src": "92ny_talks"
 },
 {
 "id": "sad5a0bcb86",
@@ -1093,6 +3523,36 @@
 "src": "nyphil"
 },
 {
+"id": "s950a1723b9",
+"date": "2026-10-30",
+"time": "17:30",
+"title": "Birdland Big Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/birdland-big-band-29/",
+"src": "birdland"
+},
+{
+"id": "se3d8d3d465",
+"date": "2026-10-30",
+"time": "19:00",
+"title": "Senri Oe Trio",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/senri-oe-trio/",
+"src": "birdland"
+},
+{
+"id": "s75dd3fd87e",
+"date": "2026-10-30",
+"time": "19:30",
+"title": "Luigi Cherubini: Medea",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/medea/",
+"src": "metopera"
+},
+{
 "id": "seadb0c5fae",
 "date": "2026-10-30",
 "time": "19:30",
@@ -1103,6 +3563,66 @@
 "src": "nyphil"
 },
 {
+"id": "sd71d34de5a",
+"date": "2026-10-30",
+"time": "20:30",
+"title": "Ron Carter's Foursight Quartet",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carters-foursight-quartet-5/",
+"src": "birdland"
+},
+{
+"id": "s332bb33eb8",
+"date": "2026-10-30",
+"time": "",
+"title": "Christopher WilliamsSpectre de la Rose (World Premiere)La Rh\u00e9torique des Dieux (New York Premiere)",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/christopher-williams",
+"src": "92ny_music"
+},
+{
+"id": "s7c358a54a1",
+"date": "2026-10-30",
+"time": "",
+"title": "Christopher WilliamsSpectre de la Rose (World Premiere)La Rh\u00e9torique des Dieux (New York Premiere)",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/christopher-williams",
+"src": "92ny_talks"
+},
+{
+"id": "s8225859a19",
+"date": "2026-10-31",
+"time": "13:00",
+"title": "Giacomo Puccini: La Boh\u00e8me",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
+"src": "metopera"
+},
+{
+"id": "sd2be6ff117",
+"date": "2026-10-31",
+"time": "17:30",
+"title": "Pasquale Grasso Trio",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/pasquale-grasso-trio-11/",
+"src": "birdland"
+},
+{
+"id": "sf7ee303df1",
+"date": "2026-10-31",
+"time": "19:00",
+"title": "Senri Oe Trio",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/senri-oe-trio-3/",
+"src": "birdland"
+},
+{
 "id": "s9c2cfa7b2d",
 "date": "2026-10-31",
 "time": "19:30",
@@ -1111,6 +3631,46 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/get-out-in-concert",
 "src": "nyphil"
+},
+{
+"id": "s83261e5b5c",
+"date": "2026-10-31",
+"time": "20:00",
+"title": "MISSY MAZZOLI / LIBRETTO BY ROYCE VAVREK / BASED ON THE NOVEL BY GEORGE SAUNDERS: Lincoln in the Bardo",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
+"src": "metopera"
+},
+{
+"id": "s6bc892b12b",
+"date": "2026-10-31",
+"time": "20:30",
+"title": "Ron Carter's Foursight Quartet",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carters-foursight-quartet-7/",
+"src": "birdland"
+},
+{
+"id": "sf5d88d5ba6",
+"date": "2026-10-31",
+"time": "",
+"title": "Seussical\u2122 \u2013 Theatre Young Audiences",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/seussical-theatre-young-audiences",
+"src": "92ny_music"
+},
+{
+"id": "sdbaed1fa5d",
+"date": "2026-10-31",
+"time": "",
+"title": "Seussical\u2122 \u2013 Theatre Young Audiences",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/seussical-theatre-young-audiences",
+"src": "92ny_talks"
 },
 {
 "id": "s90015b1478",
@@ -1153,6 +3713,16 @@
 "src": "zwirner"
 },
 {
+"id": "s1e90e8b389",
+"date": "2026-11-01",
+"time": "15:00",
+"title": "Giacomo Puccini: Tosca",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/tosca/",
+"src": "metopera"
+},
+{
 "id": "s7912a3d584",
 "date": "2026-11-01",
 "time": "15:00",
@@ -1161,6 +3731,36 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/merkin-nov",
 "src": "nyphil"
+},
+{
+"id": "s18ee5ae237",
+"date": "2026-11-01",
+"time": "19:30",
+"title": "Tristan & Yseult",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/tristan-yseult/",
+"src": "stanns"
+},
+{
+"id": "sf5c2e951fd",
+"date": "2026-11-03",
+"time": "19:30",
+"title": "MISSY MAZZOLI / LIBRETTO BY ROYCE VAVREK / BASED ON THE NOVEL BY GEORGE SAUNDERS: Lincoln in the Bardo",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
+"src": "metopera"
+},
+{
+"id": "s6fb177839b",
+"date": "2026-11-03",
+"time": "19:30",
+"title": "Tristan & Yseult",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/tristan-yseult-2/",
+"src": "stanns"
 },
 {
 "id": "sa59d9039c5",
@@ -1173,6 +3773,16 @@
 "src": "nyphil"
 },
 {
+"id": "sb687f55a2b",
+"date": "2026-11-04",
+"time": "19:30",
+"title": "Luigi Cherubini: Medea",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/medea/",
+"src": "metopera"
+},
+{
 "id": "s5037b698fe",
 "date": "2026-11-04",
 "time": "19:30",
@@ -1181,6 +3791,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/thibaudet-performs-liszt",
 "src": "nyphil"
+},
+{
+"id": "sb9153e78f9",
+"date": "2026-11-04",
+"time": "19:30",
+"title": "Tristan & Yseult",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/tristan-yseult-3/",
+"src": "stanns"
 },
 {
 "id": "s6a960decac",
@@ -1201,6 +3821,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/thibaudet-performs-liszt",
 "src": "nyphil"
+},
+{
+"id": "s8cc2625af5",
+"date": "2026-11-05",
+"time": "19:30",
+"title": "Tristan & Yseult",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/tristan-yseult-4/",
+"src": "stanns"
 },
 {
 "id": "sacefe5ef82",
@@ -1253,6 +3883,26 @@
 "src": "nyphil"
 },
 {
+"id": "s2df4248218",
+"date": "2026-11-06",
+"time": "19:30",
+"title": "Tristan & Yseult",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/tristan-yseult-5/",
+"src": "stanns"
+},
+{
+"id": "s4345824500",
+"date": "2026-11-06",
+"time": "20:00",
+"title": "Giacomo Puccini: Tosca",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/tosca/",
+"src": "metopera"
+},
+{
 "id": "sccfa2e3a96",
 "date": "2026-11-06",
 "time": "",
@@ -1261,6 +3911,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/jem-perucchini",
 "src": "zwirner"
+},
+{
+"id": "s9aeccaff19",
+"date": "2026-11-07",
+"time": "13:00",
+"title": "MISSY MAZZOLI / LIBRETTO BY ROYCE VAVREK / BASED ON THE NOVEL BY GEORGE SAUNDERS: Lincoln in the Bardo",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
+"src": "metopera"
 },
 {
 "id": "s02e857812d",
@@ -1293,6 +3953,26 @@
 "src": "nyphil"
 },
 {
+"id": "s6e7c7e838d",
+"date": "2026-11-07",
+"time": "19:30",
+"title": "Tristan & Yseult",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/tristan-yseult-7/",
+"src": "stanns"
+},
+{
+"id": "s2f96f6d4f4",
+"date": "2026-11-07",
+"time": "20:00",
+"title": "Luigi Cherubini: Medea",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/medea/",
+"src": "metopera"
+},
+{
 "id": "s9af960d332",
 "date": "2026-11-09",
 "time": "15:00",
@@ -1301,6 +3981,16 @@
 "cat": "houses",
 "url": "https://mvhm.org/event/the-empire-city-discover-new-york-citys-hidden-history-tea-tasting/",
 "src": "mvhm"
+},
+{
+"id": "s7d5a432b75",
+"date": "2026-11-09",
+"time": "19:30",
+"title": "Giacomo Puccini: Tosca",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/tosca/",
+"src": "metopera"
 },
 {
 "id": "s4acd84c532",
@@ -1313,6 +4003,16 @@
 "src": "mvhm"
 },
 {
+"id": "s0c6101e975",
+"date": "2026-11-10",
+"time": "19:30",
+"title": "Luigi Cherubini: Medea",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/medea/",
+"src": "metopera"
+},
+{
 "id": "sda6f09f2cf",
 "date": "2026-11-10",
 "time": "",
@@ -1321,6 +4021,26 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/under-the-oculus-a-celebration-of-visionaries",
 "src": "guggenheim"
+},
+{
+"id": "s315ba7fa8e",
+"date": "2026-11-11",
+"time": "19:30",
+"title": "MISSY MAZZOLI / LIBRETTO BY ROYCE VAVREK / BASED ON THE NOVEL BY GEORGE SAUNDERS: Lincoln in the Bardo",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
+"src": "metopera"
+},
+{
+"id": "s3c2355bd08",
+"date": "2026-11-13",
+"time": "19:30",
+"title": "Luigi Cherubini: Medea",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/medea/",
+"src": "metopera"
 },
 {
 "id": "s9a97e20aa3",
@@ -1343,6 +4063,16 @@
 "src": "zwirner"
 },
 {
+"id": "s6b49483358",
+"date": "2026-11-14",
+"time": "13:00",
+"title": "Giacomo Puccini: Tosca",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/tosca/",
+"src": "metopera"
+},
+{
 "id": "sbde0085779",
 "date": "2026-11-14",
 "time": "14:00",
@@ -1351,6 +4081,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/take-a-breath-nov",
 "src": "nyphil"
+},
+{
+"id": "sb12403129f",
+"date": "2026-11-14",
+"time": "20:00",
+"title": "MISSY MAZZOLI / LIBRETTO BY ROYCE VAVREK / BASED ON THE NOVEL BY GEORGE SAUNDERS: Lincoln in the Bardo",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
+"src": "metopera"
 },
 {
 "id": "s7a4f7cb35b",
@@ -1383,6 +4123,36 @@
 "src": "japansociety"
 },
 {
+"id": "s5f8f59ccc3",
+"date": "2026-11-16",
+"time": "19:30",
+"title": "Leo\u0161 Jan\u00e1\u010dek: Jen\u016ffa",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/jenufa/",
+"src": "metopera"
+},
+{
+"id": "s2fcee43773",
+"date": "2026-11-17",
+"time": "19:30",
+"title": "Giacomo Puccini: Tosca",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/tosca/",
+"src": "metopera"
+},
+{
+"id": "sea5c45e579",
+"date": "2026-11-18",
+"time": "19:30",
+"title": "Asmik Grigorian in Concert",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/asmik-grigorian/",
+"src": "metopera"
+},
+{
 "id": "sd702183834",
 "date": "2026-11-19",
 "time": "09:45",
@@ -1411,6 +4181,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/gonzalez-monjas-conducts",
 "src": "nyphil"
+},
+{
+"id": "seb23991194",
+"date": "2026-11-19",
+"time": "20:00",
+"title": "Luigi Cherubini: Medea",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/medea/",
+"src": "metopera"
 },
 {
 "id": "sbcc2ffbe75",
@@ -1443,6 +4223,26 @@
 "src": "nyphil"
 },
 {
+"id": "sca72d02018",
+"date": "2026-11-20",
+"time": "20:00",
+"title": "Giacomo Puccini: Tosca",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/tosca/",
+"src": "metopera"
+},
+{
+"id": "s5887000a42",
+"date": "2026-11-21",
+"time": "13:00",
+"title": "Leo\u0161 Jan\u00e1\u010dek: Jen\u016ffa",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/jenufa/",
+"src": "metopera"
+},
+{
 "id": "s977cd95940",
 "date": "2026-11-21",
 "time": "19:30",
@@ -1453,6 +4253,26 @@
 "src": "nyphil"
 },
 {
+"id": "s6328a7232f",
+"date": "2026-11-21",
+"time": "20:00",
+"title": "Luigi Cherubini: Medea",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/medea/",
+"src": "metopera"
+},
+{
+"id": "s0cd9246c8b",
+"date": "2026-11-23",
+"time": "19:30",
+"title": "Leo\u0161 Jan\u00e1\u010dek: Jen\u016ffa",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/jenufa/",
+"src": "metopera"
+},
+{
 "id": "s77bc45a040",
 "date": "2026-11-23",
 "time": "",
@@ -1461,6 +4281,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/frank-walter",
 "src": "zwirner"
+},
+{
+"id": "s8b514923d2",
+"date": "2026-11-24",
+"time": "19:30",
+"title": "Giacomo Puccini: La Boh\u00e8me",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
+"src": "metopera"
 },
 {
 "id": "s0d24f26a22",
@@ -1493,6 +4323,16 @@
 "src": "nyphil"
 },
 {
+"id": "s3a99a18487",
+"date": "2026-11-27",
+"time": "19:30",
+"title": "Camille Saint-Sa\u00ebns: Samson et Dalila",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/samson-et-dalila/",
+"src": "metopera"
+},
+{
 "id": "s3ef07b3014",
 "date": "2026-11-27",
 "time": "19:30",
@@ -1513,6 +4353,16 @@
 "src": "nycballet"
 },
 {
+"id": "s8c61893b5a",
+"date": "2026-11-28",
+"time": "13:00",
+"title": "Leo\u0161 Jan\u00e1\u010dek: Jen\u016ffa",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/jenufa/",
+"src": "metopera"
+},
+{
 "id": "s2d599136bc",
 "date": "2026-11-28",
 "time": "19:30",
@@ -1521,6 +4371,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/rouvali-conducts-schubert",
 "src": "nyphil"
+},
+{
+"id": "s0300cfdf39",
+"date": "2026-11-28",
+"time": "20:00",
+"title": "Giacomo Puccini: La Boh\u00e8me",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
+"src": "metopera"
 },
 {
 "id": "s7f3054a966",
@@ -1553,6 +4413,16 @@
 "src": "nyphil"
 },
 {
+"id": "sa5e2728ad0",
+"date": "2026-11-30",
+"time": "19:30",
+"title": "Leo\u0161 Jan\u00e1\u010dek: Jen\u016ffa",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/jenufa/",
+"src": "metopera"
+},
+{
 "id": "sc01cd0ebb5",
 "date": "2026-11-30",
 "time": "19:30",
@@ -1561,6 +4431,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/rouvali-conducts-schubert",
 "src": "nyphil"
+},
+{
+"id": "s89af56d80e",
+"date": "2026-12-01",
+"time": "19:30",
+"title": "Camille Saint-Sa\u00ebns: Samson et Dalila",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/samson-et-dalila/",
+"src": "metopera"
 },
 {
 "id": "s7bbf8a5497",
@@ -1603,6 +4483,16 @@
 "src": "nycballet"
 },
 {
+"id": "sc0cd6898c4",
+"date": "2026-12-03",
+"time": "19:30",
+"title": "Giacomo Puccini: La Boh\u00e8me",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
+"src": "metopera"
+},
+{
 "id": "s0a11d161f6",
 "date": "2026-12-03",
 "time": "19:30",
@@ -1611,6 +4501,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/bruce-liu-and-nielsen",
 "src": "nyphil"
+},
+{
+"id": "sdd2e686991",
+"date": "2026-12-04",
+"time": "19:30",
+"title": "Leo\u0161 Jan\u00e1\u010dek: Jen\u016ffa",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/jenufa/",
+"src": "metopera"
 },
 {
 "id": "s5579609ded",
@@ -1631,6 +4531,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
 "src": "nycballet"
+},
+{
+"id": "sa766f450b2",
+"date": "2026-12-05",
+"time": "12:00",
+"title": "Camille Saint-Sa\u00ebns: Samson et Dalila",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/samson-et-dalila/",
+"src": "metopera"
 },
 {
 "id": "scf671868e8",
@@ -1663,6 +4573,16 @@
 "src": "nyphil"
 },
 {
+"id": "sce811cf801",
+"date": "2026-12-05",
+"time": "20:00",
+"title": "Giacomo Puccini: La Boh\u00e8me",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
+"src": "metopera"
+},
+{
 "id": "sbf51eef569",
 "date": "2026-12-05",
 "time": "20:00",
@@ -1671,6 +4591,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
 "src": "nycballet"
+},
+{
+"id": "s2cc8202fd8",
+"date": "2026-12-06",
+"time": "15:00",
+"title": "Gaetano Donizetti: Maria Stuarda",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/maria-stuarda/",
+"src": "metopera"
 },
 {
 "id": "s0044cdb714",
@@ -1701,6 +4631,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
 "src": "nycballet"
+},
+{
+"id": "s2773b7fcd9",
+"date": "2026-12-08",
+"time": "19:30",
+"title": "Camille Saint-Sa\u00ebns: Samson et Dalila",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/samson-et-dalila/",
+"src": "metopera"
 },
 {
 "id": "s7192c0c79a",
@@ -1753,6 +4693,16 @@
 "src": "nyphil"
 },
 {
+"id": "s336d342719",
+"date": "2026-12-09",
+"time": "19:30",
+"title": "Gaetano Donizetti: Maria Stuarda",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/maria-stuarda/",
+"src": "metopera"
+},
+{
 "id": "s0f5ef2717c",
 "date": "2026-12-09",
 "time": "",
@@ -1793,6 +4743,16 @@
 "src": "nyphil"
 },
 {
+"id": "s44a0f37bf9",
+"date": "2026-12-10",
+"time": "19:30",
+"title": "Giacomo Puccini: La Boh\u00e8me",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
+"src": "metopera"
+},
+{
 "id": "s0fe3b5c6ad",
 "date": "2026-12-10",
 "time": "",
@@ -1801,6 +4761,16 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/winter-member-shopping-week",
 "src": "guggenheim"
+},
+{
+"id": "s4ad6551c81",
+"date": "2026-12-11",
+"time": "19:00",
+"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
+"src": "metopera"
 },
 {
 "id": "s155e417408",
@@ -1863,6 +4833,16 @@
 "src": "japansociety"
 },
 {
+"id": "sdb885c70ec",
+"date": "2026-12-12",
+"time": "13:00",
+"title": "Gaetano Donizetti: Maria Stuarda",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/maria-stuarda/",
+"src": "metopera"
+},
+{
 "id": "s936a18d593",
 "date": "2026-12-12",
 "time": "19:00",
@@ -1881,6 +4861,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/sounds-of-the-season",
 "src": "nyphil"
+},
+{
+"id": "s094d634d4d",
+"date": "2026-12-12",
+"time": "20:00",
+"title": "Camille Saint-Sa\u00ebns: Samson et Dalila",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/samson-et-dalila/",
+"src": "metopera"
 },
 {
 "id": "s7f972223be",
@@ -1911,6 +4901,16 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/winter-member-shopping-week",
 "src": "guggenheim"
+},
+{
+"id": "s24bf936785",
+"date": "2026-12-13",
+"time": "14:00",
+"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
+"src": "metopera"
 },
 {
 "id": "s7f40571ee9",
@@ -1983,6 +4983,16 @@
 "src": "nycballet"
 },
 {
+"id": "sa50c529c48",
+"date": "2026-12-15",
+"time": "19:30",
+"title": "Camille Saint-Sa\u00ebns: Samson et Dalila",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/samson-et-dalila/",
+"src": "metopera"
+},
+{
 "id": "s9cba6d4fe9",
 "date": "2026-12-15",
 "time": "",
@@ -2001,6 +5011,26 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
 "src": "nycballet"
+},
+{
+"id": "sa9d89747af",
+"date": "2026-12-16",
+"time": "19:30",
+"title": "Gaetano Donizetti: Maria Stuarda",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/maria-stuarda/",
+"src": "metopera"
+},
+{
+"id": "s437674f687",
+"date": "2026-12-17",
+"time": "19:00",
+"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
+"src": "metopera"
 },
 {
 "id": "sc29b465b77",
@@ -2023,6 +5053,16 @@
 "src": "nyphil"
 },
 {
+"id": "s5f5ce72a52",
+"date": "2026-12-18",
+"time": "19:30",
+"title": "Camille Saint-Sa\u00ebns: Samson et Dalila",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/samson-et-dalila/",
+"src": "metopera"
+},
+{
 "id": "s4f0362bcbc",
 "date": "2026-12-18",
 "time": "19:30",
@@ -2043,6 +5083,16 @@
 "src": "nycballet"
 },
 {
+"id": "s4888586b58",
+"date": "2026-12-19",
+"time": "13:00",
+"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
+"src": "metopera"
+},
+{
 "id": "sc626d1afbb",
 "date": "2026-12-19",
 "time": "19:30",
@@ -2051,6 +5101,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/aots-harry-potter",
 "src": "nyphil"
+},
+{
+"id": "s87d01a1e5a",
+"date": "2026-12-19",
+"time": "20:00",
+"title": "Gaetano Donizetti: Maria Stuarda",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/maria-stuarda/",
+"src": "metopera"
 },
 {
 "id": "s041a0112c5",
@@ -2091,6 +5151,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/jem-perucchini",
 "src": "zwirner"
+},
+{
+"id": "s509359845f",
+"date": "2026-12-20",
+"time": "14:00",
+"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
+"src": "metopera"
 },
 {
 "id": "s2a037b42f8",
@@ -2143,6 +5213,16 @@
 "src": "nycballet"
 },
 {
+"id": "sa86c01b8be",
+"date": "2026-12-22",
+"time": "19:30",
+"title": "Gaetano Donizetti: Maria Stuarda",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/maria-stuarda/",
+"src": "metopera"
+},
+{
 "id": "s28de01e79d",
 "date": "2026-12-23",
 "time": "19:00",
@@ -2153,6 +5233,26 @@
 "src": "nycballet"
 },
 {
+"id": "s74de8c6af7",
+"date": "2026-12-23",
+"time": "19:30",
+"title": "Camille Saint-Sa\u00ebns: Samson et Dalila",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/samson-et-dalila/",
+"src": "metopera"
+},
+{
+"id": "s4c42d2228f",
+"date": "2026-12-24",
+"time": "12:00",
+"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
+"src": "metopera"
+},
+{
 "id": "s0fe5bb7d6a",
 "date": "2026-12-24",
 "time": "14:00",
@@ -2161,6 +5261,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
 "src": "nycballet"
+},
+{
+"id": "s7382210ab2",
+"date": "2026-12-26",
+"time": "12:00",
+"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
+"src": "metopera"
 },
 {
 "id": "s85462c77dd",
@@ -2183,6 +5293,16 @@
 "src": "nycballet"
 },
 {
+"id": "s70839e2c07",
+"date": "2026-12-28",
+"time": "11:00",
+"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
+"src": "metopera"
+},
+{
 "id": "scd43f4f3d7",
 "date": "2026-12-28",
 "time": "14:00",
@@ -2203,6 +5323,16 @@
 "src": "nycballet"
 },
 {
+"id": "s25d7807c23",
+"date": "2026-12-30",
+"time": "12:00",
+"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
+"src": "metopera"
+},
+{
 "id": "s13b71f21f7",
 "date": "2026-12-30",
 "time": "19:00",
@@ -2221,6 +5351,26 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
 "src": "nycballet"
+},
+{
+"id": "sb9b510b921",
+"date": "2026-12-31",
+"time": "18:30",
+"title": "Giacomo Puccini: La Fanciulla del West",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
+"src": "metopera"
+},
+{
+"id": "sda01354e81",
+"date": "2027-01-02",
+"time": "12:00",
+"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
+"src": "metopera"
 },
 {
 "id": "sc1f728e661",
@@ -2283,6 +5433,36 @@
 "src": "nyphil"
 },
 {
+"id": "sf523e3a105",
+"date": "2027-01-05",
+"time": "19:30",
+"title": "Giacomo Puccini: La Fanciulla del West",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
+"src": "metopera"
+},
+{
+"id": "s1c65868f13",
+"date": "2027-01-06",
+"time": "19:30",
+"title": "Giacomo Puccini: Tosca",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/tosca/",
+"src": "metopera"
+},
+{
+"id": "sfa05170eec",
+"date": "2027-01-08",
+"time": "19:30",
+"title": "Giacomo Puccini: La Fanciulla del West",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
+"src": "metopera"
+},
+{
 "id": "sfa39708685",
 "date": "2027-01-08",
 "time": "19:30",
@@ -2291,6 +5471,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/unsuk-chin-trumpet-concerto",
 "src": "nyphil"
+},
+{
+"id": "sd660f107f8",
+"date": "2027-01-09",
+"time": "13:00",
+"title": "Giacomo Puccini: Tosca",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/tosca/",
+"src": "metopera"
 },
 {
 "id": "sfad8347f6f",
@@ -2323,6 +5513,56 @@
 "src": "nyphil"
 },
 {
+"id": "s34b6d35817",
+"date": "2027-01-11",
+"time": "19:00",
+"title": "Giuseppe Verdi: Otello",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/otello/",
+"src": "metopera"
+},
+{
+"id": "sb1007b2717",
+"date": "2027-01-12",
+"time": "19:00",
+"title": "Giacomo Puccini: Tosca",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/tosca/",
+"src": "metopera"
+},
+{
+"id": "s7ce7d27345",
+"date": "2027-01-13",
+"time": "19:00",
+"title": "Giacomo Puccini: La Fanciulla del West",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
+"src": "metopera"
+},
+{
+"id": "s9f614742dd",
+"date": "2027-01-15",
+"time": "19:00",
+"title": "Giacomo Puccini: Tosca",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/tosca/",
+"src": "metopera"
+},
+{
+"id": "s1707f60047",
+"date": "2027-01-16",
+"time": "13:00",
+"title": "Giuseppe Verdi: Otello",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/otello/",
+"src": "metopera"
+},
+{
 "id": "s988a6c7445",
 "date": "2027-01-16",
 "time": "14:00",
@@ -2333,6 +5573,26 @@
 "src": "nyphil"
 },
 {
+"id": "s4a85766bd3",
+"date": "2027-01-16",
+"time": "20:00",
+"title": "Giacomo Puccini: La Fanciulla del West",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
+"src": "metopera"
+},
+{
+"id": "s2901d50115",
+"date": "2027-01-17",
+"time": "15:00",
+"title": "Giacomo Puccini: Tosca",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/tosca/",
+"src": "metopera"
+},
+{
 "id": "s2e5851f763",
 "date": "2027-01-17",
 "time": "15:00",
@@ -2341,6 +5601,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/merkin-jan",
 "src": "nyphil"
+},
+{
+"id": "s46ce570d97",
+"date": "2027-01-19",
+"time": "19:00",
+"title": "Giacomo Puccini: La Fanciulla del West",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
+"src": "metopera"
 },
 {
 "id": "s63884c33a3",
@@ -2361,6 +5631,16 @@
 "cat": "art",
 "url": "https://www.cooperhewitt.org/event/design-hive-virtual-information-session-10-06-2026/",
 "src": "cooperhewitt"
+},
+{
+"id": "scf36267602",
+"date": "2027-01-20",
+"time": "19:00",
+"title": "Giuseppe Verdi: Otello",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/otello/",
+"src": "metopera"
 },
 {
 "id": "s19dd54405a",
@@ -2403,6 +5683,16 @@
 "src": "nyphil"
 },
 {
+"id": "sb3337ab88d",
+"date": "2027-01-22",
+"time": "19:00",
+"title": "Giacomo Puccini: Tosca",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/tosca/",
+"src": "metopera"
+},
+{
 "id": "sf774cb0358",
 "date": "2027-01-22",
 "time": "19:30",
@@ -2423,6 +5713,16 @@
 "src": "nyphil"
 },
 {
+"id": "s635daf6c34",
+"date": "2027-01-23",
+"time": "13:00",
+"title": "Giacomo Puccini: La Fanciulla del West",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
+"src": "metopera"
+},
+{
 "id": "s0ae298b690",
 "date": "2027-01-23",
 "time": "19:30",
@@ -2441,6 +5741,26 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/grazinyte-tyla",
 "src": "nyphil"
+},
+{
+"id": "s19df6a69a9",
+"date": "2027-01-23",
+"time": "20:00",
+"title": "Giuseppe Verdi: Otello",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/otello/",
+"src": "metopera"
+},
+{
+"id": "s3a196b08cc",
+"date": "2027-01-24",
+"time": "15:00",
+"title": "Giacomo Puccini: Tosca",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/tosca/",
+"src": "metopera"
 },
 {
 "id": "sb4523274fa",
@@ -2473,6 +5793,16 @@
 "src": "nyphil"
 },
 {
+"id": "s888e1826eb",
+"date": "2027-01-26",
+"time": "19:30",
+"title": "Giuseppe Verdi: Otello",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/otello/",
+"src": "metopera"
+},
+{
 "id": "sac694c6964",
 "date": "2027-01-26",
 "time": "19:30",
@@ -2491,6 +5821,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/grazinyte-tyla",
 "src": "nyphil"
+},
+{
+"id": "sbd92f6f904",
+"date": "2027-01-27",
+"time": "19:30",
+"title": "Giacomo Puccini: La Fanciulla del West",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
+"src": "metopera"
 },
 {
 "id": "s2a943007d3",
@@ -2523,6 +5863,16 @@
 "src": "nyphil"
 },
 {
+"id": "sb8dc3996ab",
+"date": "2027-01-29",
+"time": "19:30",
+"title": "Giacomo Puccini: Tosca",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/tosca/",
+"src": "metopera"
+},
+{
 "id": "s11660fe3f9",
 "date": "2027-01-29",
 "time": "19:30",
@@ -2543,6 +5893,16 @@
 "src": "nyphil"
 },
 {
+"id": "s419e6ef4db",
+"date": "2027-01-30",
+"time": "13:00",
+"title": "Giuseppe Verdi: Otello",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/otello/",
+"src": "metopera"
+},
+{
 "id": "s6ec81d5316",
 "date": "2027-01-30",
 "time": "19:30",
@@ -2561,6 +5921,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/mirga-grazinyte-tyla-and-maxim-vengerov",
 "src": "nyphil"
+},
+{
+"id": "s055c650239",
+"date": "2027-01-30",
+"time": "20:00",
+"title": "Giacomo Puccini: La Fanciulla del West",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
+"src": "metopera"
 },
 {
 "id": "se72868329b",
@@ -3123,6 +6493,26 @@
 "src": "zwirner"
 },
 {
+"id": "seced90517d",
+"date": "2027-03-08",
+"time": "20:00",
+"title": "KEVIN PUTS / LIBRETTO BY MARK CAMPBELL: Silent Night",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/silent-night/",
+"src": "metopera"
+},
+{
+"id": "se8444fa43f",
+"date": "2027-03-09",
+"time": "20:00",
+"title": "Giuseppe Verdi: Aida",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/aida/",
+"src": "metopera"
+},
+{
 "id": "s561b3662c6",
 "date": "2027-03-10",
 "time": "19:30",
@@ -3131,6 +6521,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/marina-abramovic-alma-y-fuego",
 "src": "nyphil"
+},
+{
+"id": "see1b78a278",
+"date": "2027-03-11",
+"time": "19:30",
+"title": "KEVIN PUTS / LIBRETTO BY MARK CAMPBELL: Silent Night",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/silent-night/",
+"src": "metopera"
 },
 {
 "id": "sdef6ddf7e7",
@@ -3153,6 +6553,16 @@
 "src": "nyas"
 },
 {
+"id": "s102d2b2841",
+"date": "2027-03-12",
+"time": "19:30",
+"title": "Jules Massenet: Manon",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/manon/",
+"src": "metopera"
+},
+{
 "id": "s379b770eea",
 "date": "2027-03-12",
 "time": "19:30",
@@ -3161,6 +6571,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/marina-abramovic-alma-y-fuego",
 "src": "nyphil"
+},
+{
+"id": "s848796a009",
+"date": "2027-03-13",
+"time": "13:00",
+"title": "Giuseppe Verdi: Aida",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/aida/",
+"src": "metopera"
 },
 {
 "id": "s7cfda9a858",
@@ -3183,6 +6603,16 @@
 "src": "nyphil"
 },
 {
+"id": "se0e074d5a8",
+"date": "2027-03-13",
+"time": "20:00",
+"title": "KEVIN PUTS / LIBRETTO BY MARK CAMPBELL: Silent Night",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/silent-night/",
+"src": "metopera"
+},
+{
 "id": "s714025b2b2",
 "date": "2027-03-13",
 "time": "",
@@ -3201,6 +6631,26 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/marina-abramovic-alma-y-fuego",
 "src": "nyphil"
+},
+{
+"id": "sff05abf35a",
+"date": "2027-03-15",
+"time": "19:30",
+"title": "Jules Massenet: Manon",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/manon/",
+"src": "metopera"
+},
+{
+"id": "s8366d2c584",
+"date": "2027-03-16",
+"time": "19:30",
+"title": "KEVIN PUTS / LIBRETTO BY MARK CAMPBELL: Silent Night",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/silent-night/",
+"src": "metopera"
 },
 {
 "id": "sd0181d6355",
@@ -3223,6 +6673,16 @@
 "src": "nyas"
 },
 {
+"id": "s65107fcff5",
+"date": "2027-03-17",
+"time": "19:30",
+"title": "Giuseppe Verdi: Aida",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/aida/",
+"src": "metopera"
+},
+{
 "id": "s10442e51cd",
 "date": "2027-03-17",
 "time": "",
@@ -3243,6 +6703,16 @@
 "src": "nyphil"
 },
 {
+"id": "sd7c109ae01",
+"date": "2027-03-19",
+"time": "19:30",
+"title": "Jules Massenet: Manon",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/manon/",
+"src": "metopera"
+},
+{
 "id": "s064abf2ab6",
 "date": "2027-03-19",
 "time": "19:30",
@@ -3251,6 +6721,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/alexandre-kantorow-performs-brahms",
 "src": "nyphil"
+},
+{
+"id": "s6163224597",
+"date": "2027-03-20",
+"time": "13:00",
+"title": "KEVIN PUTS / LIBRETTO BY MARK CAMPBELL: Silent Night",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/silent-night/",
+"src": "metopera"
 },
 {
 "id": "s55a24d6ffc",
@@ -3263,6 +6743,16 @@
 "src": "nyphil"
 },
 {
+"id": "s1f707444fc",
+"date": "2027-03-20",
+"time": "20:00",
+"title": "Giuseppe Verdi: Aida",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/aida/",
+"src": "metopera"
+},
+{
 "id": "sba9221aff0",
 "date": "2027-03-20",
 "time": "",
@@ -3271,6 +6761,16 @@
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/evan-gershkovich-in-conversation-with-david-remnick/",
 "src": "emanuel"
+},
+{
+"id": "se406f8e8fc",
+"date": "2027-03-21",
+"time": "15:00",
+"title": "Laffont Grand Finals Concert",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-special-presentation/laffont-grand-finals-concert/",
+"src": "metopera"
 },
 {
 "id": "s5453ead5a1",
@@ -3283,6 +6783,36 @@
 "src": "nyphil"
 },
 {
+"id": "sb5b3a92bf1",
+"date": "2027-03-22",
+"time": "20:00",
+"title": "KEVIN PUTS / LIBRETTO BY MARK CAMPBELL: Silent Night",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/silent-night/",
+"src": "metopera"
+},
+{
+"id": "s7f4a623b4e",
+"date": "2027-03-23",
+"time": "19:00",
+"title": "Jules Massenet: Manon",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/manon/",
+"src": "metopera"
+},
+{
+"id": "s9f81a906c1",
+"date": "2027-03-24",
+"time": "19:00",
+"title": "Richard Strauss: Der Rosenkavalier",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/der-rosenkavalier/",
+"src": "metopera"
+},
+{
 "id": "sfd7c5c10a7",
 "date": "2027-03-24",
 "time": "",
@@ -3293,6 +6823,66 @@
 "src": "nyas"
 },
 {
+"id": "sbbb735f89c",
+"date": "2027-03-25",
+"time": "19:00",
+"title": "Giuseppe Verdi: Aida",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/aida/",
+"src": "metopera"
+},
+{
+"id": "sea169b33ec",
+"date": "2027-03-26",
+"time": "19:00",
+"title": "Jules Massenet: Manon",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/manon/",
+"src": "metopera"
+},
+{
+"id": "s480f7f712f",
+"date": "2027-03-27",
+"time": "12:00",
+"title": "Richard Strauss: Der Rosenkavalier",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/der-rosenkavalier/",
+"src": "metopera"
+},
+{
+"id": "s43ab5644b9",
+"date": "2027-03-27",
+"time": "20:00",
+"title": "KEVIN PUTS / LIBRETTO BY MARK CAMPBELL: Silent Night",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/silent-night/",
+"src": "metopera"
+},
+{
+"id": "s1a658c6ac4",
+"date": "2027-03-29",
+"time": "19:00",
+"title": "Giuseppe Verdi: Aida",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/aida/",
+"src": "metopera"
+},
+{
+"id": "s85938a5407",
+"date": "2027-03-30",
+"time": "19:00",
+"title": "Jules Massenet: Manon",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/manon/",
+"src": "metopera"
+},
+{
 "id": "s4d4d63f7cb",
 "date": "2027-03-30",
 "time": "",
@@ -3301,6 +6891,26 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/nier-art-showcase-artworks-by-koda-kazuma/",
 "src": "japansociety"
+},
+{
+"id": "s6b5703e67d",
+"date": "2027-03-31",
+"time": "19:00",
+"title": "Richard Strauss: Der Rosenkavalier",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/der-rosenkavalier/",
+"src": "metopera"
+},
+{
+"id": "s3daba41965",
+"date": "2027-04-01",
+"time": "19:00",
+"title": "KEVIN PUTS / LIBRETTO BY MARK CAMPBELL: Silent Night",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/silent-night/",
+"src": "metopera"
 },
 {
 "id": "sff32bb76f9",
@@ -3323,6 +6933,16 @@
 "src": "guggenheim"
 },
 {
+"id": "scea9a71b25",
+"date": "2027-04-02",
+"time": "19:30",
+"title": "Giuseppe Verdi: Aida",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/aida/",
+"src": "metopera"
+},
+{
 "id": "s850919748f",
 "date": "2027-04-02",
 "time": "19:30",
@@ -3331,6 +6951,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/hilary-hahn-premieres-david-langs-concerto",
 "src": "nyphil"
+},
+{
+"id": "s7b4c2d7d5b",
+"date": "2027-04-03",
+"time": "12:00",
+"title": "Jules Massenet: Manon",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/manon/",
+"src": "metopera"
 },
 {
 "id": "sdec1769e64",
@@ -3351,6 +6981,26 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/hilary-hahn-premieres-david-langs-concerto",
 "src": "nyphil"
+},
+{
+"id": "s94407f74ab",
+"date": "2027-04-03",
+"time": "20:00",
+"title": "KEVIN PUTS / LIBRETTO BY MARK CAMPBELL: Silent Night",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/silent-night/",
+"src": "metopera"
+},
+{
+"id": "scc99ec4154",
+"date": "2027-04-04",
+"time": "14:00",
+"title": "Richard Strauss: Der Rosenkavalier",
+"venue": "Metropolitan Opera",
+"cat": "opera",
+"url": "https://www.metopera.org/season/2026-27-season/der-rosenkavalier/",
+"src": "metopera"
 },
 {
 "id": "scdd08b3669",
