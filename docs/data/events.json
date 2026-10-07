@@ -1,137 +1,7 @@
 {
-"generated": "2026-10-06T20:07:38+00:00",
-"count": 861,
+"generated": "2026-10-07T15:58:29+00:00",
+"count": 701,
 "events": [
-{
-"id": "sc360ffd9e5",
-"date": "2026-10-05",
-"time": "",
-"title": "Douglas Smith with George Langnas: The City Without Jews",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/the-city-without-jews",
-"src": "92ny_music"
-},
-{
-"id": "se0ffe89b49",
-"date": "2026-10-05",
-"time": "",
-"title": "Christy Carlson Romano in Conversation with Francesca Mariano: Once Upon a Trainwreck",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/christy-carlson-romano",
-"src": "92ny_music"
-},
-{
-"id": "s92e855f01c",
-"date": "2026-10-05",
-"time": "",
-"title": "Douglas Smith with George Langnas: The City Without Jews",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/the-city-without-jews",
-"src": "92ny_talks"
-},
-{
-"id": "s988a44a851",
-"date": "2026-10-05",
-"time": "",
-"title": "Christy Carlson Romano in Conversation with Francesca Mariano: Once Upon a Trainwreck",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/christy-carlson-romano",
-"src": "92ny_talks"
-},
-{
-"id": "s1825f14e43",
-"date": "2026-10-05",
-"time": "",
-"title": "Everyone you\u2019re looking at is also you",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
-"src": "zwirner"
-},
-{
-"id": "s52e27f3402",
-"date": "2026-10-05",
-"time": "",
-"title": "Lyceum Society: Tool Kits for Environmental Engineers and Economists",
-"venue": "New York Academy of Sciences",
-"cat": "talks",
-"url": "https://www.nyas.org/shaping-science/events/lyceum-society-tool-kits-for-environmental-engineers-and-economists/",
-"src": "nyas"
-},
-{
-"id": "s72681e5d87",
-"date": "2026-10-05",
-"time": "",
-"title": "Center for Interfaith Dialogue: Muslim-Jewish Dialogue Group",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/center-for-interfaith-dialogue-muslim-jewish-dialogue-group-16-849/",
-"src": "emanuel"
-},
-{
-"id": "sdc51f04163",
-"date": "2026-10-05",
-"time": "",
-"title": "Center for Interfaith Dialogue: Jewish and Catholic Law in Dialogue",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/center-for-interfaith-dialogue-jewish-and-catholic-law-in-dialogue/",
-"src": "emanuel"
-},
-{
-"id": "se4e9538952",
-"date": "2026-10-06",
-"time": "17:30",
-"title": "Vince Giordano and the Nighthawks",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-7/",
-"src": "birdland"
-},
-{
-"id": "seb8119195d",
-"date": "2026-10-06",
-"time": "18:30",
-"title": "Grieving & Weaving",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grieving-weaving-8/2026-10-06/",
-"src": "greenwood"
-},
-{
-"id": "s36914c3cdb",
-"date": "2026-10-06",
-"time": "19:00",
-"title": "THE MICHAEL BRECKER QUINDECTET featuring DONNY McCASLIN Artistic & Musical Director: Meg Okura",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/meg-okura-presents-the-michael-brecker-quindectet-legacy-project-feat-donny-mccaslin/",
-"src": "birdland"
-},
-{
-"id": "s368dd91540",
-"date": "2026-10-06",
-"time": "19:00",
-"title": "The 15th Kajiki's Artist Show",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/06/the-15th-kajikis-artist-show-0700pm",
-"src": "carnegie"
-},
-{
-"id": "s0c02c34539",
-"date": "2026-10-06",
-"time": "19:30",
-"title": "Wolfgang Amadeus Mozart: Cos\u00ec fan tutte",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/cosi-fan-tutte/",
-"src": "metopera"
-},
 {
 "id": "se7cd89f609",
 "date": "2026-10-06",
@@ -141,16 +11,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
 "src": "nycballet"
-},
-{
-"id": "s3e23809ef0",
-"date": "2026-10-06",
-"time": "19:30",
-"title": "Kramer/Fauci",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/kramer-fauci-10/",
-"src": "stanns"
 },
 {
 "id": "s9a0a0e3bea",
@@ -213,26 +73,6 @@
 "src": "emanuel"
 },
 {
-"id": "s4ed955b635",
-"date": "2026-10-07",
-"time": "07:00",
-"title": "Birding In Peace",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/birding-in-peace-34/",
-"src": "greenwood"
-},
-{
-"id": "s072de64ffa",
-"date": "2026-10-07",
-"time": "10:30",
-"title": "Green-Wood on Wheels: Stroller-Friendly Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-10-07/",
-"src": "greenwood"
-},
-{
 "id": "sfc86d4dff2",
 "date": "2026-10-07",
 "time": "11:00",
@@ -251,6 +91,16 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/david-ostwalds-louis-armstrong-eternity-band/",
 "src": "birdland"
+},
+{
+"id": "s36076c0e2a",
+"date": "2026-10-07",
+"time": "18:00",
+"title": "Energetics of Integrating the Brain and Body",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/energetics-of-integrating-the-brain-and-body/",
+"src": "simons"
 },
 {
 "id": "s80012a2010",
@@ -283,16 +133,6 @@
 "src": "carnegie"
 },
 {
-"id": "s423b5f5fc2",
-"date": "2026-10-07",
-"time": "19:30",
-"title": "Giacomo Puccini: La Boh\u00e8me",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
-"src": "metopera"
-},
-{
 "id": "s5ab06fd56f",
 "date": "2026-10-07",
 "time": "19:30",
@@ -301,16 +141,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
-},
-{
-"id": "sc58f6599c3",
-"date": "2026-10-07",
-"time": "19:30",
-"title": "Kramer/Fauci",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/kramer-fauci-12/",
-"src": "stanns"
 },
 {
 "id": "s8d459a916c",
@@ -493,16 +323,6 @@
 "src": "carnegie"
 },
 {
-"id": "s40076b4b22",
-"date": "2026-10-08",
-"time": "19:30",
-"title": "Giuseppe Verdi: Macbeth",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/macbeth/",
-"src": "metopera"
-},
-{
 "id": "s90aee63ec7",
 "date": "2026-10-08",
 "time": "19:30",
@@ -511,16 +331,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/all-balanchine-i",
 "src": "nycballet"
-},
-{
-"id": "sa02cfc88cf",
-"date": "2026-10-08",
-"time": "19:30",
-"title": "Kramer/Fauci",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/kramer-fauci-13/",
-"src": "stanns"
 },
 {
 "id": "s7320171f58",
@@ -633,16 +443,6 @@
 "src": "carnegie"
 },
 {
-"id": "sea88d51edb",
-"date": "2026-10-09",
-"time": "19:30",
-"title": "Giacomo Puccini: La Boh\u00e8me",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
-"src": "metopera"
-},
-{
 "id": "s6c6a8ed807",
 "date": "2026-10-09",
 "time": "19:30",
@@ -651,16 +451,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
 "src": "nycballet"
-},
-{
-"id": "s669295ca1f",
-"date": "2026-10-09",
-"time": "19:30",
-"title": "Kramer/Fauci",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/kramer-fauci-14/",
-"src": "stanns"
 },
 {
 "id": "sc28d50af27",
@@ -743,16 +533,6 @@
 "src": "greenwood"
 },
 {
-"id": "s9eef94dac3",
-"date": "2026-10-10",
-"time": "13:00",
-"title": "Giacomo Puccini: La Boh\u00e8me",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
-"src": "metopera"
-},
-{
 "id": "s7068cbe480",
 "date": "2026-10-10",
 "time": "14:00",
@@ -833,6 +613,16 @@
 "src": "carnegie"
 },
 {
+"id": "sc38f7d9fa9",
+"date": "2026-10-10",
+"time": "19:30",
+"title": "Zhengtao Pan Jazz Orchestra featuring Chris Potter and Rufus Reid",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/10/zhengtao-pan-jazz-orchestra-featuring-chris-potter-and-rufus-reid-0730pm",
+"src": "carnegie"
+},
+{
 "id": "sc3edf4bbea",
 "date": "2026-10-10",
 "time": "19:30",
@@ -843,30 +633,10 @@
 "src": "nycballet"
 },
 {
-"id": "s45ff58263a",
-"date": "2026-10-10",
-"time": "19:30",
-"title": "Kramer/Fauci",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/kramer-fauci-16/",
-"src": "stanns"
-},
-{
-"id": "s831488b049",
+"id": "s17dcbadbcc",
 "date": "2026-10-10",
 "time": "20:00",
-"title": "Wolfgang Amadeus Mozart: Cos\u00ec fan tutte",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/cosi-fan-tutte/",
-"src": "metopera"
-},
-{
-"id": "s5d49a1f3f9",
-"date": "2026-10-10",
-"time": "20:00",
-"title": "Dudamel Leads Prokofiev, J. Adams & Di Castri in Paris",
+"title": "Dudamel Leads Prokofiev, Adams & Di Castri in Paris",
 "venue": "New York Philharmonic",
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct10",
@@ -953,16 +723,6 @@
 "src": "greenwood"
 },
 {
-"id": "sb1233fd8e9",
-"date": "2026-10-11",
-"time": "15:00",
-"title": "Giuseppe Verdi: Macbeth",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/macbeth/",
-"src": "metopera"
-},
-{
 "id": "s34c1e9adfc",
 "date": "2026-10-11",
 "time": "15:00",
@@ -971,16 +731,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
-},
-{
-"id": "s66d142c8b1",
-"date": "2026-10-11",
-"time": "17:00",
-"title": "Kramer/Fauci",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/kramer-fauci-17/",
-"src": "stanns"
 },
 {
 "id": "s885b34600e",
@@ -1083,10 +833,10 @@
 "src": "birdland"
 },
 {
-"id": "sbe434bdf51",
+"id": "sf3e0c02db9",
 "date": "2026-10-12",
 "time": "20:00",
-"title": "Dudamel Leads Prokofiev, J. Adams & Di Castri in Barcelona",
+"title": "Dudamel Leads Prokofiev, Adams & Di Castri in Barcelona",
 "venue": "New York Philharmonic",
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct12",
@@ -1193,16 +943,6 @@
 "src": "birdland"
 },
 {
-"id": "sbc5f4787ed",
-"date": "2026-10-13",
-"time": "19:30",
-"title": "Wolfgang Amadeus Mozart: Cos\u00ec fan tutte",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/cosi-fan-tutte/",
-"src": "metopera"
-},
-{
 "id": "s1a209f4b9f",
 "date": "2026-10-13",
 "time": "19:30",
@@ -1213,24 +953,14 @@
 "src": "nycballet"
 },
 {
-"id": "sdb1c03798d",
+"id": "se47eec235c",
 "date": "2026-10-13",
 "time": "19:30",
-"title": "Dudamel Leads Prokofiev, J. Adams & Di Castri in Madrid",
+"title": "Dudamel Leads Prokofiev, Adams & Di Castri in Madrid",
 "venue": "New York Philharmonic",
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct13",
 "src": "nyphil"
-},
-{
-"id": "s7f18a03cb1",
-"date": "2026-10-13",
-"time": "19:30",
-"title": "Kramer/Fauci",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/kramer-fauci-18/",
-"src": "stanns"
 },
 {
 "id": "s424564e9d7",
@@ -1323,16 +1053,6 @@
 "src": "birdland"
 },
 {
-"id": "sa321771c65",
-"date": "2026-10-14",
-"time": "19:30",
-"title": "Giuseppe Verdi: Macbeth",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/macbeth/",
-"src": "metopera"
-},
-{
 "id": "sf756ea0e75",
 "date": "2026-10-14",
 "time": "19:30",
@@ -1351,16 +1071,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct14",
 "src": "nyphil"
-},
-{
-"id": "sb2d6c2ecc3",
-"date": "2026-10-14",
-"time": "19:30",
-"title": "Kramer/Fauci",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/kramer-fauci-19/",
-"src": "stanns"
 },
 {
 "id": "seab65fda84",
@@ -1523,16 +1233,6 @@
 "src": "birdland"
 },
 {
-"id": "sb0c8627ea4",
-"date": "2026-10-15",
-"time": "19:30",
-"title": "Giacomo Puccini: La Boh\u00e8me",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
-"src": "metopera"
-},
-{
 "id": "s874a702705",
 "date": "2026-10-15",
 "time": "19:30",
@@ -1541,16 +1241,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
-},
-{
-"id": "s86d65f2d98",
-"date": "2026-10-15",
-"time": "19:30",
-"title": "Kramer/Fauci",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/kramer-fauci-20/",
-"src": "stanns"
 },
 {
 "id": "se7ed4ccf8e",
@@ -1603,16 +1293,6 @@
 "src": "greenwood"
 },
 {
-"id": "s8e4ef9c5fb",
-"date": "2026-10-16",
-"time": "19:30",
-"title": "Giacomo Puccini: La Boh\u00e8me",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
-"src": "metopera"
-},
-{
 "id": "s64e3651f6a",
 "date": "2026-10-16",
 "time": "19:30",
@@ -1621,16 +1301,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
-},
-{
-"id": "s2fc06180a9",
-"date": "2026-10-16",
-"time": "19:30",
-"title": "Kramer/Fauci",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/kramer-fauci-21/",
-"src": "stanns"
 },
 {
 "id": "s52954ea313",
@@ -1733,16 +1403,6 @@
 "src": "greenwood"
 },
 {
-"id": "sc61c3b708c",
-"date": "2026-10-17",
-"time": "13:00",
-"title": "Giuseppe Verdi: Macbeth",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/macbeth/",
-"src": "metopera"
-},
-{
 "id": "s70865abab7",
 "date": "2026-10-17",
 "time": "15:00",
@@ -1791,26 +1451,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/all-balanchine-i",
 "src": "nycballet"
-},
-{
-"id": "s81f9fff622",
-"date": "2026-10-17",
-"time": "19:30",
-"title": "Kramer/Fauci",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/kramer-fauci-23/",
-"src": "stanns"
-},
-{
-"id": "s4567531f1f",
-"date": "2026-10-17",
-"time": "20:00",
-"title": "Wolfgang Amadeus Mozart: Cos\u00ec fan tutte",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/cosi-fan-tutte/",
-"src": "metopera"
 },
 {
 "id": "sc93e060a3b",
@@ -1933,6 +1573,36 @@
 "src": "greenwood"
 },
 {
+"id": "sc869fc7892",
+"date": "2026-10-18",
+"time": "10:00",
+"title": "Grave Beginnings: Walking Green-Wood",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-10-18/",
+"src": "greenwood"
+},
+{
+"id": "sd3844fe7dc",
+"date": "2026-10-18",
+"time": "10:00",
+"title": "Birding in Peace: Late-Risers Edition (Members Only)",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/birding-in-peace-late-risers-edition-members-only-10/",
+"src": "greenwood"
+},
+{
+"id": "saefb0a8b24",
+"date": "2026-10-18",
+"time": "13:00",
+"title": "Green-Wood's Greatest Hits",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-woods-greatest-hits-16/",
+"src": "greenwood"
+},
+{
 "id": "s9492794ccb",
 "date": "2026-10-18",
 "time": "15:00",
@@ -1961,16 +1631,6 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/carole-j-bufford-5/",
 "src": "birdland"
-},
-{
-"id": "s5e9a8a169f",
-"date": "2026-10-18",
-"time": "19:30",
-"title": "Kramer/Fauci",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/kramer-fauci-31/",
-"src": "stanns"
 },
 {
 "id": "s9bb86829a0",
@@ -2113,20 +1773,10 @@
 "src": "birdland"
 },
 {
-"id": "s72643d5d54",
+"id": "s5fc4498922",
 "date": "2026-10-19",
 "time": "20:00",
-"title": "MISSY MAZZOLI / LIBRETTO BY ROYCE VAVREK / BASED ON THE NOVEL BY GEORGE SAUNDERS: Lincoln in the Bardo",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
-"src": "metopera"
-},
-{
-"id": "s17d0f7e575",
-"date": "2026-10-19",
-"time": "20:00",
-"title": "Dudamel Leads Prokofiev, J. Adams & Di Castri in Hamburg",
+"title": "Dudamel Leads Prokofiev, Adams & Di Castri in Hamburg",
 "venue": "New York Philharmonic",
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct19",
@@ -2211,26 +1861,6 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/anderson-brothers-play-benny-goodman/",
 "src": "birdland"
-},
-{
-"id": "sac3bd9e6dd",
-"date": "2026-10-20",
-"time": "19:30",
-"title": "Giuseppe Verdi: Macbeth",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/macbeth/",
-"src": "metopera"
-},
-{
-"id": "sd6befb28b5",
-"date": "2026-10-20",
-"time": "19:30",
-"title": "Kramer/Fauci",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/kramer-fauci-25/",
-"src": "stanns"
 },
 {
 "id": "s73bcb411c8",
@@ -2321,16 +1951,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct21",
 "src": "nyphil"
-},
-{
-"id": "sdeca98840b",
-"date": "2026-10-21",
-"time": "19:30",
-"title": "Kramer/Fauci",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/kramer-fauci-26/",
-"src": "stanns"
 },
 {
 "id": "s7f3d794049",
@@ -2513,34 +2133,14 @@
 "src": "birdland"
 },
 {
-"id": "s67955812f3",
+"id": "s3ebb174c23",
 "date": "2026-10-22",
 "time": "19:30",
-"title": "Giacomo Puccini: La Boh\u00e8me",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
-"src": "metopera"
-},
-{
-"id": "s425806cc51",
-"date": "2026-10-22",
-"time": "19:30",
-"title": "Dudamel Leads Prokofiev, J. Adams & Di Castri in Vienna",
+"title": "Dudamel Leads Prokofiev, Adams & Di Castri in Vienna",
 "venue": "New York Philharmonic",
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct22",
 "src": "nyphil"
-},
-{
-"id": "s0a3b972a21",
-"date": "2026-10-22",
-"time": "19:30",
-"title": "Kramer/Fauci",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/kramer-fauci-27/",
-"src": "stanns"
 },
 {
 "id": "s1727b04ccb",
@@ -2633,26 +2233,6 @@
 "src": "birdland"
 },
 {
-"id": "se4f1ea24a9",
-"date": "2026-10-23",
-"time": "19:30",
-"title": "Wolfgang Amadeus Mozart: Cos\u00ec fan tutte",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/cosi-fan-tutte/",
-"src": "metopera"
-},
-{
-"id": "se0e00d74bf",
-"date": "2026-10-23",
-"time": "19:30",
-"title": "Kramer/Fauci",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/kramer-fauci-28/",
-"src": "stanns"
-},
-{
 "id": "sf431e09f22",
 "date": "2026-10-23",
 "time": "20:30",
@@ -2703,16 +2283,6 @@
 "src": "92ny_talks"
 },
 {
-"id": "s65ac8c2c83",
-"date": "2026-10-24",
-"time": "13:00",
-"title": "MISSY MAZZOLI / LIBRETTO BY ROYCE VAVREK / BASED ON THE NOVEL BY GEORGE SAUNDERS: Lincoln in the Bardo",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
-"src": "metopera"
-},
-{
 "id": "s828d5993c1",
 "date": "2026-10-24",
 "time": "17:30",
@@ -2741,26 +2311,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/artist-spotlight-lisa-batiashvili",
 "src": "nyphil"
-},
-{
-"id": "s61af7eee60",
-"date": "2026-10-24",
-"time": "19:30",
-"title": "Kramer/Fauci",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/kramer-fauci-30/",
-"src": "stanns"
-},
-{
-"id": "s11f7002c87",
-"date": "2026-10-24",
-"time": "20:00",
-"title": "Giacomo Puccini: La Boh\u00e8me",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
-"src": "metopera"
 },
 {
 "id": "sa5c3c559c1",
@@ -3003,16 +2553,6 @@
 "src": "birdland"
 },
 {
-"id": "s6a00c75dbd",
-"date": "2026-10-26",
-"time": "19:30",
-"title": "MISSY MAZZOLI / LIBRETTO BY ROYCE VAVREK / BASED ON THE NOVEL BY GEORGE SAUNDERS: Lincoln in the Bardo",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
-"src": "metopera"
-},
-{
 "id": "s7d15c64126",
 "date": "2026-10-26",
 "time": "21:30",
@@ -3233,16 +2773,6 @@
 "src": "nyphil"
 },
 {
-"id": "s3b4b09a30a",
-"date": "2026-10-28",
-"time": "20:00",
-"title": "Giacomo Puccini: La Boh\u00e8me",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
-"src": "metopera"
-},
-{
 "id": "s57724a5560",
 "date": "2026-10-28",
 "time": "20:30",
@@ -3413,16 +2943,6 @@
 "src": "birdland"
 },
 {
-"id": "sa3afa85647",
-"date": "2026-10-29",
-"time": "19:30",
-"title": "MISSY MAZZOLI / LIBRETTO BY ROYCE VAVREK / BASED ON THE NOVEL BY GEORGE SAUNDERS: Lincoln in the Bardo",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
-"src": "metopera"
-},
-{
 "id": "s3603df4bb3",
 "date": "2026-10-29",
 "time": "19:30",
@@ -3543,16 +3063,6 @@
 "src": "birdland"
 },
 {
-"id": "s75dd3fd87e",
-"date": "2026-10-30",
-"time": "19:30",
-"title": "Luigi Cherubini: Medea",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/medea/",
-"src": "metopera"
-},
-{
 "id": "seadb0c5fae",
 "date": "2026-10-30",
 "time": "19:30",
@@ -3593,16 +3103,6 @@
 "src": "92ny_talks"
 },
 {
-"id": "s8225859a19",
-"date": "2026-10-31",
-"time": "13:00",
-"title": "Giacomo Puccini: La Boh\u00e8me",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
-"src": "metopera"
-},
-{
 "id": "sd2be6ff117",
 "date": "2026-10-31",
 "time": "17:30",
@@ -3631,16 +3131,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/get-out-in-concert",
 "src": "nyphil"
-},
-{
-"id": "s83261e5b5c",
-"date": "2026-10-31",
-"time": "20:00",
-"title": "MISSY MAZZOLI / LIBRETTO BY ROYCE VAVREK / BASED ON THE NOVEL BY GEORGE SAUNDERS: Lincoln in the Bardo",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
-"src": "metopera"
 },
 {
 "id": "s6bc892b12b",
@@ -3713,16 +3203,6 @@
 "src": "zwirner"
 },
 {
-"id": "s1e90e8b389",
-"date": "2026-11-01",
-"time": "15:00",
-"title": "Giacomo Puccini: Tosca",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/tosca/",
-"src": "metopera"
-},
-{
 "id": "s7912a3d584",
 "date": "2026-11-01",
 "time": "15:00",
@@ -3731,36 +3211,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/merkin-nov",
 "src": "nyphil"
-},
-{
-"id": "s18ee5ae237",
-"date": "2026-11-01",
-"time": "19:30",
-"title": "Tristan & Yseult",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/tristan-yseult/",
-"src": "stanns"
-},
-{
-"id": "sf5c2e951fd",
-"date": "2026-11-03",
-"time": "19:30",
-"title": "MISSY MAZZOLI / LIBRETTO BY ROYCE VAVREK / BASED ON THE NOVEL BY GEORGE SAUNDERS: Lincoln in the Bardo",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
-"src": "metopera"
-},
-{
-"id": "s6fb177839b",
-"date": "2026-11-03",
-"time": "19:30",
-"title": "Tristan & Yseult",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/tristan-yseult-2/",
-"src": "stanns"
 },
 {
 "id": "sa59d9039c5",
@@ -3773,16 +3223,6 @@
 "src": "nyphil"
 },
 {
-"id": "sb687f55a2b",
-"date": "2026-11-04",
-"time": "19:30",
-"title": "Luigi Cherubini: Medea",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/medea/",
-"src": "metopera"
-},
-{
 "id": "s5037b698fe",
 "date": "2026-11-04",
 "time": "19:30",
@@ -3791,16 +3231,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/thibaudet-performs-liszt",
 "src": "nyphil"
-},
-{
-"id": "sb9153e78f9",
-"date": "2026-11-04",
-"time": "19:30",
-"title": "Tristan & Yseult",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/tristan-yseult-3/",
-"src": "stanns"
 },
 {
 "id": "s6a960decac",
@@ -3821,16 +3251,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/thibaudet-performs-liszt",
 "src": "nyphil"
-},
-{
-"id": "s8cc2625af5",
-"date": "2026-11-05",
-"time": "19:30",
-"title": "Tristan & Yseult",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/tristan-yseult-4/",
-"src": "stanns"
 },
 {
 "id": "sacefe5ef82",
@@ -3883,26 +3303,6 @@
 "src": "nyphil"
 },
 {
-"id": "s2df4248218",
-"date": "2026-11-06",
-"time": "19:30",
-"title": "Tristan & Yseult",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/tristan-yseult-5/",
-"src": "stanns"
-},
-{
-"id": "s4345824500",
-"date": "2026-11-06",
-"time": "20:00",
-"title": "Giacomo Puccini: Tosca",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/tosca/",
-"src": "metopera"
-},
-{
 "id": "sccfa2e3a96",
 "date": "2026-11-06",
 "time": "",
@@ -3911,16 +3311,6 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/jem-perucchini",
 "src": "zwirner"
-},
-{
-"id": "s9aeccaff19",
-"date": "2026-11-07",
-"time": "13:00",
-"title": "MISSY MAZZOLI / LIBRETTO BY ROYCE VAVREK / BASED ON THE NOVEL BY GEORGE SAUNDERS: Lincoln in the Bardo",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
-"src": "metopera"
 },
 {
 "id": "s02e857812d",
@@ -3953,26 +3343,6 @@
 "src": "nyphil"
 },
 {
-"id": "s6e7c7e838d",
-"date": "2026-11-07",
-"time": "19:30",
-"title": "Tristan & Yseult",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/tristan-yseult-7/",
-"src": "stanns"
-},
-{
-"id": "s2f96f6d4f4",
-"date": "2026-11-07",
-"time": "20:00",
-"title": "Luigi Cherubini: Medea",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/medea/",
-"src": "metopera"
-},
-{
 "id": "s9af960d332",
 "date": "2026-11-09",
 "time": "15:00",
@@ -3981,16 +3351,6 @@
 "cat": "houses",
 "url": "https://mvhm.org/event/the-empire-city-discover-new-york-citys-hidden-history-tea-tasting/",
 "src": "mvhm"
-},
-{
-"id": "s7d5a432b75",
-"date": "2026-11-09",
-"time": "19:30",
-"title": "Giacomo Puccini: Tosca",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/tosca/",
-"src": "metopera"
 },
 {
 "id": "s4acd84c532",
@@ -4003,16 +3363,6 @@
 "src": "mvhm"
 },
 {
-"id": "s0c6101e975",
-"date": "2026-11-10",
-"time": "19:30",
-"title": "Luigi Cherubini: Medea",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/medea/",
-"src": "metopera"
-},
-{
 "id": "sda6f09f2cf",
 "date": "2026-11-10",
 "time": "",
@@ -4021,26 +3371,6 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/under-the-oculus-a-celebration-of-visionaries",
 "src": "guggenheim"
-},
-{
-"id": "s315ba7fa8e",
-"date": "2026-11-11",
-"time": "19:30",
-"title": "MISSY MAZZOLI / LIBRETTO BY ROYCE VAVREK / BASED ON THE NOVEL BY GEORGE SAUNDERS: Lincoln in the Bardo",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
-"src": "metopera"
-},
-{
-"id": "s3c2355bd08",
-"date": "2026-11-13",
-"time": "19:30",
-"title": "Luigi Cherubini: Medea",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/medea/",
-"src": "metopera"
 },
 {
 "id": "s9a97e20aa3",
@@ -4063,16 +3393,6 @@
 "src": "zwirner"
 },
 {
-"id": "s6b49483358",
-"date": "2026-11-14",
-"time": "13:00",
-"title": "Giacomo Puccini: Tosca",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/tosca/",
-"src": "metopera"
-},
-{
 "id": "sbde0085779",
 "date": "2026-11-14",
 "time": "14:00",
@@ -4081,16 +3401,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/take-a-breath-nov",
 "src": "nyphil"
-},
-{
-"id": "sb12403129f",
-"date": "2026-11-14",
-"time": "20:00",
-"title": "MISSY MAZZOLI / LIBRETTO BY ROYCE VAVREK / BASED ON THE NOVEL BY GEORGE SAUNDERS: Lincoln in the Bardo",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
-"src": "metopera"
 },
 {
 "id": "s7a4f7cb35b",
@@ -4123,36 +3433,6 @@
 "src": "japansociety"
 },
 {
-"id": "s5f8f59ccc3",
-"date": "2026-11-16",
-"time": "19:30",
-"title": "Leo\u0161 Jan\u00e1\u010dek: Jen\u016ffa",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/jenufa/",
-"src": "metopera"
-},
-{
-"id": "s2fcee43773",
-"date": "2026-11-17",
-"time": "19:30",
-"title": "Giacomo Puccini: Tosca",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/tosca/",
-"src": "metopera"
-},
-{
-"id": "sea5c45e579",
-"date": "2026-11-18",
-"time": "19:30",
-"title": "Asmik Grigorian in Concert",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/asmik-grigorian/",
-"src": "metopera"
-},
-{
 "id": "sd702183834",
 "date": "2026-11-19",
 "time": "09:45",
@@ -4181,16 +3461,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/gonzalez-monjas-conducts",
 "src": "nyphil"
-},
-{
-"id": "seb23991194",
-"date": "2026-11-19",
-"time": "20:00",
-"title": "Luigi Cherubini: Medea",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/medea/",
-"src": "metopera"
 },
 {
 "id": "sbcc2ffbe75",
@@ -4223,26 +3493,6 @@
 "src": "nyphil"
 },
 {
-"id": "sca72d02018",
-"date": "2026-11-20",
-"time": "20:00",
-"title": "Giacomo Puccini: Tosca",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/tosca/",
-"src": "metopera"
-},
-{
-"id": "s5887000a42",
-"date": "2026-11-21",
-"time": "13:00",
-"title": "Leo\u0161 Jan\u00e1\u010dek: Jen\u016ffa",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/jenufa/",
-"src": "metopera"
-},
-{
 "id": "s977cd95940",
 "date": "2026-11-21",
 "time": "19:30",
@@ -4253,26 +3503,6 @@
 "src": "nyphil"
 },
 {
-"id": "s6328a7232f",
-"date": "2026-11-21",
-"time": "20:00",
-"title": "Luigi Cherubini: Medea",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/medea/",
-"src": "metopera"
-},
-{
-"id": "s0cd9246c8b",
-"date": "2026-11-23",
-"time": "19:30",
-"title": "Leo\u0161 Jan\u00e1\u010dek: Jen\u016ffa",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/jenufa/",
-"src": "metopera"
-},
-{
 "id": "s77bc45a040",
 "date": "2026-11-23",
 "time": "",
@@ -4281,16 +3511,6 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/frank-walter",
 "src": "zwirner"
-},
-{
-"id": "s8b514923d2",
-"date": "2026-11-24",
-"time": "19:30",
-"title": "Giacomo Puccini: La Boh\u00e8me",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
-"src": "metopera"
 },
 {
 "id": "s0d24f26a22",
@@ -4323,16 +3543,6 @@
 "src": "nyphil"
 },
 {
-"id": "s3a99a18487",
-"date": "2026-11-27",
-"time": "19:30",
-"title": "Camille Saint-Sa\u00ebns: Samson et Dalila",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/samson-et-dalila/",
-"src": "metopera"
-},
-{
 "id": "s3ef07b3014",
 "date": "2026-11-27",
 "time": "19:30",
@@ -4353,16 +3563,6 @@
 "src": "nycballet"
 },
 {
-"id": "s8c61893b5a",
-"date": "2026-11-28",
-"time": "13:00",
-"title": "Leo\u0161 Jan\u00e1\u010dek: Jen\u016ffa",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/jenufa/",
-"src": "metopera"
-},
-{
 "id": "s2d599136bc",
 "date": "2026-11-28",
 "time": "19:30",
@@ -4371,16 +3571,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/rouvali-conducts-schubert",
 "src": "nyphil"
-},
-{
-"id": "s0300cfdf39",
-"date": "2026-11-28",
-"time": "20:00",
-"title": "Giacomo Puccini: La Boh\u00e8me",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
-"src": "metopera"
 },
 {
 "id": "s7f3054a966",
@@ -4413,16 +3603,6 @@
 "src": "nyphil"
 },
 {
-"id": "sa5e2728ad0",
-"date": "2026-11-30",
-"time": "19:30",
-"title": "Leo\u0161 Jan\u00e1\u010dek: Jen\u016ffa",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/jenufa/",
-"src": "metopera"
-},
-{
 "id": "sc01cd0ebb5",
 "date": "2026-11-30",
 "time": "19:30",
@@ -4431,16 +3611,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/rouvali-conducts-schubert",
 "src": "nyphil"
-},
-{
-"id": "s89af56d80e",
-"date": "2026-12-01",
-"time": "19:30",
-"title": "Camille Saint-Sa\u00ebns: Samson et Dalila",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/samson-et-dalila/",
-"src": "metopera"
 },
 {
 "id": "s7bbf8a5497",
@@ -4483,16 +3653,6 @@
 "src": "nycballet"
 },
 {
-"id": "sc0cd6898c4",
-"date": "2026-12-03",
-"time": "19:30",
-"title": "Giacomo Puccini: La Boh\u00e8me",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
-"src": "metopera"
-},
-{
 "id": "s0a11d161f6",
 "date": "2026-12-03",
 "time": "19:30",
@@ -4501,16 +3661,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/bruce-liu-and-nielsen",
 "src": "nyphil"
-},
-{
-"id": "sdd2e686991",
-"date": "2026-12-04",
-"time": "19:30",
-"title": "Leo\u0161 Jan\u00e1\u010dek: Jen\u016ffa",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/jenufa/",
-"src": "metopera"
 },
 {
 "id": "s5579609ded",
@@ -4531,16 +3681,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
 "src": "nycballet"
-},
-{
-"id": "sa766f450b2",
-"date": "2026-12-05",
-"time": "12:00",
-"title": "Camille Saint-Sa\u00ebns: Samson et Dalila",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/samson-et-dalila/",
-"src": "metopera"
 },
 {
 "id": "scf671868e8",
@@ -4573,16 +3713,6 @@
 "src": "nyphil"
 },
 {
-"id": "sce811cf801",
-"date": "2026-12-05",
-"time": "20:00",
-"title": "Giacomo Puccini: La Boh\u00e8me",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
-"src": "metopera"
-},
-{
 "id": "sbf51eef569",
 "date": "2026-12-05",
 "time": "20:00",
@@ -4591,16 +3721,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
 "src": "nycballet"
-},
-{
-"id": "s2cc8202fd8",
-"date": "2026-12-06",
-"time": "15:00",
-"title": "Gaetano Donizetti: Maria Stuarda",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/maria-stuarda/",
-"src": "metopera"
 },
 {
 "id": "s0044cdb714",
@@ -4631,16 +3751,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
 "src": "nycballet"
-},
-{
-"id": "s2773b7fcd9",
-"date": "2026-12-08",
-"time": "19:30",
-"title": "Camille Saint-Sa\u00ebns: Samson et Dalila",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/samson-et-dalila/",
-"src": "metopera"
 },
 {
 "id": "s7192c0c79a",
@@ -4693,16 +3803,6 @@
 "src": "nyphil"
 },
 {
-"id": "s336d342719",
-"date": "2026-12-09",
-"time": "19:30",
-"title": "Gaetano Donizetti: Maria Stuarda",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/maria-stuarda/",
-"src": "metopera"
-},
-{
 "id": "s0f5ef2717c",
 "date": "2026-12-09",
 "time": "",
@@ -4743,16 +3843,6 @@
 "src": "nyphil"
 },
 {
-"id": "s44a0f37bf9",
-"date": "2026-12-10",
-"time": "19:30",
-"title": "Giacomo Puccini: La Boh\u00e8me",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
-"src": "metopera"
-},
-{
 "id": "s0fe3b5c6ad",
 "date": "2026-12-10",
 "time": "",
@@ -4761,16 +3851,6 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/winter-member-shopping-week",
 "src": "guggenheim"
-},
-{
-"id": "s4ad6551c81",
-"date": "2026-12-11",
-"time": "19:00",
-"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
-"src": "metopera"
 },
 {
 "id": "s155e417408",
@@ -4833,16 +3913,6 @@
 "src": "japansociety"
 },
 {
-"id": "sdb885c70ec",
-"date": "2026-12-12",
-"time": "13:00",
-"title": "Gaetano Donizetti: Maria Stuarda",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/maria-stuarda/",
-"src": "metopera"
-},
-{
 "id": "s936a18d593",
 "date": "2026-12-12",
 "time": "19:00",
@@ -4861,16 +3931,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/sounds-of-the-season",
 "src": "nyphil"
-},
-{
-"id": "s094d634d4d",
-"date": "2026-12-12",
-"time": "20:00",
-"title": "Camille Saint-Sa\u00ebns: Samson et Dalila",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/samson-et-dalila/",
-"src": "metopera"
 },
 {
 "id": "s7f972223be",
@@ -4901,16 +3961,6 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/winter-member-shopping-week",
 "src": "guggenheim"
-},
-{
-"id": "s24bf936785",
-"date": "2026-12-13",
-"time": "14:00",
-"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
-"src": "metopera"
 },
 {
 "id": "s7f40571ee9",
@@ -4983,16 +4033,6 @@
 "src": "nycballet"
 },
 {
-"id": "sa50c529c48",
-"date": "2026-12-15",
-"time": "19:30",
-"title": "Camille Saint-Sa\u00ebns: Samson et Dalila",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/samson-et-dalila/",
-"src": "metopera"
-},
-{
 "id": "s9cba6d4fe9",
 "date": "2026-12-15",
 "time": "",
@@ -5011,26 +4051,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
 "src": "nycballet"
-},
-{
-"id": "sa9d89747af",
-"date": "2026-12-16",
-"time": "19:30",
-"title": "Gaetano Donizetti: Maria Stuarda",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/maria-stuarda/",
-"src": "metopera"
-},
-{
-"id": "s437674f687",
-"date": "2026-12-17",
-"time": "19:00",
-"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
-"src": "metopera"
 },
 {
 "id": "sc29b465b77",
@@ -5053,16 +4073,6 @@
 "src": "nyphil"
 },
 {
-"id": "s5f5ce72a52",
-"date": "2026-12-18",
-"time": "19:30",
-"title": "Camille Saint-Sa\u00ebns: Samson et Dalila",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/samson-et-dalila/",
-"src": "metopera"
-},
-{
 "id": "s4f0362bcbc",
 "date": "2026-12-18",
 "time": "19:30",
@@ -5083,16 +4093,6 @@
 "src": "nycballet"
 },
 {
-"id": "s4888586b58",
-"date": "2026-12-19",
-"time": "13:00",
-"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
-"src": "metopera"
-},
-{
 "id": "sc626d1afbb",
 "date": "2026-12-19",
 "time": "19:30",
@@ -5101,16 +4101,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/aots-harry-potter",
 "src": "nyphil"
-},
-{
-"id": "s87d01a1e5a",
-"date": "2026-12-19",
-"time": "20:00",
-"title": "Gaetano Donizetti: Maria Stuarda",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/maria-stuarda/",
-"src": "metopera"
 },
 {
 "id": "s041a0112c5",
@@ -5151,16 +4141,6 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/jem-perucchini",
 "src": "zwirner"
-},
-{
-"id": "s509359845f",
-"date": "2026-12-20",
-"time": "14:00",
-"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
-"src": "metopera"
 },
 {
 "id": "s2a037b42f8",
@@ -5213,16 +4193,6 @@
 "src": "nycballet"
 },
 {
-"id": "sa86c01b8be",
-"date": "2026-12-22",
-"time": "19:30",
-"title": "Gaetano Donizetti: Maria Stuarda",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/maria-stuarda/",
-"src": "metopera"
-},
-{
 "id": "s28de01e79d",
 "date": "2026-12-23",
 "time": "19:00",
@@ -5233,26 +4203,6 @@
 "src": "nycballet"
 },
 {
-"id": "s74de8c6af7",
-"date": "2026-12-23",
-"time": "19:30",
-"title": "Camille Saint-Sa\u00ebns: Samson et Dalila",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/samson-et-dalila/",
-"src": "metopera"
-},
-{
-"id": "s4c42d2228f",
-"date": "2026-12-24",
-"time": "12:00",
-"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
-"src": "metopera"
-},
-{
 "id": "s0fe5bb7d6a",
 "date": "2026-12-24",
 "time": "14:00",
@@ -5261,16 +4211,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
 "src": "nycballet"
-},
-{
-"id": "s7382210ab2",
-"date": "2026-12-26",
-"time": "12:00",
-"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
-"src": "metopera"
 },
 {
 "id": "s85462c77dd",
@@ -5293,16 +4233,6 @@
 "src": "nycballet"
 },
 {
-"id": "s70839e2c07",
-"date": "2026-12-28",
-"time": "11:00",
-"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
-"src": "metopera"
-},
-{
 "id": "scd43f4f3d7",
 "date": "2026-12-28",
 "time": "14:00",
@@ -5323,16 +4253,6 @@
 "src": "nycballet"
 },
 {
-"id": "s25d7807c23",
-"date": "2026-12-30",
-"time": "12:00",
-"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
-"src": "metopera"
-},
-{
 "id": "s13b71f21f7",
 "date": "2026-12-30",
 "time": "19:00",
@@ -5351,26 +4271,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
 "src": "nycballet"
-},
-{
-"id": "sb9b510b921",
-"date": "2026-12-31",
-"time": "18:30",
-"title": "Giacomo Puccini: La Fanciulla del West",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
-"src": "metopera"
-},
-{
-"id": "sda01354e81",
-"date": "2027-01-02",
-"time": "12:00",
-"title": "Wolfgang Amadeus Mozart: The Magic Flute\u2014Holiday Presentation",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
-"src": "metopera"
 },
 {
 "id": "sc1f728e661",
@@ -5433,36 +4333,6 @@
 "src": "nyphil"
 },
 {
-"id": "sf523e3a105",
-"date": "2027-01-05",
-"time": "19:30",
-"title": "Giacomo Puccini: La Fanciulla del West",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
-"src": "metopera"
-},
-{
-"id": "s1c65868f13",
-"date": "2027-01-06",
-"time": "19:30",
-"title": "Giacomo Puccini: Tosca",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/tosca/",
-"src": "metopera"
-},
-{
-"id": "sfa05170eec",
-"date": "2027-01-08",
-"time": "19:30",
-"title": "Giacomo Puccini: La Fanciulla del West",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
-"src": "metopera"
-},
-{
 "id": "sfa39708685",
 "date": "2027-01-08",
 "time": "19:30",
@@ -5471,16 +4341,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/unsuk-chin-trumpet-concerto",
 "src": "nyphil"
-},
-{
-"id": "sd660f107f8",
-"date": "2027-01-09",
-"time": "13:00",
-"title": "Giacomo Puccini: Tosca",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/tosca/",
-"src": "metopera"
 },
 {
 "id": "sfad8347f6f",
@@ -5513,56 +4373,6 @@
 "src": "nyphil"
 },
 {
-"id": "s34b6d35817",
-"date": "2027-01-11",
-"time": "19:00",
-"title": "Giuseppe Verdi: Otello",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/otello/",
-"src": "metopera"
-},
-{
-"id": "sb1007b2717",
-"date": "2027-01-12",
-"time": "19:00",
-"title": "Giacomo Puccini: Tosca",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/tosca/",
-"src": "metopera"
-},
-{
-"id": "s7ce7d27345",
-"date": "2027-01-13",
-"time": "19:00",
-"title": "Giacomo Puccini: La Fanciulla del West",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
-"src": "metopera"
-},
-{
-"id": "s9f614742dd",
-"date": "2027-01-15",
-"time": "19:00",
-"title": "Giacomo Puccini: Tosca",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/tosca/",
-"src": "metopera"
-},
-{
-"id": "s1707f60047",
-"date": "2027-01-16",
-"time": "13:00",
-"title": "Giuseppe Verdi: Otello",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/otello/",
-"src": "metopera"
-},
-{
 "id": "s988a6c7445",
 "date": "2027-01-16",
 "time": "14:00",
@@ -5573,26 +4383,6 @@
 "src": "nyphil"
 },
 {
-"id": "s4a85766bd3",
-"date": "2027-01-16",
-"time": "20:00",
-"title": "Giacomo Puccini: La Fanciulla del West",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
-"src": "metopera"
-},
-{
-"id": "s2901d50115",
-"date": "2027-01-17",
-"time": "15:00",
-"title": "Giacomo Puccini: Tosca",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/tosca/",
-"src": "metopera"
-},
-{
 "id": "s2e5851f763",
 "date": "2027-01-17",
 "time": "15:00",
@@ -5601,16 +4391,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/merkin-jan",
 "src": "nyphil"
-},
-{
-"id": "s46ce570d97",
-"date": "2027-01-19",
-"time": "19:00",
-"title": "Giacomo Puccini: La Fanciulla del West",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
-"src": "metopera"
 },
 {
 "id": "s63884c33a3",
@@ -5631,16 +4411,6 @@
 "cat": "art",
 "url": "https://www.cooperhewitt.org/event/design-hive-virtual-information-session-10-06-2026/",
 "src": "cooperhewitt"
-},
-{
-"id": "scf36267602",
-"date": "2027-01-20",
-"time": "19:00",
-"title": "Giuseppe Verdi: Otello",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/otello/",
-"src": "metopera"
 },
 {
 "id": "s19dd54405a",
@@ -5683,16 +4453,6 @@
 "src": "nyphil"
 },
 {
-"id": "sb3337ab88d",
-"date": "2027-01-22",
-"time": "19:00",
-"title": "Giacomo Puccini: Tosca",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/tosca/",
-"src": "metopera"
-},
-{
 "id": "sf774cb0358",
 "date": "2027-01-22",
 "time": "19:30",
@@ -5713,16 +4473,6 @@
 "src": "nyphil"
 },
 {
-"id": "s635daf6c34",
-"date": "2027-01-23",
-"time": "13:00",
-"title": "Giacomo Puccini: La Fanciulla del West",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
-"src": "metopera"
-},
-{
 "id": "s0ae298b690",
 "date": "2027-01-23",
 "time": "19:30",
@@ -5741,26 +4491,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/grazinyte-tyla",
 "src": "nyphil"
-},
-{
-"id": "s19df6a69a9",
-"date": "2027-01-23",
-"time": "20:00",
-"title": "Giuseppe Verdi: Otello",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/otello/",
-"src": "metopera"
-},
-{
-"id": "s3a196b08cc",
-"date": "2027-01-24",
-"time": "15:00",
-"title": "Giacomo Puccini: Tosca",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/tosca/",
-"src": "metopera"
 },
 {
 "id": "sb4523274fa",
@@ -5793,16 +4523,6 @@
 "src": "nyphil"
 },
 {
-"id": "s888e1826eb",
-"date": "2027-01-26",
-"time": "19:30",
-"title": "Giuseppe Verdi: Otello",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/otello/",
-"src": "metopera"
-},
-{
 "id": "sac694c6964",
 "date": "2027-01-26",
 "time": "19:30",
@@ -5821,16 +4541,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/grazinyte-tyla",
 "src": "nyphil"
-},
-{
-"id": "sbd92f6f904",
-"date": "2027-01-27",
-"time": "19:30",
-"title": "Giacomo Puccini: La Fanciulla del West",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
-"src": "metopera"
 },
 {
 "id": "s2a943007d3",
@@ -5863,16 +4573,6 @@
 "src": "nyphil"
 },
 {
-"id": "sb8dc3996ab",
-"date": "2027-01-29",
-"time": "19:30",
-"title": "Giacomo Puccini: Tosca",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/tosca/",
-"src": "metopera"
-},
-{
 "id": "s11660fe3f9",
 "date": "2027-01-29",
 "time": "19:30",
@@ -5893,16 +4593,6 @@
 "src": "nyphil"
 },
 {
-"id": "s419e6ef4db",
-"date": "2027-01-30",
-"time": "13:00",
-"title": "Giuseppe Verdi: Otello",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/otello/",
-"src": "metopera"
-},
-{
 "id": "s6ec81d5316",
 "date": "2027-01-30",
 "time": "19:30",
@@ -5921,16 +4611,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/mirga-grazinyte-tyla-and-maxim-vengerov",
 "src": "nyphil"
-},
-{
-"id": "s055c650239",
-"date": "2027-01-30",
-"time": "20:00",
-"title": "Giacomo Puccini: La Fanciulla del West",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
-"src": "metopera"
 },
 {
 "id": "se72868329b",
@@ -6493,26 +5173,6 @@
 "src": "zwirner"
 },
 {
-"id": "seced90517d",
-"date": "2027-03-08",
-"time": "20:00",
-"title": "KEVIN PUTS / LIBRETTO BY MARK CAMPBELL: Silent Night",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/silent-night/",
-"src": "metopera"
-},
-{
-"id": "se8444fa43f",
-"date": "2027-03-09",
-"time": "20:00",
-"title": "Giuseppe Verdi: Aida",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/aida/",
-"src": "metopera"
-},
-{
 "id": "s561b3662c6",
 "date": "2027-03-10",
 "time": "19:30",
@@ -6521,16 +5181,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/marina-abramovic-alma-y-fuego",
 "src": "nyphil"
-},
-{
-"id": "see1b78a278",
-"date": "2027-03-11",
-"time": "19:30",
-"title": "KEVIN PUTS / LIBRETTO BY MARK CAMPBELL: Silent Night",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/silent-night/",
-"src": "metopera"
 },
 {
 "id": "sdef6ddf7e7",
@@ -6553,16 +5203,6 @@
 "src": "nyas"
 },
 {
-"id": "s102d2b2841",
-"date": "2027-03-12",
-"time": "19:30",
-"title": "Jules Massenet: Manon",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/manon/",
-"src": "metopera"
-},
-{
 "id": "s379b770eea",
 "date": "2027-03-12",
 "time": "19:30",
@@ -6571,16 +5211,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/marina-abramovic-alma-y-fuego",
 "src": "nyphil"
-},
-{
-"id": "s848796a009",
-"date": "2027-03-13",
-"time": "13:00",
-"title": "Giuseppe Verdi: Aida",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/aida/",
-"src": "metopera"
 },
 {
 "id": "s7cfda9a858",
@@ -6603,16 +5233,6 @@
 "src": "nyphil"
 },
 {
-"id": "se0e074d5a8",
-"date": "2027-03-13",
-"time": "20:00",
-"title": "KEVIN PUTS / LIBRETTO BY MARK CAMPBELL: Silent Night",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/silent-night/",
-"src": "metopera"
-},
-{
 "id": "s714025b2b2",
 "date": "2027-03-13",
 "time": "",
@@ -6631,26 +5251,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/marina-abramovic-alma-y-fuego",
 "src": "nyphil"
-},
-{
-"id": "sff05abf35a",
-"date": "2027-03-15",
-"time": "19:30",
-"title": "Jules Massenet: Manon",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/manon/",
-"src": "metopera"
-},
-{
-"id": "s8366d2c584",
-"date": "2027-03-16",
-"time": "19:30",
-"title": "KEVIN PUTS / LIBRETTO BY MARK CAMPBELL: Silent Night",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/silent-night/",
-"src": "metopera"
 },
 {
 "id": "sd0181d6355",
@@ -6673,16 +5273,6 @@
 "src": "nyas"
 },
 {
-"id": "s65107fcff5",
-"date": "2027-03-17",
-"time": "19:30",
-"title": "Giuseppe Verdi: Aida",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/aida/",
-"src": "metopera"
-},
-{
 "id": "s10442e51cd",
 "date": "2027-03-17",
 "time": "",
@@ -6703,16 +5293,6 @@
 "src": "nyphil"
 },
 {
-"id": "sd7c109ae01",
-"date": "2027-03-19",
-"time": "19:30",
-"title": "Jules Massenet: Manon",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/manon/",
-"src": "metopera"
-},
-{
 "id": "s064abf2ab6",
 "date": "2027-03-19",
 "time": "19:30",
@@ -6721,16 +5301,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/alexandre-kantorow-performs-brahms",
 "src": "nyphil"
-},
-{
-"id": "s6163224597",
-"date": "2027-03-20",
-"time": "13:00",
-"title": "KEVIN PUTS / LIBRETTO BY MARK CAMPBELL: Silent Night",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/silent-night/",
-"src": "metopera"
 },
 {
 "id": "s55a24d6ffc",
@@ -6743,16 +5313,6 @@
 "src": "nyphil"
 },
 {
-"id": "s1f707444fc",
-"date": "2027-03-20",
-"time": "20:00",
-"title": "Giuseppe Verdi: Aida",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/aida/",
-"src": "metopera"
-},
-{
 "id": "sba9221aff0",
 "date": "2027-03-20",
 "time": "",
@@ -6761,16 +5321,6 @@
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/evan-gershkovich-in-conversation-with-david-remnick/",
 "src": "emanuel"
-},
-{
-"id": "se406f8e8fc",
-"date": "2027-03-21",
-"time": "15:00",
-"title": "Laffont Grand Finals Concert",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-special-presentation/laffont-grand-finals-concert/",
-"src": "metopera"
 },
 {
 "id": "s5453ead5a1",
@@ -6783,36 +5333,6 @@
 "src": "nyphil"
 },
 {
-"id": "sb5b3a92bf1",
-"date": "2027-03-22",
-"time": "20:00",
-"title": "KEVIN PUTS / LIBRETTO BY MARK CAMPBELL: Silent Night",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/silent-night/",
-"src": "metopera"
-},
-{
-"id": "s7f4a623b4e",
-"date": "2027-03-23",
-"time": "19:00",
-"title": "Jules Massenet: Manon",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/manon/",
-"src": "metopera"
-},
-{
-"id": "s9f81a906c1",
-"date": "2027-03-24",
-"time": "19:00",
-"title": "Richard Strauss: Der Rosenkavalier",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/der-rosenkavalier/",
-"src": "metopera"
-},
-{
 "id": "sfd7c5c10a7",
 "date": "2027-03-24",
 "time": "",
@@ -6823,66 +5343,6 @@
 "src": "nyas"
 },
 {
-"id": "sbbb735f89c",
-"date": "2027-03-25",
-"time": "19:00",
-"title": "Giuseppe Verdi: Aida",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/aida/",
-"src": "metopera"
-},
-{
-"id": "sea169b33ec",
-"date": "2027-03-26",
-"time": "19:00",
-"title": "Jules Massenet: Manon",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/manon/",
-"src": "metopera"
-},
-{
-"id": "s480f7f712f",
-"date": "2027-03-27",
-"time": "12:00",
-"title": "Richard Strauss: Der Rosenkavalier",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/der-rosenkavalier/",
-"src": "metopera"
-},
-{
-"id": "s43ab5644b9",
-"date": "2027-03-27",
-"time": "20:00",
-"title": "KEVIN PUTS / LIBRETTO BY MARK CAMPBELL: Silent Night",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/silent-night/",
-"src": "metopera"
-},
-{
-"id": "s1a658c6ac4",
-"date": "2027-03-29",
-"time": "19:00",
-"title": "Giuseppe Verdi: Aida",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/aida/",
-"src": "metopera"
-},
-{
-"id": "s85938a5407",
-"date": "2027-03-30",
-"time": "19:00",
-"title": "Jules Massenet: Manon",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/manon/",
-"src": "metopera"
-},
-{
 "id": "s4d4d63f7cb",
 "date": "2027-03-30",
 "time": "",
@@ -6891,26 +5351,6 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/nier-art-showcase-artworks-by-koda-kazuma/",
 "src": "japansociety"
-},
-{
-"id": "s6b5703e67d",
-"date": "2027-03-31",
-"time": "19:00",
-"title": "Richard Strauss: Der Rosenkavalier",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/der-rosenkavalier/",
-"src": "metopera"
-},
-{
-"id": "s3daba41965",
-"date": "2027-04-01",
-"time": "19:00",
-"title": "KEVIN PUTS / LIBRETTO BY MARK CAMPBELL: Silent Night",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/silent-night/",
-"src": "metopera"
 },
 {
 "id": "sff32bb76f9",
@@ -6933,16 +5373,6 @@
 "src": "guggenheim"
 },
 {
-"id": "scea9a71b25",
-"date": "2027-04-02",
-"time": "19:30",
-"title": "Giuseppe Verdi: Aida",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/aida/",
-"src": "metopera"
-},
-{
 "id": "s850919748f",
 "date": "2027-04-02",
 "time": "19:30",
@@ -6951,16 +5381,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/hilary-hahn-premieres-david-langs-concerto",
 "src": "nyphil"
-},
-{
-"id": "s7b4c2d7d5b",
-"date": "2027-04-03",
-"time": "12:00",
-"title": "Jules Massenet: Manon",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/manon/",
-"src": "metopera"
 },
 {
 "id": "sdec1769e64",
@@ -6981,26 +5401,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/hilary-hahn-premieres-david-langs-concerto",
 "src": "nyphil"
-},
-{
-"id": "s94407f74ab",
-"date": "2027-04-03",
-"time": "20:00",
-"title": "KEVIN PUTS / LIBRETTO BY MARK CAMPBELL: Silent Night",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/silent-night/",
-"src": "metopera"
-},
-{
-"id": "scc99ec4154",
-"date": "2027-04-04",
-"time": "14:00",
-"title": "Richard Strauss: Der Rosenkavalier",
-"venue": "Metropolitan Opera",
-"cat": "opera",
-"url": "https://www.metopera.org/season/2026-27-season/der-rosenkavalier/",
-"src": "metopera"
 },
 {
 "id": "scdd08b3669",

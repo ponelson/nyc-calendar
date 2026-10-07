@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-06T20:07:38+00:00",
-  "healthy": 17,
+  "generated": "2026-10-07T15:58:29+00:00",
+  "healthy": 16,
   "total": 29,
   "venues": [
     {
@@ -32,7 +32,7 @@
       "name": "92NY",
       "cat": "classical",
       "strategy": "custom",
-      "count": 69,
+      "count": 67,
       "error": null
     },
     {
@@ -40,7 +40,7 @@
       "name": "Temple Emanu-El \u2014 Streicker",
       "cat": "classical",
       "strategy": "custom",
-      "count": 29,
+      "count": 27,
       "error": null
     },
     {
@@ -48,15 +48,15 @@
       "name": "Metropolitan Opera",
       "cat": "opera",
       "strategy": "custom",
-      "count": 128,
-      "error": null
+      "count": 0,
+      "error": "no events parsed"
     },
     {
       "id": "92ny_talks",
       "name": "92NY \u2014 Talks",
       "cat": "talks",
       "strategy": "custom",
-      "count": 69,
+      "count": 67,
       "error": null
     },
     {
@@ -64,8 +64,8 @@
       "name": "St. Ann's Warehouse",
       "cat": "talks",
       "strategy": "ics",
-      "count": 23,
-      "error": null
+      "count": 0,
+      "error": "RuntimeError: HTTP 403"
     },
     {
       "id": "japansociety",
@@ -80,7 +80,7 @@
       "name": "New York Academy of Sciences",
       "cat": "talks",
       "strategy": "custom",
-      "count": 20,
+      "count": 19,
       "error": null
     },
     {
@@ -88,8 +88,8 @@
       "name": "Simons Foundation",
       "cat": "talks",
       "strategy": "ics",
-      "count": 0,
-      "error": "no events parsed"
+      "count": 1,
+      "error": null
     },
     {
       "id": "broadway",
@@ -97,7 +97,7 @@
       "cat": "broadway",
       "strategy": "custom",
       "count": 0,
-      "error": "RuntimeError: HTTP 403"
+      "error": "no events parsed"
     },
     {
       "id": "guggenheim",
@@ -128,7 +128,7 @@
       "name": "David Zwirner",
       "cat": "global",
       "strategy": "jsonld",
-      "count": 30,
+      "count": 29,
       "error": null
     },
     {
@@ -145,7 +145,7 @@
       "cat": "jazz",
       "strategy": "custom",
       "count": 0,
-      "error": "SSLError: HTTPSConnectionPool(host='www.mezzrow.com', port=443): Max retries exceeded with url: /wp-json/wp/v2/event?per_page=100 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"
+      "error": "SSLError: HTTPSConnectionPool(host='www.mezzrow.com', port=443): Max retries exceeded with url: /wp-json/wp/v2/event?per_page=100 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
     },
     {
       "id": "dizzys",
@@ -161,14 +161,14 @@
       "cat": "jazz",
       "strategy": "custom",
       "count": 0,
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.smokejazz.com/wp-json/wp/v2/event?per_page=100"
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.smokejazz.com/wp-json/wp/v2/event?per_page=100"
     },
     {
       "id": "birdland",
       "name": "Birdland",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 76,
+      "count": 74,
       "error": null
     },
     {
