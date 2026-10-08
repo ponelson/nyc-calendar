@@ -1,137 +1,7 @@
 {
-"generated": "2026-10-07T15:58:29+00:00",
-"count": 701,
+"generated": "2026-10-08T16:00:54+00:00",
+"count": 685,
 "events": [
-{
-"id": "se7cd89f609",
-"date": "2026-10-06",
-"time": "19:30",
-"title": "Contemporary Choreography I",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
-"src": "nycballet"
-},
-{
-"id": "s9a0a0e3bea",
-"date": "2026-10-06",
-"time": "",
-"title": "Michael Douglas in Conversation with Happy Sad Confused\u2019s Josh Horowitz: One Helluva Ride",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/michael-douglas-in-conversation-one-helluva-ride",
-"src": "92ny_music"
-},
-{
-"id": "sd9b239afde",
-"date": "2026-10-06",
-"time": "",
-"title": "Michael Douglas in Conversation with Happy Sad Confused\u2019s Josh Horowitz: One Helluva Ride",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/michael-douglas-in-conversation-one-helluva-ride",
-"src": "92ny_talks"
-},
-{
-"id": "s07c09db583",
-"date": "2026-10-06",
-"time": "",
-"title": "Discover Design Online: Design Across Time",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/discover-design-online-design-across-time-10-06-2026/",
-"src": "cooperhewitt"
-},
-{
-"id": "s3c77bee364",
-"date": "2026-10-06",
-"time": "",
-"title": "Everyone you\u2019re looking at is also you",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
-"src": "zwirner"
-},
-{
-"id": "sd9798a2a65",
-"date": "2026-10-06",
-"time": "",
-"title": "Gen\u2019ichir\u014d Inokuma\u2019s NYC Salon Symposium",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/genichiro-inokumas-nyc-salon-symposium/",
-"src": "japansociety"
-},
-{
-"id": "s844885a36d",
-"date": "2026-10-06",
-"time": "",
-"title": "Center for Interfaith Dialogue: Defense Against the Dark Arts",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/center-for-interfaith-dialogue-defense-against-the-dark-arts-7/",
-"src": "emanuel"
-},
-{
-"id": "sfc86d4dff2",
-"date": "2026-10-07",
-"time": "11:00",
-"title": "Telling Stories Through Art: New York City History in Prints and Paintings",
-"venue": "Mount Vernon Hotel Museum",
-"cat": "houses",
-"url": "https://mvhm.org/event/telling-stories-through-art-new-york-city-history-in-prints-and-paintings-3/",
-"src": "mvhm"
-},
-{
-"id": "s6ad6a8f15d",
-"date": "2026-10-07",
-"time": "17:30",
-"title": "David Ostwald's Louis Armstrong Eternity Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/david-ostwalds-louis-armstrong-eternity-band/",
-"src": "birdland"
-},
-{
-"id": "s36076c0e2a",
-"date": "2026-10-07",
-"time": "18:00",
-"title": "Energetics of Integrating the Brain and Body",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/energetics-of-integrating-the-brain-and-body/",
-"src": "simons"
-},
-{
-"id": "s80012a2010",
-"date": "2026-10-07",
-"time": "18:30",
-"title": "A Day in the Life of a Funeral Celebrant",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/a-day-in-the-life-of-a-funeral-celebrant/",
-"src": "greenwood"
-},
-{
-"id": "sb92d86969a",
-"date": "2026-10-07",
-"time": "19:00",
-"title": "Ron Carter Foursight Quartet",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carter-quartet-with-donald-vega/",
-"src": "birdland"
-},
-{
-"id": "sb569f78b05",
-"date": "2026-10-07",
-"time": "19:30",
-"title": "Adam Gyorgy Foundation Gala 2026",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/07/adam-gyorgy-foundation-gala-2026-0730pm",
-"src": "carnegie"
-},
 {
 "id": "s5ab06fd56f",
 "date": "2026-10-07",
@@ -141,26 +11,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
-},
-{
-"id": "s8d459a916c",
-"date": "2026-10-07",
-"time": "20:30",
-"title": "Frank Vignola's Guitar Night with Rodney Jones and Pasquale Grasso",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/frank-vignolas-guitar-night-with-pasquale-grasso-10/",
-"src": "birdland"
-},
-{
-"id": "sc3ae2e03d5",
-"date": "2026-10-07",
-"time": "",
-"title": "Yoga Nidra & Sound Bath",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/class/t/yoga-nidra-and-sound-bath",
-"src": "92ny_music"
 },
 {
 "id": "sb0c2f60ea2",
@@ -183,26 +33,6 @@
 "src": "92ny_music"
 },
 {
-"id": "se443ea702d",
-"date": "2026-10-07",
-"time": "",
-"title": "Israeli Folk Dance (Open Session)",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/class/israeli-folk-dance-open-session",
-"src": "92ny_music"
-},
-{
-"id": "s1a893d4405",
-"date": "2026-10-07",
-"time": "",
-"title": "Yoga Nidra & Sound Bath",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/class/t/yoga-nidra-and-sound-bath",
-"src": "92ny_talks"
-},
-{
 "id": "s2573e92246",
 "date": "2026-10-07",
 "time": "",
@@ -220,16 +50,6 @@
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/event/across-the-divide",
-"src": "92ny_talks"
-},
-{
-"id": "sc5d61fee12",
-"date": "2026-10-07",
-"time": "",
-"title": "Israeli Folk Dance (Open Session)",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/class/israeli-folk-dance-open-session",
 "src": "92ny_talks"
 },
 {
@@ -293,16 +113,6 @@
 "src": "greenwood"
 },
 {
-"id": "s6a1f3ae74b",
-"date": "2026-10-08",
-"time": "19:00",
-"title": "Ron Carter Foursight Quartet",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carter-quartet-with-donald-vega-3/",
-"src": "birdland"
-},
-{
 "id": "s071ff2ca89",
 "date": "2026-10-08",
 "time": "19:00",
@@ -310,6 +120,16 @@
 "venue": "Birdland",
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/ron-carters-foursight-quartet-with-donald-vega-livestream/",
+"src": "birdland"
+},
+{
+"id": "s6a1f3ae74b",
+"date": "2026-10-08",
+"time": "19:00",
+"title": "Ron Carter Foursight Quartet",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carter-quartet-with-donald-vega-3/",
 "src": "birdland"
 },
 {
@@ -631,6 +451,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
 "src": "nycballet"
+},
+{
+"id": "saa0e3f1165",
+"date": "2026-10-10",
+"time": "20:00",
+"title": "Berliner Philharmoniker",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/10/berliner-philharmoniker-0800pm",
+"src": "carnegie"
 },
 {
 "id": "s17dcbadbcc",
@@ -1073,10 +903,10 @@
 "src": "nyphil"
 },
 {
-"id": "seab65fda84",
+"id": "sede9bd01a5",
 "date": "2026-10-14",
 "time": "20:30",
-"title": "Frank Vignola's Guitar Night with Peter Bernstein and Pasquale Grasso",
+"title": "Frank Vignola's Guitar Night with Peter Bernstein and James Chirillo",
 "venue": "Birdland",
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/frank-vignolas-guitar-night-with-pasquale-grasso-11/",
@@ -1603,6 +1433,16 @@
 "src": "greenwood"
 },
 {
+"id": "s2b71327f8e",
+"date": "2026-10-18",
+"time": "15:00",
+"title": "Fame, Fortune, & the Forgotten: The Untold Stories of Victorian Women",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/fame-fortune-the-forgotten-the-untold-stories-of-victorian-women-3/",
+"src": "greenwood"
+},
+{
 "id": "s9492794ccb",
 "date": "2026-10-18",
 "time": "15:00",
@@ -2003,6 +1843,16 @@
 "src": "92ny_music"
 },
 {
+"id": "s09ab5e2f44",
+"date": "2026-10-21",
+"time": "",
+"title": "Sacha Baron Cohen in Conversation: The Power of Satire",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/sacha-baron-cohen",
+"src": "92ny_music"
+},
+{
 "id": "s5cb0ae99f7",
 "date": "2026-10-21",
 "time": "",
@@ -2050,6 +1900,16 @@
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/event/susan-orlean-joyride",
+"src": "92ny_talks"
+},
+{
+"id": "sfc6a11f673",
+"date": "2026-10-21",
+"time": "",
+"title": "Sacha Baron Cohen in Conversation: The Power of Satire",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/sacha-baron-cohen",
 "src": "92ny_talks"
 },
 {
@@ -2153,10 +2013,10 @@
 "src": "92ny_music"
 },
 {
-"id": "sa6c10102d1",
+"id": "s381e5b56ea",
 "date": "2026-10-22",
 "time": "",
-"title": "The Sun Also Rises at 100: Michael Shannon, Richard Schiff, Jay McInerney, and others \u2014 with Angela Hemingway Charles, P",
+"title": "The Sun Also Rises at 100: Maya Hawke, Sarah Pidgeon, Richard Schiff, Jay McInerney, Thomas Beller and others \u2014 with Ang",
 "venue": "92NY",
 "cat": "classical",
 "url": "https://www.92ny.org/event/the-sun-also-rises-at-100",
@@ -2183,10 +2043,10 @@
 "src": "92ny_talks"
 },
 {
-"id": "s8e566824ad",
+"id": "s9eb93eac76",
 "date": "2026-10-22",
 "time": "",
-"title": "The Sun Also Rises at 100: Michael Shannon, Richard Schiff, Jay McInerney, and others \u2014 with Angela Hemingway Charles, P",
+"title": "The Sun Also Rises at 100: Maya Hawke, Sarah Pidgeon, Richard Schiff, Jay McInerney, Thomas Beller and others \u2014 with Ang",
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/event/the-sun-also-rises-at-100",
@@ -2453,16 +2313,6 @@
 "src": "92ny_music"
 },
 {
-"id": "sc7033391e8",
-"date": "2026-10-25",
-"time": "",
-"title": "Lox Club at 92NY: Live Dating Show \u2014 Austin Kevitch, Dylan Kevitch, Harmonie Krieger, and Sam Karshenboym",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/lox-club-live-at-92ny",
-"src": "92ny_music"
-},
-{
 "id": "s74b18859fa",
 "date": "2026-10-25",
 "time": "",
@@ -2500,16 +2350,6 @@
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/class/t/movement-breath-and-meditation-workshop",
-"src": "92ny_talks"
-},
-{
-"id": "s2b6a12f056",
-"date": "2026-10-25",
-"time": "",
-"title": "Lox Club at 92NY: Live Dating Show \u2014 Austin Kevitch, Dylan Kevitch, Harmonie Krieger, and Sam Karshenboym",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/lox-club-live-at-92ny",
 "src": "92ny_talks"
 },
 {

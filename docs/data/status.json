@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T15:58:29+00:00",
-  "healthy": 16,
+  "generated": "2026-10-08T16:00:54+00:00",
+  "healthy": 15,
   "total": 29,
   "venues": [
     {
@@ -8,7 +8,7 @@
       "name": "New York City Ballet",
       "cat": "dance",
       "strategy": "custom",
-      "count": 120,
+      "count": 119,
       "error": null
     },
     {
@@ -32,7 +32,7 @@
       "name": "92NY",
       "cat": "classical",
       "strategy": "custom",
-      "count": 67,
+      "count": 64,
       "error": null
     },
     {
@@ -40,7 +40,7 @@
       "name": "Temple Emanu-El \u2014 Streicker",
       "cat": "classical",
       "strategy": "custom",
-      "count": 27,
+      "count": 26,
       "error": null
     },
     {
@@ -56,7 +56,7 @@
       "name": "92NY \u2014 Talks",
       "cat": "talks",
       "strategy": "custom",
-      "count": 67,
+      "count": 64,
       "error": null
     },
     {
@@ -72,7 +72,7 @@
       "name": "Japan Society",
       "cat": "talks",
       "strategy": "custom",
-      "count": 37,
+      "count": 36,
       "error": null
     },
     {
@@ -88,8 +88,8 @@
       "name": "Simons Foundation",
       "cat": "talks",
       "strategy": "ics",
-      "count": 1,
-      "error": null
+      "count": 0,
+      "error": "no events parsed"
     },
     {
       "id": "broadway",
@@ -112,7 +112,7 @@
       "name": "Cooper Hewitt",
       "cat": "art",
       "strategy": "custom",
-      "count": 20,
+      "count": 19,
       "error": null
     },
     {
@@ -128,7 +128,7 @@
       "name": "David Zwirner",
       "cat": "global",
       "strategy": "jsonld",
-      "count": 29,
+      "count": 28,
       "error": null
     },
     {
@@ -168,7 +168,7 @@
       "name": "Birdland",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 74,
+      "count": 71,
       "error": null
     },
     {
@@ -192,7 +192,7 @@
       "name": "Mount Vernon Hotel Museum",
       "cat": "houses",
       "strategy": "ics",
-      "count": 7,
+      "count": 6,
       "error": null
     },
     {
