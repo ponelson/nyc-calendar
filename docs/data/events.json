@@ -1,147 +1,7 @@
 {
-"generated": "2026-10-08T16:00:54+00:00",
-"count": 685,
+"generated": "2026-10-09T15:43:05+00:00",
+"count": 678,
 "events": [
-{
-"id": "s5ab06fd56f",
-"date": "2026-10-07",
-"time": "19:30",
-"title": "Eclectic NYCB I",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
-"src": "nycballet"
-},
-{
-"id": "sb0c2f60ea2",
-"date": "2026-10-07",
-"time": "",
-"title": "Kevin Roose in Conversation with PJ Vogt: Human Connection in the Age of AI",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/kevin-roose-in-conversation",
-"src": "92ny_music"
-},
-{
-"id": "sb64691f9fc",
-"date": "2026-10-07",
-"time": "",
-"title": "Across the Divide: A Palestinian and an Israeli Father Choose Dialogue \u2014 Jaser AbuMoussa and Jonathan Dekel-Chen with Cl",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/across-the-divide",
-"src": "92ny_music"
-},
-{
-"id": "s2573e92246",
-"date": "2026-10-07",
-"time": "",
-"title": "Kevin Roose in Conversation with PJ Vogt: Human Connection in the Age of AI",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/kevin-roose-in-conversation",
-"src": "92ny_talks"
-},
-{
-"id": "sf46f6b1ca7",
-"date": "2026-10-07",
-"time": "",
-"title": "Across the Divide: A Palestinian and an Israeli Father Choose Dialogue \u2014 Jaser AbuMoussa and Jonathan Dekel-Chen with Cl",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/across-the-divide",
-"src": "92ny_talks"
-},
-{
-"id": "s33e71a51a6",
-"date": "2026-10-07",
-"time": "",
-"title": "Everyone you\u2019re looking at is also you",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
-"src": "zwirner"
-},
-{
-"id": "s32eef8e90f",
-"date": "2026-10-07",
-"time": "",
-"title": "Ziv Koren&#8217;s October 7 War Museum Exhibition Closing Night",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/ziv-korens-october-7-war-museum-exhibition-closing-night/",
-"src": "emanuel"
-},
-{
-"id": "sd257a027d1",
-"date": "2026-10-07",
-"time": "",
-"title": "Ziv Koren&#8217;s October 7 War Museum Exhibition Opening Night",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/ziv-korens-october-7-war-museum-exhibition-opening-night/",
-"src": "emanuel"
-},
-{
-"id": "sb986d957a3",
-"date": "2026-10-07",
-"time": "",
-"title": "Kosha Dillz Unfiltered: Pride, Remembrance, and Courage",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/kosha-dillz-unfiltered-pride-remembrance-and-courage/",
-"src": "emanuel"
-},
-{
-"id": "sfbeef33451",
-"date": "2026-10-08",
-"time": "17:30",
-"title": "The High Society New Orleans Jazz Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/the-high-society-new-orleans-jazz-band-3/",
-"src": "birdland"
-},
-{
-"id": "s6cff9786d4",
-"date": "2026-10-08",
-"time": "18:30",
-"title": "Grieving & Weaving",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grieving-weaving-8/2026-10-08/",
-"src": "greenwood"
-},
-{
-"id": "s071ff2ca89",
-"date": "2026-10-08",
-"time": "19:00",
-"title": "Ron Carter\u2019s Foursight Quartet with Donald Vega Livestream",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carters-foursight-quartet-with-donald-vega-livestream/",
-"src": "birdland"
-},
-{
-"id": "s6a1f3ae74b",
-"date": "2026-10-08",
-"time": "19:00",
-"title": "Ron Carter Foursight Quartet",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carter-quartet-with-donald-vega-3/",
-"src": "birdland"
-},
-{
-"id": "s7a4725e2a7",
-"date": "2026-10-08",
-"time": "19:00",
-"title": "Carnegie Hall\u2019s Opening Night Gala<br />Berliner Philharmoniker",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/08/carnegie-halls-opening-night-gala-berliner-philharmoniker-0700pm",
-"src": "carnegie"
-},
 {
 "id": "s90aee63ec7",
 "date": "2026-10-08",
@@ -151,16 +11,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/all-balanchine-i",
 "src": "nycballet"
-},
-{
-"id": "s7320171f58",
-"date": "2026-10-08",
-"time": "",
-"title": "Shark Tank Stars and Showrunner in Conversation: Season 18 Highlights Screening and Talkback \u2014 Robert Herjavec, Lori Gre",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/shark-tank-stars-in-conversation",
-"src": "92ny_music"
 },
 {
 "id": "s17f6fd05c7",
@@ -173,14 +23,14 @@
 "src": "92ny_music"
 },
 {
-"id": "s355e1156d3",
+"id": "s7320171f58",
 "date": "2026-10-08",
 "time": "",
 "title": "Shark Tank Stars and Showrunner in Conversation: Season 18 Highlights Screening and Talkback \u2014 Robert Herjavec, Lori Gre",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
+"venue": "92NY",
+"cat": "classical",
 "url": "https://www.92ny.org/event/shark-tank-stars-in-conversation",
-"src": "92ny_talks"
+"src": "92ny_music"
 },
 {
 "id": "s232356154e",
@@ -190,6 +40,16 @@
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/event/david-treuer-the-savage-mind",
+"src": "92ny_talks"
+},
+{
+"id": "s355e1156d3",
+"date": "2026-10-08",
+"time": "",
+"title": "Shark Tank Stars and Showrunner in Conversation: Season 18 Highlights Screening and Talkback \u2014 Robert Herjavec, Lori Gre",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/shark-tank-stars-in-conversation",
 "src": "92ny_talks"
 },
 {
@@ -211,6 +71,16 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/annual-sake-tasting/",
 "src": "japansociety"
+},
+{
+"id": "s8bebbb09c4",
+"date": "2026-10-09",
+"time": "15:00",
+"title": "CCA Colloquium: Marta Bryan",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/cca-colloquium-tbd-october-9-2026/",
+"src": "simons"
 },
 {
 "id": "sb3233c6ab3",
@@ -531,6 +401,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley-8/",
 "src": "greenwood"
+},
+{
+"id": "s7443c30398",
+"date": "2026-10-11",
+"time": "13:00",
+"title": "Adam Gyorgy Academy Gala",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/11/adam-gyorgy-academy-gala-0100pm",
+"src": "carnegie"
 },
 {
 "id": "s545e0222fc",
@@ -1703,6 +1583,16 @@
 "src": "birdland"
 },
 {
+"id": "sd9a8bd8a0b",
+"date": "2026-10-20",
+"time": "",
+"title": "Young Professionals Hebrew Happy Hour with IAC \u2014 Daniel Klein and Carly Fruchtman",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/young-professionals-hebrew-happy-hour",
+"src": "92ny_music"
+},
+{
 "id": "s73bcb411c8",
 "date": "2026-10-20",
 "time": "",
@@ -1721,6 +1611,16 @@
 "cat": "classical",
 "url": "https://www.92ny.org/event/simon-schama-with-rabbi-david-ingber",
 "src": "92ny_music"
+},
+{
+"id": "se9adf6f2eb",
+"date": "2026-10-20",
+"time": "",
+"title": "Young Professionals Hebrew Happy Hour with IAC \u2014 Daniel Klein and Carly Fruchtman",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/young-professionals-hebrew-happy-hour",
+"src": "92ny_talks"
 },
 {
 "id": "sc9349f2a2b",
@@ -1761,6 +1661,16 @@
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/estrangement-support-group/",
 "src": "emanuel"
+},
+{
+"id": "sa8bfc64ef7",
+"date": "2026-10-21",
+"time": "10:30",
+"title": "Green-Wood on Wheels: Stroller-Friendly Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-10-21/",
+"src": "greenwood"
 },
 {
 "id": "s363b178cfe",
@@ -2013,10 +1923,10 @@
 "src": "92ny_music"
 },
 {
-"id": "s381e5b56ea",
+"id": "s703dc28452",
 "date": "2026-10-22",
 "time": "",
-"title": "The Sun Also Rises at 100: Maya Hawke, Sarah Pidgeon, Richard Schiff, Jay McInerney, Thomas Beller and others \u2014 with Ang",
+"title": "The Sun Also Rises at 100: Maya Hawke, Sarah Pidgeon, Richard Schiff, Jay McInerney, Thomas Beller, Titus Welliver, and ",
 "venue": "92NY",
 "cat": "classical",
 "url": "https://www.92ny.org/event/the-sun-also-rises-at-100",
@@ -2043,10 +1953,10 @@
 "src": "92ny_talks"
 },
 {
-"id": "s9eb93eac76",
+"id": "s045705a233",
 "date": "2026-10-22",
 "time": "",
-"title": "The Sun Also Rises at 100: Maya Hawke, Sarah Pidgeon, Richard Schiff, Jay McInerney, Thomas Beller and others \u2014 with Ang",
+"title": "The Sun Also Rises at 100: Maya Hawke, Sarah Pidgeon, Richard Schiff, Jay McInerney, Thomas Beller, Titus Welliver, and ",
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/event/the-sun-also-rises-at-100",
@@ -2623,6 +2533,16 @@
 "src": "birdland"
 },
 {
+"id": "sfc12a08cb7",
+"date": "2026-10-28",
+"time": "",
+"title": "Israel\u2019s Election: Who Won, What Changed, What Comes Next \u2014 Yohanan Plesner and Tamar Hermann in Conversation",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/israel-s-election",
+"src": "92ny_music"
+},
+{
 "id": "s55dbb3ce82",
 "date": "2026-10-28",
 "time": "",
@@ -2661,6 +2581,16 @@
 "cat": "classical",
 "url": "https://www.92ny.org/class/israeli-folk-dance-open-session",
 "src": "92ny_music"
+},
+{
+"id": "s0aa3a6b361",
+"date": "2026-10-28",
+"time": "",
+"title": "Israel\u2019s Election: Who Won, What Changed, What Comes Next \u2014 Yohanan Plesner and Tamar Hermann in Conversation",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/israel-s-election",
+"src": "92ny_talks"
 },
 {
 "id": "sba9441b557",
