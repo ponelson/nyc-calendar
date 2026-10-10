@@ -1,137 +1,7 @@
 {
-"generated": "2026-10-09T15:43:05+00:00",
-"count": 678,
+"generated": "2026-10-10T14:58:37+00:00",
+"count": 668,
 "events": [
-{
-"id": "s90aee63ec7",
-"date": "2026-10-08",
-"time": "19:30",
-"title": "All Balanchine I",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/all-balanchine-i",
-"src": "nycballet"
-},
-{
-"id": "s17f6fd05c7",
-"date": "2026-10-08",
-"time": "",
-"title": "David Treuer: The Savage Mind",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/david-treuer-the-savage-mind",
-"src": "92ny_music"
-},
-{
-"id": "s7320171f58",
-"date": "2026-10-08",
-"time": "",
-"title": "Shark Tank Stars and Showrunner in Conversation: Season 18 Highlights Screening and Talkback \u2014 Robert Herjavec, Lori Gre",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/shark-tank-stars-in-conversation",
-"src": "92ny_music"
-},
-{
-"id": "s232356154e",
-"date": "2026-10-08",
-"time": "",
-"title": "David Treuer: The Savage Mind",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/david-treuer-the-savage-mind",
-"src": "92ny_talks"
-},
-{
-"id": "s355e1156d3",
-"date": "2026-10-08",
-"time": "",
-"title": "Shark Tank Stars and Showrunner in Conversation: Season 18 Highlights Screening and Talkback \u2014 Robert Herjavec, Lori Gre",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/shark-tank-stars-in-conversation",
-"src": "92ny_talks"
-},
-{
-"id": "s9734f340c1",
-"date": "2026-10-08",
-"time": "",
-"title": "Everyone you\u2019re looking at is also you",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
-"src": "zwirner"
-},
-{
-"id": "s8bafdaf401",
-"date": "2026-10-08",
-"time": "",
-"title": "Annual Sake Tasting",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/annual-sake-tasting/",
-"src": "japansociety"
-},
-{
-"id": "s8bebbb09c4",
-"date": "2026-10-09",
-"time": "15:00",
-"title": "CCA Colloquium: Marta Bryan",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/cca-colloquium-tbd-october-9-2026/",
-"src": "simons"
-},
-{
-"id": "sb3233c6ab3",
-"date": "2026-10-09",
-"time": "17:30",
-"title": "Birdland Big Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/birdland-big-band-2/",
-"src": "birdland"
-},
-{
-"id": "s8b313c3ad5",
-"date": "2026-10-09",
-"time": "18:30",
-"title": "Sean Jones",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/09/sean-jones-0630pm",
-"src": "carnegie"
-},
-{
-"id": "s27f392a237",
-"date": "2026-10-09",
-"time": "18:30",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-53/",
-"src": "greenwood"
-},
-{
-"id": "sb1592c73d4",
-"date": "2026-10-09",
-"time": "19:00",
-"title": "Thelonious Monk Birthday Celebration",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/thelonious-monk-birthday-celebration/",
-"src": "birdland"
-},
-{
-"id": "s8378c80fdd",
-"date": "2026-10-09",
-"time": "19:30",
-"title": "Classical Nomads",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/09/classical-nomads-0730pm",
-"src": "carnegie"
-},
 {
 "id": "s6c6a8ed807",
 "date": "2026-10-09",
@@ -141,36 +11,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
 "src": "nycballet"
-},
-{
-"id": "sc28d50af27",
-"date": "2026-10-09",
-"time": "20:00",
-"title": "Berliner Philharmoniker",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/09/berliner-philharmoniker-0800pm",
-"src": "carnegie"
-},
-{
-"id": "sffa7c780b0",
-"date": "2026-10-09",
-"time": "20:00",
-"title": "Dudamel Leads Mahler and Tania Le\u00f3n in Paris",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct9",
-"src": "nyphil"
-},
-{
-"id": "s3e4dda4063",
-"date": "2026-10-09",
-"time": "20:30",
-"title": "Ron Carter Foursight Quartet",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carter-quartet-with-donald-vega-5/",
-"src": "birdland"
 },
 {
 "id": "s4ca3191fad",
@@ -423,6 +263,16 @@
 "src": "greenwood"
 },
 {
+"id": "s56514ddffe",
+"date": "2026-10-11",
+"time": "14:00",
+"title": "Berliner Philharmoniker",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/11/berliner-philharmoniker-0200pm",
+"src": "carnegie"
+},
+{
 "id": "s629a0fcba4",
 "date": "2026-10-11",
 "time": "14:00",
@@ -461,6 +311,26 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/thelonious-monk-birthday-celebration-5/",
 "src": "birdland"
+},
+{
+"id": "s5b602ed3f3",
+"date": "2026-10-11",
+"time": "19:30",
+"title": "Special Venue Music Awards Winners Recital",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/11/special-venue-music-awards-winners-recital-0730pm",
+"src": "carnegie"
+},
+{
+"id": "sef06e9b7f0",
+"date": "2026-10-11",
+"time": "19:30",
+"title": "Deborah Silver & Fabulous Friends: Voices for ALS",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/11/deborah-silver--fabulous-friends-voices-for-als-0730pm",
+"src": "carnegie"
 },
 {
 "id": "s380c375a4c",
@@ -1903,6 +1773,16 @@
 "src": "birdland"
 },
 {
+"id": "se3d9b3d927",
+"date": "2026-10-22",
+"time": "19:00",
+"title": "Nightfall",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/nightfall-3/2026-10-22/",
+"src": "greenwood"
+},
+{
 "id": "s3ebb174c23",
 "date": "2026-10-22",
 "time": "19:30",
@@ -2001,6 +1881,16 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/curtis-stigers/",
 "src": "birdland"
+},
+{
+"id": "se20f794503",
+"date": "2026-10-23",
+"time": "19:00",
+"title": "Nightfall",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/nightfall-3/2026-10-23/",
+"src": "greenwood"
 },
 {
 "id": "sf431e09f22",
@@ -4321,6 +4211,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
 "src": "nycballet"
+},
+{
+"id": "se9e3e88141",
+"date": "2027-01-28",
+"time": "19:00",
+"title": "Getting to the Mount Vernon Hotel: Leisure Travel in 19th Century NYC",
+"venue": "Mount Vernon Hotel Museum",
+"cat": "houses",
+"url": "https://mvhm.org/event/getting-to-the-mount-vernon-hotel-leisure-travel-in-19th-century-nyc/",
+"src": "mvhm"
 },
 {
 "id": "s108f54ddf3",
