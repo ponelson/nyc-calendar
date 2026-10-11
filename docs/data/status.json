@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T14:58:37+00:00",
+  "generated": "2026-10-11T15:15:26+00:00",
   "healthy": 15,
   "total": 29,
   "venues": [
@@ -8,7 +8,7 @@
       "name": "New York City Ballet",
       "cat": "dance",
       "strategy": "custom",
-      "count": 117,
+      "count": 116,
       "error": null
     },
     {
@@ -16,7 +16,7 @@
       "name": "New York Philharmonic",
       "cat": "classical",
       "strategy": "custom",
-      "count": 173,
+      "count": 172,
       "error": null
     },
     {
@@ -24,7 +24,7 @@
       "name": "Carnegie Hall",
       "cat": "classical",
       "strategy": "custom",
-      "count": 9,
+      "count": 10,
       "error": null
     },
     {
@@ -32,7 +32,7 @@
       "name": "92NY",
       "cat": "classical",
       "strategy": "custom",
-      "count": 62,
+      "count": 61,
       "error": null
     },
     {
@@ -56,7 +56,7 @@
       "name": "92NY \u2014 Talks",
       "cat": "talks",
       "strategy": "custom",
-      "count": 62,
+      "count": 61,
       "error": null
     },
     {
@@ -128,7 +128,7 @@
       "name": "David Zwirner",
       "cat": "global",
       "strategy": "jsonld",
-      "count": 26,
+      "count": 23,
       "error": null
     },
     {
@@ -168,7 +168,7 @@
       "name": "Birdland",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 65,
+      "count": 62,
       "error": null
     },
     {
@@ -216,7 +216,7 @@
       "name": "Dyckman Farmhouse",
       "cat": "houses",
       "strategy": "ics",
-      "count": 4,
+      "count": 3,
       "error": null
     },
     {
@@ -224,7 +224,7 @@
       "name": "Green-Wood Cemetery",
       "cat": "access",
       "strategy": "ics",
-      "count": 23,
+      "count": 24,
       "error": null
     },
     {

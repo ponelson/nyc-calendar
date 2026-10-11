@@ -1,67 +1,7 @@
 {
-"generated": "2026-10-10T14:58:37+00:00",
-"count": 668,
+"generated": "2026-10-11T15:15:26+00:00",
+"count": 659,
 "events": [
-{
-"id": "s6c6a8ed807",
-"date": "2026-10-09",
-"time": "19:30",
-"title": "Masters at Work I",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
-"src": "nycballet"
-},
-{
-"id": "s4ca3191fad",
-"date": "2026-10-09",
-"time": "",
-"title": "Everyone you\u2019re looking at is also you",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
-"src": "zwirner"
-},
-{
-"id": "s078163375b",
-"date": "2026-10-10",
-"time": "10:00",
-"title": "Crime and Catastrophe Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/crime-and-catastrophe-trolley-tour-5/",
-"src": "greenwood"
-},
-{
-"id": "se3815150d2",
-"date": "2026-10-10",
-"time": "12:00",
-"title": "Free Guided Tour",
-"venue": "Dyckman Farmhouse",
-"cat": "houses",
-"url": "https://dyckmanfarmhouse.org/event/free-guided-tour-3/",
-"src": "dyckman"
-},
-{
-"id": "sda61bc8d55",
-"date": "2026-10-10",
-"time": "13:00",
-"title": "Italian Reputation Award Ceremony",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/10/italian-reputation-award-ceremony-0100pm",
-"src": "carnegie"
-},
-{
-"id": "sd7c5ca2cd0",
-"date": "2026-10-10",
-"time": "13:00",
-"title": "Discover Green-Wood Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-24/",
-"src": "greenwood"
-},
 {
 "id": "s7068cbe480",
 "date": "2026-10-10",
@@ -73,86 +13,6 @@
 "src": "nycballet"
 },
 {
-"id": "sc48d46db47",
-"date": "2026-10-10",
-"time": "14:30",
-"title": "Matt Doyle",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/10/matt-doyle-0230pm",
-"src": "carnegie"
-},
-{
-"id": "s2db4ec86b1",
-"date": "2026-10-10",
-"time": "15:30",
-"title": "Revolutionary Spirits",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/revolutionary-spirits-7/2026-10-10/",
-"src": "greenwood"
-},
-{
-"id": "sd57743bf15",
-"date": "2026-10-10",
-"time": "17:30",
-"title": "Pasquale Grasso Trio",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/pasquale-grasso-trio-8/",
-"src": "birdland"
-},
-{
-"id": "s7af47c3c8c",
-"date": "2026-10-10",
-"time": "18:30",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-54/",
-"src": "greenwood"
-},
-{
-"id": "scf659c0a44",
-"date": "2026-10-10",
-"time": "19:00",
-"title": "Thelonious Monk Birthday Celebration",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/thelonious-monk-birthday-celebration-3/",
-"src": "birdland"
-},
-{
-"id": "scf646b6135",
-"date": "2026-10-10",
-"time": "19:00",
-"title": "Uprising/Downfall: 250 Years of Courage, Repression, and Resistance on the Road to American Democracy",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/uprising-downfall-250-years-of-courage-repression-and-resistance-on-the-road-to-american-democracy/",
-"src": "greenwood"
-},
-{
-"id": "sb640e90c7e",
-"date": "2026-10-10",
-"time": "19:30",
-"title": "Cancelled: Special Venue Music Awards Winners Recital",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/10/cancelled-special-venue-music-awards-winners-recital-0730pm",
-"src": "carnegie"
-},
-{
-"id": "sc38f7d9fa9",
-"date": "2026-10-10",
-"time": "19:30",
-"title": "Zhengtao Pan Jazz Orchestra featuring Chris Potter and Rufus Reid",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/10/zhengtao-pan-jazz-orchestra-featuring-chris-potter-and-rufus-reid-0730pm",
-"src": "carnegie"
-},
-{
 "id": "sc3edf4bbea",
 "date": "2026-10-10",
 "time": "19:30",
@@ -161,76 +21,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
 "src": "nycballet"
-},
-{
-"id": "saa0e3f1165",
-"date": "2026-10-10",
-"time": "20:00",
-"title": "Berliner Philharmoniker",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/10/berliner-philharmoniker-0800pm",
-"src": "carnegie"
-},
-{
-"id": "s17dcbadbcc",
-"date": "2026-10-10",
-"time": "20:00",
-"title": "Dudamel Leads Prokofiev, Adams & Di Castri in Paris",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct10",
-"src": "nyphil"
-},
-{
-"id": "scbf8075018",
-"date": "2026-10-10",
-"time": "20:30",
-"title": "Ron Carter Foursight Quartet",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carter-quartet-with-donald-vega-7/",
-"src": "birdland"
-},
-{
-"id": "sb129c1664c",
-"date": "2026-10-10",
-"time": "",
-"title": "Red Riding Hood",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/red-riding-hood",
-"src": "92ny_music"
-},
-{
-"id": "s75e1704c2c",
-"date": "2026-10-10",
-"time": "",
-"title": "Red Riding Hood",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/red-riding-hood",
-"src": "92ny_talks"
-},
-{
-"id": "sf2e95cfb97",
-"date": "2026-10-10",
-"time": "",
-"title": "Au 108 rue Vieille du Temple \u2014 final day",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/au-108-rue-vieille-du-temple",
-"src": "zwirner"
-},
-{
-"id": "s75979f810f",
-"date": "2026-10-10",
-"time": "",
-"title": "Everyone you\u2019re looking at is also you",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/everyone-you-re-looking-at-is-also-you-artists-for-the-ali-forney-center",
-"src": "zwirner"
 },
 {
 "id": "sb4f2bb9f7a",
@@ -413,6 +203,16 @@
 "src": "birdland"
 },
 {
+"id": "s8c0d1be74d",
+"date": "2026-10-12",
+"time": "19:30",
+"title": "Cancelled: Special Venue Music Awards Winners Recital",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/12/cancelled-special-venue-music-awards-winners-recital-0730pm",
+"src": "carnegie"
+},
+{
 "id": "sf3e0c02db9",
 "date": "2026-10-12",
 "time": "20:00",
@@ -521,6 +321,36 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/frank-catalano-quartet-feat-randy-brecker/",
 "src": "birdland"
+},
+{
+"id": "s50eb3a490a",
+"date": "2026-10-13",
+"time": "19:00",
+"title": "Luigi Carroccia with the Argus Quartet",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/13/luigi-carroccia-with-the-argus-quartet-0700pm",
+"src": "carnegie"
+},
+{
+"id": "sce452658c8",
+"date": "2026-10-13",
+"time": "19:30",
+"title": "Chengcheng Ma and Guest Artists",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/13/chengcheng-ma-and-guest-artists-0730pm",
+"src": "carnegie"
+},
+{
+"id": "s7622276c65",
+"date": "2026-10-13",
+"time": "19:30",
+"title": "The Philadelphia Orchestra",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/13/the-philadelphia-orchestra-0730pm",
+"src": "carnegie"
 },
 {
 "id": "s1a209f4b9f",
@@ -633,6 +463,16 @@
 "src": "birdland"
 },
 {
+"id": "s1adf323854",
+"date": "2026-10-14",
+"time": "19:30",
+"title": "Trio Azura",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/14/trio-azura-0730pm",
+"src": "carnegie"
+},
+{
 "id": "sf756ea0e75",
 "date": "2026-10-14",
 "time": "19:30",
@@ -651,6 +491,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct14",
 "src": "nyphil"
+},
+{
+"id": "sda9a3c7592",
+"date": "2026-10-14",
+"time": "20:00",
+"title": "The Works of Alyssa Morris",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/14/the-works-of-alyssa-morris-0800pm",
+"src": "carnegie"
 },
 {
 "id": "sede9bd01a5",
@@ -1943,6 +1793,46 @@
 "src": "92ny_talks"
 },
 {
+"id": "s027323de12",
+"date": "2026-10-24",
+"time": "10:00",
+"title": "The Revolution Continues: Brooklyn\u2019s Black Trailblazers",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/the-revolution-continues-brooklyns-black-trailblazers/",
+"src": "greenwood"
+},
+{
+"id": "sa7ed6ed232",
+"date": "2026-10-24",
+"time": "10:15",
+"title": "Little Birds, Big World: Meet Green-Wood's Sparrows",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/little-birds-big-world-meet-green-woods-sparrows/2026-10-24/",
+"src": "greenwood"
+},
+{
+"id": "s973ccd79bb",
+"date": "2026-10-24",
+"time": "10:30",
+"title": "Green-Wood on Wheels: Stroller-Friendly Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-10-24/",
+"src": "greenwood"
+},
+{
+"id": "s3f5ab61369",
+"date": "2026-10-24",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-26/",
+"src": "greenwood"
+},
+{
 "id": "s828d5993c1",
 "date": "2026-10-24",
 "time": "17:30",
@@ -2041,6 +1931,26 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/emma-mcintyre",
 "src": "zwirner"
+},
+{
+"id": "s5ce9a20cc0",
+"date": "2026-10-25",
+"time": "10:15",
+"title": "Little Birds, Big World: Meet Green-Wood's Sparrows",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/little-birds-big-world-meet-green-woods-sparrows/2026-10-25/",
+"src": "greenwood"
+},
+{
+"id": "sdf38be0809",
+"date": "2026-10-25",
+"time": "11:00",
+"title": "Grave Beginnings: Green-Wood By Trolley",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley-7/",
+"src": "greenwood"
 },
 {
 "id": "s4c8ce1e9e2",
