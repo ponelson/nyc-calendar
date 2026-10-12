@@ -1,77 +1,7 @@
 {
-"generated": "2026-10-11T15:15:26+00:00",
-"count": 659,
+"generated": "2026-10-12T18:25:41+00:00",
+"count": 653,
 "events": [
-{
-"id": "s7068cbe480",
-"date": "2026-10-10",
-"time": "14:00",
-"title": "Eclectic NYCB I",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
-"src": "nycballet"
-},
-{
-"id": "sc3edf4bbea",
-"date": "2026-10-10",
-"time": "19:30",
-"title": "Masters at Work I",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i",
-"src": "nycballet"
-},
-{
-"id": "sb4f2bb9f7a",
-"date": "2026-10-11",
-"time": "11:00",
-"title": "Grave Beginnings: Green-Wood By Trolley",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley-8/",
-"src": "greenwood"
-},
-{
-"id": "s7443c30398",
-"date": "2026-10-11",
-"time": "13:00",
-"title": "Adam Gyorgy Academy Gala",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/11/adam-gyorgy-academy-gala-0100pm",
-"src": "carnegie"
-},
-{
-"id": "s545e0222fc",
-"date": "2026-10-11",
-"time": "13:00",
-"title": "Green-Wood's Greatest Hits",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-woods-greatest-hits-15/",
-"src": "greenwood"
-},
-{
-"id": "s56514ddffe",
-"date": "2026-10-11",
-"time": "14:00",
-"title": "Berliner Philharmoniker",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/11/berliner-philharmoniker-0200pm",
-"src": "carnegie"
-},
-{
-"id": "s629a0fcba4",
-"date": "2026-10-11",
-"time": "14:00",
-"title": "Catch the Colors: Fall at Green-Wood",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/catch-the-colors-fall-at-green-wood-2/2026-10-11/",
-"src": "greenwood"
-},
 {
 "id": "s34c1e9adfc",
 "date": "2026-10-11",
@@ -83,94 +13,14 @@
 "src": "nycballet"
 },
 {
-"id": "s885b34600e",
-"date": "2026-10-11",
-"time": "17:30",
-"title": "Amy London: Alto Madness Album Release",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/amy-london-alto-madness-album-release/",
-"src": "birdland"
-},
-{
-"id": "s57207feb0f",
-"date": "2026-10-11",
-"time": "19:00",
-"title": "Thelonious Monk Birthday Celebration",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/thelonious-monk-birthday-celebration-5/",
-"src": "birdland"
-},
-{
-"id": "s5b602ed3f3",
-"date": "2026-10-11",
-"time": "19:30",
-"title": "Special Venue Music Awards Winners Recital",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/11/special-venue-music-awards-winners-recital-0730pm",
-"src": "carnegie"
-},
-{
-"id": "sef06e9b7f0",
-"date": "2026-10-11",
-"time": "19:30",
-"title": "Deborah Silver & Fabulous Friends: Voices for ALS",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/11/deborah-silver--fabulous-friends-voices-for-als-0730pm",
-"src": "carnegie"
-},
-{
-"id": "s380c375a4c",
-"date": "2026-10-11",
-"time": "20:30",
-"title": "The Birdland Latin Jazz Orchestra",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/the-birdland-latin-jazz-orchestra-53/",
-"src": "birdland"
-},
-{
-"id": "sb58933b44e",
-"date": "2026-10-11",
-"time": "",
-"title": "Red Riding Hood",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/red-riding-hood",
-"src": "92ny_music"
-},
-{
-"id": "s6a5cbf59e0",
-"date": "2026-10-11",
-"time": "",
-"title": "Alon Shaya and June Hersh in Conversation with The Sporkful\u2019s Dan Pashman: Memories of a Good Meal",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/memories-of-a-good-meal",
-"src": "92ny_music"
-},
-{
-"id": "s173fdfe7f6",
-"date": "2026-10-11",
-"time": "",
-"title": "Red Riding Hood",
-"venue": "92NY \u2014 Talks",
+"id": "s78ba1a5f74",
+"date": "2026-10-12",
+"time": "09:00",
+"title": "GIZMO code dev meeting",
+"venue": "Simons Foundation",
 "cat": "talks",
-"url": "https://www.92ny.org/event/red-riding-hood",
-"src": "92ny_talks"
-},
-{
-"id": "s6c78805fd6",
-"date": "2026-10-11",
-"time": "",
-"title": "Alon Shaya and June Hersh in Conversation with The Sporkful\u2019s Dan Pashman: Memories of a Good Meal",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/memories-of-a-good-meal",
-"src": "92ny_talks"
+"url": "https://www.simonsfoundation.org/event/gizmo-code-dev-meeting-2/",
+"src": "simons"
 },
 {
 "id": "s28c10c7057",
@@ -291,6 +141,16 @@
 "cat": "talks",
 "url": "https://www.92ny.org/event/walter-isaacson-and-mustafa-suleyman",
 "src": "92ny_talks"
+},
+{
+"id": "sb1aaec555e",
+"date": "2026-10-13",
+"time": "09:00",
+"title": "GIZMO code dev meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/gizmo-code-dev-meeting-2/",
+"src": "simons"
 },
 {
 "id": "s7db5455853",
@@ -441,6 +301,16 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/navigating-stem-career-opportunities-funding-and-immigration-pathways-inside-the-us/",
 "src": "nyas"
+},
+{
+"id": "seec65e1631",
+"date": "2026-10-14",
+"time": "09:00",
+"title": "GIZMO code dev meeting",
+"venue": "Simons Foundation",
+"cat": "talks",
+"url": "https://www.simonsfoundation.org/event/gizmo-code-dev-meeting-2/",
+"src": "simons"
 },
 {
 "id": "se97e797906",
@@ -663,6 +533,16 @@
 "src": "birdland"
 },
 {
+"id": "se25ee606af",
+"date": "2026-10-15",
+"time": "19:30",
+"title": "Boris Cepeda, Piano",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/15/boris-cepeda-piano-0730pm",
+"src": "carnegie"
+},
+{
 "id": "s874a702705",
 "date": "2026-10-15",
 "time": "19:30",
@@ -671,6 +551,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
+},
+{
+"id": "s43307edd9d",
+"date": "2026-10-15",
+"time": "20:00",
+"title": "Nikos Kazantzakis: An Odyssey in Music",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/15/nikos-kazantzakis-an-odyssey-in-music-0800pm",
+"src": "carnegie"
 },
 {
 "id": "se7ed4ccf8e",
@@ -711,6 +601,26 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/carole-j-bufford/",
 "src": "birdland"
+},
+{
+"id": "s1191bb8b5b",
+"date": "2026-10-16",
+"time": "19:00",
+"title": "Rising Stars in a Piano Recital",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/16/rising-stars-in-a-piano-recital-0700pm",
+"src": "carnegie"
+},
+{
+"id": "s548a53d687",
+"date": "2026-10-16",
+"time": "19:00",
+"title": "Tak\u00e1cs Quartet <br />Jeremy Denk, Piano",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/16/takacs-quartet-jeremy-denk-piano-0700pm",
+"src": "carnegie"
 },
 {
 "id": "s6d33d95091",
@@ -1950,6 +1860,36 @@
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley-7/",
+"src": "greenwood"
+},
+{
+"id": "sb6f3d5f632",
+"date": "2026-10-25",
+"time": "12:00",
+"title": "Rest in Pace",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/rest-in-pace-green-house-2/2026-10-25/",
+"src": "greenwood"
+},
+{
+"id": "sd499d9a1bc",
+"date": "2026-10-25",
+"time": "13:00",
+"title": "Green-Wood's Greatest Hits",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-woods-greatest-hits-17/",
+"src": "greenwood"
+},
+{
+"id": "se0c3478115",
+"date": "2026-10-25",
+"time": "14:30",
+"title": "Cemetery Scavenger Hunt",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/cemetery-scavenger-hunt/",
 "src": "greenwood"
 },
 {

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-11T15:15:26+00:00",
-  "healthy": 15,
+  "generated": "2026-10-12T18:25:41+00:00",
+  "healthy": 16,
   "total": 29,
   "venues": [
     {
@@ -8,7 +8,7 @@
       "name": "New York City Ballet",
       "cat": "dance",
       "strategy": "custom",
-      "count": 116,
+      "count": 114,
       "error": null
     },
     {
@@ -32,7 +32,7 @@
       "name": "92NY",
       "cat": "classical",
       "strategy": "custom",
-      "count": 61,
+      "count": 59,
       "error": null
     },
     {
@@ -56,7 +56,7 @@
       "name": "92NY \u2014 Talks",
       "cat": "talks",
       "strategy": "custom",
-      "count": 61,
+      "count": 59,
       "error": null
     },
     {
@@ -88,8 +88,8 @@
       "name": "Simons Foundation",
       "cat": "talks",
       "strategy": "ics",
-      "count": 0,
-      "error": "no events parsed"
+      "count": 3,
+      "error": null
     },
     {
       "id": "broadway",
@@ -121,7 +121,7 @@
       "cat": "art",
       "strategy": "custom",
       "count": 0,
-      "error": "RuntimeError: wp:exhibitions looks like an archive, not a calendar (1 items, mostly past) \u2014 refusing"
+      "error": "HTTPError: 504 Server Error: Gateway Timeout for url: https://rubinmuseum.org/wp-json/wp/v2/exhibitions?per_page=100"
     },
     {
       "id": "zwirner",
@@ -168,7 +168,7 @@
       "name": "Birdland",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 62,
+      "count": 59,
       "error": null
     },
     {
