@@ -1,17 +1,7 @@
 {
-"generated": "2026-10-12T18:25:41+00:00",
-"count": 653,
+"generated": "2026-10-13T16:38:47+00:00",
+"count": 647,
 "events": [
-{
-"id": "s34c1e9adfc",
-"date": "2026-10-11",
-"time": "15:00",
-"title": "Eclectic NYCB I",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
-"src": "nycballet"
-},
 {
 "id": "s78ba1a5f74",
 "date": "2026-10-12",
@@ -21,76 +11,6 @@
 "cat": "talks",
 "url": "https://www.simonsfoundation.org/event/gizmo-code-dev-meeting-2/",
 "src": "simons"
-},
-{
-"id": "s28c10c7057",
-"date": "2026-10-12",
-"time": "17:30",
-"title": "Vince Giordano and the Nighthawks",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-89/",
-"src": "birdland"
-},
-{
-"id": "s568fbbb7a6",
-"date": "2026-10-12",
-"time": "19:00",
-"title": "Julie Halston & Jackie Hoffman Livestream",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/julie-halston-jackie-hoffman-livestream/",
-"src": "birdland"
-},
-{
-"id": "sa4baa16687",
-"date": "2026-10-12",
-"time": "19:00",
-"title": "VIRTUAL HALSTON LIVE with Julie Halston and Jackie Hoffman",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/virtual-halston-live-with-julie-halston-and-jackie-hoffman/",
-"src": "birdland"
-},
-{
-"id": "s8c0d1be74d",
-"date": "2026-10-12",
-"time": "19:30",
-"title": "Cancelled: Special Venue Music Awards Winners Recital",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/12/cancelled-special-venue-music-awards-winners-recital-0730pm",
-"src": "carnegie"
-},
-{
-"id": "sf3e0c02db9",
-"date": "2026-10-12",
-"time": "20:00",
-"title": "Dudamel Leads Prokofiev, Adams & Di Castri in Barcelona",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct12",
-"src": "nyphil"
-},
-{
-"id": "s6dae41bde9",
-"date": "2026-10-12",
-"time": "21:30",
-"title": "Jim Caruso's Cast Party with Billy Stritch",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/jim-carusos-cast-party-26/",
-"src": "birdland"
-},
-{
-"id": "sf233baec69",
-"date": "2026-10-12",
-"time": "",
-"title": "E!\u2019s The Golden Life: Exclusive Clips & Conversation \u2014 Kelly Bensimon, Countess Luann de Lesseps, Dorinda Medley, Sonja ",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/the-golden-life",
-"src": "92ny_music"
 },
 {
 "id": "s5ef5541f65",
@@ -111,16 +31,6 @@
 "cat": "classical",
 "url": "https://www.92ny.org/event/walter-isaacson-and-mustafa-suleyman",
 "src": "92ny_music"
-},
-{
-"id": "s539d4d41e4",
-"date": "2026-10-12",
-"time": "",
-"title": "E!\u2019s The Golden Life: Exclusive Clips & Conversation \u2014 Kelly Bensimon, Countess Luann de Lesseps, Dorinda Medley, Sonja ",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/the-golden-life",
-"src": "92ny_talks"
 },
 {
 "id": "sd76765d826",
@@ -151,16 +61,6 @@
 "cat": "talks",
 "url": "https://www.simonsfoundation.org/event/gizmo-code-dev-meeting-2/",
 "src": "simons"
-},
-{
-"id": "s7db5455853",
-"date": "2026-10-13",
-"time": "10:00",
-"title": "Toddler Takeover at the Green-House",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-10-13/",
-"src": "greenwood"
 },
 {
 "id": "sf2b0e1d3a3",
@@ -623,6 +523,16 @@
 "src": "carnegie"
 },
 {
+"id": "scf2fb5af65",
+"date": "2026-10-16",
+"time": "19:30",
+"title": "Sphinx Virtuosi",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/16/sphinx-virtuosi-0730pm",
+"src": "carnegie"
+},
+{
 "id": "s6d33d95091",
 "date": "2026-10-16",
 "time": "19:30",
@@ -1033,10 +943,10 @@
 "src": "92ny_music"
 },
 {
-"id": "s7474e7e39a",
+"id": "saa1b8e5e90",
 "date": "2026-10-18",
 "time": "",
-"title": "Mario: Documentary Screening and Conversation with Ken Auletta, Madeline Cuomo, Steven Cohen, and Teddy Kunhardt",
+"title": "Mario: Documentary Screening and Conversation with Ken Auletta, Madeline Cuomo, Steven Cohen, Teddy Kunhardt, and Harold",
 "venue": "92NY",
 "cat": "classical",
 "url": "https://www.92ny.org/event/mario-documentary-screening-and-conversation",
@@ -1073,10 +983,10 @@
 "src": "92ny_talks"
 },
 {
-"id": "s83aa9ff531",
+"id": "s0e90f32abe",
 "date": "2026-10-18",
 "time": "",
-"title": "Mario: Documentary Screening and Conversation with Ken Auletta, Madeline Cuomo, Steven Cohen, and Teddy Kunhardt",
+"title": "Mario: Documentary Screening and Conversation with Ken Auletta, Madeline Cuomo, Steven Cohen, Teddy Kunhardt, and Harold",
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/event/mario-documentary-screening-and-conversation",
@@ -1893,6 +1803,16 @@
 "src": "greenwood"
 },
 {
+"id": "sb7eca7806b",
+"date": "2026-10-25",
+"time": "17:00",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-57/2026-10-25/1/",
+"src": "greenwood"
+},
+{
 "id": "s4c8ce1e9e2",
 "date": "2026-10-25",
 "time": "17:30",
@@ -2303,6 +2223,16 @@
 "src": "92ny_music"
 },
 {
+"id": "s5311127226",
+"date": "2026-10-28",
+"time": "",
+"title": "92NY State of New York with CEO Seth Pinsky: New York\u2019s Gubernatorial Race",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/new-york-s-gubernatorial-race",
+"src": "92ny_music"
+},
+{
 "id": "sea331d313f",
 "date": "2026-10-28",
 "time": "",
@@ -2350,6 +2280,16 @@
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/event/daniel-kraus",
+"src": "92ny_talks"
+},
+{
+"id": "s4013f92050",
+"date": "2026-10-28",
+"time": "",
+"title": "92NY State of New York with CEO Seth Pinsky: New York\u2019s Gubernatorial Race",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/new-york-s-gubernatorial-race",
 "src": "92ny_talks"
 },
 {
@@ -5463,6 +5403,16 @@
 "src": "nyphil"
 },
 {
+"id": "s24119c768f",
+"date": "2027-05-07",
+"time": "",
+"title": "2027 Annual Symposium for the Leon Levy Scholarships in Neuroscience",
+"venue": "New York Academy of Sciences",
+"cat": "talks",
+"url": "https://www.nyas.org/shaping-science/events/2027-annual-symposium-for-the-leon-levy-scholarships-in-neuroscience/",
+"src": "nyas"
+},
+{
 "id": "s9eaca86155",
 "date": "2027-05-08",
 "time": "19:30",
@@ -6290,16 +6240,6 @@
 "venue": "Guggenheim",
 "cat": "art",
 "url": "https://www.guggenheim.org/event/works-process-washington-national-opera-okeeffe-kiss-the-sky-by-christopher-tin-kelley-rourke",
-"src": "guggenheim"
-},
-{
-"id": "sc56b216e84",
-"date": "2027-08-04",
-"time": "",
-"title": "Works &#038; Process: Minnesota Opera: The Many Deaths of Laila Starr by Kamala Sankaram &#038; Minita Gandhi",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/works-process-minnesota-opera-the-many-deaths-of-laila-starr-by-kamala-sankaram-minita-gandhi",
 "src": "guggenheim"
 },
 {

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12T18:25:41+00:00",
+  "generated": "2026-10-13T16:38:47+00:00",
   "healthy": 16,
   "total": 29,
   "venues": [
@@ -8,7 +8,7 @@
       "name": "New York City Ballet",
       "cat": "dance",
       "strategy": "custom",
-      "count": 114,
+      "count": 113,
       "error": null
     },
     {
@@ -16,7 +16,7 @@
       "name": "New York Philharmonic",
       "cat": "classical",
       "strategy": "custom",
-      "count": 172,
+      "count": 171,
       "error": null
     },
     {
@@ -80,7 +80,7 @@
       "name": "New York Academy of Sciences",
       "cat": "talks",
       "strategy": "custom",
-      "count": 19,
+      "count": 20,
       "error": null
     },
     {
@@ -104,7 +104,7 @@
       "name": "Guggenheim",
       "cat": "art",
       "strategy": "custom",
-      "count": 24,
+      "count": 23,
       "error": null
     },
     {
@@ -168,7 +168,7 @@
       "name": "Birdland",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 59,
+      "count": 55,
       "error": null
     },
     {
@@ -209,7 +209,7 @@
       "cat": "houses",
       "strategy": "jsonld",
       "count": 0,
-      "error": "no events parsed"
+      "error": "RuntimeError: HTTP 429"
     },
     {
       "id": "dyckman",
