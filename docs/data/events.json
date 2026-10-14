@@ -1,117 +1,7 @@
 {
-"generated": "2026-10-13T16:38:47+00:00",
-"count": 647,
+"generated": "2026-10-14T14:15:48+00:00",
+"count": 637,
 "events": [
-{
-"id": "s78ba1a5f74",
-"date": "2026-10-12",
-"time": "09:00",
-"title": "GIZMO code dev meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/gizmo-code-dev-meeting-2/",
-"src": "simons"
-},
-{
-"id": "s5ef5541f65",
-"date": "2026-10-12",
-"time": "",
-"title": "Nara Smith in Conversation with Ashley Graham: Homemade",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/nara-smith-in-conversation-homemade",
-"src": "92ny_music"
-},
-{
-"id": "sf44d549776",
-"date": "2026-10-12",
-"time": "",
-"title": "Walter Isaacson and Mustafa Suleyman in Conversation: The Age of AI \u2014 A Live Recording of The Builders",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/walter-isaacson-and-mustafa-suleyman",
-"src": "92ny_music"
-},
-{
-"id": "sd76765d826",
-"date": "2026-10-12",
-"time": "",
-"title": "Nara Smith in Conversation with Ashley Graham: Homemade",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/nara-smith-in-conversation-homemade",
-"src": "92ny_talks"
-},
-{
-"id": "s3d7387826b",
-"date": "2026-10-12",
-"time": "",
-"title": "Walter Isaacson and Mustafa Suleyman in Conversation: The Age of AI \u2014 A Live Recording of The Builders",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/walter-isaacson-and-mustafa-suleyman",
-"src": "92ny_talks"
-},
-{
-"id": "sb1aaec555e",
-"date": "2026-10-13",
-"time": "09:00",
-"title": "GIZMO code dev meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/gizmo-code-dev-meeting-2/",
-"src": "simons"
-},
-{
-"id": "sf2b0e1d3a3",
-"date": "2026-10-13",
-"time": "17:30",
-"title": "Vince Giordano and the Nighthawks",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-91/",
-"src": "birdland"
-},
-{
-"id": "sfba89d5bfd",
-"date": "2026-10-13",
-"time": "19:00",
-"title": "Frank Catalano Quintet feat. Randy Brecker",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/frank-catalano-quartet-feat-randy-brecker/",
-"src": "birdland"
-},
-{
-"id": "s50eb3a490a",
-"date": "2026-10-13",
-"time": "19:00",
-"title": "Luigi Carroccia with the Argus Quartet",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/13/luigi-carroccia-with-the-argus-quartet-0700pm",
-"src": "carnegie"
-},
-{
-"id": "sce452658c8",
-"date": "2026-10-13",
-"time": "19:30",
-"title": "Chengcheng Ma and Guest Artists",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/13/chengcheng-ma-and-guest-artists-0730pm",
-"src": "carnegie"
-},
-{
-"id": "s7622276c65",
-"date": "2026-10-13",
-"time": "19:30",
-"title": "The Philadelphia Orchestra",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/13/the-philadelphia-orchestra-0730pm",
-"src": "carnegie"
-},
 {
 "id": "s1a209f4b9f",
 "date": "2026-10-13",
@@ -121,16 +11,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/all-balanchine-i",
 "src": "nycballet"
-},
-{
-"id": "se47eec235c",
-"date": "2026-10-13",
-"time": "19:30",
-"title": "Dudamel Leads Prokofiev, Adams & Di Castri in Madrid",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct13",
-"src": "nyphil"
 },
 {
 "id": "s424564e9d7",
@@ -201,16 +81,6 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/navigating-stem-career-opportunities-funding-and-immigration-pathways-inside-the-us/",
 "src": "nyas"
-},
-{
-"id": "seec65e1631",
-"date": "2026-10-14",
-"time": "09:00",
-"title": "GIZMO code dev meeting",
-"venue": "Simons Foundation",
-"cat": "talks",
-"url": "https://www.simonsfoundation.org/event/gizmo-code-dev-meeting-2/",
-"src": "simons"
 },
 {
 "id": "se97e797906",
@@ -293,10 +163,10 @@
 "src": "92ny_music"
 },
 {
-"id": "s208dd73bd9",
+"id": "s84e78ecc99",
 "date": "2026-10-14",
 "time": "",
-"title": "Wicker Advance Screening with Olivia Colman, Alexander Skarsg\u00e5rd, Eleanor Wilson, and Alex Huston Fischer in Conversatio",
+"title": "Wicker Advance Screening with Olivia Colman, Alexander Skarsg\u00e5rd, Elizabeth Debicki, Peter Dinklage, Eleanor Wilson, and",
 "venue": "92NY",
 "cat": "classical",
 "url": "https://www.92ny.org/event/wicker",
@@ -343,10 +213,10 @@
 "src": "92ny_talks"
 },
 {
-"id": "sd43196cbd1",
+"id": "s527654ad58",
 "date": "2026-10-14",
 "time": "",
-"title": "Wicker Advance Screening with Olivia Colman, Alexander Skarsg\u00e5rd, Eleanor Wilson, and Alex Huston Fischer in Conversatio",
+"title": "Wicker Advance Screening with Olivia Colman, Alexander Skarsg\u00e5rd, Elizabeth Debicki, Peter Dinklage, Eleanor Wilson, and",
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/event/wicker",
@@ -603,16 +473,6 @@
 "src": "92ny_talks"
 },
 {
-"id": "s6df033f457",
-"date": "2026-10-16",
-"time": "",
-"title": "Shabbat Dinner Together at Chelsea Market",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/shabbat-dinner-together-602-343/",
-"src": "emanuel"
-},
-{
 "id": "s1bee7f71c9",
 "date": "2026-10-17",
 "time": "10:00",
@@ -653,6 +513,16 @@
 "src": "greenwood"
 },
 {
+"id": "s4a708acf60",
+"date": "2026-10-17",
+"time": "14:00",
+"title": "Cancelled: Hao Liu, Piano",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/17/hao-liu-piano-0200pm",
+"src": "carnegie"
+},
+{
 "id": "s70865abab7",
 "date": "2026-10-17",
 "time": "15:00",
@@ -661,6 +531,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/secrets-in-stone-13/2026-10-17/",
 "src": "greenwood"
+},
+{
+"id": "s0cce9d1a16",
+"date": "2026-10-17",
+"time": "16:00",
+"title": "Orpheus Chamber Orchestra<br />\u200bLucas and Arthur Jussen, Piano",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/17/orpheus-chamber-orchestra-lucas-and-arthur-jussen-piano-0400pm",
+"src": "carnegie"
 },
 {
 "id": "s13d70be447",
@@ -691,6 +571,16 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/carole-j-bufford-3/",
 "src": "birdland"
+},
+{
+"id": "s9a2c6f0e9e",
+"date": "2026-10-17",
+"time": "19:30",
+"title": "George Abraham and Friends in Recital",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/17/george-abraham-and-friends-in-recital-0730pm",
+"src": "carnegie"
 },
 {
 "id": "se4118fd27d",
@@ -2193,10 +2083,10 @@
 "src": "birdland"
 },
 {
-"id": "sfc12a08cb7",
+"id": "s1346de4598",
 "date": "2026-10-28",
 "time": "",
-"title": "Israel\u2019s Election: Who Won, What Changed, What Comes Next \u2014 Yohanan Plesner and Tamar Hermann in Conversation",
+"title": "Israel\u2019s Election: Who Won, What Changed, What Comes Next \u2014 Yohanan Plesner, Tamar Hermann, and David Horovitz in Conver",
 "venue": "92NY",
 "cat": "classical",
 "url": "https://www.92ny.org/event/israel-s-election",
@@ -2253,10 +2143,10 @@
 "src": "92ny_music"
 },
 {
-"id": "s0aa3a6b361",
+"id": "sb24c2a7701",
 "date": "2026-10-28",
 "time": "",
-"title": "Israel\u2019s Election: Who Won, What Changed, What Comes Next \u2014 Yohanan Plesner and Tamar Hermann in Conversation",
+"title": "Israel\u2019s Election: Who Won, What Changed, What Comes Next \u2014 Yohanan Plesner, Tamar Hermann, and David Horovitz in Conver",
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/event/israel-s-election",
@@ -2551,6 +2441,16 @@
 "cat": "talks",
 "url": "https://www.92ny.org/event/christopher-williams",
 "src": "92ny_talks"
+},
+{
+"id": "sb9b5be1708",
+"date": "2026-10-30",
+"time": "",
+"title": "Teaching Japan Across the Curriculum: A Professional Learning Community for Educators",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/teaching-japan-across-the-curriculum-a-professional-learning-community-for-educators/",
+"src": "japansociety"
 },
 {
 "id": "sd2be6ff117",
@@ -4563,16 +4463,6 @@
 "src": "nycballet"
 },
 {
-"id": "sbf3f7f515a",
-"date": "2027-02-28",
-"time": "",
-"title": "Course: How to Effectively Communicate Your Science to Any Audience",
-"venue": "New York Academy of Sciences",
-"cat": "talks",
-"url": "https://www.nyas.org/shaping-science/events/how-to-effectively-communicate-your-science-to-any-audience/",
-"src": "nyas"
-},
-{
 "id": "s6cb277e75a",
 "date": "2027-03-01",
 "time": "",
@@ -6380,6 +6270,16 @@
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/women-of-emanu-el-thursday-morning-intermediate-bridge-class/",
+"src": "emanuel"
+},
+{
+"id": "s8e0b38e699",
+"date": "2027-09-25",
+"time": "",
+"title": "October Family Shabbat: Superhero Shabbat",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/october-family-shabbat-2026/",
 "src": "emanuel"
 },
 {

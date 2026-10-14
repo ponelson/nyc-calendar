@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-13T16:38:47+00:00",
-  "healthy": 16,
+  "generated": "2026-10-14T14:15:48+00:00",
+  "healthy": 15,
   "total": 29,
   "venues": [
     {
@@ -16,7 +16,7 @@
       "name": "New York Philharmonic",
       "cat": "classical",
       "strategy": "custom",
-      "count": 171,
+      "count": 170,
       "error": null
     },
     {
@@ -32,7 +32,7 @@
       "name": "92NY",
       "cat": "classical",
       "strategy": "custom",
-      "count": 59,
+      "count": 57,
       "error": null
     },
     {
@@ -56,7 +56,7 @@
       "name": "92NY \u2014 Talks",
       "cat": "talks",
       "strategy": "custom",
-      "count": 59,
+      "count": 57,
       "error": null
     },
     {
@@ -72,7 +72,7 @@
       "name": "Japan Society",
       "cat": "talks",
       "strategy": "custom",
-      "count": 35,
+      "count": 36,
       "error": null
     },
     {
@@ -80,7 +80,7 @@
       "name": "New York Academy of Sciences",
       "cat": "talks",
       "strategy": "custom",
-      "count": 20,
+      "count": 19,
       "error": null
     },
     {
@@ -88,8 +88,8 @@
       "name": "Simons Foundation",
       "cat": "talks",
       "strategy": "ics",
-      "count": 3,
-      "error": null
+      "count": 0,
+      "error": "RuntimeError: HTTP 500"
     },
     {
       "id": "broadway",
@@ -121,7 +121,7 @@
       "cat": "art",
       "strategy": "custom",
       "count": 0,
-      "error": "HTTPError: 504 Server Error: Gateway Timeout for url: https://rubinmuseum.org/wp-json/wp/v2/exhibitions?per_page=100"
+      "error": "RuntimeError: wp:exhibitions looks like an archive, not a calendar (1 items, mostly past) \u2014 refusing"
     },
     {
       "id": "zwirner",
@@ -168,7 +168,7 @@
       "name": "Birdland",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 55,
+      "count": 53,
       "error": null
     },
     {
