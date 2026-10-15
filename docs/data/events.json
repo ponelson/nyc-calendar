@@ -1,117 +1,7 @@
 {
-"generated": "2026-10-14T14:15:48+00:00",
-"count": 637,
+"generated": "2026-10-15T13:50:59+00:00",
+"count": 621,
 "events": [
-{
-"id": "s1a209f4b9f",
-"date": "2026-10-13",
-"time": "19:30",
-"title": "All Balanchine I",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/all-balanchine-i",
-"src": "nycballet"
-},
-{
-"id": "s424564e9d7",
-"date": "2026-10-13",
-"time": "",
-"title": "The Game: Peter King in Conversation with Adam Schefter",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/the-game-peter-king-with-adam-schefter",
-"src": "92ny_music"
-},
-{
-"id": "s2cfb055db2",
-"date": "2026-10-13",
-"time": "",
-"title": "Michael Gorra with Brenda Wineapple: The Storytellers",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/michael-gorra-the-storytellers",
-"src": "92ny_music"
-},
-{
-"id": "s51cf50de4d",
-"date": "2026-10-13",
-"time": "",
-"title": "Kim Ghattas with Richard Engel: The Best Kind of American",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/kim-ghattas-with-richard-engel",
-"src": "92ny_music"
-},
-{
-"id": "s89143a9237",
-"date": "2026-10-13",
-"time": "",
-"title": "The Game: Peter King in Conversation with Adam Schefter",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/the-game-peter-king-with-adam-schefter",
-"src": "92ny_talks"
-},
-{
-"id": "s36dfa5e6e2",
-"date": "2026-10-13",
-"time": "",
-"title": "Michael Gorra with Brenda Wineapple: The Storytellers",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/michael-gorra-the-storytellers",
-"src": "92ny_talks"
-},
-{
-"id": "s4885c77189",
-"date": "2026-10-13",
-"time": "",
-"title": "Kim Ghattas with Richard Engel: The Best Kind of American",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/kim-ghattas-with-richard-engel",
-"src": "92ny_talks"
-},
-{
-"id": "sa8f2e39cd9",
-"date": "2026-10-13",
-"time": "",
-"title": "Navigating STEM Career Opportunities, Funding, and Immigration Pathways Inside the U.S.",
-"venue": "New York Academy of Sciences",
-"cat": "talks",
-"url": "https://www.nyas.org/shaping-science/events/navigating-stem-career-opportunities-funding-and-immigration-pathways-inside-the-us/",
-"src": "nyas"
-},
-{
-"id": "se97e797906",
-"date": "2026-10-14",
-"time": "17:30",
-"title": "David Ostwald's Louis Armstrong Eternity Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/david-ostwalds-louis-armstrong-eternity-band-2/",
-"src": "birdland"
-},
-{
-"id": "s3c068aa101",
-"date": "2026-10-14",
-"time": "19:00",
-"title": "Ron Carter Duo Featuring Bill Frisell",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carter-duo-featuring-bill-frisell/",
-"src": "birdland"
-},
-{
-"id": "s1adf323854",
-"date": "2026-10-14",
-"time": "19:30",
-"title": "Trio Azura",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/14/trio-azura-0730pm",
-"src": "carnegie"
-},
 {
 "id": "sf756ea0e75",
 "date": "2026-10-14",
@@ -123,36 +13,6 @@
 "src": "nycballet"
 },
 {
-"id": "sde2358b50a",
-"date": "2026-10-14",
-"time": "19:30",
-"title": "Dudamel Leads Mahler and Tania Le\u00f3n in Madrid",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct14",
-"src": "nyphil"
-},
-{
-"id": "sda9a3c7592",
-"date": "2026-10-14",
-"time": "20:00",
-"title": "The Works of Alyssa Morris",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/14/the-works-of-alyssa-morris-0800pm",
-"src": "carnegie"
-},
-{
-"id": "sede9bd01a5",
-"date": "2026-10-14",
-"time": "20:30",
-"title": "Frank Vignola's Guitar Night with Peter Bernstein and James Chirillo",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/frank-vignolas-guitar-night-with-pasquale-grasso-11/",
-"src": "birdland"
-},
-{
 "id": "s3fa23e9fb1",
 "date": "2026-10-14",
 "time": "",
@@ -160,26 +20,6 @@
 "venue": "92NY",
 "cat": "classical",
 "url": "https://www.92ny.org/event/ellen-vora-with-michael-barbaro-season-of-the-witch",
-"src": "92ny_music"
-},
-{
-"id": "s84e78ecc99",
-"date": "2026-10-14",
-"time": "",
-"title": "Wicker Advance Screening with Olivia Colman, Alexander Skarsg\u00e5rd, Elizabeth Debicki, Peter Dinklage, Eleanor Wilson, and",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/wicker",
-"src": "92ny_music"
-},
-{
-"id": "s8225084b3f",
-"date": "2026-10-14",
-"time": "",
-"title": "Matti Friedman in Conversation with Stephanie Butnick: Rethinking Jewish Identity, Beyond the West \u2014 The Simon Family Le",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/matti-friedman-with-stephanie-butnick",
 "src": "92ny_music"
 },
 {
@@ -193,16 +33,6 @@
 "src": "92ny_music"
 },
 {
-"id": "sc12a17e067",
-"date": "2026-10-14",
-"time": "",
-"title": "Israeli Folk Dance (Open Session)",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/class/israeli-folk-dance-open-session",
-"src": "92ny_music"
-},
-{
 "id": "se81e4f3ab8",
 "date": "2026-10-14",
 "time": "",
@@ -213,26 +43,6 @@
 "src": "92ny_talks"
 },
 {
-"id": "s527654ad58",
-"date": "2026-10-14",
-"time": "",
-"title": "Wicker Advance Screening with Olivia Colman, Alexander Skarsg\u00e5rd, Elizabeth Debicki, Peter Dinklage, Eleanor Wilson, and",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/wicker",
-"src": "92ny_talks"
-},
-{
-"id": "scba8b704ec",
-"date": "2026-10-14",
-"time": "",
-"title": "Matti Friedman in Conversation with Stephanie Butnick: Rethinking Jewish Identity, Beyond the West \u2014 The Simon Family Le",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/matti-friedman-with-stephanie-butnick",
-"src": "92ny_talks"
-},
-{
 "id": "s3afcc02846",
 "date": "2026-10-14",
 "time": "",
@@ -240,16 +50,6 @@
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/event/janet-reitman-with-george-packer",
-"src": "92ny_talks"
-},
-{
-"id": "s1ce3555007",
-"date": "2026-10-14",
-"time": "",
-"title": "Israeli Folk Dance (Open Session)",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/class/israeli-folk-dance-open-session",
 "src": "92ny_talks"
 },
 {
@@ -283,16 +83,6 @@
 "src": "birdland"
 },
 {
-"id": "s5c5ebae946",
-"date": "2026-10-15",
-"time": "19:00",
-"title": "Ron Carter Duo Featuring Bill Frisell",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carter-duo-featuring-bill-frisell-3/",
-"src": "birdland"
-},
-{
 "id": "sa877f5a44f",
 "date": "2026-10-15",
 "time": "19:00",
@@ -300,6 +90,16 @@
 "venue": "Birdland",
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/ron-carter-bill-frisell-livestream/",
+"src": "birdland"
+},
+{
+"id": "s5c5ebae946",
+"date": "2026-10-15",
+"time": "19:00",
+"title": "Ron Carter Duo Featuring Bill Frisell",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carter-duo-featuring-bill-frisell-3/",
 "src": "birdland"
 },
 {
@@ -705,11 +505,11 @@
 {
 "id": "sace7ee9669",
 "date": "2026-10-18",
-"time": "06:30",
+"time": "07:15",
 "title": "Birding In Peace",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
-"url": "https://www.green-wood.com/event/birding-in-peace-32/2026-10-18/",
+"url": "https://www.green-wood.com/event/birding-in-peace-35/",
 "src": "greenwood"
 },
 {
@@ -731,6 +531,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/birding-in-peace-late-risers-edition-members-only-10/",
 "src": "greenwood"
+},
+{
+"id": "s0e5dd79671",
+"date": "2026-10-18",
+"time": "13:00",
+"title": "Shelest Piano Duo with the Brandywine Valley Symphony Chamber Orchestra<br />\u200bMichael Hall, Artistic Director",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/18/shelest-piano-duo-with-the-brandywine-valley-symphony-chamber-orchestra-michae-0100pm",
+"src": "carnegie"
 },
 {
 "id": "saefb0a8b24",
@@ -781,6 +591,16 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/carole-j-bufford-5/",
 "src": "birdland"
+},
+{
+"id": "s987bf663aa",
+"date": "2026-10-18",
+"time": "19:00",
+"title": "Falsettos 10 Year Anniversary Concert",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/18/falsettos-10-year-anniversary-concert-0700pm",
+"src": "carnegie"
 },
 {
 "id": "s9bb86829a0",
@@ -943,6 +763,16 @@
 "src": "birdland"
 },
 {
+"id": "s5c9a7ea7b8",
+"date": "2026-10-19",
+"time": "",
+"title": "Himan Brown Advisory Council Present Welcome Back to 92NY Party",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/himan-brown-welcome-back-to-92ny-party-ukqb3885gb",
+"src": "92ny_music"
+},
+{
 "id": "s9a9c58a770",
 "date": "2026-10-19",
 "time": "",
@@ -961,6 +791,16 @@
 "cat": "classical",
 "url": "https://www.92ny.org/event/would-israel-be-better-off-without-american-aid",
 "src": "92ny_music"
+},
+{
+"id": "s100a97f92a",
+"date": "2026-10-19",
+"time": "",
+"title": "Himan Brown Advisory Council Present Welcome Back to 92NY Party",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/himan-brown-welcome-back-to-92ny-party-ukqb3885gb",
+"src": "92ny_talks"
 },
 {
 "id": "s1911883dc8",
@@ -1013,10 +853,10 @@
 "src": "birdland"
 },
 {
-"id": "sd9a8bd8a0b",
+"id": "s474b8c7df5",
 "date": "2026-10-20",
 "time": "",
-"title": "Young Professionals Hebrew Happy Hour with IAC \u2014 Daniel Klein and Carly Fruchtman",
+"title": "Tuesday Night Happy Hour: Jewish Young Professionals and Israelis in NYC \u2014 Daniel Klein and Carly Fruchtman",
 "venue": "92NY",
 "cat": "classical",
 "url": "https://www.92ny.org/event/young-professionals-hebrew-happy-hour",
@@ -1043,10 +883,10 @@
 "src": "92ny_music"
 },
 {
-"id": "se9adf6f2eb",
+"id": "s280c782fd5",
 "date": "2026-10-20",
 "time": "",
-"title": "Young Professionals Hebrew Happy Hour with IAC \u2014 Daniel Klein and Carly Fruchtman",
+"title": "Tuesday Night Happy Hour: Jewish Young Professionals and Israelis in NYC \u2014 Daniel Klein and Carly Fruchtman",
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/event/young-professionals-hebrew-happy-hour",
@@ -1863,6 +1703,16 @@
 "src": "birdland"
 },
 {
+"id": "s21314bba88",
+"date": "2026-10-26",
+"time": "",
+"title": "Free FibroScan\u00ae Screening",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/event/free-fibroscan-screening-b4r8765m92",
+"src": "92ny_music"
+},
+{
 "id": "s639b522b74",
 "date": "2026-10-26",
 "time": "",
@@ -1870,16 +1720,6 @@
 "venue": "92NY",
 "cat": "classical",
 "url": "https://www.92ny.org/event/filter-the-facts",
-"src": "92ny_music"
-},
-{
-"id": "sabef9d1348",
-"date": "2026-10-26",
-"time": "",
-"title": "An Evening with Tituss Burgess",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/an-evening-with-tituss-burgess",
 "src": "92ny_music"
 },
 {
@@ -1893,6 +1733,16 @@
 "src": "92ny_music"
 },
 {
+"id": "s39e86674cd",
+"date": "2026-10-26",
+"time": "",
+"title": "Free FibroScan\u00ae Screening",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/event/free-fibroscan-screening-b4r8765m92",
+"src": "92ny_talks"
+},
+{
 "id": "s9e9333c2a7",
 "date": "2026-10-26",
 "time": "",
@@ -1900,16 +1750,6 @@
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/event/filter-the-facts",
-"src": "92ny_talks"
-},
-{
-"id": "s47138423f8",
-"date": "2026-10-26",
-"time": "",
-"title": "An Evening with Tituss Burgess",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/an-evening-with-tituss-burgess",
 "src": "92ny_talks"
 },
 {
