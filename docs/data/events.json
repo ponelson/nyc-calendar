@@ -1,117 +1,7 @@
 {
-"generated": "2026-10-15T13:50:59+00:00",
-"count": 621,
+"generated": "2026-10-16T13:41:00+00:00",
+"count": 609,
 "events": [
-{
-"id": "sf756ea0e75",
-"date": "2026-10-14",
-"time": "19:30",
-"title": "Contemporary Choreography I",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i",
-"src": "nycballet"
-},
-{
-"id": "s3fa23e9fb1",
-"date": "2026-10-14",
-"time": "",
-"title": "Ellen Vora in Conversation with Michael Barbaro: Season of the Witch",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/ellen-vora-with-michael-barbaro-season-of-the-witch",
-"src": "92ny_music"
-},
-{
-"id": "s18c90d616f",
-"date": "2026-10-14",
-"time": "",
-"title": "Janet Reitman in Conversation with George Packer: The Inheritance",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/janet-reitman-with-george-packer",
-"src": "92ny_music"
-},
-{
-"id": "se81e4f3ab8",
-"date": "2026-10-14",
-"time": "",
-"title": "Ellen Vora in Conversation with Michael Barbaro: Season of the Witch",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/ellen-vora-with-michael-barbaro-season-of-the-witch",
-"src": "92ny_talks"
-},
-{
-"id": "s3afcc02846",
-"date": "2026-10-14",
-"time": "",
-"title": "Janet Reitman in Conversation with George Packer: The Inheritance",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/janet-reitman-with-george-packer",
-"src": "92ny_talks"
-},
-{
-"id": "s74bd760dfc",
-"date": "2026-10-14",
-"time": "",
-"title": "Teen Philanthropic Committee Meeting",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/teen-philanthropic-committee-meeting-332-956/",
-"src": "emanuel"
-},
-{
-"id": "s2874d51858",
-"date": "2026-10-14",
-"time": "",
-"title": "Center for Interfaith Dialogue: Interfaith Dialogue with Fifth Avenue Presbyterian",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/center-for-interfaith-dialogue-interfaith-dialogue-with-fifth-avenue-presbyterian/",
-"src": "emanuel"
-},
-{
-"id": "sec74aba215",
-"date": "2026-10-15",
-"time": "17:30",
-"title": "The High Society New Orleans Jazz Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/the-high-society-new-orleans-jazz-band-43/",
-"src": "birdland"
-},
-{
-"id": "sa877f5a44f",
-"date": "2026-10-15",
-"time": "19:00",
-"title": "Ron Carter & Bill Frisell Livestream",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carter-bill-frisell-livestream/",
-"src": "birdland"
-},
-{
-"id": "s5c5ebae946",
-"date": "2026-10-15",
-"time": "19:00",
-"title": "Ron Carter Duo Featuring Bill Frisell",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carter-duo-featuring-bill-frisell-3/",
-"src": "birdland"
-},
-{
-"id": "se25ee606af",
-"date": "2026-10-15",
-"time": "19:30",
-"title": "Boris Cepeda, Piano",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/15/boris-cepeda-piano-0730pm",
-"src": "carnegie"
-},
 {
 "id": "s874a702705",
 "date": "2026-10-15",
@@ -121,16 +11,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
-},
-{
-"id": "s43307edd9d",
-"date": "2026-10-15",
-"time": "20:00",
-"title": "Nikos Kazantzakis: An Odyssey in Music",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/15/nikos-kazantzakis-an-odyssey-in-music-0800pm",
-"src": "carnegie"
 },
 {
 "id": "se7ed4ccf8e",
@@ -603,6 +483,16 @@
 "src": "carnegie"
 },
 {
+"id": "sdbd37732cd",
+"date": "2026-10-18",
+"time": "19:30",
+"title": "Tamar Kurdadze, Piano",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/18/tamar-kurdadze-piano-0730pm",
+"src": "carnegie"
+},
+{
 "id": "s9bb86829a0",
 "date": "2026-10-18",
 "time": "20:00",
@@ -741,6 +631,16 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/julie-benko-broadway-goes-to-the-movies/",
 "src": "birdland"
+},
+{
+"id": "s517923d5ef",
+"date": "2026-10-19",
+"time": "19:30",
+"title": "Comic Relief Live",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/19/comic-relief-live-0730pm",
+"src": "carnegie"
 },
 {
 "id": "s5fc4498922",
@@ -1023,10 +923,10 @@
 "src": "92ny_music"
 },
 {
-"id": "s09ab5e2f44",
+"id": "s1b43bd215c",
 "date": "2026-10-21",
 "time": "",
-"title": "Sacha Baron Cohen in Conversation: The Power of Satire",
+"title": "Sacha Baron Cohen in Conversation with Happy Sad Confused\u2019s Josh Horowitz: The Power of Satire",
 "venue": "92NY",
 "cat": "classical",
 "url": "https://www.92ny.org/event/sacha-baron-cohen",
@@ -1083,10 +983,10 @@
 "src": "92ny_talks"
 },
 {
-"id": "sfc6a11f673",
+"id": "sf7868ef09a",
 "date": "2026-10-21",
 "time": "",
-"title": "Sacha Baron Cohen in Conversation: The Power of Satire",
+"title": "Sacha Baron Cohen in Conversation with Happy Sad Confused\u2019s Josh Horowitz: The Power of Satire",
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/event/sacha-baron-cohen",
@@ -1213,10 +1113,10 @@
 "src": "92ny_music"
 },
 {
-"id": "s126a9a3515",
+"id": "s5201bfce07",
 "date": "2026-10-22",
 "time": "",
-"title": "Jewish or Antisemitic LIVE: Hosted by Eitan Levine featuring Talia Lichtstein and Raanan Hershberg with music by Max Ash",
+"title": "Jewish or Antisemitic LIVE: Hosted by Eitan Levine featuring Talia Lichtstein, Raanan Hershberg, and Jackie Goldschneide",
 "venue": "92NY",
 "cat": "classical",
 "url": "https://www.92ny.org/event/jewish-or-antisemitic-live",
@@ -1243,10 +1143,10 @@
 "src": "92ny_talks"
 },
 {
-"id": "sf50f481d3b",
+"id": "sb537857fcb",
 "date": "2026-10-22",
 "time": "",
-"title": "Jewish or Antisemitic LIVE: Hosted by Eitan Levine featuring Talia Lichtstein and Raanan Hershberg with music by Max Ash",
+"title": "Jewish or Antisemitic LIVE: Hosted by Eitan Levine featuring Talia Lichtstein, Raanan Hershberg, and Jackie Goldschneide",
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/event/jewish-or-antisemitic-live",
@@ -1703,16 +1603,6 @@
 "src": "birdland"
 },
 {
-"id": "s21314bba88",
-"date": "2026-10-26",
-"time": "",
-"title": "Free FibroScan\u00ae Screening",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/free-fibroscan-screening-b4r8765m92",
-"src": "92ny_music"
-},
-{
 "id": "s639b522b74",
 "date": "2026-10-26",
 "time": "",
@@ -1731,16 +1621,6 @@
 "cat": "classical",
 "url": "https://www.92ny.org/event/maira-kalman-joy",
 "src": "92ny_music"
-},
-{
-"id": "s39e86674cd",
-"date": "2026-10-26",
-"time": "",
-"title": "Free FibroScan\u00ae Screening",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/free-fibroscan-screening-b4r8765m92",
-"src": "92ny_talks"
 },
 {
 "id": "s9e9333c2a7",
@@ -2583,6 +2463,16 @@
 "src": "zwirner"
 },
 {
+"id": "sdb3780830b",
+"date": "2026-11-13",
+"time": "",
+"title": "Frank Walter \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/frank-walter",
+"src": "zwirner"
+},
+{
 "id": "sbde0085779",
 "date": "2026-11-14",
 "time": "14:00",
@@ -2691,16 +2581,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/gonzalez-monjas-conducts",
 "src": "nyphil"
-},
-{
-"id": "s77bc45a040",
-"date": "2026-11-23",
-"time": "",
-"title": "Frank Walter \u2014 opens",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/frank-walter",
-"src": "zwirner"
 },
 {
 "id": "s0d24f26a22",
@@ -3353,16 +3233,6 @@
 "src": "nyphil"
 },
 {
-"id": "sbfff484b6d",
-"date": "2026-12-20",
-"time": "",
-"title": "Frank Walter \u2014 final day",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/frank-walter",
-"src": "zwirner"
-},
-{
 "id": "s846d364ab9",
 "date": "2026-12-21",
 "time": "19:00",
@@ -3960,6 +3830,16 @@
 "venue": "David Zwirner",
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/thomas-ruff",
+"src": "zwirner"
+},
+{
+"id": "s749d3bbc29",
+"date": "2027-02-06",
+"time": "",
+"title": "Frank Walter \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/frank-walter",
 "src": "zwirner"
 },
 {
