@@ -542,11 +542,17 @@ function expandCurated(raw){
 }
 
 async function loadCurated(){
-  try{
-    const r = await fetch('data/curated.json', {cache:'no-store'});
-    const d = await r.json();
-    curatedEvents = expandCurated(d.events);
-  }catch(e){ curatedEvents = []; }
+  // Merge every curated file (exhibitions + performing-arts seasons) into one set.
+  const files = ['data/curated.json', 'data/curated-music.json'];
+  let all = [];
+  for(const f of files){
+    try{
+      const r = await fetch(f, {cache:'no-store'});
+      const d = await r.json();
+      all = all.concat(expandCurated(d.events));
+    }catch(e){ /* a missing curated file is fine */ }
+  }
+  curatedEvents = all;
   render();
 }
 
