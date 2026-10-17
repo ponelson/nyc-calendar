@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T13:41:00+00:00",
+  "generated": "2026-10-17T12:38:17+00:00",
   "healthy": 15,
   "total": 29,
   "venues": [
@@ -8,7 +8,7 @@
       "name": "New York City Ballet",
       "cat": "dance",
       "strategy": "custom",
-      "count": 111,
+      "count": 110,
       "error": null
     },
     {
@@ -24,7 +24,7 @@
       "name": "Carnegie Hall",
       "cat": "classical",
       "strategy": "custom",
-      "count": 10,
+      "count": 9,
       "error": null
     },
     {
@@ -32,7 +32,7 @@
       "name": "92NY",
       "cat": "classical",
       "strategy": "custom",
-      "count": 49,
+      "count": 46,
       "error": null
     },
     {
@@ -56,7 +56,7 @@
       "name": "92NY \u2014 Talks",
       "cat": "talks",
       "strategy": "custom",
-      "count": 49,
+      "count": 46,
       "error": null
     },
     {
@@ -104,7 +104,7 @@
       "name": "Guggenheim",
       "cat": "art",
       "strategy": "custom",
-      "count": 23,
+      "count": 22,
       "error": null
     },
     {
@@ -168,7 +168,7 @@
       "name": "Birdland",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 47,
+      "count": 44,
       "error": null
     },
     {
@@ -201,7 +201,7 @@
       "cat": "houses",
       "strategy": "ics",
       "count": 0,
-      "error": "RuntimeError: ConnectionError"
+      "error": "RuntimeError: HTTP 202"
     },
     {
       "id": "aliceausten",

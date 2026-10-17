@@ -1,97 +1,7 @@
 {
-"generated": "2026-10-16T13:41:00+00:00",
-"count": 609,
+"generated": "2026-10-17T12:38:17+00:00",
+"count": 597,
 "events": [
-{
-"id": "s874a702705",
-"date": "2026-10-15",
-"time": "19:30",
-"title": "Eclectic NYCB I",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
-"src": "nycballet"
-},
-{
-"id": "se7ed4ccf8e",
-"date": "2026-10-15",
-"time": "",
-"title": "Late Shift",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/late-shift",
-"src": "guggenheim"
-},
-{
-"id": "s5bdc86a345",
-"date": "2026-10-16",
-"time": "14:00",
-"title": "TGIF! Afterschool Story and Craft Hour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/tgif-2/",
-"src": "greenwood"
-},
-{
-"id": "s7bf25643c5",
-"date": "2026-10-16",
-"time": "17:30",
-"title": "Birdland Big Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/birdland-big-band-27/",
-"src": "birdland"
-},
-{
-"id": "s79bc12e72f",
-"date": "2026-10-16",
-"time": "19:00",
-"title": "Carole J. Bufford: Chanteuse",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/carole-j-bufford/",
-"src": "birdland"
-},
-{
-"id": "s1191bb8b5b",
-"date": "2026-10-16",
-"time": "19:00",
-"title": "Rising Stars in a Piano Recital",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/16/rising-stars-in-a-piano-recital-0700pm",
-"src": "carnegie"
-},
-{
-"id": "s548a53d687",
-"date": "2026-10-16",
-"time": "19:00",
-"title": "Tak\u00e1cs Quartet <br />Jeremy Denk, Piano",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/16/takacs-quartet-jeremy-denk-piano-0700pm",
-"src": "carnegie"
-},
-{
-"id": "scf2fb5af65",
-"date": "2026-10-16",
-"time": "19:30",
-"title": "Sphinx Virtuosi",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/16/sphinx-virtuosi-0730pm",
-"src": "carnegie"
-},
-{
-"id": "s6d33d95091",
-"date": "2026-10-16",
-"time": "19:30",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-55/2026-10-16/4/",
-"src": "greenwood"
-},
 {
 "id": "s64e3651f6a",
 "date": "2026-10-16",
@@ -101,56 +11,6 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
 "src": "nycballet"
-},
-{
-"id": "s52954ea313",
-"date": "2026-10-16",
-"time": "20:30",
-"title": "Ron Carter Duo Featuring Bill Frisell",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carter-duo-featuring-bill-frisell-5/",
-"src": "birdland"
-},
-{
-"id": "sbfeb8387ea",
-"date": "2026-10-16",
-"time": "",
-"title": "Johnnie Cruise Mercer: The Good News Suite \u2014 Featuring TheREDprojectNYC Movement Ensemble",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/johnnie-cruise-mercer-the-good-news-suite",
-"src": "92ny_music"
-},
-{
-"id": "sb7cd6b2e67",
-"date": "2026-10-16",
-"time": "",
-"title": "Kind of Blue Band: Miles Davis Centennial Celebration I",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/a-kind-of-blue-band-acoustic-miles",
-"src": "92ny_music"
-},
-{
-"id": "s3d7c2378c1",
-"date": "2026-10-16",
-"time": "",
-"title": "Johnnie Cruise Mercer: The Good News Suite \u2014 Featuring TheREDprojectNYC Movement Ensemble",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/johnnie-cruise-mercer-the-good-news-suite",
-"src": "92ny_talks"
-},
-{
-"id": "s7087114516",
-"date": "2026-10-16",
-"time": "",
-"title": "Kind of Blue Band: Miles Davis Centennial Celebration I",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/a-kind-of-blue-band-acoustic-miles",
-"src": "92ny_talks"
 },
 {
 "id": "s1bee7f71c9",
@@ -643,6 +503,16 @@
 "src": "carnegie"
 },
 {
+"id": "s7f987e27a7",
+"date": "2026-10-19",
+"time": "19:30",
+"title": "From Mozart to Piazzolla and Beyond",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/19/from-mozart-to-piazzolla-and-beyond-0730pm",
+"src": "carnegie"
+},
+{
 "id": "s5fc4498922",
 "date": "2026-10-19",
 "time": "20:00",
@@ -731,6 +601,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/oscar-murillo-unfinished-thinking-paintings-and-social-maps",
 "src": "zwirner"
+},
+{
+"id": "s0d188282a5",
+"date": "2026-10-20",
+"time": "10:00",
+"title": "huddle",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/20/huddle-1000am",
+"src": "carnegie"
 },
 {
 "id": "s80b5b27b88",
@@ -1433,16 +1313,6 @@
 "src": "greenwood"
 },
 {
-"id": "sb7eca7806b",
-"date": "2026-10-25",
-"time": "17:00",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-57/2026-10-25/1/",
-"src": "greenwood"
-},
-{
 "id": "s4c8ce1e9e2",
 "date": "2026-10-25",
 "time": "17:30",
@@ -1451,6 +1321,16 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/june-cavlan/",
 "src": "birdland"
+},
+{
+"id": "sb7eca7806b",
+"date": "2026-10-25",
+"time": "18:30",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-57/2026-10-25/4/",
+"src": "greenwood"
 },
 {
 "id": "sd97c181a55",
@@ -1593,6 +1473,16 @@
 "src": "birdland"
 },
 {
+"id": "sb6e27aa78f",
+"date": "2026-10-26",
+"time": "19:00",
+"title": "Moonlight Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/moonlight-tour-14/2026-10-26/",
+"src": "greenwood"
+},
+{
 "id": "s7d15c64126",
 "date": "2026-10-26",
 "time": "21:30",
@@ -1641,6 +1531,16 @@
 "cat": "talks",
 "url": "https://www.92ny.org/event/maira-kalman-joy",
 "src": "92ny_talks"
+},
+{
+"id": "se88f9ca018",
+"date": "2026-10-27",
+"time": "10:00",
+"title": "Toddler Takeover at the Green-House",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-10-27/",
+"src": "greenwood"
 },
 {
 "id": "s728c799c02",
@@ -1833,23 +1733,13 @@
 "src": "92ny_music"
 },
 {
-"id": "s5311127226",
+"id": "s184a0904a6",
 "date": "2026-10-28",
 "time": "",
-"title": "92NY State of New York with CEO Seth Pinsky: New York\u2019s Gubernatorial Race",
+"title": "92NY State of New York with CEO Seth Pinsky: New York\u2019s Gubernatorial Candidate Bruce Blakeman",
 "venue": "92NY",
 "cat": "classical",
 "url": "https://www.92ny.org/event/new-york-s-gubernatorial-race",
-"src": "92ny_music"
-},
-{
-"id": "sea331d313f",
-"date": "2026-10-28",
-"time": "",
-"title": "Annie Lowrey in Conversation with PJ Vogt: The Time Tax",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/annie-lowrey-and-pj-vogt-the-time-tax",
 "src": "92ny_music"
 },
 {
@@ -1893,23 +1783,13 @@
 "src": "92ny_talks"
 },
 {
-"id": "s4013f92050",
+"id": "s343b293985",
 "date": "2026-10-28",
 "time": "",
-"title": "92NY State of New York with CEO Seth Pinsky: New York\u2019s Gubernatorial Race",
+"title": "92NY State of New York with CEO Seth Pinsky: New York\u2019s Gubernatorial Candidate Bruce Blakeman",
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/event/new-york-s-gubernatorial-race",
-"src": "92ny_talks"
-},
-{
-"id": "scfc6640fd8",
-"date": "2026-10-28",
-"time": "",
-"title": "Annie Lowrey in Conversation with PJ Vogt: The Time Tax",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/annie-lowrey-and-pj-vogt-the-time-tax",
 "src": "92ny_talks"
 },
 {
