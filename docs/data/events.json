@@ -1,127 +1,7 @@
 {
-"generated": "2026-10-17T12:38:17+00:00",
-"count": 597,
+"generated": "2026-10-18T12:55:44+00:00",
+"count": 581,
 "events": [
-{
-"id": "s64e3651f6a",
-"date": "2026-10-16",
-"time": "19:30",
-"title": "Eclectic NYCB I",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i",
-"src": "nycballet"
-},
-{
-"id": "s1bee7f71c9",
-"date": "2026-10-17",
-"time": "10:00",
-"title": "El festival de oto\u00f1o de 2026",
-"venue": "Dyckman Farmhouse",
-"cat": "houses",
-"url": "https://dyckmanfarmhouse.org/event/el-festival-de-otono/",
-"src": "dyckman"
-},
-{
-"id": "sf1229ccecf",
-"date": "2026-10-17",
-"time": "10:00",
-"title": "Fall Festival 2026",
-"venue": "Dyckman Farmhouse",
-"cat": "houses",
-"url": "https://dyckmanfarmhouse.org/event/fall-festival-2026/",
-"src": "dyckman"
-},
-{
-"id": "sab171b5be1",
-"date": "2026-10-17",
-"time": "10:00",
-"title": "Shaping LGBTQ+ History: A Family Tour and Workshop",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/shaping-lgbtq-history-a-family-tour-and-workshop/",
-"src": "greenwood"
-},
-{
-"id": "s8e03db832e",
-"date": "2026-10-17",
-"time": "13:00",
-"title": "Discover Green-Wood Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-25/",
-"src": "greenwood"
-},
-{
-"id": "s4a708acf60",
-"date": "2026-10-17",
-"time": "14:00",
-"title": "Cancelled: Hao Liu, Piano",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/17/hao-liu-piano-0200pm",
-"src": "carnegie"
-},
-{
-"id": "s70865abab7",
-"date": "2026-10-17",
-"time": "15:00",
-"title": "Secrets in Stone",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/secrets-in-stone-13/2026-10-17/",
-"src": "greenwood"
-},
-{
-"id": "s0cce9d1a16",
-"date": "2026-10-17",
-"time": "16:00",
-"title": "Orpheus Chamber Orchestra<br />\u200bLucas and Arthur Jussen, Piano",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/17/orpheus-chamber-orchestra-lucas-and-arthur-jussen-piano-0400pm",
-"src": "carnegie"
-},
-{
-"id": "s13d70be447",
-"date": "2026-10-17",
-"time": "17:30",
-"title": "Pasquale Grasso Trio",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/pasquale-grasso-trio-9/",
-"src": "birdland"
-},
-{
-"id": "s24c3f56686",
-"date": "2026-10-17",
-"time": "18:30",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-56/2026-10-17/4/",
-"src": "greenwood"
-},
-{
-"id": "s989623c685",
-"date": "2026-10-17",
-"time": "19:00",
-"title": "Carole J. Bufford: Chanteuse",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/carole-j-bufford-3/",
-"src": "birdland"
-},
-{
-"id": "s9a2c6f0e9e",
-"date": "2026-10-17",
-"time": "19:30",
-"title": "George Abraham and Friends in Recital",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/17/george-abraham-and-friends-in-recital-0730pm",
-"src": "carnegie"
-},
 {
 "id": "se4118fd27d",
 "date": "2026-10-17",
@@ -133,103 +13,13 @@
 "src": "nycballet"
 },
 {
-"id": "sc93e060a3b",
-"date": "2026-10-17",
-"time": "20:00",
-"title": "Dudamel Leads Mahler and Tania Le\u00f3n in Berlin",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct17",
-"src": "nyphil"
-},
-{
-"id": "sea9f7998f2",
-"date": "2026-10-17",
-"time": "20:30",
-"title": "Ron Carter Duo Featuring Bill Frisell",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carter-duo-featuring-bill-frisell-7/",
-"src": "birdland"
-},
-{
-"id": "sfefbb1e980",
-"date": "2026-10-17",
-"time": "",
-"title": "92NY NEXUS Dinner Before the Jazz",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/nexus-dinner-before-the-jazz",
-"src": "92ny_music"
-},
-{
-"id": "sa864e2fb0c",
-"date": "2026-10-17",
-"time": "",
-"title": "Johnnie Cruise Mercer: The Good News Suite \u2014 Featuring TheREDprojectNYC Movement Ensemble",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/johnnie-cruise-mercer-the-good-news-suite",
-"src": "92ny_music"
-},
-{
-"id": "sc58f0ab8cf",
-"date": "2026-10-17",
-"time": "",
-"title": "Miles Electric Band (M.E.B.): Miles Davis Centennial Celebration II",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/miles-electric-band-electric-miles",
-"src": "92ny_music"
-},
-{
-"id": "sdc302dbffc",
-"date": "2026-10-17",
-"time": "",
-"title": "92NY NEXUS Dinner Before the Jazz",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/nexus-dinner-before-the-jazz",
-"src": "92ny_talks"
-},
-{
-"id": "sb77dfcd9a9",
-"date": "2026-10-17",
-"time": "",
-"title": "Johnnie Cruise Mercer: The Good News Suite \u2014 Featuring TheREDprojectNYC Movement Ensemble",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/johnnie-cruise-mercer-the-good-news-suite",
-"src": "92ny_talks"
-},
-{
-"id": "sbb2abe0afb",
-"date": "2026-10-17",
-"time": "",
-"title": "Miles Electric Band (M.E.B.): Miles Davis Centennial Celebration II",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/miles-electric-band-electric-miles",
-"src": "92ny_talks"
-},
-{
-"id": "s02351fb3f9",
-"date": "2026-10-17",
-"time": "",
-"title": "Thomas Ruff \u2014 final day",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/thomas-ruff-jpegs-ny",
-"src": "zwirner"
-},
-{
 "id": "s8c9e7ecbdd",
 "date": "2026-10-17",
 "time": "",
 "title": "Scott Kahn \u2014 final day",
 "venue": "David Zwirner",
 "cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/scott-kahn",
+"url": "https://www.davidzwirner.com/exhibitions",
 "src": "zwirner"
 },
 {
@@ -241,16 +31,6 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/family-art-day-button-making-inspired-by-art-of-inokuma/",
 "src": "japansociety"
-},
-{
-"id": "sace7ee9669",
-"date": "2026-10-18",
-"time": "07:15",
-"title": "Birding In Peace",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/birding-in-peace-35/",
-"src": "greenwood"
 },
 {
 "id": "sc869fc7892",
@@ -631,6 +411,36 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/anderson-brothers-play-benny-goodman/",
 "src": "birdland"
+},
+{
+"id": "sb9d9010d13",
+"date": "2026-10-20",
+"time": "19:00",
+"title": "Richard Dawkins - Genes and The Meaning of Life",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/20/richard-dawkins---genes-and-the-meaning-of-life-0700pm",
+"src": "carnegie"
+},
+{
+"id": "s6d07bfa65a",
+"date": "2026-10-20",
+"time": "19:30",
+"title": "The Knights",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/20/the-knights-0730pm",
+"src": "carnegie"
+},
+{
+"id": "sb7003f9d25",
+"date": "2026-10-20",
+"time": "19:30",
+"title": "Elmira Darvarova, Violin",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/20/elmira-darvarova-violin-0730pm",
+"src": "carnegie"
 },
 {
 "id": "s474b8c7df5",
@@ -2023,6 +1833,16 @@
 "src": "birdland"
 },
 {
+"id": "s29672f695f",
+"date": "2026-10-30",
+"time": "20:30",
+"title": "Hereafter Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/hereafter-hours-7/",
+"src": "greenwood"
+},
+{
 "id": "s332bb33eb8",
 "date": "2026-10-30",
 "time": "",
@@ -2051,6 +1871,26 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/teaching-japan-across-the-curriculum-a-professional-learning-community-for-educators/",
 "src": "japansociety"
+},
+{
+"id": "s4f6069fa20",
+"date": "2026-10-31",
+"time": "10:00",
+"title": "Magicians and Mediums Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/magicians-and-mediums-trolley-tour-2/",
+"src": "greenwood"
+},
+{
+"id": "s881f28a998",
+"date": "2026-10-31",
+"time": "12:00",
+"title": "Last Saturdays: Open Classroom",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/last-saturdays-open-classroom-5/",
+"src": "greenwood"
 },
 {
 "id": "sd2be6ff117",
