@@ -1,87 +1,7 @@
 {
-"generated": "2026-10-18T12:55:44+00:00",
-"count": 581,
+"generated": "2026-10-19T16:04:48+00:00",
+"count": 565,
 "events": [
-{
-"id": "se4118fd27d",
-"date": "2026-10-17",
-"time": "19:30",
-"title": "All Balanchine I",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/all-balanchine-i",
-"src": "nycballet"
-},
-{
-"id": "s8c9e7ecbdd",
-"date": "2026-10-17",
-"time": "",
-"title": "Scott Kahn \u2014 final day",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions",
-"src": "zwirner"
-},
-{
-"id": "s984758f572",
-"date": "2026-10-17",
-"time": "",
-"title": "Family Art Day: Button-Making Inspired by Art of Inokuma",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/family-art-day-button-making-inspired-by-art-of-inokuma/",
-"src": "japansociety"
-},
-{
-"id": "sc869fc7892",
-"date": "2026-10-18",
-"time": "10:00",
-"title": "Grave Beginnings: Walking Green-Wood",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-10-18/",
-"src": "greenwood"
-},
-{
-"id": "sd3844fe7dc",
-"date": "2026-10-18",
-"time": "10:00",
-"title": "Birding in Peace: Late-Risers Edition (Members Only)",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/birding-in-peace-late-risers-edition-members-only-10/",
-"src": "greenwood"
-},
-{
-"id": "s0e5dd79671",
-"date": "2026-10-18",
-"time": "13:00",
-"title": "Shelest Piano Duo with the Brandywine Valley Symphony Chamber Orchestra<br />\u200bMichael Hall, Artistic Director",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/18/shelest-piano-duo-with-the-brandywine-valley-symphony-chamber-orchestra-michae-0100pm",
-"src": "carnegie"
-},
-{
-"id": "saefb0a8b24",
-"date": "2026-10-18",
-"time": "13:00",
-"title": "Green-Wood's Greatest Hits",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-woods-greatest-hits-16/",
-"src": "greenwood"
-},
-{
-"id": "s2b71327f8e",
-"date": "2026-10-18",
-"time": "15:00",
-"title": "Fame, Fortune, & the Forgotten: The Untold Stories of Victorian Women",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/fame-fortune-the-forgotten-the-untold-stories-of-victorian-women-3/",
-"src": "greenwood"
-},
 {
 "id": "s9492794ccb",
 "date": "2026-10-18",
@@ -93,96 +13,6 @@
 "src": "nycballet"
 },
 {
-"id": "s5f163bc945",
-"date": "2026-10-18",
-"time": "17:30",
-"title": "Adi Yeshaya Jazz Orchestra feat. Jennifer Grimm",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/adi-yeshaya-jazz-orchestra-feat-jennifer-grimm/",
-"src": "birdland"
-},
-{
-"id": "s15c448b13d",
-"date": "2026-10-18",
-"time": "19:00",
-"title": "Carole J. Bufford: Chanteuse",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/carole-j-bufford-5/",
-"src": "birdland"
-},
-{
-"id": "s987bf663aa",
-"date": "2026-10-18",
-"time": "19:00",
-"title": "Falsettos 10 Year Anniversary Concert",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/18/falsettos-10-year-anniversary-concert-0700pm",
-"src": "carnegie"
-},
-{
-"id": "sdbd37732cd",
-"date": "2026-10-18",
-"time": "19:30",
-"title": "Tamar Kurdadze, Piano",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/18/tamar-kurdadze-piano-0730pm",
-"src": "carnegie"
-},
-{
-"id": "s9bb86829a0",
-"date": "2026-10-18",
-"time": "20:00",
-"title": "Dudamel Leads Mahler and Tania Le\u00f3n in Hamburg",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct18",
-"src": "nyphil"
-},
-{
-"id": "s4db8185b39",
-"date": "2026-10-18",
-"time": "20:30",
-"title": "The Birdland Latin Jazz Orchestra",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/the-birdland-latin-jazz-orchestra-55/",
-"src": "birdland"
-},
-{
-"id": "sbba7c2475e",
-"date": "2026-10-18",
-"time": "",
-"title": "Red Riding Hood",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/red-riding-hood",
-"src": "92ny_music"
-},
-{
-"id": "s12370c33c0",
-"date": "2026-10-18",
-"time": "",
-"title": "Seussical\u2122 \u2013 Theatre Young Audiences",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/seussical-theatre-young-audiences",
-"src": "92ny_music"
-},
-{
-"id": "sc45466494c",
-"date": "2026-10-18",
-"time": "",
-"title": "Yoga Nidra & Sound Bath",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/class/t/yoga-nidra-and-sound-bath",
-"src": "92ny_music"
-},
-{
 "id": "saa1b8e5e90",
 "date": "2026-10-18",
 "time": "",
@@ -191,36 +21,6 @@
 "cat": "classical",
 "url": "https://www.92ny.org/event/mario-documentary-screening-and-conversation",
 "src": "92ny_music"
-},
-{
-"id": "seeed21bb6c",
-"date": "2026-10-18",
-"time": "",
-"title": "Red Riding Hood",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/red-riding-hood",
-"src": "92ny_talks"
-},
-{
-"id": "s59600009a5",
-"date": "2026-10-18",
-"time": "",
-"title": "Seussical\u2122 \u2013 Theatre Young Audiences",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/seussical-theatre-young-audiences",
-"src": "92ny_talks"
-},
-{
-"id": "sa814778b2f",
-"date": "2026-10-18",
-"time": "",
-"title": "Yoga Nidra & Sound Bath",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/class/t/yoga-nidra-and-sound-bath",
-"src": "92ny_talks"
 },
 {
 "id": "s0e90f32abe",
@@ -523,6 +323,16 @@
 "src": "emanuel"
 },
 {
+"id": "sbfb02cd9a7",
+"date": "2026-10-21",
+"time": "10:00",
+"title": "huddle",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/21/huddle-1000am",
+"src": "carnegie"
+},
+{
 "id": "sa8bfc64ef7",
 "date": "2026-10-21",
 "time": "10:30",
@@ -551,6 +361,16 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/ron-carters-great-big-band/",
 "src": "birdland"
+},
+{
+"id": "s18c8e06466",
+"date": "2026-10-21",
+"time": "19:30",
+"title": "Kaleidoscope: From Ancient Times to Jazz and Blues",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/21/kaleidoscope-from-ancient-times-to-jazz-and-blues-0730pm",
+"src": "carnegie"
 },
 {
 "id": "sefd0a1fc15",
@@ -1893,6 +1713,26 @@
 "src": "greenwood"
 },
 {
+"id": "s88e13cd094",
+"date": "2026-10-31",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-27/",
+"src": "greenwood"
+},
+{
+"id": "s6ed896964f",
+"date": "2026-10-31",
+"time": "15:30",
+"title": "Revolutionary Spirits",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/revolutionary-spirits-7/2026-10-31/",
+"src": "greenwood"
+},
+{
 "id": "sd2be6ff117",
 "date": "2026-10-31",
 "time": "17:30",
@@ -1901,6 +1741,16 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/pasquale-grasso-trio-11/",
 "src": "birdland"
+},
+{
+"id": "sf3d95e6cc0",
+"date": "2026-10-31",
+"time": "18:30",
+"title": "Hereafter Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/hereafter-hours-8/",
+"src": "greenwood"
 },
 {
 "id": "sf7ee303df1",
@@ -5560,16 +5410,6 @@
 "venue": "Guggenheim",
 "cat": "art",
 "url": "https://www.guggenheim.org/event/works-process-the-santa-fe-opera-of-one-blood-by-brett-dean-and-heather-betts",
-"src": "guggenheim"
-},
-{
-"id": "s1207163009",
-"date": "2027-08-04",
-"time": "",
-"title": "Works &#038; Process: Washington National Opera: O\u2019Keeffe: Kiss the Sky by Christopher Tin, Kelley Rourke",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/works-process-washington-national-opera-okeeffe-kiss-the-sky-by-christopher-tin-kelley-rourke",
 "src": "guggenheim"
 },
 {
