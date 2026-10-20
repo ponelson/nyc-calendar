@@ -1,137 +1,7 @@
 {
-"generated": "2026-10-19T16:04:48+00:00",
-"count": 565,
+"generated": "2026-10-20T14:01:35+00:00",
+"count": 549,
 "events": [
-{
-"id": "s9492794ccb",
-"date": "2026-10-18",
-"time": "15:00",
-"title": "Adrian Danchig-Waring Farewell",
-"venue": "New York City Ballet",
-"cat": "dance",
-"url": "https://www.nycballet.com/season-and-tickets/fall-2026/adrian-danchig-waring-farewell",
-"src": "nycballet"
-},
-{
-"id": "saa1b8e5e90",
-"date": "2026-10-18",
-"time": "",
-"title": "Mario: Documentary Screening and Conversation with Ken Auletta, Madeline Cuomo, Steven Cohen, Teddy Kunhardt, and Harold",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/mario-documentary-screening-and-conversation",
-"src": "92ny_music"
-},
-{
-"id": "s0e90f32abe",
-"date": "2026-10-18",
-"time": "",
-"title": "Mario: Documentary Screening and Conversation with Ken Auletta, Madeline Cuomo, Steven Cohen, Teddy Kunhardt, and Harold",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/mario-documentary-screening-and-conversation",
-"src": "92ny_talks"
-},
-{
-"id": "saeac5a8888",
-"date": "2026-10-18",
-"time": "",
-"title": "Calling Generations Brunch",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/calling-generations-128/",
-"src": "emanuel"
-},
-{
-"id": "s05e01aa1cc",
-"date": "2026-10-19",
-"time": "17:30",
-"title": "Vince Giordano and the Nighthawks",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-117/",
-"src": "birdland"
-},
-{
-"id": "sfd632ce1e5",
-"date": "2026-10-19",
-"time": "19:00",
-"title": "Julie Benko Livestream",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/julie-benko-livestream/",
-"src": "birdland"
-},
-{
-"id": "s965a991bb1",
-"date": "2026-10-19",
-"time": "19:00",
-"title": "Julie Benko: Broadway Goes to the Movies",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/julie-benko-broadway-goes-to-the-movies/",
-"src": "birdland"
-},
-{
-"id": "s517923d5ef",
-"date": "2026-10-19",
-"time": "19:30",
-"title": "Comic Relief Live",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/19/comic-relief-live-0730pm",
-"src": "carnegie"
-},
-{
-"id": "s7f987e27a7",
-"date": "2026-10-19",
-"time": "19:30",
-"title": "From Mozart to Piazzolla and Beyond",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/19/from-mozart-to-piazzolla-and-beyond-0730pm",
-"src": "carnegie"
-},
-{
-"id": "s5fc4498922",
-"date": "2026-10-19",
-"time": "20:00",
-"title": "Dudamel Leads Prokofiev, Adams & Di Castri in Hamburg",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct19",
-"src": "nyphil"
-},
-{
-"id": "s0f2ed68370",
-"date": "2026-10-19",
-"time": "21:30",
-"title": "Jim Caruso's Cast Party with Billy Stritch",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/jim-carusos-cast-party-27/",
-"src": "birdland"
-},
-{
-"id": "s5c9a7ea7b8",
-"date": "2026-10-19",
-"time": "",
-"title": "Himan Brown Advisory Council Present Welcome Back to 92NY Party",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/himan-brown-welcome-back-to-92ny-party-ukqb3885gb",
-"src": "92ny_music"
-},
-{
-"id": "s9a9c58a770",
-"date": "2026-10-19",
-"time": "",
-"title": "Laurence Leamer with Derek Blasberg: Ladies\u2019 Man \u2014 The Careless Heart of John F. Kennedy",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/laurence-leamer-ladies-man",
-"src": "92ny_music"
-},
 {
 "id": "s4026db88d6",
 "date": "2026-10-19",
@@ -141,26 +11,6 @@
 "cat": "classical",
 "url": "https://www.92ny.org/event/would-israel-be-better-off-without-american-aid",
 "src": "92ny_music"
-},
-{
-"id": "s100a97f92a",
-"date": "2026-10-19",
-"time": "",
-"title": "Himan Brown Advisory Council Present Welcome Back to 92NY Party",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/himan-brown-welcome-back-to-92ny-party-ukqb3885gb",
-"src": "92ny_talks"
-},
-{
-"id": "s1911883dc8",
-"date": "2026-10-19",
-"time": "",
-"title": "Laurence Leamer with Derek Blasberg: Ladies\u2019 Man \u2014 The Careless Heart of John F. Kennedy",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/laurence-leamer-ladies-man",
-"src": "92ny_talks"
 },
 {
 "id": "s8b6d0296e1",
@@ -383,6 +233,16 @@
 "src": "nyphil"
 },
 {
+"id": "sbdab63d405",
+"date": "2026-10-21",
+"time": "20:00",
+"title": "Yunchan Lim, Piano",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/21/yunchan-lim-piano-0800pm",
+"src": "carnegie"
+},
+{
 "id": "s7f3d794049",
 "date": "2026-10-21",
 "time": "20:30",
@@ -543,6 +403,16 @@
 "src": "emanuel"
 },
 {
+"id": "sa461e05a57",
+"date": "2026-10-22",
+"time": "10:00",
+"title": "huddle",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/22/huddle-1000am",
+"src": "carnegie"
+},
+{
 "id": "s17e06e0ec3",
 "date": "2026-10-22",
 "time": "13:40",
@@ -613,10 +483,10 @@
 "src": "92ny_music"
 },
 {
-"id": "s703dc28452",
+"id": "s276f5435b1",
 "date": "2026-10-22",
 "time": "",
-"title": "The Sun Also Rises at 100: Maya Hawke, Sarah Pidgeon, Richard Schiff, Jay McInerney, Thomas Beller, Titus Welliver, and ",
+"title": "The Sun Also Rises at 100: Maya Hawke, Sarah Pidgeon, Richard Schiff, Dominic Sessa, Will Harrison, Jay McInerney, Thoma",
 "venue": "92NY",
 "cat": "classical",
 "url": "https://www.92ny.org/event/the-sun-also-rises-at-100",
@@ -643,10 +513,10 @@
 "src": "92ny_talks"
 },
 {
-"id": "s045705a233",
+"id": "s35b3e4def2",
 "date": "2026-10-22",
 "time": "",
-"title": "The Sun Also Rises at 100: Maya Hawke, Sarah Pidgeon, Richard Schiff, Jay McInerney, Thomas Beller, Titus Welliver, and ",
+"title": "The Sun Also Rises at 100: Maya Hawke, Sarah Pidgeon, Richard Schiff, Dominic Sessa, Will Harrison, Jay McInerney, Thoma",
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/event/the-sun-also-rises-at-100",
@@ -769,17 +639,7 @@
 "title": "Little Birds, Big World: Meet Green-Wood's Sparrows",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
-"url": "https://www.green-wood.com/event/little-birds-big-world-meet-green-woods-sparrows/2026-10-24/",
-"src": "greenwood"
-},
-{
-"id": "s973ccd79bb",
-"date": "2026-10-24",
-"time": "10:30",
-"title": "Green-Wood on Wheels: Stroller-Friendly Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-10-24/",
+"url": "https://www.green-wood.com/event/little-birds-big-world-meet-green-woods-sparrows/",
 "src": "greenwood"
 },
 {
@@ -899,7 +759,7 @@
 "title": "Little Birds, Big World: Meet Green-Wood's Sparrows",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
-"url": "https://www.green-wood.com/event/little-birds-big-world-meet-green-woods-sparrows/2026-10-25/",
+"url": "https://www.green-wood.com/event/little-birds-big-world-meet-green-woods-sparrows-2/",
 "src": "greenwood"
 },
 {
@@ -1543,16 +1403,6 @@
 "src": "92ny_music"
 },
 {
-"id": "s6b1ce27521",
-"date": "2026-10-29",
-"time": "",
-"title": "Fashion Icons with Fern Mallis: Iris van Herpen",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/fashion-icons-iris-van-herpen",
-"src": "92ny_music"
-},
-{
 "id": "sfcf31f26c7",
 "date": "2026-10-29",
 "time": "",
@@ -1570,16 +1420,6 @@
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/event/silas-house-the-tulip-poplars",
-"src": "92ny_talks"
-},
-{
-"id": "sbfabb604e5",
-"date": "2026-10-29",
-"time": "",
-"title": "Fashion Icons with Fern Mallis: Iris van Herpen",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/fashion-icons-iris-van-herpen",
 "src": "92ny_talks"
 },
 {
@@ -1743,16 +1583,6 @@
 "src": "birdland"
 },
 {
-"id": "sf3d95e6cc0",
-"date": "2026-10-31",
-"time": "18:30",
-"title": "Hereafter Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/hereafter-hours-8/",
-"src": "greenwood"
-},
-{
 "id": "sf7ee303df1",
 "date": "2026-10-31",
 "time": "19:00",
@@ -1761,6 +1591,16 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/senri-oe-trio-3/",
 "src": "birdland"
+},
+{
+"id": "sf3d95e6cc0",
+"date": "2026-10-31",
+"time": "19:00",
+"title": "Hereafter Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/hereafter-hours-9/",
+"src": "greenwood"
 },
 {
 "id": "s9c2cfa7b2d",
@@ -1981,6 +1821,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/thibaudet-performs-liszt",
 "src": "nyphil"
+},
+{
+"id": "s4418a2bce2",
+"date": "2026-11-08",
+"time": "",
+"title": "ASL Tour of TARYN SIMONFATHER COUNTRYI DO LOVE YOU",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/asl-tour-of-taryn-simon-father-country-i-do-love-you",
+"src": "guggenheim"
 },
 {
 "id": "s9af960d332",
@@ -4290,16 +4140,6 @@
 "venue": "Cooper Hewitt",
 "cat": "art",
 "url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-kalia-vandever-in-the-listening-room-05-12-2026/",
-"src": "cooperhewitt"
-},
-{
-"id": "sf037d1e074",
-"date": "2027-04-23",
-"time": "",
-"title": "Live Operator Hours: Featuring the OJAS Team playing Jeff Parker in the Listening Room",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-the-ojas-team-playing-jeff-parker-in-the-listening-room-05-11-2026/",
 "src": "cooperhewitt"
 },
 {
