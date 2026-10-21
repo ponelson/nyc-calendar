@@ -1,107 +1,7 @@
 {
-"generated": "2026-10-20T14:01:35+00:00",
-"count": 549,
+"generated": "2026-10-21T14:17:51+00:00",
+"count": 542,
 "events": [
-{
-"id": "s4026db88d6",
-"date": "2026-10-19",
-"time": "",
-"title": "Would Israel be Better Off Without American Aid? \u2014 Michael Oren and Jonathan Schanzer with Bret Stephens",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/would-israel-be-better-off-without-american-aid",
-"src": "92ny_music"
-},
-{
-"id": "s8b6d0296e1",
-"date": "2026-10-19",
-"time": "",
-"title": "Would Israel be Better Off Without American Aid? \u2014 Michael Oren and Jonathan Schanzer with Bret Stephens",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/would-israel-be-better-off-without-american-aid",
-"src": "92ny_talks"
-},
-{
-"id": "sf2f12923ce",
-"date": "2026-10-19",
-"time": "",
-"title": "Oscar Murillo \u2014 opens",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/oscar-murillo-unfinished-thinking-paintings-and-social-maps",
-"src": "zwirner"
-},
-{
-"id": "s0d188282a5",
-"date": "2026-10-20",
-"time": "10:00",
-"title": "huddle",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/20/huddle-1000am",
-"src": "carnegie"
-},
-{
-"id": "s80b5b27b88",
-"date": "2026-10-20",
-"time": "17:30",
-"title": "Vince Giordano and the Nighthawks",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-119/",
-"src": "birdland"
-},
-{
-"id": "se206eb397b",
-"date": "2026-10-20",
-"time": "19:00",
-"title": "Anderson Brothers play Benny Goodman",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/anderson-brothers-play-benny-goodman/",
-"src": "birdland"
-},
-{
-"id": "sb9d9010d13",
-"date": "2026-10-20",
-"time": "19:00",
-"title": "Richard Dawkins - Genes and The Meaning of Life",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/20/richard-dawkins---genes-and-the-meaning-of-life-0700pm",
-"src": "carnegie"
-},
-{
-"id": "s6d07bfa65a",
-"date": "2026-10-20",
-"time": "19:30",
-"title": "The Knights",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/20/the-knights-0730pm",
-"src": "carnegie"
-},
-{
-"id": "sb7003f9d25",
-"date": "2026-10-20",
-"time": "19:30",
-"title": "Elmira Darvarova, Violin",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/20/elmira-darvarova-violin-0730pm",
-"src": "carnegie"
-},
-{
-"id": "s474b8c7df5",
-"date": "2026-10-20",
-"time": "",
-"title": "Tuesday Night Happy Hour: Jewish Young Professionals and Israelis in NYC \u2014 Daniel Klein and Carly Fruchtman",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/young-professionals-hebrew-happy-hour",
-"src": "92ny_music"
-},
 {
 "id": "s73bcb411c8",
 "date": "2026-10-20",
@@ -121,16 +21,6 @@
 "cat": "classical",
 "url": "https://www.92ny.org/event/simon-schama-with-rabbi-david-ingber",
 "src": "92ny_music"
-},
-{
-"id": "s280c782fd5",
-"date": "2026-10-20",
-"time": "",
-"title": "Tuesday Night Happy Hour: Jewish Young Professionals and Israelis in NYC \u2014 Daniel Klein and Carly Fruchtman",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/young-professionals-hebrew-happy-hour",
-"src": "92ny_talks"
 },
 {
 "id": "sc9349f2a2b",
@@ -173,16 +63,6 @@
 "src": "emanuel"
 },
 {
-"id": "sbfb02cd9a7",
-"date": "2026-10-21",
-"time": "10:00",
-"title": "huddle",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/21/huddle-1000am",
-"src": "carnegie"
-},
-{
 "id": "sa8bfc64ef7",
 "date": "2026-10-21",
 "time": "10:30",
@@ -191,6 +71,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-10-21/",
 "src": "greenwood"
+},
+{
+"id": "sbfb02cd9a7",
+"date": "2026-10-21",
+"time": "11:30",
+"title": "huddle",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/21/huddle-1130am",
+"src": "carnegie"
 },
 {
 "id": "s363b178cfe",
@@ -453,6 +343,16 @@
 "src": "birdland"
 },
 {
+"id": "s0f4b5ac61e",
+"date": "2026-10-22",
+"time": "19:00",
+"title": "Jinhyung Park, Piano",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/22/jinhyung-park-piano-0700pm",
+"src": "carnegie"
+},
+{
 "id": "se3d9b3d927",
 "date": "2026-10-22",
 "time": "19:00",
@@ -471,6 +371,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct22",
 "src": "nyphil"
+},
+{
+"id": "se660f25bc1",
+"date": "2026-10-22",
+"time": "20:00",
+"title": "Steve Reich at 90",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/22/steve-reich-at-90-0800pm",
+"src": "carnegie"
 },
 {
 "id": "s1727b04ccb",
@@ -541,6 +451,26 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/introduction-to-project-management-for-research-teams/",
 "src": "nyas"
+},
+{
+"id": "sed488e7304",
+"date": "2026-10-23",
+"time": "10:00",
+"title": "huddle",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/23/huddle-1000am",
+"src": "carnegie"
+},
+{
+"id": "s07b04c8ea1",
+"date": "2026-10-23",
+"time": "15:00",
+"title": "Open Working Rehearsal: The New York Pops",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/23/open-working-rehearsal-the-new-york-pops-0300pm",
+"src": "carnegie"
 },
 {
 "id": "s88e9ca6228",
@@ -795,7 +725,7 @@
 {
 "id": "se0c3478115",
 "date": "2026-10-25",
-"time": "14:30",
+"time": "14:15",
 "title": "Cemetery Scavenger Hunt",
 "venue": "Green-Wood Cemetery",
 "cat": "access",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T14:01:35+00:00",
+  "generated": "2026-10-21T14:17:51+00:00",
   "healthy": 15,
   "total": 29,
   "venues": [
@@ -32,7 +32,7 @@
       "name": "92NY",
       "cat": "classical",
       "strategy": "custom",
-      "count": 36,
+      "count": 34,
       "error": null
     },
     {
@@ -56,7 +56,7 @@
       "name": "92NY \u2014 Talks",
       "cat": "talks",
       "strategy": "custom",
-      "count": 36,
+      "count": 34,
       "error": null
     },
     {
@@ -128,7 +128,7 @@
       "name": "David Zwirner",
       "cat": "global",
       "strategy": "jsonld",
-      "count": 21,
+      "count": 20,
       "error": null
     },
     {
@@ -168,7 +168,7 @@
       "name": "Birdland",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 34,
+      "count": 32,
       "error": null
     },
     {
@@ -201,7 +201,7 @@
       "cat": "houses",
       "strategy": "ics",
       "count": 0,
-      "error": "RuntimeError: ConnectionError"
+      "error": "RuntimeError: HTTP 202"
     },
     {
       "id": "aliceausten",
