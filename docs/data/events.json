@@ -1,157 +1,7 @@
 {
-"generated": "2026-10-21T14:17:51+00:00",
-"count": 542,
+"generated": "2026-10-22T14:25:03+00:00",
+"count": 525,
 "events": [
-{
-"id": "s73bcb411c8",
-"date": "2026-10-20",
-"time": "",
-"title": "Jonathan Mahler and Kathy Wylde in Conversation with Thomas Dyja: The Gods of New York and a City Transformed",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/jonathan-mahler-and-kathy-wylde-with-thomas-dyja",
-"src": "92ny_music"
-},
-{
-"id": "s7f2a61d3af",
-"date": "2026-10-20",
-"time": "",
-"title": "Simon Schama in Conversation with 92NY\u2019s Rabbi David Ingber: A New History of Antisemitism",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/simon-schama-with-rabbi-david-ingber",
-"src": "92ny_music"
-},
-{
-"id": "sc9349f2a2b",
-"date": "2026-10-20",
-"time": "",
-"title": "Jonathan Mahler and Kathy Wylde in Conversation with Thomas Dyja: The Gods of New York and a City Transformed",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/jonathan-mahler-and-kathy-wylde-with-thomas-dyja",
-"src": "92ny_talks"
-},
-{
-"id": "s617a7fb490",
-"date": "2026-10-20",
-"time": "",
-"title": "Simon Schama in Conversation with 92NY\u2019s Rabbi David Ingber: A New History of Antisemitism",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/simon-schama-with-rabbi-david-ingber",
-"src": "92ny_talks"
-},
-{
-"id": "sc12a5b6a71",
-"date": "2026-10-20",
-"time": "",
-"title": "The Art of Good Company: Painting at Emanu-El",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/the-art-of-good-company-painting-at-emanu-el/",
-"src": "emanuel"
-},
-{
-"id": "s9badf0677e",
-"date": "2026-10-20",
-"time": "",
-"title": "Finding Hope and Healing: A Family Estrangement Support Group",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/estrangement-support-group/",
-"src": "emanuel"
-},
-{
-"id": "sa8bfc64ef7",
-"date": "2026-10-21",
-"time": "10:30",
-"title": "Green-Wood on Wheels: Stroller-Friendly Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-10-21/",
-"src": "greenwood"
-},
-{
-"id": "sbfb02cd9a7",
-"date": "2026-10-21",
-"time": "11:30",
-"title": "huddle",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/21/huddle-1130am",
-"src": "carnegie"
-},
-{
-"id": "s363b178cfe",
-"date": "2026-10-21",
-"time": "17:30",
-"title": "David Ostwald's Louis Armstrong Eternity Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/david-ostwalds-louis-armstrong-eternity-band-21/",
-"src": "birdland"
-},
-{
-"id": "sdf81b81287",
-"date": "2026-10-21",
-"time": "19:00",
-"title": "Ron Carter's Great Big Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carters-great-big-band/",
-"src": "birdland"
-},
-{
-"id": "s18c8e06466",
-"date": "2026-10-21",
-"time": "19:30",
-"title": "Kaleidoscope: From Ancient Times to Jazz and Blues",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/21/kaleidoscope-from-ancient-times-to-jazz-and-blues-0730pm",
-"src": "carnegie"
-},
-{
-"id": "sefd0a1fc15",
-"date": "2026-10-21",
-"time": "19:30",
-"title": "Dudamel Leads Mahler and Tania Le\u00f3n in Vienna",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct21",
-"src": "nyphil"
-},
-{
-"id": "sbdab63d405",
-"date": "2026-10-21",
-"time": "20:00",
-"title": "Yunchan Lim, Piano",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/21/yunchan-lim-piano-0800pm",
-"src": "carnegie"
-},
-{
-"id": "s7f3d794049",
-"date": "2026-10-21",
-"time": "20:30",
-"title": "Frank Vignola's Guitar Night with Matt Munisteri and Pasquale Grasso",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/frank-vignolas-guitar-night-with-pasquale-grasso-12/",
-"src": "birdland"
-},
-{
-"id": "s0864e6d2b1",
-"date": "2026-10-21",
-"time": "",
-"title": "Sunset Yoga & Mocktails \u2014 David Hollander",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/sunset-yoga-mocktails",
-"src": "92ny_music"
-},
 {
 "id": "s47c85fdf8a",
 "date": "2026-10-21",
@@ -160,26 +10,6 @@
 "venue": "92NY",
 "cat": "classical",
 "url": "https://www.92ny.org/event/excuse-my-grandma",
-"src": "92ny_music"
-},
-{
-"id": "s82dd384843",
-"date": "2026-10-21",
-"time": "",
-"title": "Taylor Swift, \u201cLove Story,\u201d and the Ancient Roman Art of Writing About Love \u2014 with NYU\u2019s David Levene",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/david-levene-reading-roman-elegy-through-taylor-swift",
-"src": "92ny_music"
-},
-{
-"id": "sbc4f340c3c",
-"date": "2026-10-21",
-"time": "",
-"title": "Susan Orlean with John Wilson: Joyride",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/susan-orlean-joyride",
 "src": "92ny_music"
 },
 {
@@ -193,26 +23,6 @@
 "src": "92ny_music"
 },
 {
-"id": "s5cb0ae99f7",
-"date": "2026-10-21",
-"time": "",
-"title": "Israeli Folk Dance (Open Session)",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/class/israeli-folk-dance-open-session",
-"src": "92ny_music"
-},
-{
-"id": "sa3c2f5f3a3",
-"date": "2026-10-21",
-"time": "",
-"title": "Sunset Yoga & Mocktails \u2014 David Hollander",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/sunset-yoga-mocktails",
-"src": "92ny_talks"
-},
-{
 "id": "s7cb1d54bf0",
 "date": "2026-10-21",
 "time": "",
@@ -223,26 +33,6 @@
 "src": "92ny_talks"
 },
 {
-"id": "sc44b66f14d",
-"date": "2026-10-21",
-"time": "",
-"title": "Taylor Swift, \u201cLove Story,\u201d and the Ancient Roman Art of Writing About Love \u2014 with NYU\u2019s David Levene",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/david-levene-reading-roman-elegy-through-taylor-swift",
-"src": "92ny_talks"
-},
-{
-"id": "s149f92edb7",
-"date": "2026-10-21",
-"time": "",
-"title": "Susan Orlean with John Wilson: Joyride",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/susan-orlean-joyride",
-"src": "92ny_talks"
-},
-{
 "id": "sf7868ef09a",
 "date": "2026-10-21",
 "time": "",
@@ -250,16 +40,6 @@
 "venue": "92NY \u2014 Talks",
 "cat": "talks",
 "url": "https://www.92ny.org/event/sacha-baron-cohen",
-"src": "92ny_talks"
-},
-{
-"id": "s539e9e20ee",
-"date": "2026-10-21",
-"time": "",
-"title": "Israeli Folk Dance (Open Session)",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/class/israeli-folk-dance-open-session",
 "src": "92ny_talks"
 },
 {
@@ -295,11 +75,11 @@
 {
 "id": "sa461e05a57",
 "date": "2026-10-22",
-"time": "10:00",
+"time": "11:30",
 "title": "huddle",
 "venue": "Carnegie Hall",
 "cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/22/huddle-1000am",
+"url": "https://www.carnegiehall.org/calendar/2026/10/22/huddle-1130am",
 "src": "carnegie"
 },
 {
@@ -323,16 +103,6 @@
 "src": "birdland"
 },
 {
-"id": "sa404155bb1",
-"date": "2026-10-22",
-"time": "19:00",
-"title": "Ron Carter's Great Big Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carters-great-big-band-3/",
-"src": "birdland"
-},
-{
 "id": "s39183f9f46",
 "date": "2026-10-22",
 "time": "19:00",
@@ -340,6 +110,16 @@
 "venue": "Birdland",
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/ron-carters-great-big-band-livestream/",
+"src": "birdland"
+},
+{
+"id": "sa404155bb1",
+"date": "2026-10-22",
+"time": "19:00",
+"title": "Ron Carter's Great Big Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carters-great-big-band-3/",
 "src": "birdland"
 },
 {
@@ -503,6 +283,26 @@
 "src": "greenwood"
 },
 {
+"id": "s962a34d679",
+"date": "2026-10-23",
+"time": "19:30",
+"title": "Mir\u00f3 Quartet",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/23/miro-quartet-0730pm",
+"src": "carnegie"
+},
+{
+"id": "sc60179163e",
+"date": "2026-10-23",
+"time": "20:00",
+"title": "The New York Pops",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/23/the-new-york-pops-0800pm",
+"src": "carnegie"
+},
+{
 "id": "sf431e09f22",
 "date": "2026-10-23",
 "time": "20:30",
@@ -511,6 +311,16 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/ron-carters-great-big-band-5/",
 "src": "birdland"
+},
+{
+"id": "s7c035f27fd",
+"date": "2026-10-23",
+"time": "21:00",
+"title": "Lakecia Benjamin, Saxophone",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/23/lakecia-benjamin-saxophone-0900pm",
+"src": "carnegie"
 },
 {
 "id": "s1b984f795e",
@@ -551,6 +361,16 @@
 "cat": "talks",
 "url": "https://www.92ny.org/event/ema-nikolovska-and-sean-shibe",
 "src": "92ny_talks"
+},
+{
+"id": "s8337de96f4",
+"date": "2026-10-24",
+"time": "10:00",
+"title": "huddle",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/24/huddle-1000am",
+"src": "carnegie"
 },
 {
 "id": "s027323de12",
@@ -1525,11 +1345,11 @@
 {
 "id": "sf3d95e6cc0",
 "date": "2026-10-31",
-"time": "19:00",
+"time": "19:30",
 "title": "Hereafter Hours",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
-"url": "https://www.green-wood.com/event/hereafter-hours-9/",
+"url": "https://www.green-wood.com/event/hereafter-hours-10/",
 "src": "greenwood"
 },
 {
@@ -1861,6 +1681,16 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/the-seven-bridges/",
 "src": "japansociety"
+},
+{
+"id": "s6a0d43212c",
+"date": "2026-11-18",
+"time": "18:00",
+"title": "Comfy Classical at Dyckman Farmhouse",
+"venue": "Dyckman Farmhouse",
+"cat": "houses",
+"url": "https://dyckmanfarmhouse.org/event/comfy-classical-at-dyckman-farmhouse/",
+"src": "dyckman"
 },
 {
 "id": "sd702183834",
