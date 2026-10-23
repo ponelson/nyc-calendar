@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-22T14:25:03+00:00",
-  "healthy": 15,
+  "generated": "2026-10-23T13:59:43+00:00",
+  "healthy": 13,
   "total": 29,
   "venues": [
     {
@@ -16,7 +16,7 @@
       "name": "New York Philharmonic",
       "cat": "classical",
       "strategy": "custom",
-      "count": 165,
+      "count": 163,
       "error": null
     },
     {
@@ -24,15 +24,15 @@
       "name": "Carnegie Hall",
       "cat": "classical",
       "strategy": "custom",
-      "count": 9,
-      "error": null
+      "count": 0,
+      "error": "no events parsed"
     },
     {
       "id": "92ny_music",
       "name": "92NY",
       "cat": "classical",
       "strategy": "custom",
-      "count": 28,
+      "count": 26,
       "error": null
     },
     {
@@ -40,7 +40,7 @@
       "name": "Temple Emanu-El \u2014 Streicker",
       "cat": "classical",
       "strategy": "custom",
-      "count": 18,
+      "count": 17,
       "error": null
     },
     {
@@ -56,7 +56,7 @@
       "name": "92NY \u2014 Talks",
       "cat": "talks",
       "strategy": "custom",
-      "count": 28,
+      "count": 26,
       "error": null
     },
     {
@@ -72,7 +72,7 @@
       "name": "Japan Society",
       "cat": "talks",
       "strategy": "custom",
-      "count": 35,
+      "count": 34,
       "error": null
     },
     {
@@ -112,7 +112,7 @@
       "name": "Cooper Hewitt",
       "cat": "art",
       "strategy": "custom",
-      "count": 18,
+      "count": 17,
       "error": null
     },
     {
@@ -137,7 +137,7 @@
       "cat": "jazz",
       "strategy": "custom",
       "count": 0,
-      "error": "ReadTimeout: HTTPSConnectionPool(host='www.smallslive.com', port=443): Read timed out. (read timeout=20)"
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.smallslive.com/wp-json/wp/v2/event?per_page=100"
     },
     {
       "id": "mezzrow",
@@ -168,7 +168,7 @@
       "name": "Birdland",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 29,
+      "count": 26,
       "error": null
     },
     {
@@ -192,7 +192,7 @@
       "name": "Mount Vernon Hotel Museum",
       "cat": "houses",
       "strategy": "ics",
-      "count": 7,
+      "count": 8,
       "error": null
     },
     {
@@ -224,8 +224,8 @@
       "name": "Green-Wood Cemetery",
       "cat": "access",
       "strategy": "ics",
-      "count": 19,
-      "error": null
+      "count": 0,
+      "error": "RuntimeError: HTTP 500"
     },
     {
       "id": "nycpermits",

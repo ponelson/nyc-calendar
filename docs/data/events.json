@@ -1,167 +1,7 @@
 {
-"generated": "2026-10-22T14:25:03+00:00",
-"count": 525,
+"generated": "2026-10-23T13:59:43+00:00",
+"count": 486,
 "events": [
-{
-"id": "s47c85fdf8a",
-"date": "2026-10-21",
-"time": "",
-"title": "Excuse My Grandma: A Live Podcast Recording with Kim Murstein and Gail Rudnick",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/excuse-my-grandma",
-"src": "92ny_music"
-},
-{
-"id": "s1b43bd215c",
-"date": "2026-10-21",
-"time": "",
-"title": "Sacha Baron Cohen in Conversation with Happy Sad Confused\u2019s Josh Horowitz: The Power of Satire",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/sacha-baron-cohen",
-"src": "92ny_music"
-},
-{
-"id": "s7cb1d54bf0",
-"date": "2026-10-21",
-"time": "",
-"title": "Excuse My Grandma: A Live Podcast Recording with Kim Murstein and Gail Rudnick",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/excuse-my-grandma",
-"src": "92ny_talks"
-},
-{
-"id": "sf7868ef09a",
-"date": "2026-10-21",
-"time": "",
-"title": "Sacha Baron Cohen in Conversation with Happy Sad Confused\u2019s Josh Horowitz: The Power of Satire",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/sacha-baron-cohen",
-"src": "92ny_talks"
-},
-{
-"id": "s958b87fec6",
-"date": "2026-10-21",
-"time": "",
-"title": "Making the Museum: Inside Victoria &amp; Albert&#8217;s East Storehouse",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/making-the-museum-inside-victoria-alberts-east-storehouse-10-21-2026/",
-"src": "cooperhewitt"
-},
-{
-"id": "s5187a56938",
-"date": "2026-10-21",
-"time": "",
-"title": "Rental Family",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/rental-family/",
-"src": "japansociety"
-},
-{
-"id": "s1b3774be23",
-"date": "2026-10-21",
-"time": "",
-"title": "Center for Interfaith Dialogue: Interfaith Lunch Group",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/center-for-interfaith-dialogue-interfaith-lunch-group/",
-"src": "emanuel"
-},
-{
-"id": "sa461e05a57",
-"date": "2026-10-22",
-"time": "11:30",
-"title": "huddle",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/22/huddle-1130am",
-"src": "carnegie"
-},
-{
-"id": "s17e06e0ec3",
-"date": "2026-10-22",
-"time": "13:40",
-"title": "The Unanswered Questions: Is That Fear I Hear?",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/the-unanswered-questions-is-that-fear-i-hear",
-"src": "nyphil"
-},
-{
-"id": "s24d1ff0041",
-"date": "2026-10-22",
-"time": "17:30",
-"title": "The High Society New Orleans Jazz Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/the-high-society-new-orleans-jazz-band-57/",
-"src": "birdland"
-},
-{
-"id": "s39183f9f46",
-"date": "2026-10-22",
-"time": "19:00",
-"title": "Ron Carter\u2019s Great Big Band Livestream",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carters-great-big-band-livestream/",
-"src": "birdland"
-},
-{
-"id": "sa404155bb1",
-"date": "2026-10-22",
-"time": "19:00",
-"title": "Ron Carter's Great Big Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carters-great-big-band-3/",
-"src": "birdland"
-},
-{
-"id": "s0f4b5ac61e",
-"date": "2026-10-22",
-"time": "19:00",
-"title": "Jinhyung Park, Piano",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/22/jinhyung-park-piano-0700pm",
-"src": "carnegie"
-},
-{
-"id": "se3d9b3d927",
-"date": "2026-10-22",
-"time": "19:00",
-"title": "Nightfall",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/nightfall-3/2026-10-22/",
-"src": "greenwood"
-},
-{
-"id": "s3ebb174c23",
-"date": "2026-10-22",
-"time": "19:30",
-"title": "Dudamel Leads Prokofiev, Adams & Di Castri in Vienna",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/european-tour-oct22",
-"src": "nyphil"
-},
-{
-"id": "se660f25bc1",
-"date": "2026-10-22",
-"time": "20:00",
-"title": "Steve Reich at 90",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/22/steve-reich-at-90-0800pm",
-"src": "carnegie"
-},
 {
 "id": "s1727b04ccb",
 "date": "2026-10-22",
@@ -180,16 +20,6 @@
 "venue": "92NY",
 "cat": "classical",
 "url": "https://www.92ny.org/event/the-sun-also-rises-at-100",
-"src": "92ny_music"
-},
-{
-"id": "s5201bfce07",
-"date": "2026-10-22",
-"time": "",
-"title": "Jewish or Antisemitic LIVE: Hosted by Eitan Levine featuring Talia Lichtstein, Raanan Hershberg, and Jackie Goldschneide",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/jewish-or-antisemitic-live",
 "src": "92ny_music"
 },
 {
@@ -213,16 +43,6 @@
 "src": "92ny_talks"
 },
 {
-"id": "sb537857fcb",
-"date": "2026-10-22",
-"time": "",
-"title": "Jewish or Antisemitic LIVE: Hosted by Eitan Levine featuring Talia Lichtstein, Raanan Hershberg, and Jackie Goldschneide",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/jewish-or-antisemitic-live",
-"src": "92ny_talks"
-},
-{
 "id": "s0bf090bf6d",
 "date": "2026-10-22",
 "time": "",
@@ -231,26 +51,6 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/introduction-to-project-management-for-research-teams/",
 "src": "nyas"
-},
-{
-"id": "sed488e7304",
-"date": "2026-10-23",
-"time": "10:00",
-"title": "huddle",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/23/huddle-1000am",
-"src": "carnegie"
-},
-{
-"id": "s07b04c8ea1",
-"date": "2026-10-23",
-"time": "15:00",
-"title": "Open Working Rehearsal: The New York Pops",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/23/open-working-rehearsal-the-new-york-pops-0300pm",
-"src": "carnegie"
 },
 {
 "id": "s88e9ca6228",
@@ -273,36 +73,6 @@
 "src": "birdland"
 },
 {
-"id": "se20f794503",
-"date": "2026-10-23",
-"time": "19:00",
-"title": "Nightfall",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/nightfall-3/2026-10-23/",
-"src": "greenwood"
-},
-{
-"id": "s962a34d679",
-"date": "2026-10-23",
-"time": "19:30",
-"title": "Mir\u00f3 Quartet",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/23/miro-quartet-0730pm",
-"src": "carnegie"
-},
-{
-"id": "sc60179163e",
-"date": "2026-10-23",
-"time": "20:00",
-"title": "The New York Pops",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/23/the-new-york-pops-0800pm",
-"src": "carnegie"
-},
-{
 "id": "sf431e09f22",
 "date": "2026-10-23",
 "time": "20:30",
@@ -311,16 +81,6 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/ron-carters-great-big-band-5/",
 "src": "birdland"
-},
-{
-"id": "s7c035f27fd",
-"date": "2026-10-23",
-"time": "21:00",
-"title": "Lakecia Benjamin, Saxophone",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/23/lakecia-benjamin-saxophone-0900pm",
-"src": "carnegie"
 },
 {
 "id": "s1b984f795e",
@@ -361,46 +121,6 @@
 "cat": "talks",
 "url": "https://www.92ny.org/event/ema-nikolovska-and-sean-shibe",
 "src": "92ny_talks"
-},
-{
-"id": "s8337de96f4",
-"date": "2026-10-24",
-"time": "10:00",
-"title": "huddle",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/24/huddle-1000am",
-"src": "carnegie"
-},
-{
-"id": "s027323de12",
-"date": "2026-10-24",
-"time": "10:00",
-"title": "The Revolution Continues: Brooklyn\u2019s Black Trailblazers",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/the-revolution-continues-brooklyns-black-trailblazers/",
-"src": "greenwood"
-},
-{
-"id": "sa7ed6ed232",
-"date": "2026-10-24",
-"time": "10:15",
-"title": "Little Birds, Big World: Meet Green-Wood's Sparrows",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/little-birds-big-world-meet-green-woods-sparrows/",
-"src": "greenwood"
-},
-{
-"id": "s3f5ab61369",
-"date": "2026-10-24",
-"time": "13:00",
-"title": "Discover Green-Wood Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-26/",
-"src": "greenwood"
 },
 {
 "id": "s828d5993c1",
@@ -503,56 +223,6 @@
 "src": "zwirner"
 },
 {
-"id": "s5ce9a20cc0",
-"date": "2026-10-25",
-"time": "10:15",
-"title": "Little Birds, Big World: Meet Green-Wood's Sparrows",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/little-birds-big-world-meet-green-woods-sparrows-2/",
-"src": "greenwood"
-},
-{
-"id": "sdf38be0809",
-"date": "2026-10-25",
-"time": "11:00",
-"title": "Grave Beginnings: Green-Wood By Trolley",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley-7/",
-"src": "greenwood"
-},
-{
-"id": "sb6f3d5f632",
-"date": "2026-10-25",
-"time": "12:00",
-"title": "Rest in Pace",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/rest-in-pace-green-house-2/2026-10-25/",
-"src": "greenwood"
-},
-{
-"id": "sd499d9a1bc",
-"date": "2026-10-25",
-"time": "13:00",
-"title": "Green-Wood's Greatest Hits",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-woods-greatest-hits-17/",
-"src": "greenwood"
-},
-{
-"id": "se0c3478115",
-"date": "2026-10-25",
-"time": "14:15",
-"title": "Cemetery Scavenger Hunt",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/cemetery-scavenger-hunt/",
-"src": "greenwood"
-},
-{
 "id": "s4c8ce1e9e2",
 "date": "2026-10-25",
 "time": "17:30",
@@ -561,16 +231,6 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/june-cavlan/",
 "src": "birdland"
-},
-{
-"id": "sb7eca7806b",
-"date": "2026-10-25",
-"time": "18:30",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-57/2026-10-25/4/",
-"src": "greenwood"
 },
 {
 "id": "sd97c181a55",
@@ -713,16 +373,6 @@
 "src": "birdland"
 },
 {
-"id": "sb6e27aa78f",
-"date": "2026-10-26",
-"time": "19:00",
-"title": "Moonlight Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/moonlight-tour-14/2026-10-26/",
-"src": "greenwood"
-},
-{
 "id": "s7d15c64126",
 "date": "2026-10-26",
 "time": "21:30",
@@ -771,16 +421,6 @@
 "cat": "talks",
 "url": "https://www.92ny.org/event/maira-kalman-joy",
 "src": "92ny_talks"
-},
-{
-"id": "se88f9ca018",
-"date": "2026-10-27",
-"time": "10:00",
-"title": "Toddler Takeover at the Green-House",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-10-27/",
-"src": "greenwood"
 },
 {
 "id": "s728c799c02",
@@ -1243,14 +883,14 @@
 "src": "birdland"
 },
 {
-"id": "s29672f695f",
+"id": "s206ea9c60c",
 "date": "2026-10-30",
-"time": "20:30",
-"title": "Hereafter Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/hereafter-hours-7/",
-"src": "greenwood"
+"time": "",
+"title": "Breast Self-Exam Education with Northwell Health",
+"venue": "92NY",
+"cat": "classical",
+"url": "https://www.92ny.org/community/health-fitness/northwell-cancer-institute/breast-self-exam-education-with-northwell-health",
+"src": "92ny_music"
 },
 {
 "id": "s332bb33eb8",
@@ -1261,6 +901,16 @@
 "cat": "classical",
 "url": "https://www.92ny.org/event/christopher-williams",
 "src": "92ny_music"
+},
+{
+"id": "s8d7e94cf28",
+"date": "2026-10-30",
+"time": "",
+"title": "Breast Self-Exam Education with Northwell Health",
+"venue": "92NY \u2014 Talks",
+"cat": "talks",
+"url": "https://www.92ny.org/community/health-fitness/northwell-cancer-institute/breast-self-exam-education-with-northwell-health",
+"src": "92ny_talks"
 },
 {
 "id": "s7c358a54a1",
@@ -1283,46 +933,6 @@
 "src": "japansociety"
 },
 {
-"id": "s4f6069fa20",
-"date": "2026-10-31",
-"time": "10:00",
-"title": "Magicians and Mediums Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/magicians-and-mediums-trolley-tour-2/",
-"src": "greenwood"
-},
-{
-"id": "s881f28a998",
-"date": "2026-10-31",
-"time": "12:00",
-"title": "Last Saturdays: Open Classroom",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/last-saturdays-open-classroom-5/",
-"src": "greenwood"
-},
-{
-"id": "s88e13cd094",
-"date": "2026-10-31",
-"time": "13:00",
-"title": "Discover Green-Wood Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-27/",
-"src": "greenwood"
-},
-{
-"id": "s6ed896964f",
-"date": "2026-10-31",
-"time": "15:30",
-"title": "Revolutionary Spirits",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/revolutionary-spirits-7/2026-10-31/",
-"src": "greenwood"
-},
-{
 "id": "sd2be6ff117",
 "date": "2026-10-31",
 "time": "17:30",
@@ -1341,16 +951,6 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/senri-oe-trio-3/",
 "src": "birdland"
-},
-{
-"id": "sf3d95e6cc0",
-"date": "2026-10-31",
-"time": "19:30",
-"title": "Hereafter Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/hereafter-hours-10/",
-"src": "greenwood"
 },
 {
 "id": "s9c2cfa7b2d",
@@ -1911,6 +1511,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/bruce-liu-and-nielsen",
 "src": "nyphil"
+},
+{
+"id": "s6dcf472216",
+"date": "2026-12-04",
+"time": "12:00",
+"title": "Harvests to Holidays: Fall and Winter Festivities in the 1820s and 1830s",
+"venue": "Mount Vernon Hotel Museum",
+"cat": "houses",
+"url": "https://mvhm.org/event/harvests-to-holidays-fall-and-winter-festivities-in-the-1820s-and-1830s/",
+"src": "mvhm"
 },
 {
 "id": "s5579609ded",
