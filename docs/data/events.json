@@ -1,97 +1,7 @@
 {
-"generated": "2026-10-23T13:59:43+00:00",
-"count": 486,
+"generated": "2026-10-24T13:03:12+00:00",
+"count": 504,
 "events": [
-{
-"id": "s1727b04ccb",
-"date": "2026-10-22",
-"time": "",
-"title": "Women inPower: Secrets of Leadership with Indra Nooyi, Former Chairman and CEO of PepsiCo in Conversation with CBS Satur",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/secrets-of-leadership-with-indra-nooyi",
-"src": "92ny_music"
-},
-{
-"id": "s276f5435b1",
-"date": "2026-10-22",
-"time": "",
-"title": "The Sun Also Rises at 100: Maya Hawke, Sarah Pidgeon, Richard Schiff, Dominic Sessa, Will Harrison, Jay McInerney, Thoma",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/the-sun-also-rises-at-100",
-"src": "92ny_music"
-},
-{
-"id": "s18186e973f",
-"date": "2026-10-22",
-"time": "",
-"title": "Women inPower: Secrets of Leadership with Indra Nooyi, Former Chairman and CEO of PepsiCo in Conversation with CBS Satur",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/secrets-of-leadership-with-indra-nooyi",
-"src": "92ny_talks"
-},
-{
-"id": "s35b3e4def2",
-"date": "2026-10-22",
-"time": "",
-"title": "The Sun Also Rises at 100: Maya Hawke, Sarah Pidgeon, Richard Schiff, Dominic Sessa, Will Harrison, Jay McInerney, Thoma",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/the-sun-also-rises-at-100",
-"src": "92ny_talks"
-},
-{
-"id": "s0bf090bf6d",
-"date": "2026-10-22",
-"time": "",
-"title": "Introduction to Project Management for Research Teams",
-"venue": "New York Academy of Sciences",
-"cat": "talks",
-"url": "https://www.nyas.org/shaping-science/events/introduction-to-project-management-for-research-teams/",
-"src": "nyas"
-},
-{
-"id": "s88e9ca6228",
-"date": "2026-10-23",
-"time": "17:30",
-"title": "Birdland Big Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/birdland-big-band-28/",
-"src": "birdland"
-},
-{
-"id": "se1950e8063",
-"date": "2026-10-23",
-"time": "19:00",
-"title": "Curtis Stigers",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/curtis-stigers/",
-"src": "birdland"
-},
-{
-"id": "sf431e09f22",
-"date": "2026-10-23",
-"time": "20:30",
-"title": "Ron Carter's Great Big Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carters-great-big-band-5/",
-"src": "birdland"
-},
-{
-"id": "s1b984f795e",
-"date": "2026-10-23",
-"time": "",
-"title": "Shabbat B\u2019ivrit (Hebrew Speaking Shabbat Dinner) \u2014 Daniel Klein and Dagan Shimoni",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/shabbat-b-ivrit",
-"src": "92ny_music"
-},
 {
 "id": "s1306950d30",
 "date": "2026-10-23",
@@ -103,16 +13,6 @@
 "src": "92ny_music"
 },
 {
-"id": "s59a2b86b1f",
-"date": "2026-10-23",
-"time": "",
-"title": "Shabbat B\u2019ivrit (Hebrew Speaking Shabbat Dinner) \u2014 Daniel Klein and Dagan Shimoni",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/shabbat-b-ivrit",
-"src": "92ny_talks"
-},
-{
 "id": "sf0ba9a0086",
 "date": "2026-10-23",
 "time": "",
@@ -121,6 +21,56 @@
 "cat": "talks",
 "url": "https://www.92ny.org/event/ema-nikolovska-and-sean-shibe",
 "src": "92ny_talks"
+},
+{
+"id": "s8337de96f4",
+"date": "2026-10-24",
+"time": "10:00",
+"title": "huddle",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/24/huddle-1000am",
+"src": "carnegie"
+},
+{
+"id": "s027323de12",
+"date": "2026-10-24",
+"time": "10:00",
+"title": "The Revolution Continues: Brooklyn\u2019s Black Trailblazers",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/the-revolution-continues-brooklyns-black-trailblazers/",
+"src": "greenwood"
+},
+{
+"id": "sa7ed6ed232",
+"date": "2026-10-24",
+"time": "10:15",
+"title": "Little Birds, Big World: Meet Green-Wood's Sparrows",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/little-birds-big-world-meet-green-woods-sparrows/",
+"src": "greenwood"
+},
+{
+"id": "s7043c5397b",
+"date": "2026-10-24",
+"time": "13:00",
+"title": "The Superior Institute of Arts Costa Rica Student Recital",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/24/the-superior-institute-of-arts-costa-rica-student-recital-0100pm",
+"src": "carnegie"
+},
+{
+"id": "s3f5ab61369",
+"date": "2026-10-24",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-26/",
+"src": "greenwood"
 },
 {
 "id": "s828d5993c1",
@@ -143,6 +93,16 @@
 "src": "birdland"
 },
 {
+"id": "s2b56a228b1",
+"date": "2026-10-24",
+"time": "19:00",
+"title": "Fang Tao Jiang, Soprano, and Guest Artists",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/24/fang-tao-jiang-soprano-and-guest-artists-0700pm",
+"src": "carnegie"
+},
+{
 "id": "s2fe536ad58",
 "date": "2026-10-24",
 "time": "19:30",
@@ -151,6 +111,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/artist-spotlight-lisa-batiashvili",
 "src": "nyphil"
+},
+{
+"id": "s7c7623a9d3",
+"date": "2026-10-24",
+"time": "20:00",
+"title": "Pianistically Speaking: An Evening with Richard Atkins",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/24/pianistically-speaking-an-evening-with-richard-atkins-0800pm",
+"src": "carnegie"
 },
 {
 "id": "sa5c3c559c1",
@@ -223,6 +193,66 @@
 "src": "zwirner"
 },
 {
+"id": "s5ce9a20cc0",
+"date": "2026-10-25",
+"time": "10:15",
+"title": "Little Birds, Big World: Meet Green-Wood's Sparrows",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/little-birds-big-world-meet-green-woods-sparrows-2/",
+"src": "greenwood"
+},
+{
+"id": "sdf38be0809",
+"date": "2026-10-25",
+"time": "11:00",
+"title": "Grave Beginnings: Green-Wood By Trolley",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley-7/",
+"src": "greenwood"
+},
+{
+"id": "sb6f3d5f632",
+"date": "2026-10-25",
+"time": "12:00",
+"title": "Rest in Pace",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/rest-in-pace-green-house-2/2026-10-25/",
+"src": "greenwood"
+},
+{
+"id": "s96a6c6b58a",
+"date": "2026-10-25",
+"time": "13:00",
+"title": "AyseDeniz Gokcin, Piano",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/25/aysedeniz-gokcin-piano-0100pm",
+"src": "carnegie"
+},
+{
+"id": "sd499d9a1bc",
+"date": "2026-10-25",
+"time": "13:00",
+"title": "Green-Wood's Greatest Hits",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-woods-greatest-hits-17/",
+"src": "greenwood"
+},
+{
+"id": "se0c3478115",
+"date": "2026-10-25",
+"time": "14:15",
+"title": "Cemetery Scavenger Hunt",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/cemetery-scavenger-hunt/",
+"src": "greenwood"
+},
+{
 "id": "s4c8ce1e9e2",
 "date": "2026-10-25",
 "time": "17:30",
@@ -233,6 +263,16 @@
 "src": "birdland"
 },
 {
+"id": "sb7eca7806b",
+"date": "2026-10-25",
+"time": "18:30",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-57/2026-10-25/4/",
+"src": "greenwood"
+},
+{
 "id": "sd97c181a55",
 "date": "2026-10-25",
 "time": "19:00",
@@ -241,6 +281,26 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/curtis-stigers-5/",
 "src": "birdland"
+},
+{
+"id": "s86d21b178a",
+"date": "2026-10-25",
+"time": "19:30",
+"title": "Rising Stars in Two Piano Recitals",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/25/rising-stars-in-two-piano-recitals-0730pm",
+"src": "carnegie"
+},
+{
+"id": "s6cf5e93ee4",
+"date": "2026-10-25",
+"time": "20:00",
+"title": "Mac DeMarco",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/25/mac-demarco-0800pm",
+"src": "carnegie"
 },
 {
 "id": "s76d4b35b20",
@@ -373,6 +433,36 @@
 "src": "birdland"
 },
 {
+"id": "sb6e27aa78f",
+"date": "2026-10-26",
+"time": "19:00",
+"title": "Moonlight Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/moonlight-tour-14/2026-10-26/",
+"src": "greenwood"
+},
+{
+"id": "s671c18594f",
+"date": "2026-10-26",
+"time": "19:30",
+"title": "Ensemble Connect",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/26/ensemble-connect-0730pm",
+"src": "carnegie"
+},
+{
+"id": "s362050a5ce",
+"date": "2026-10-26",
+"time": "20:00",
+"title": "Mac DeMarco",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/26/mac-demarco-0800pm",
+"src": "carnegie"
+},
+{
 "id": "s7d15c64126",
 "date": "2026-10-26",
 "time": "21:30",
@@ -421,6 +511,16 @@
 "cat": "talks",
 "url": "https://www.92ny.org/event/maira-kalman-joy",
 "src": "92ny_talks"
+},
+{
+"id": "se88f9ca018",
+"date": "2026-10-27",
+"time": "10:00",
+"title": "Toddler Takeover at the Green-House",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-10-27/",
+"src": "greenwood"
 },
 {
 "id": "s728c799c02",
@@ -883,6 +983,16 @@
 "src": "birdland"
 },
 {
+"id": "s29672f695f",
+"date": "2026-10-30",
+"time": "20:30",
+"title": "Hereafter Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/hereafter-hours-7/",
+"src": "greenwood"
+},
+{
 "id": "s206ea9c60c",
 "date": "2026-10-30",
 "time": "",
@@ -933,6 +1043,46 @@
 "src": "japansociety"
 },
 {
+"id": "s4f6069fa20",
+"date": "2026-10-31",
+"time": "10:00",
+"title": "Magicians and Mediums Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/magicians-and-mediums-trolley-tour-2/",
+"src": "greenwood"
+},
+{
+"id": "s881f28a998",
+"date": "2026-10-31",
+"time": "12:00",
+"title": "Last Saturdays: Open Classroom",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/last-saturdays-open-classroom-5/",
+"src": "greenwood"
+},
+{
+"id": "s88e13cd094",
+"date": "2026-10-31",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-27/",
+"src": "greenwood"
+},
+{
+"id": "s6ed896964f",
+"date": "2026-10-31",
+"time": "15:30",
+"title": "Revolutionary Spirits",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/revolutionary-spirits-7/2026-10-31/",
+"src": "greenwood"
+},
+{
 "id": "sd2be6ff117",
 "date": "2026-10-31",
 "time": "17:30",
@@ -971,6 +1121,16 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/ron-carters-foursight-quartet-7/",
 "src": "birdland"
+},
+{
+"id": "sf3d95e6cc0",
+"date": "2026-10-31",
+"time": "20:30",
+"title": "Hereafter Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/hereafter-hours-12/",
+"src": "greenwood"
 },
 {
 "id": "sf5d88d5ba6",
@@ -1041,6 +1201,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/merkin-nov",
 "src": "nyphil"
+},
+{
+"id": "s0b9499c9d6",
+"date": "2026-11-03",
+"time": "11:00",
+"title": "Open House at the Mount Vernon Hotel Museum & Garden-Tues, Nov 3rd",
+"venue": "Mount Vernon Hotel Museum",
+"cat": "houses",
+"url": "https://mvhm.org/event/open-house-at-the-mount-vernon-hotel-museum-garden-tues-nov-3rd/",
+"src": "mvhm"
 },
 {
 "id": "sa59d9039c5",
@@ -1711,6 +1881,16 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/winter-member-shopping-week",
 "src": "guggenheim"
+},
+{
+"id": "s897dc7bcbc",
+"date": "2026-12-11",
+"time": "11:00",
+"title": "Holiday Open House at the Mount Vernon Hotel Museum & Garden-Fri, Dec 11th",
+"venue": "Mount Vernon Hotel Museum",
+"cat": "houses",
+"url": "https://mvhm.org/event/holiday-open-house-at-the-mount-vernon-hotel-museum-garden-fri-dec-11th/",
+"src": "mvhm"
 },
 {
 "id": "s155e417408",
