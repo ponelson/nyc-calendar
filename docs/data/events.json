@@ -1,197 +1,7 @@
 {
-"generated": "2026-10-24T13:03:12+00:00",
-"count": 504,
+"generated": "2026-10-25T13:30:36+00:00",
+"count": 492,
 "events": [
-{
-"id": "s1306950d30",
-"date": "2026-10-23",
-"time": "",
-"title": "Ema Nikolovska, mezzo-soprano & Sean Shibe, guitar: Orlando",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/ema-nikolovska-and-sean-shibe",
-"src": "92ny_music"
-},
-{
-"id": "sf0ba9a0086",
-"date": "2026-10-23",
-"time": "",
-"title": "Ema Nikolovska, mezzo-soprano & Sean Shibe, guitar: Orlando",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/ema-nikolovska-and-sean-shibe",
-"src": "92ny_talks"
-},
-{
-"id": "s8337de96f4",
-"date": "2026-10-24",
-"time": "10:00",
-"title": "huddle",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/24/huddle-1000am",
-"src": "carnegie"
-},
-{
-"id": "s027323de12",
-"date": "2026-10-24",
-"time": "10:00",
-"title": "The Revolution Continues: Brooklyn\u2019s Black Trailblazers",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/the-revolution-continues-brooklyns-black-trailblazers/",
-"src": "greenwood"
-},
-{
-"id": "sa7ed6ed232",
-"date": "2026-10-24",
-"time": "10:15",
-"title": "Little Birds, Big World: Meet Green-Wood's Sparrows",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/little-birds-big-world-meet-green-woods-sparrows/",
-"src": "greenwood"
-},
-{
-"id": "s7043c5397b",
-"date": "2026-10-24",
-"time": "13:00",
-"title": "The Superior Institute of Arts Costa Rica Student Recital",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/24/the-superior-institute-of-arts-costa-rica-student-recital-0100pm",
-"src": "carnegie"
-},
-{
-"id": "s3f5ab61369",
-"date": "2026-10-24",
-"time": "13:00",
-"title": "Discover Green-Wood Trolley Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-26/",
-"src": "greenwood"
-},
-{
-"id": "s828d5993c1",
-"date": "2026-10-24",
-"time": "17:30",
-"title": "Pasquale Grasso Trio",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/pasquale-grasso-trio-10/",
-"src": "birdland"
-},
-{
-"id": "se7d6d67111",
-"date": "2026-10-24",
-"time": "19:00",
-"title": "Curtis Stigers",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/curtis-stigers-3/",
-"src": "birdland"
-},
-{
-"id": "s2b56a228b1",
-"date": "2026-10-24",
-"time": "19:00",
-"title": "Fang Tao Jiang, Soprano, and Guest Artists",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/24/fang-tao-jiang-soprano-and-guest-artists-0700pm",
-"src": "carnegie"
-},
-{
-"id": "s2fe536ad58",
-"date": "2026-10-24",
-"time": "19:30",
-"title": "Artist Spotlight: Batiashvili, Capu\u00e7on & Thibaudet",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/artist-spotlight-lisa-batiashvili",
-"src": "nyphil"
-},
-{
-"id": "s7c7623a9d3",
-"date": "2026-10-24",
-"time": "20:00",
-"title": "Pianistically Speaking: An Evening with Richard Atkins",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/24/pianistically-speaking-an-evening-with-richard-atkins-0800pm",
-"src": "carnegie"
-},
-{
-"id": "sa5c3c559c1",
-"date": "2026-10-24",
-"time": "20:30",
-"title": "Ron Carter's Great Big Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carters-great-big-band-7/",
-"src": "birdland"
-},
-{
-"id": "sbec70ee6b9",
-"date": "2026-10-24",
-"time": "",
-"title": "Red Riding Hood",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/red-riding-hood",
-"src": "92ny_music"
-},
-{
-"id": "s314089dfac",
-"date": "2026-10-24",
-"time": "",
-"title": "Seussical\u2122 \u2013 Theatre Young Audiences",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/seussical-theatre-young-audiences",
-"src": "92ny_music"
-},
-{
-"id": "sa89817db3b",
-"date": "2026-10-24",
-"time": "",
-"title": "Red Riding Hood",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/red-riding-hood",
-"src": "92ny_talks"
-},
-{
-"id": "s022f32b170",
-"date": "2026-10-24",
-"time": "",
-"title": "Seussical\u2122 \u2013 Theatre Young Audiences",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/seussical-theatre-young-audiences",
-"src": "92ny_talks"
-},
-{
-"id": "se36b251916",
-"date": "2026-10-24",
-"time": "",
-"title": "Nate Lowman \u2014 final day",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/nate-lowman",
-"src": "zwirner"
-},
-{
-"id": "sa6c8f7bc87",
-"date": "2026-10-24",
-"time": "",
-"title": "Emma McIntyre \u2014 final day",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/emma-mcintyre",
-"src": "zwirner"
-},
 {
 "id": "s5ce9a20cc0",
 "date": "2026-10-25",
@@ -513,6 +323,16 @@
 "src": "92ny_talks"
 },
 {
+"id": "sff70e5e6a8",
+"date": "2026-10-27",
+"time": "10:00",
+"title": "huddle",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/27/huddle-1000am",
+"src": "carnegie"
+},
+{
 "id": "se88f9ca018",
 "date": "2026-10-27",
 "time": "10:00",
@@ -541,6 +361,36 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/alexa-tarantino-quartet/",
 "src": "birdland"
+},
+{
+"id": "s483377abea",
+"date": "2026-10-27",
+"time": "19:30",
+"title": "Opening Gala of Bulgarian Concert Evenings in New York",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/27/opening-gala-of-bulgarian-concert-evenings-in-new-york-0730pm",
+"src": "carnegie"
+},
+{
+"id": "sa49f192fbe",
+"date": "2026-10-27",
+"time": "19:30",
+"title": "American Composers Orchestra",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/27/american-composers-orchestra-0730pm",
+"src": "carnegie"
+},
+{
+"id": "sd83f0752d6",
+"date": "2026-10-27",
+"time": "20:00",
+"title": "Branford Marsalis and Dianne Reeves Celebrate John Coltrane",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/27/branford-marsalis-and-dianne-reeves-celebrate-john-coltrane-0800pm",
+"src": "carnegie"
 },
 {
 "id": "sfe3b2bb778",
@@ -1203,6 +1053,16 @@
 "src": "nyphil"
 },
 {
+"id": "s4e0d9cc83b",
+"date": "2026-11-02",
+"time": "16:00",
+"title": "Day of the Dead Family Celebration",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/day-of-the-dead-family-celebration-3/",
+"src": "greenwood"
+},
+{
 "id": "s0b9499c9d6",
 "date": "2026-11-03",
 "time": "11:00",
@@ -1221,6 +1081,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/donor-rehearsal-thibaudet-performs-liszt",
 "src": "nyphil"
+},
+{
+"id": "s5474699867",
+"date": "2026-11-04",
+"time": "10:30",
+"title": "Green-Wood on Wheels: Stroller-Friendly Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-11-04/",
+"src": "greenwood"
 },
 {
 "id": "s5037b698fe",
@@ -1291,6 +1161,16 @@
 "cat": "houses",
 "url": "https://mvhm.org/event/spies-among-us-from-the-american-revolution-to-1830s-new-york/",
 "src": "mvhm"
+},
+{
+"id": "s922b25a11e",
+"date": "2026-11-06",
+"time": "14:00",
+"title": "TGIF! Afterschool Story and Craft Hour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/tgif-3/",
+"src": "greenwood"
 },
 {
 "id": "s6e25211a31",
