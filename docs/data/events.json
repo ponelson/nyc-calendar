@@ -1,217 +1,7 @@
 {
-"generated": "2026-10-25T13:30:36+00:00",
-"count": 492,
+"generated": "2026-10-26T15:41:31+00:00",
+"count": 479,
 "events": [
-{
-"id": "s5ce9a20cc0",
-"date": "2026-10-25",
-"time": "10:15",
-"title": "Little Birds, Big World: Meet Green-Wood's Sparrows",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/little-birds-big-world-meet-green-woods-sparrows-2/",
-"src": "greenwood"
-},
-{
-"id": "sdf38be0809",
-"date": "2026-10-25",
-"time": "11:00",
-"title": "Grave Beginnings: Green-Wood By Trolley",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley-7/",
-"src": "greenwood"
-},
-{
-"id": "sb6f3d5f632",
-"date": "2026-10-25",
-"time": "12:00",
-"title": "Rest in Pace",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/rest-in-pace-green-house-2/2026-10-25/",
-"src": "greenwood"
-},
-{
-"id": "s96a6c6b58a",
-"date": "2026-10-25",
-"time": "13:00",
-"title": "AyseDeniz Gokcin, Piano",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/25/aysedeniz-gokcin-piano-0100pm",
-"src": "carnegie"
-},
-{
-"id": "sd499d9a1bc",
-"date": "2026-10-25",
-"time": "13:00",
-"title": "Green-Wood's Greatest Hits",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-woods-greatest-hits-17/",
-"src": "greenwood"
-},
-{
-"id": "se0c3478115",
-"date": "2026-10-25",
-"time": "14:15",
-"title": "Cemetery Scavenger Hunt",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/cemetery-scavenger-hunt/",
-"src": "greenwood"
-},
-{
-"id": "s4c8ce1e9e2",
-"date": "2026-10-25",
-"time": "17:30",
-"title": "June Cavlan: \"Celebrating Ella\"",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/june-cavlan/",
-"src": "birdland"
-},
-{
-"id": "sb7eca7806b",
-"date": "2026-10-25",
-"time": "18:30",
-"title": "Green-Wood After Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-after-hours-57/2026-10-25/4/",
-"src": "greenwood"
-},
-{
-"id": "sd97c181a55",
-"date": "2026-10-25",
-"time": "19:00",
-"title": "Curtis Stigers",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/curtis-stigers-5/",
-"src": "birdland"
-},
-{
-"id": "s86d21b178a",
-"date": "2026-10-25",
-"time": "19:30",
-"title": "Rising Stars in Two Piano Recitals",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/25/rising-stars-in-two-piano-recitals-0730pm",
-"src": "carnegie"
-},
-{
-"id": "s6cf5e93ee4",
-"date": "2026-10-25",
-"time": "20:00",
-"title": "Mac DeMarco",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/25/mac-demarco-0800pm",
-"src": "carnegie"
-},
-{
-"id": "s76d4b35b20",
-"date": "2026-10-25",
-"time": "20:30",
-"title": "The Birdland Latin Jazz Orchestra",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/the-birdland-latin-jazz-orchestra-57/",
-"src": "birdland"
-},
-{
-"id": "sa0e4a5b87e",
-"date": "2026-10-25",
-"time": "",
-"title": "92NY NEXUS Hudson Valley Apple Picking and Fall Foliage",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/nexus-hudson-valley-apple-picking-and-fall-foliage",
-"src": "92ny_music"
-},
-{
-"id": "sd05caf5df4",
-"date": "2026-10-25",
-"time": "",
-"title": "Red Riding Hood",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/red-riding-hood",
-"src": "92ny_music"
-},
-{
-"id": "sb9624b5e82",
-"date": "2026-10-25",
-"time": "",
-"title": "Seussical\u2122 \u2013 Theatre Young Audiences",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/seussical-theatre-young-audiences",
-"src": "92ny_music"
-},
-{
-"id": "s7357ed4d00",
-"date": "2026-10-25",
-"time": "",
-"title": "Movement, Breath & Meditation Workshop",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/class/t/movement-breath-and-meditation-workshop",
-"src": "92ny_music"
-},
-{
-"id": "s74b18859fa",
-"date": "2026-10-25",
-"time": "",
-"title": "92NY NEXUS Hudson Valley Apple Picking and Fall Foliage",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/nexus-hudson-valley-apple-picking-and-fall-foliage",
-"src": "92ny_talks"
-},
-{
-"id": "sc5b4f61ba6",
-"date": "2026-10-25",
-"time": "",
-"title": "Red Riding Hood",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/red-riding-hood",
-"src": "92ny_talks"
-},
-{
-"id": "s21a8f65406",
-"date": "2026-10-25",
-"time": "",
-"title": "Seussical\u2122 \u2013 Theatre Young Audiences",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/seussical-theatre-young-audiences",
-"src": "92ny_talks"
-},
-{
-"id": "s39cd327a0a",
-"date": "2026-10-25",
-"time": "",
-"title": "Movement, Breath & Meditation Workshop",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/class/t/movement-breath-and-meditation-workshop",
-"src": "92ny_talks"
-},
-{
-"id": "s4f6971eaf9",
-"date": "2026-10-25",
-"time": "",
-"title": "Drawing the Guggenheim",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/drawing-the-guggenheim",
-"src": "guggenheim"
-},
 {
 "id": "s306d0a12f6",
 "date": "2026-10-25",
@@ -493,6 +283,16 @@
 "src": "emanuel"
 },
 {
+"id": "sa83315a00a",
+"date": "2026-10-28",
+"time": "10:00",
+"title": "huddle",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/28/huddle-1000am",
+"src": "carnegie"
+},
+{
 "id": "s6a513318b4",
 "date": "2026-10-28",
 "time": "17:30",
@@ -511,6 +311,16 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/ron-carters-foursight-quartet/",
 "src": "birdland"
+},
+{
+"id": "secbaca7968",
+"date": "2026-10-28",
+"time": "19:00",
+"title": "Orchestra of St. Luke's Chamber Ensemble",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/28/orchestra-of-st-lukes-chamber-ensemble-0700pm",
+"src": "carnegie"
 },
 {
 "id": "sd820eabc6c",
@@ -1193,6 +1003,16 @@
 "src": "zwirner"
 },
 {
+"id": "s332926dd98",
+"date": "2026-11-07",
+"time": "13:00",
+"title": "Discover Green-Wood Trolley Tour",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-cancelled-2/",
+"src": "greenwood"
+},
+{
 "id": "s02e857812d",
 "date": "2026-11-07",
 "time": "14:00",
@@ -1201,6 +1021,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/ypc-nov",
 "src": "nyphil"
+},
+{
+"id": "sb58d6443ff",
+"date": "2026-11-07",
+"time": "15:00",
+"title": "Secrets in Stone",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/secrets-in-stone-13/2026-11-07/",
+"src": "greenwood"
 },
 {
 "id": "s243eafed11",
@@ -1213,6 +1043,26 @@
 "src": "mvhm"
 },
 {
+"id": "sb830a8da5c",
+"date": "2026-11-07",
+"time": "15:30",
+"title": "Revolutionary Spirits",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/revolutionary-spirits-7/2026-11-07/",
+"src": "greenwood"
+},
+{
+"id": "se0c6b78bef",
+"date": "2026-11-07",
+"time": "17:30",
+"title": "Green-Wood After Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/green-wood-after-hours-58/2026-11-07/2/",
+"src": "greenwood"
+},
+{
 "id": "s72e1af21d8",
 "date": "2026-11-07",
 "time": "19:30",
@@ -1221,6 +1071,46 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/thibaudet-performs-liszt",
 "src": "nyphil"
+},
+{
+"id": "sb4d6b9cf18",
+"date": "2026-11-08",
+"time": "06:30",
+"title": "Birding In Peace",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/birding-in-peace-32/2026-11-08/",
+"src": "greenwood"
+},
+{
+"id": "s1fc6865e1c",
+"date": "2026-11-08",
+"time": "10:00",
+"title": "Fall Family Adventure: Treats and Treasure Hunt on the Trolley!",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/fall-family-adventure-treats-and-treasure-hunt-on-the-trolley/",
+"src": "greenwood"
+},
+{
+"id": "s2d66c5c24b",
+"date": "2026-11-08",
+"time": "10:00",
+"title": "Birding in Peace: Late-Risers Edition (Members Only)",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/birding-in-peace-late-risers-edition-members-only-11/",
+"src": "greenwood"
+},
+{
+"id": "s568eb44ea0",
+"date": "2026-11-08",
+"time": "11:00",
+"title": "Grave Beginnings: Green-Wood By Trolley",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley-6/",
+"src": "greenwood"
 },
 {
 "id": "s4418a2bce2",
@@ -3563,16 +3453,6 @@
 "src": "nyphil"
 },
 {
-"id": "sdf06d174f0",
-"date": "2027-04-23",
-"time": "",
-"title": "Live Operator Hours: Featuring Kalia Vandever in the Listening Room",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-kalia-vandever-in-the-listening-room-05-12-2026/",
-"src": "cooperhewitt"
-},
-{
 "id": "s11eaed54ac",
 "date": "2027-04-24",
 "time": "19:30",
@@ -4261,16 +4141,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/beethoven-symphony-no-9",
 "src": "nyphil"
-},
-{
-"id": "sf1386fc694",
-"date": "2027-06-03",
-"time": "",
-"title": "Discover Design Online: Made in America",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/discover-design-online-made-in-america-06-03-2026/",
-"src": "cooperhewitt"
 },
 {
 "id": "sd93685a078",

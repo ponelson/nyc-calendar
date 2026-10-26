@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T13:30:36+00:00",
+  "generated": "2026-10-26T15:41:31+00:00",
   "healthy": 15,
   "total": 29,
   "venues": [
@@ -24,7 +24,7 @@
       "name": "Carnegie Hall",
       "cat": "classical",
       "strategy": "custom",
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
@@ -32,7 +32,7 @@
       "name": "92NY",
       "cat": "classical",
       "strategy": "custom",
-      "count": 20,
+      "count": 16,
       "error": null
     },
     {
@@ -56,7 +56,7 @@
       "name": "92NY \u2014 Talks",
       "cat": "talks",
       "strategy": "custom",
-      "count": 20,
+      "count": 16,
       "error": null
     },
     {
@@ -104,7 +104,7 @@
       "name": "Guggenheim",
       "cat": "art",
       "strategy": "custom",
-      "count": 22,
+      "count": 21,
       "error": null
     },
     {
@@ -112,7 +112,7 @@
       "name": "Cooper Hewitt",
       "cat": "art",
       "strategy": "custom",
-      "count": 17,
+      "count": 15,
       "error": null
     },
     {
@@ -121,7 +121,7 @@
       "cat": "art",
       "strategy": "custom",
       "count": 0,
-      "error": "RuntimeError: wp:exhibitions looks like an archive, not a calendar (1 items, mostly past) \u2014 refusing"
+      "error": "HTTPError: 504 Server Error: Gateway Timeout for url: https://rubinmuseum.org/wp-json/wp/v2/exhibitions?per_page=100"
     },
     {
       "id": "zwirner",
@@ -168,7 +168,7 @@
       "name": "Birdland",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 20,
+      "count": 17,
       "error": null
     },
     {
@@ -224,7 +224,7 @@
       "name": "Green-Wood Cemetery",
       "cat": "access",
       "strategy": "ics",
-      "count": 17,
+      "count": 19,
       "error": null
     },
     {
