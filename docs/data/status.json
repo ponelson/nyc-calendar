@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-27T15:04:45+00:00",
-  "healthy": 13,
+  "generated": "2026-10-28T15:40:41+00:00",
+  "healthy": 15,
   "total": 29,
   "venues": [
     {
@@ -24,7 +24,7 @@
       "name": "Carnegie Hall",
       "cat": "classical",
       "strategy": "custom",
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
@@ -32,7 +32,7 @@
       "name": "92NY",
       "cat": "classical",
       "strategy": "custom",
-      "count": 16,
+      "count": 14,
       "error": null
     },
     {
@@ -40,7 +40,7 @@
       "name": "Temple Emanu-El \u2014 Streicker",
       "cat": "classical",
       "strategy": "custom",
-      "count": 15,
+      "count": 18,
       "error": null
     },
     {
@@ -56,7 +56,7 @@
       "name": "92NY \u2014 Talks",
       "cat": "talks",
       "strategy": "custom",
-      "count": 16,
+      "count": 14,
       "error": null
     },
     {
@@ -72,8 +72,8 @@
       "name": "Japan Society",
       "cat": "talks",
       "strategy": "custom",
-      "count": 0,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://japansociety.org/wp-json/wp/v2/events?per_page=100"
+      "count": 34,
+      "error": null
     },
     {
       "id": "nyas",
@@ -112,8 +112,8 @@
       "name": "Cooper Hewitt",
       "cat": "art",
       "strategy": "custom",
-      "count": 0,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.cooperhewitt.org/wp-json/wp/v2/ch_events?per_page=100"
+      "count": 15,
+      "error": null
     },
     {
       "id": "rubin",
@@ -168,7 +168,7 @@
       "name": "Birdland",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 14,
+      "count": 12,
       "error": null
     },
     {
@@ -224,7 +224,7 @@
       "name": "Green-Wood Cemetery",
       "cat": "access",
       "strategy": "ics",
-      "count": 20,
+      "count": 21,
       "error": null
     },
     {

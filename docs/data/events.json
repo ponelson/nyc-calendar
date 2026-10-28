@@ -1,117 +1,7 @@
 {
-"generated": "2026-10-27T15:04:45+00:00",
-"count": 431,
+"generated": "2026-10-28T15:40:41+00:00",
+"count": 477,
 "events": [
-{
-"id": "s639b522b74",
-"date": "2026-10-26",
-"time": "",
-"title": "Filter the Facts: Are Your Diet and Drinking Habits Scarring Your Liver? \u2014 Meena B. Bansal, MD with Steve Fecteau, CPXP",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/filter-the-facts",
-"src": "92ny_music"
-},
-{
-"id": "sfc11267c75",
-"date": "2026-10-26",
-"time": "",
-"title": "Maira Kalman: Joy",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/maira-kalman-joy",
-"src": "92ny_music"
-},
-{
-"id": "s9e9333c2a7",
-"date": "2026-10-26",
-"time": "",
-"title": "Filter the Facts: Are Your Diet and Drinking Habits Scarring Your Liver? \u2014 Meena B. Bansal, MD with Steve Fecteau, CPXP",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/filter-the-facts",
-"src": "92ny_talks"
-},
-{
-"id": "sfda697a2e3",
-"date": "2026-10-26",
-"time": "",
-"title": "Maira Kalman: Joy",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/maira-kalman-joy",
-"src": "92ny_talks"
-},
-{
-"id": "se88f9ca018",
-"date": "2026-10-27",
-"time": "10:00",
-"title": "Toddler Takeover at the Green-House",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-10-27/",
-"src": "greenwood"
-},
-{
-"id": "sff70e5e6a8",
-"date": "2026-10-27",
-"time": "11:30",
-"title": "huddle",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/27/huddle-1130am",
-"src": "carnegie"
-},
-{
-"id": "s728c799c02",
-"date": "2026-10-27",
-"time": "17:30",
-"title": "Vince Giordano and the Nighthawks",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-123/",
-"src": "birdland"
-},
-{
-"id": "s2ba4a17e2b",
-"date": "2026-10-27",
-"time": "19:00",
-"title": "Alexa Tarantino Quartet",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/alexa-tarantino-quartet/",
-"src": "birdland"
-},
-{
-"id": "s483377abea",
-"date": "2026-10-27",
-"time": "19:30",
-"title": "Opening Gala of Bulgarian Concert Evenings in New York",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/27/opening-gala-of-bulgarian-concert-evenings-in-new-york-0730pm",
-"src": "carnegie"
-},
-{
-"id": "sa49f192fbe",
-"date": "2026-10-27",
-"time": "19:30",
-"title": "American Composers Orchestra",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/27/american-composers-orchestra-0730pm",
-"src": "carnegie"
-},
-{
-"id": "sd83f0752d6",
-"date": "2026-10-27",
-"time": "20:00",
-"title": "Branford Marsalis and Dianne Reeves Celebrate John Coltrane",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/27/branford-marsalis-and-dianne-reeves-celebrate-john-coltrane-0800pm",
-"src": "carnegie"
-},
 {
 "id": "sfe3b2bb778",
 "date": "2026-10-27",
@@ -203,26 +93,6 @@
 "src": "emanuel"
 },
 {
-"id": "s7a97273a77",
-"date": "2026-10-27",
-"time": "",
-"title": "Center for Interfaith Dialogue: Interfaith Bible Study",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/center-for-interfaith-dialogue-interfaith-bible-study/",
-"src": "emanuel"
-},
-{
-"id": "sa83315a00a",
-"date": "2026-10-28",
-"time": "10:00",
-"title": "huddle",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/28/huddle-1000am",
-"src": "carnegie"
-},
-{
 "id": "s6a513318b4",
 "date": "2026-10-28",
 "time": "17:30",
@@ -253,13 +123,13 @@
 "src": "carnegie"
 },
 {
-"id": "sc3115ea968",
+"id": "se344aa5bf4",
 "date": "2026-10-28",
 "time": "19:30",
-"title": "Standard Time with Michael Feinstein",
+"title": "Postponed: Standard Time with Michael Feinstein",
 "venue": "Carnegie Hall",
 "cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/28/standard-time-with-michael-feinstein-0730pm",
+"url": "https://www.carnegiehall.org/calendar/2026/10/28/postponed-standard-time-with-michael-feinstein-0730pm",
 "src": "carnegie"
 },
 {
@@ -483,6 +353,16 @@
 "src": "birdland"
 },
 {
+"id": "sa4bfcdf612",
+"date": "2026-10-29",
+"time": "19:30",
+"title": "Youl Sun, Piano",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/29/youl-sun-piano-0730pm",
+"src": "carnegie"
+},
+{
 "id": "s3603df4bb3",
 "date": "2026-10-29",
 "time": "19:30",
@@ -491,6 +371,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/get-out-in-concert",
 "src": "nyphil"
+},
+{
+"id": "scfcb095e25",
+"date": "2026-10-29",
+"time": "20:00",
+"title": "Festival Chamber Music",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/29/festival-chamber-music-0800pm",
+"src": "carnegie"
 },
 {
 "id": "sd32f60af9e",
@@ -543,6 +433,16 @@
 "src": "nyphil"
 },
 {
+"id": "s3f59e37f8e",
+"date": "2026-10-30",
+"time": "10:00",
+"title": "huddle",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/30/huddle-1000am",
+"src": "carnegie"
+},
+{
 "id": "s9643649fa6",
 "date": "2026-10-30",
 "time": "10:30",
@@ -583,6 +483,16 @@
 "src": "greenwood"
 },
 {
+"id": "s18949a194b",
+"date": "2026-10-30",
+"time": "18:30",
+"title": "(Sold out) Hereafter Hours",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/hereafter-hours-3/",
+"src": "greenwood"
+},
+{
 "id": "se3d8d3d465",
 "date": "2026-10-30",
 "time": "19:00",
@@ -601,6 +511,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/get-out-in-concert",
 "src": "nyphil"
+},
+{
+"id": "s89690e4b5b",
+"date": "2026-10-30",
+"time": "20:00",
+"title": "Musicians From Marlboro",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/30/musicians-from-marlboro-0800pm",
+"src": "carnegie"
 },
 {
 "id": "sd71d34de5a",
@@ -661,6 +581,16 @@
 "cat": "talks",
 "url": "https://www.92ny.org/event/christopher-williams",
 "src": "92ny_talks"
+},
+{
+"id": "sb9b5be1708",
+"date": "2026-10-30",
+"time": "",
+"title": "Teaching Japan Across the Curriculum: A Professional Learning Community for Educators",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/teaching-japan-across-the-curriculum-a-professional-learning-community-for-educators/",
+"src": "japansociety"
 },
 {
 "id": "s4f6069fa20",
@@ -853,6 +783,16 @@
 "src": "mvhm"
 },
 {
+"id": "s410e8bd782",
+"date": "2026-11-03",
+"time": "",
+"title": "Mozart for Munchkins \u2014 opens",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/mozart-for-munchkins-3/",
+"src": "emanuel"
+},
+{
 "id": "sa59d9039c5",
 "date": "2026-11-04",
 "time": "09:45",
@@ -881,6 +821,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/thibaudet-performs-liszt",
 "src": "nyphil"
+},
+{
+"id": "s6a960decac",
+"date": "2026-11-04",
+"time": "",
+"title": "Ichi-go Ichi-e (\u4e00\u671f\u4e00\u4f1a) with Elizabeth Brown on Shakuhachi",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/ichi-go-ichi-e-with-elizabeth-brown-on-shakuhachi/",
+"src": "japansociety"
 },
 {
 "id": "s4c27e763f7",
@@ -1083,6 +1033,16 @@
 "src": "greenwood"
 },
 {
+"id": "s3a39fc2bfc",
+"date": "2026-11-08",
+"time": "14:00",
+"title": "Catch the Colors: Fall at Green-Wood",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/catch-the-colors-fall-at-green-wood-2/2026-11-08/",
+"src": "greenwood"
+},
+{
 "id": "s4418a2bce2",
 "date": "2026-11-08",
 "time": "",
@@ -1183,6 +1143,16 @@
 "src": "nyphil"
 },
 {
+"id": "s7898fe5eac",
+"date": "2026-11-15",
+"time": "",
+"title": "The Seven Bridges",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/the-seven-bridges/",
+"src": "japansociety"
+},
+{
 "id": "s6a0d43212c",
 "date": "2026-11-18",
 "time": "18:00",
@@ -1221,6 +1191,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/gonzalez-monjas-conducts",
 "src": "nyphil"
+},
+{
+"id": "sbcc2ffbe75",
+"date": "2026-11-19",
+"time": "",
+"title": "Discover Design at Andrew Heiskell Braille and Talking Book Library: Design Across Time",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/discover-design-at-andrew-heiskell-braille-and-talking-book-library-design-across-time-11-19-2026/",
+"src": "cooperhewitt"
 },
 {
 "id": "s857d82ae8a",
@@ -1653,6 +1633,26 @@
 "src": "guggenheim"
 },
 {
+"id": "sb04a465347",
+"date": "2026-12-11",
+"time": "",
+"title": "Haruki Murakami in NYC",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/murakamivip/",
+"src": "japansociety"
+},
+{
+"id": "sd88929f7ab",
+"date": "2026-12-11",
+"time": "",
+"title": "Murakami Mixtape",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/haruki-murakami/",
+"src": "japansociety"
+},
+{
 "id": "s936a18d593",
 "date": "2026-12-12",
 "time": "19:00",
@@ -1753,6 +1753,16 @@
 "src": "guggenheim"
 },
 {
+"id": "s732ef9f051",
+"date": "2026-12-14",
+"time": "",
+"title": "Marty Supreme",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/marty-supreme/",
+"src": "japansociety"
+},
+{
 "id": "sd4542c2335",
 "date": "2026-12-15",
 "time": "19:00",
@@ -1771,6 +1781,16 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/winter-member-shopping-week",
 "src": "guggenheim"
+},
+{
+"id": "sc86393c377",
+"date": "2026-12-15",
+"time": "",
+"title": "Mozart for Munchkins \u2014 final day",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/mozart-for-munchkins-3/",
+"src": "emanuel"
 },
 {
 "id": "s6f1ab02e24",
@@ -2073,6 +2093,16 @@
 "src": "nyphil"
 },
 {
+"id": "s3cd368d88b",
+"date": "2027-01-09",
+"time": "",
+"title": "NieR Art Showcase: Artworks by Koda Kazuma \u2014 opens",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/nier-art-showcase-artworks-by-koda-kazuma/",
+"src": "japansociety"
+},
+{
 "id": "scd5fd8a4e5",
 "date": "2027-01-10",
 "time": "19:30",
@@ -2111,6 +2141,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
 "src": "nycballet"
+},
+{
+"id": "s5709b7cf58",
+"date": "2027-01-19",
+"time": "",
+"title": "Design Hive | Virtual Information Session",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/design-hive-virtual-information-session-10-06-2026/",
+"src": "cooperhewitt"
 },
 {
 "id": "s19dd54405a",
@@ -2313,6 +2353,16 @@
 "src": "nyphil"
 },
 {
+"id": "s5d12a39659",
+"date": "2027-01-29",
+"time": "",
+"title": "Dream Big: A Broadway Family Shabbat",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/broadway-family-shabbat-2026/",
+"src": "emanuel"
+},
+{
 "id": "s6ec81d5316",
 "date": "2027-01-30",
 "time": "19:30",
@@ -2491,6 +2541,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/frank-walter",
 "src": "zwirner"
+},
+{
+"id": "s51fbc353e7",
+"date": "2027-02-06",
+"time": "",
+"title": "Craft and Play Your Own Shakuhachi",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/craft-and-play-your-own-shakuhachi-2027/",
+"src": "japansociety"
 },
 {
 "id": "s4e04c1a7b2",
@@ -2843,6 +2903,16 @@
 "src": "nycballet"
 },
 {
+"id": "s6cb277e75a",
+"date": "2027-03-01",
+"time": "",
+"title": "ENCORE! Build Your Own Shakuhachi: Crafting Workshop",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/encore-build-your-own-shakuhachi-crafting-workshop/",
+"src": "japansociety"
+},
+{
 "id": "s8a0e58c409",
 "date": "2027-03-03",
 "time": "19:30",
@@ -2963,6 +3033,16 @@
 "src": "nyphil"
 },
 {
+"id": "s714025b2b2",
+"date": "2027-03-13",
+"time": "",
+"title": "Kabuki Movement Workshop",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/kabuki-movement-workshop/",
+"src": "japansociety"
+},
+{
 "id": "se8a102de75",
 "date": "2027-03-14",
 "time": "19:30",
@@ -3061,6 +3141,16 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/how-to-network-when-you-hate-networking/",
 "src": "nyas"
+},
+{
+"id": "s4d4d63f7cb",
+"date": "2027-03-30",
+"time": "",
+"title": "NieR Art Showcase: Artworks by Koda Kazuma \u2014 final day",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/nier-art-showcase-artworks-by-koda-kazuma/",
+"src": "japansociety"
 },
 {
 "id": "sff32bb76f9",
@@ -3193,6 +3283,16 @@
 "src": "nyphil"
 },
 {
+"id": "sddbe89d9a3",
+"date": "2027-04-11",
+"time": "",
+"title": "Family Art Day: Drop-in Clay activity inspired by Kawai Kanjir\u014d: House to House Exhibition",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/family-art-day-drop-in-clay-activity-inspired-by-kawai-kanjiro-house-to-house-exhibition/",
+"src": "japansociety"
+},
+{
 "id": "s383e07919d",
 "date": "2027-04-12",
 "time": "19:30",
@@ -3251,6 +3351,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/zubin-mehta-conducts-sibelius-and-dvoak",
 "src": "nyphil"
+},
+{
+"id": "sb7abbe1cf7",
+"date": "2027-04-16",
+"time": "",
+"title": "PJ Shabbat: Family Matters",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/pj-shabbat-2026/",
+"src": "emanuel"
 },
 {
 "id": "s5f35019f5f",
@@ -3533,6 +3643,16 @@
 "src": "nyphil"
 },
 {
+"id": "sf15159362a",
+"date": "2027-05-03",
+"time": "",
+"title": "Carnegie Mansion Tour for the Week of May 3 &#8211; May 9",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/carnegie-mansion-tour-for-the-week-of-may-3-may-9-05-03-2026/",
+"src": "cooperhewitt"
+},
+{
 "id": "sef6c9510eb",
 "date": "2027-05-04",
 "time": "19:30",
@@ -3643,6 +3763,16 @@
 "src": "nycballet"
 },
 {
+"id": "s85491caefd",
+"date": "2027-05-10",
+"time": "",
+"title": "Carnegie Mansion Tour on Sunday, May 10",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/carnegie-mansion-tour-on-sunday-may-10-05-10-2026/",
+"src": "cooperhewitt"
+},
+{
 "id": "s4de9e2b670",
 "date": "2027-05-11",
 "time": "19:30",
@@ -3693,6 +3823,16 @@
 "src": "nycballet"
 },
 {
+"id": "sba993f0944",
+"date": "2027-05-14",
+"time": "",
+"title": "Crossing the Sea: A Family Learners Seder",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/family-passover-seder-2026/",
+"src": "emanuel"
+},
+{
 "id": "s45b7880c81",
 "date": "2027-05-15",
 "time": "19:30",
@@ -3701,6 +3841,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/spring-2027/copland-dance-episodes",
 "src": "nycballet"
+},
+{
+"id": "sf08b894487",
+"date": "2027-05-15",
+"time": "",
+"title": "Kyogen Workshop with Mansaku-no-Kai",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/kyogen-workshop/",
+"src": "japansociety"
 },
 {
 "id": "sf69ad7dc9f",
@@ -3721,6 +3871,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/spring-2027/copland-dance-episodes",
 "src": "nycballet"
+},
+{
+"id": "se8cf0d04ac",
+"date": "2027-05-16",
+"time": "",
+"title": "Live Operator Hours: Featuring Warp Records in the Listening Room",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-warp-records-in-the-listening-room-05-23-2026/",
+"src": "cooperhewitt"
 },
 {
 "id": "s84add1e09d",
@@ -3833,6 +3993,16 @@
 "src": "nycballet"
 },
 {
+"id": "s9fcd5be260",
+"date": "2027-05-23",
+"time": "",
+"title": "Live Operator Hours: Featuring Warp Records in the Listening Room",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-warp-records-in-the-listening-room-05-16-2026/",
+"src": "cooperhewitt"
+},
+{
 "id": "sebd7963b61",
 "date": "2027-05-25",
 "time": "19:30",
@@ -3943,6 +4113,16 @@
 "src": "nyphil"
 },
 {
+"id": "s2948ed5658",
+"date": "2027-05-31",
+"time": "",
+"title": "Tour Made in America with Photographer Christopher Payne &#8211; RESCHEDULED for May 31",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/tour-made-in-america-with-photographer-christopher-payne-rescheduled-for-may-31-05-17-2026/",
+"src": "cooperhewitt"
+},
+{
 "id": "s3abe8a880e",
 "date": "2027-06-01",
 "time": "19:30",
@@ -4001,6 +4181,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/beethoven-symphony-no-9",
 "src": "nyphil"
+},
+{
+"id": "s01192b4c36",
+"date": "2027-06-06",
+"time": "",
+"title": "Live Operator Hours: Featuring Warp Records in the Listening Room",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-warp-records-in-the-listening-room-06-06-2026/",
+"src": "cooperhewitt"
 },
 {
 "id": "s8df795b49b",
@@ -4063,6 +4253,36 @@
 "src": "nyphil"
 },
 {
+"id": "s6e4a81f1aa",
+"date": "2027-06-12",
+"time": "",
+"title": "Live Operator Hours: Featuring Mary Halvorson in the Listening Room",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-mary-halvorson-in-the-listening-room-06-11-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "sd31aa478f0",
+"date": "2027-06-14",
+"time": "",
+"title": "Design in Motion / Dise\u00f1o en Movimiento",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/design-in-motion-diseno-en-movimiento-06-14-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "s082b6ac68b",
+"date": "2027-06-21",
+"time": "",
+"title": "Family Art Day: Susumu Shingu &#8211; Inspired by Nature and Movement",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/family-art-day-susumu-shingu-inspired-by-nature-and-movement/",
+"src": "japansociety"
+},
+{
 "id": "s9db587e031",
 "date": "2027-06-22",
 "time": "19:30",
@@ -4091,6 +4311,26 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/aots-amadeus",
 "src": "nyphil"
+},
+{
+"id": "sd03640fd0e",
+"date": "2027-06-25",
+"time": "",
+"title": "Japan vs. Sweden Soccer Watch Party",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/japan-vs-sweden-soccer-watch-party/",
+"src": "japansociety"
+},
+{
+"id": "s6f4836b775",
+"date": "2027-06-25",
+"time": "",
+"title": "Hakubai &amp; Dassai Sake Dinner",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/hakubai-dassai-sake-dinner/",
+"src": "japansociety"
 },
 {
 "id": "s6a679b2675",
@@ -4133,6 +4373,126 @@
 "src": "nyphil"
 },
 {
+"id": "s997168ec1c",
+"date": "2027-06-28",
+"time": "",
+"title": "Kimono Mom: Sharing Japanese Food and Family with the World",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/kimono-mom-sharing-japanese-food-and-family-with-the-world/",
+"src": "japansociety"
+},
+{
+"id": "sde5e16ab6e",
+"date": "2027-06-28",
+"time": "",
+"title": "Kimono Mom Family Cooking Class",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/kimono-mom-family-cooking-class/",
+"src": "japansociety"
+},
+{
+"id": "sc013826361",
+"date": "2027-07-08",
+"time": "",
+"title": "Family Program | Summer Design Series",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-08-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "sf86bbb0c2a",
+"date": "2027-07-15",
+"time": "",
+"title": "Family Program | Summer Design Series",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-15-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "sf0be3b29b6",
+"date": "2027-07-18",
+"time": "",
+"title": "Sheep in the Box",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sheep-in-the-box/",
+"src": "japansociety"
+},
+{
+"id": "s27978e2510",
+"date": "2027-07-22",
+"time": "",
+"title": "Family Program | Summer Design Series",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-22-2026/",
+"src": "cooperhewitt"
+},
+{
+"id": "s7f17508d83",
+"date": "2027-07-22",
+"time": "",
+"title": "Ainu: Indigenous People of Japan",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/ainu-indigenous-people-of-japan/",
+"src": "japansociety"
+},
+{
+"id": "scabe2c0765",
+"date": "2027-07-22",
+"time": "",
+"title": "Sinot: The Dances of the Sar River",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sinot-the-dances-of-the-sar-river/",
+"src": "japansociety"
+},
+{
+"id": "s18e9236745",
+"date": "2027-07-23",
+"time": "",
+"title": "Ipe: The Culinary Heritage of the Ainu",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/ipe-the-culinary-heritage-of-the-ainu/",
+"src": "japansociety"
+},
+{
+"id": "sf6b06190d1",
+"date": "2027-07-23",
+"time": "",
+"title": "Inuye=an ro!: Woodcarving Workshop",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/inuyean-ro-woodcarving-workshop/",
+"src": "japansociety"
+},
+{
+"id": "s90642e4cbf",
+"date": "2027-07-24",
+"time": "",
+"title": "Japanese Heritage Night at Citi Field",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/japanese-heritage-night-at-citi-field/",
+"src": "japansociety"
+},
+{
+"id": "s68c4290515",
+"date": "2027-07-29",
+"time": "",
+"title": "Family Program | Summer Design Series",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/family-program-summer-design-series-07-29-2026/",
+"src": "cooperhewitt"
+},
+{
 "id": "s5a547270b1",
 "date": "2027-08-02",
 "time": "",
@@ -4141,6 +4501,16 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/curious-about-the-building",
 "src": "guggenheim"
+},
+{
+"id": "s2d12a222d4",
+"date": "2027-08-04",
+"time": "",
+"title": "Discover Design Online: Art of Noise",
+"venue": "Cooper Hewitt",
+"cat": "art",
+"url": "https://www.cooperhewitt.org/event/discover-design-online-art-of-noise-08-04-2026/",
+"src": "cooperhewitt"
 },
 {
 "id": "s96c2009522",
@@ -4183,6 +4553,86 @@
 "src": "guggenheim"
 },
 {
+"id": "s1624a47c90",
+"date": "2027-08-12",
+"time": "",
+"title": "Ikarkar=an ro!: Embroidery Workshop",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/ikarkaran-ro-embroidery-workshop/",
+"src": "japansociety"
+},
+{
+"id": "sb62fdef0c1",
+"date": "2027-08-12",
+"time": "",
+"title": "Itak=an ro!: Language Workshop",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/itakan-ro-language-workshop/",
+"src": "japansociety"
+},
+{
+"id": "s7e2244c890",
+"date": "2027-08-13",
+"time": "",
+"title": "Ikarkar &amp; Itak: Ainu Embroidery and Language",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/ikarkar-itak-ainu-embroidery-and-language/",
+"src": "japansociety"
+},
+{
+"id": "s347145cb53",
+"date": "2027-08-13",
+"time": "",
+"title": "Sinot=an ro!: Ainu Dance Workshop",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/sinotan-ro-ainu-dance-workshop/",
+"src": "japansociety"
+},
+{
+"id": "sdcf0f4d044",
+"date": "2027-09-03",
+"time": "",
+"title": "Japanese Oktoberfest",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/japanese-oktoberfest/",
+"src": "japansociety"
+},
+{
+"id": "s5b742184bd",
+"date": "2027-09-08",
+"time": "",
+"title": "Opening Reception: Gen\u2019ichir\u014d Inokuma\u2019s NYC Salon",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/opening-reception-genichiro-inokumas-nyc-salon/",
+"src": "japansociety"
+},
+{
+"id": "s14dfba1e96",
+"date": "2027-09-10",
+"time": "",
+"title": "exonemo: Terminal at NowHere \u2014 opens",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/exonemo-terminal-at-nowhere/",
+"src": "japansociety"
+},
+{
+"id": "s9418e77b80",
+"date": "2027-09-11",
+"time": "",
+"title": "Opening Reception | Chiharu Shiota: Two Home Countries",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/opening-reception-chiharu-shiota-two-home-countries/",
+"src": "japansociety"
+},
+{
 "id": "sa7226275b5",
 "date": "2027-09-21",
 "time": "",
@@ -4213,6 +4663,16 @@
 "src": "emanuel"
 },
 {
+"id": "s62d0149eff",
+"date": "2027-09-24",
+"time": "",
+"title": "An Interview with Mieko Kawakami: An Owl Takes Flight at Dawn",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/an-interview-with-mieko-kawakami-an-owl-takes-flight-at-dawn/",
+"src": "japansociety"
+},
+{
 "id": "s71c5c62462",
 "date": "2027-09-24",
 "time": "",
@@ -4240,16 +4700,6 @@
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/october-family-shabbat-2026/",
-"src": "emanuel"
-},
-{
-"id": "sa26ae3bbf8",
-"date": "2027-09-25",
-"time": "",
-"title": "Family Shabbat",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/family-shabbat-881/",
 "src": "emanuel"
 },
 {
@@ -4311,6 +4761,16 @@
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/tikkun-olam-first-day-of-sukkot-food-drive-370/",
 "src": "emanuel"
+},
+{
+"id": "s6e57d3236a",
+"date": "2027-11-07",
+"time": "",
+"title": "exonemo: Terminal at NowHere \u2014 final day",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/exonemo-terminal-at-nowhere/",
+"src": "japansociety"
 }
 ]
 }
