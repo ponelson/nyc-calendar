@@ -1,137 +1,7 @@
 {
-"generated": "2026-10-28T15:40:41+00:00",
-"count": 477,
+"generated": "2026-10-29T15:46:47+00:00",
+"count": 461,
 "events": [
-{
-"id": "sfe3b2bb778",
-"date": "2026-10-27",
-"time": "",
-"title": "Narratives: Let Go of the Stories That Keep You Stuck \u2014 Nancy Colier",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/narratives-let-go-of-the-stories-that-keep-you-stuck",
-"src": "92ny_music"
-},
-{
-"id": "s9c70c00e3e",
-"date": "2026-10-27",
-"time": "",
-"title": "Lawrence Wright with Preet Bharara: Redemption",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/lawrence-wright",
-"src": "92ny_music"
-},
-{
-"id": "sfafdfff9ca",
-"date": "2026-10-27",
-"time": "",
-"title": "Nik Cohn with Ben Ratliff: Corner Boy",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/nik-cohn-with-ben-ratliff-corner-boy",
-"src": "92ny_music"
-},
-{
-"id": "s6ee40b240d",
-"date": "2026-10-27",
-"time": "",
-"title": "A New York Times Games Night to celebrate the release of Connections, the Book! with puzzle editors Wyna Liu, Joel Fagli",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/a-new-york-times-games-night",
-"src": "92ny_music"
-},
-{
-"id": "s6ec38042d7",
-"date": "2026-10-27",
-"time": "",
-"title": "Narratives: Let Go of the Stories That Keep You Stuck \u2014 Nancy Colier",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/narratives-let-go-of-the-stories-that-keep-you-stuck",
-"src": "92ny_talks"
-},
-{
-"id": "s14aaa1f8e6",
-"date": "2026-10-27",
-"time": "",
-"title": "Lawrence Wright with Preet Bharara: Redemption",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/lawrence-wright",
-"src": "92ny_talks"
-},
-{
-"id": "s96155e3b0d",
-"date": "2026-10-27",
-"time": "",
-"title": "Nik Cohn with Ben Ratliff: Corner Boy",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/nik-cohn-with-ben-ratliff-corner-boy",
-"src": "92ny_talks"
-},
-{
-"id": "s66a8bc3d0d",
-"date": "2026-10-27",
-"time": "",
-"title": "A New York Times Games Night to celebrate the release of Connections, the Book! with puzzle editors Wyna Liu, Joel Fagli",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/a-new-york-times-games-night",
-"src": "92ny_talks"
-},
-{
-"id": "s5849122eaa",
-"date": "2026-10-27",
-"time": "",
-"title": "Live Podcast Taping of &#8220;Call Me Back&#8221; with Dan Senor",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/live-podcast-taping-of-call-me-back-with-dan-senor/",
-"src": "emanuel"
-},
-{
-"id": "s6a513318b4",
-"date": "2026-10-28",
-"time": "17:30",
-"title": "David Ostwald's Louis Armstrong Eternity Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/david-ostwalds-louis-armstrong-eternity-band-31/",
-"src": "birdland"
-},
-{
-"id": "sdb4b31c950",
-"date": "2026-10-28",
-"time": "19:00",
-"title": "Ron Carter's Foursight Quartet",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carters-foursight-quartet/",
-"src": "birdland"
-},
-{
-"id": "secbaca7968",
-"date": "2026-10-28",
-"time": "19:00",
-"title": "Orchestra of St. Luke's Chamber Ensemble",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/28/orchestra-of-st-lukes-chamber-ensemble-0700pm",
-"src": "carnegie"
-},
-{
-"id": "se344aa5bf4",
-"date": "2026-10-28",
-"time": "19:30",
-"title": "Postponed: Standard Time with Michael Feinstein",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/28/postponed-standard-time-with-michael-feinstein-0730pm",
-"src": "carnegie"
-},
 {
 "id": "sd820eabc6c",
 "date": "2026-10-28",
@@ -141,26 +11,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/get-out-in-concert",
 "src": "nyphil"
-},
-{
-"id": "s1885ccac7c",
-"date": "2026-10-28",
-"time": "20:00",
-"title": "Columbus Symphony Orchestra 75th Anniversary Concert",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/28/columbus-symphony-orchestra-75th-anniversary-concert-0800pm",
-"src": "carnegie"
-},
-{
-"id": "s57724a5560",
-"date": "2026-10-28",
-"time": "20:30",
-"title": "Frank Vignola's Guitar Night with Scott Robinson and Pasquale Grasso",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/frank-vignolas-guitar-night-with-pasquale-grasso-13/",
-"src": "birdland"
 },
 {
 "id": "s1346de4598",
@@ -190,26 +40,6 @@
 "venue": "92NY",
 "cat": "classical",
 "url": "https://www.92ny.org/event/daniel-kraus",
-"src": "92ny_music"
-},
-{
-"id": "s184a0904a6",
-"date": "2026-10-28",
-"time": "",
-"title": "92NY State of New York with CEO Seth Pinsky: New York\u2019s Gubernatorial Candidate Bruce Blakeman",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/new-york-s-gubernatorial-race",
-"src": "92ny_music"
-},
-{
-"id": "sa8de3d9714",
-"date": "2026-10-28",
-"time": "",
-"title": "Israeli Folk Dance (Open Session)",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/class/israeli-folk-dance-open-session",
 "src": "92ny_music"
 },
 {
@@ -243,26 +73,6 @@
 "src": "92ny_talks"
 },
 {
-"id": "s343b293985",
-"date": "2026-10-28",
-"time": "",
-"title": "92NY State of New York with CEO Seth Pinsky: New York\u2019s Gubernatorial Candidate Bruce Blakeman",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/new-york-s-gubernatorial-race",
-"src": "92ny_talks"
-},
-{
-"id": "sca5acefd21",
-"date": "2026-10-28",
-"time": "",
-"title": "Israeli Folk Dance (Open Session)",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/class/israeli-folk-dance-open-session",
-"src": "92ny_talks"
-},
-{
 "id": "sc838960c92",
 "date": "2026-10-28",
 "time": "",
@@ -281,16 +91,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/baby-mozart-toddlers",
 "src": "nyphil"
-},
-{
-"id": "sbfae197c79",
-"date": "2026-10-29",
-"time": "10:00",
-"title": "huddle",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/29/huddle-1000am",
-"src": "carnegie"
 },
 {
 "id": "sb87466abcc",
@@ -333,16 +133,6 @@
 "src": "dyckman"
 },
 {
-"id": "s78f7930ae7",
-"date": "2026-10-29",
-"time": "19:00",
-"title": "Ron Carter's Foursight Quartet",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carters-foursight-quartet-3/",
-"src": "birdland"
-},
-{
 "id": "s13fb81e246",
 "date": "2026-10-29",
 "time": "19:00",
@@ -350,6 +140,16 @@
 "venue": "Birdland",
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/ron-carters-foursight-quartet-with-renee-rosnes-livestream/",
+"src": "birdland"
+},
+{
+"id": "s78f7930ae7",
+"date": "2026-10-29",
+"time": "19:00",
+"title": "Ron Carter's Foursight Quartet",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.birdlandjazz.com/tm-event/ron-carters-foursight-quartet-3/",
 "src": "birdland"
 },
 {
@@ -473,26 +273,6 @@
 "src": "birdland"
 },
 {
-"id": "sf7f084f6fe",
-"date": "2026-10-30",
-"time": "18:00",
-"title": "(SOLD OUT) Hereafter Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/hereafter-hours/",
-"src": "greenwood"
-},
-{
-"id": "s18949a194b",
-"date": "2026-10-30",
-"time": "18:30",
-"title": "(Sold out) Hereafter Hours",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/hereafter-hours-3/",
-"src": "greenwood"
-},
-{
 "id": "se3d8d3d465",
 "date": "2026-10-30",
 "time": "19:00",
@@ -533,10 +313,10 @@
 "src": "birdland"
 },
 {
-"id": "s29672f695f",
+"id": "sf7f084f6fe",
 "date": "2026-10-30",
 "time": "20:30",
-"title": "Hereafter Hours",
+"title": "(SOLD OUT) Hereafter Hours",
 "venue": "Green-Wood Cemetery",
 "cat": "access",
 "url": "https://www.green-wood.com/event/hereafter-hours-7/",
@@ -593,6 +373,16 @@
 "src": "japansociety"
 },
 {
+"id": "sd7882dcd39",
+"date": "2026-10-31",
+"time": "10:00",
+"title": "huddle",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/31/huddle-1000am",
+"src": "carnegie"
+},
+{
 "id": "s4f6069fa20",
 "date": "2026-10-31",
 "time": "10:00",
@@ -611,6 +401,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/last-saturdays-open-classroom-5/",
 "src": "greenwood"
+},
+{
+"id": "s24836bd1d9",
+"date": "2026-10-31",
+"time": "13:00",
+"title": "7th New York Global Music Competition Winners Concert",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/31/7th-new-york-global-music-competition-winners-concert-0100pm",
+"src": "carnegie"
 },
 {
 "id": "s88e13cd094",
@@ -651,6 +451,26 @@
 "cat": "jazz",
 "url": "https://www.birdlandjazz.com/tm-event/senri-oe-trio-3/",
 "src": "birdland"
+},
+{
+"id": "sb43f20f0c6",
+"date": "2026-10-31",
+"time": "19:30",
+"title": "Cancelled: Tuudr Piano Competition Gala",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/31/tuudr-piano-competition-gala-0730pm",
+"src": "carnegie"
+},
+{
+"id": "sac2fb3e3f9",
+"date": "2026-10-31",
+"time": "19:30",
+"title": "Postponed: Nathan Carter",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/31/nathan-carter-0730pm",
+"src": "carnegie"
 },
 {
 "id": "s9c2cfa7b2d",
@@ -1651,6 +1471,16 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/haruki-murakami/",
 "src": "japansociety"
+},
+{
+"id": "s95f0254a06",
+"date": "2026-12-11",
+"time": "",
+"title": "Friday Evening Worship Service with Special Guest Mohammad Darawshe",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/friday-evening-worship-service-with-mohammad-darawshe/",
+"src": "emanuel"
 },
 {
 "id": "s936a18d593",
@@ -2681,6 +2511,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/winter-2027/all-balanchine-iii",
 "src": "nycballet"
+},
+{
+"id": "s27b2ef7ded",
+"date": "2027-02-17",
+"time": "10:30",
+"title": "Winter Drawing Workshop at the Mount Vernon Hotel Museum",
+"venue": "Mount Vernon Hotel Museum",
+"cat": "houses",
+"url": "https://mvhm.org/event/winter-drawing-workshop-at-the-mount-vernon-hotel-museum/",
+"src": "mvhm"
 },
 {
 "id": "s45460ee321",
