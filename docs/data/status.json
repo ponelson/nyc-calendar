@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T18:18:10+00:00",
-  "healthy": 23,
+  "generated": "2026-10-30T23:16:45+00:00",
+  "healthy": 21,
   "total": 30,
   "venues": [
     {
@@ -25,15 +25,16 @@
       "cat": "classical",
       "strategy": "custom",
       "count": 6,
-      "error": null
+      "error": null,
+      "note": "6 kept 2026-10-30..2026-11-02; 1000/page refused (0); walking 10/page | stopped at page 0 (0); 8 JSON payloads: GET https://ekr.zdassets.com/compose/c75361b5-631d-4288-92e3-d9b7917747ea -> dict['products'] | POST https://api-js.datadome.co/js/ -> dict['cookie', 'status']"
     },
     {
       "id": "92ny_music",
       "name": "92NY",
       "cat": "classical",
       "strategy": "custom",
-      "count": 1,
-      "error": null
+      "count": 0,
+      "error": "RuntimeError: no hits; 0 kept ..; menus seen {}; no algolia request captured; 2 JSON payloads: POST https://api.hcaptcha.com/checksiteconfig?v=b1c4f881f907b3e342c934423e5 -> dict['c', 'features', 'pass'] | POST https://my.92ny.org/utate-and-Angue-That-my-wouldst-When-inhabid-all?d -> dict['cookieDomain', 'renewInSec', 'token']"
     },
     {
       "id": "emanuel",
@@ -49,15 +50,15 @@
       "cat": "opera",
       "strategy": "custom",
       "count": 0,
-      "error": "RuntimeError: no events from API or browser; 0 JSON payloads: "
+      "error": "RuntimeError: no events from API or browser; direct API: 0/6 windows; calendar page: 'Just a moment...', 29137 chars; 2026-10-30:403; 2026-11-29:403; 2026-12-29:403; 2027-01-28:403; 2027-02-27:403; 2027-03-29:403; 0 JSON payloads: "
     },
     {
       "id": "92ny_talks",
       "name": "92NY \u2014 Talks",
       "cat": "talks",
       "strategy": "custom",
-      "count": 1,
-      "error": null
+      "count": 0,
+      "error": "RuntimeError: no hits; 0 kept ..; menus seen {}; no algolia request captured; 2 JSON payloads: POST https://api.hcaptcha.com/checksiteconfig?v=b1c4f881f907b3e342c934423e5 -> dict['c', 'features', 'pass'] | POST https://my.92ny.org/utate-and-Angue-That-my-wouldst-When-inhabid-all?d -> dict['cookieDomain', 'renewInSec', 'token']"
     },
     {
       "id": "stanns",
@@ -112,7 +113,7 @@
       "name": "Cooper Hewitt",
       "cat": "art",
       "strategy": "custom",
-      "count": 15,
+      "count": 16,
       "error": null
     },
     {
@@ -137,7 +138,8 @@
       "cat": "jazz",
       "strategy": "custom",
       "count": 6,
-      "error": null
+      "error": null,
+      "note": "6 acts 2026-10-30..2026-11-04; no request matched; captured: 4 JSON payloads: GET https://www.nycjazz.guide/api/auth/get-session -> NoneType | GET https://www.nycjazz.guide/api/events/count?venues=village_vanguard -> dict['count'] | GET https://www.nycjazz.guide/api/events/count?venues=village_vanguard -> dict['count']"
     },
     {
       "id": "bluenote",
@@ -145,31 +147,35 @@
       "cat": "jazz",
       "strategy": "custom",
       "count": 6,
-      "error": null
+      "error": null,
+      "note": "6 acts 2026-10-30..2026-11-01; no request matched; captured: 6 JSON payloads: GET https://www.nycjazz.guide/api/auth/get-session -> NoneType | GET https://www.nycjazz.guide/api/events/count?venues=blue_note -> dict['count'] | GET https://www.nycjazz.guide/api/events/count?venues=blue_note -> dict['count']"
     },
     {
       "id": "smalls",
       "name": "Smalls",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 7,
-      "error": null
+      "count": 9,
+      "error": null,
+      "note": "9 acts 2026-10-30..2026-10-31; no request matched; captured: 6 JSON payloads: GET https://www.nycjazz.guide/api/auth/get-session -> NoneType | GET https://www.nycjazz.guide/api/events/count?venues=smalls -> dict['count'] | POST https://gateway.umami.is/api/send -> dict['cache', 'sessionId', 'visitId']"
     },
     {
       "id": "mezzrow",
       "name": "Mezzrow",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 6,
-      "error": null
+      "count": 7,
+      "error": null,
+      "note": "7 acts 2026-10-30..2026-10-31; no request matched; captured: 4 JSON payloads: GET https://www.nycjazz.guide/api/auth/get-session -> NoneType | GET https://www.nycjazz.guide/api/events/count?venues=mezzrow -> dict['count'] | GET https://www.nycjazz.guide/api/events/count?venues=mezzrow -> dict['count']"
     },
     {
       "id": "dizzys",
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 5,
-      "error": null
+      "count": 6,
+      "error": null,
+      "note": "6 acts 2026-10-30..2026-11-04; no request matched; captured: 4 JSON payloads: GET https://www.nycjazz.guide/api/auth/get-session -> NoneType | GET https://www.nycjazz.guide/api/events/count?venues=dizzys_club_lincoln_ -> dict['count'] | GET https://www.nycjazz.guide/api/events/count?venues=dizzys_club_lincoln_ -> dict['count']"
     },
     {
       "id": "smoke",
@@ -177,7 +183,8 @@
       "cat": "jazz",
       "strategy": "custom",
       "count": 2,
-      "error": null
+      "error": null,
+      "note": "2 acts 2026-10-30..2026-10-31; no request matched; captured: 4 JSON payloads: GET https://www.nycjazz.guide/api/auth/get-session -> NoneType | GET https://www.nycjazz.guide/api/events/count?venues=smoke_jazz_club -> dict['count'] | GET https://www.nycjazz.guide/api/events/count?venues=smoke_jazz_club -> dict['count']"
     },
     {
       "id": "birdland",
@@ -185,7 +192,8 @@
       "cat": "jazz",
       "strategy": "custom",
       "count": 7,
-      "error": null
+      "error": null,
+      "note": "7 acts 2026-10-30..2026-11-02; no request matched; captured: 4 JSON payloads: GET https://www.nycjazz.guide/api/auth/get-session -> NoneType | GET https://www.nycjazz.guide/api/events/count?venues=birdland -> dict['count'] | GET https://www.nycjazz.guide/api/events/count?venues=birdland -> dict['count']"
     },
     {
       "id": "zincbar",
@@ -193,7 +201,8 @@
       "cat": "jazz",
       "strategy": "custom",
       "count": 6,
-      "error": null
+      "error": null,
+      "note": "6 acts 2026-10-30..2026-11-03; no request matched; captured: 4 JSON payloads: GET https://www.nycjazz.guide/api/auth/get-session -> NoneType | GET https://www.nycjazz.guide/api/events/count?venues=zinc_bar -> dict['count'] | GET https://www.nycjazz.guide/api/events/count?venues=zinc_bar -> dict['count']"
     },
     {
       "id": "mvhm",
@@ -240,7 +249,7 @@
       "name": "NYC Permitted Events",
       "cat": "streets",
       "strategy": "custom",
-      "count": 1223,
+      "count": 90,
       "error": null
     }
   ]
