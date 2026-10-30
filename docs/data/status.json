@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T23:36:26+00:00",
+  "generated": "2026-10-30T23:41:09+00:00",
   "healthy": 21,
   "total": 30,
   "venues": [
@@ -54,7 +54,7 @@
       "cat": "opera",
       "strategy": "custom",
       "count": 0,
-      "error": "RuntimeError: no events from API or browser; direct API: 0/6 windows; calendar page: 'Just a moment...', 29180 chars; 2026-10-30:403; 2026-11-29:403; 2026-12-29:403; 2027-01-28:403; 2027-02-27:403; 2027-03-29:403; 0 JSON payloads: "
+      "error": "RuntimeError: no events from API or browser; direct API: 0/6 windows; calendar page: 'Just a moment...', 29159 chars; 2026-10-30:403; 2026-11-29:403; 2026-12-29:403; 2027-01-28:403; 2027-02-27:403; 2027-03-29:403; 0 JSON payloads: "
     },
     {
       "id": "92ny_talks",
@@ -62,7 +62,7 @@
       "cat": "talks",
       "strategy": "custom",
       "count": 0,
-      "error": "RuntimeError: no hits; 0 kept ..; menus seen {}; no query captured (2 JSON payloads: POST https://api.hcaptcha.com/checksiteconfig?v=b1c4f881f907b3e342c934423e5 -> dict['c', 'features', 'pass'] | POST https://my.92ny.org/utate-and-Angue-That-my-wouldst-When-inhabid-all?d -> dict['cookieDomain', 'renewInSec', 'token']); none saved \u2014 run once from a home connection: python -m scrape.main --only 92ny_talks; 2 JSON payloads: POST https://api.hcaptcha.com/checksiteconfig?v=b1c4f881f907b3e342c934423e5 -> dict['c', 'features', 'pass'] | POST https://my.92ny.org/utate-and-Angue-That-my-wouldst-When-inhabid-all?d -> dict['cookieDomain', 'renewInSec', 'token']"
+      "error": "RuntimeError: no hits; 0 kept ..; menus seen {}; no query captured (2 JSON payloads: POST https://my.92ny.org/utate-and-Angue-That-my-wouldst-When-inhabid-all?d -> dict['cookieDomain', 'renewInSec', 'token'] | POST https://api.hcaptcha.com/checksiteconfig?v=b1c4f881f907b3e342c934423e5 -> dict['c', 'features', 'pass']); none saved \u2014 run once from a home connection: python -m scrape.main --only 92ny_talks; 2 JSON payloads: POST https://my.92ny.org/utate-and-Angue-That-my-wouldst-When-inhabid-all?d -> dict['cookieDomain', 'renewInSec', 'token'] | POST https://api.hcaptcha.com/checksiteconfig?v=b1c4f881f907b3e342c934423e5 -> dict['c', 'features', 'pass']"
     },
     {
       "id": "stanns",

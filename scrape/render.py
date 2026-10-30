@@ -18,7 +18,14 @@ Two additions in v2:
 import json
 import re
 
+import os
+
 RENDER_TIMEOUT = 30_000
+# NYCAL_HEADED=1 opens a visible Chrome window. For venues behind Cloudflare or hCaptcha
+# (the Met, 92NY), a real visible browser on a home connection usually passes on its
+# own; if a check wants a click, the person at the keyboard can give it one.
+HEADED = bool(os.environ.get("NYCAL_HEADED"))
+CHALLENGE = ("just a moment", "attention required", "verify you are human", "checking your browser")
 SETTLE_MS = 2_500
 _JSONISH = re.compile(r"application/json|\+json")
 
@@ -64,13 +71,47 @@ def page_fetch(page, url, method="GET", headers=None, body=None):
         return status, None
 
 
+def _challenged(page):
+    try:
+        t = (page.title() or "").lower()
+        if any(c in t for c in CHALLENGE):
+            return True
+        return page.locator("iframe[src*='hcaptcha'], iframe[src*='challenges.cloudflare']").count() > 0
+    except Exception:  # noqa: BLE001
+        return False
+
+
+def _await_challenge(page, limit_s=120):
+    """Give a bot check up to two minutes to clear (by itself, or by a click)."""
+    if not _challenged(page):
+        return
+    print("    ... a bot check is showing in the browser window; it usually clears by itself."
+          " If it asks you to click, click it.", flush=True)
+    for _ in range(limit_s):
+        page.wait_for_timeout(1000)
+        if not _challenged(page):
+            try:
+                page.wait_for_load_state("networkidle", timeout=15_000)
+            except Exception:  # noqa: BLE001
+                pass
+            print("    ... cleared.", flush=True)
+            return
+    print("    ... still blocked after two minutes; moving on.", flush=True)
+
+
 def render(url, capture_json=False, wait_for=None, scroll=0, after=None):
     from playwright.sync_api import sync_playwright
     payloads = []
     extra = None
     with sync_playwright() as pw:
-        browser = pw.chromium.launch(
-            args=["--disable-blink-features=AutomationControlled"])
+        args = ["--disable-blink-features=AutomationControlled"]
+        if HEADED:
+            try:
+                browser = pw.chromium.launch(headless=False, channel="chrome", args=args)
+            except Exception:  # noqa: BLE001  — no Google Chrome installed; use Chromium
+                browser = pw.chromium.launch(headless=False, args=args)
+        else:
+            browser = pw.chromium.launch(args=args)
         ctx = _ctx(browser)
         page = ctx.new_page()
 
@@ -102,6 +143,8 @@ def render(url, capture_json=False, wait_for=None, scroll=0, after=None):
             page.on("response", on_response)
 
         page.goto(url, wait_until="domcontentloaded", timeout=RENDER_TIMEOUT)
+        if HEADED:
+            _await_challenge(page)
         if wait_for:
             try:
                 page.wait_for_selector(wait_for, timeout=10_000)

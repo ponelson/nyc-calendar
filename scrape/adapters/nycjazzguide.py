@@ -44,6 +44,7 @@ VENUE_KEYS = ("venue", "venue_name", "venueName", "venue_slug", "venueSlug", "ve
 ISO = re.compile(r"^\d{4}-\d{2}-\d{2}")
 CLOCK = re.compile(r"(\d{1,2})(?::(\d{2}))?\s*([ap])\.?m", re.I)
 TAGS = re.compile(r"<[^>]+>")
+NOTICE = re.compile(r"^(there will be no|no (show|jam|music)|closed\b|cancel+ed|tba$|private event)", re.I)
 
 
 def _text(v):
@@ -134,7 +135,7 @@ def _from_json(payloads, venue):
                 if title and title.lower() != venue["name"].lower():
                     break
                 title = ""
-        if not title or len(title) < 2:
+        if not title or len(title) < 2 or NOTICE.search(title) or "closed for" in title.lower():
             continue
         if _other_venue(obj, venue):
             continue
@@ -191,15 +192,28 @@ def _more(venue):
             notes.append(f"{path.format(slug='*')}:{status}:{_shape(data)}:{len(rows)}rows")
             if rows:
                 got.append({"url": url, "body": data})
-                # page onward if the route paginates
-                for n in range(2, 12):
-                    nxt = url + ("&" if "?" in url else "?") + f"page={n}"
-                    st2, d2 = render.page_fetch(page, nxt)
-                    r2 = _from_json([{"url": nxt, "body": d2}], venue) if d2 is not None else []
-                    if not r2 or set(r2) <= set(rows):
+                # page onward: the guide answers with hasMore; try offset, then page=
+                def _raw(x):
+                    for key in ("events", "data", "results", "items"):
+                        if isinstance(x, dict) and isinstance(x.get(key), list):
+                            return len(x[key])
+                    return 0
+                for style in ("offset", "page"):
+                    d, n, seen_raw = data, 1, _raw(data)
+                    while isinstance(d, dict) and d.get("hasMore") and n < 15:
+                        n += 1
+                        k = seen_raw if style == "offset" else n
+                        nxt = url + ("&" if "?" in url else "?") + f"{style}={k}"
+                        st2, d = render.page_fetch(page, nxt)
+                        r2 = _from_json([{"url": nxt, "body": d}], venue) if d is not None else []
+                        if not r2 or set(r2) <= set(rows):
+                            break
+                        rows += [r for r in r2 if r not in rows]
+                        seen_raw += _raw(d)
+                        got.append({"url": nxt, "body": d})
+                    if n >= 2:
+                        notes.append(f"paged by {style}")
                         break
-                    rows += r2
-                    got.append({"url": nxt, "body": d2})
                 notes.append(f"paged to {len(rows)} rows")
                 break
         # 2. any captured request that carried shows, widened
@@ -241,11 +255,10 @@ def run(venue):
     ld = []
     for e in jsonld_extract(html):     # final DOM, after any load-more clicks
         day, t = _when(e.get("start"))
-        if day and e.get("title"):
+        if day and e.get("title") and not NOTICE.search(_text(e["title"])):
             ld.append((_text(e["title"]), day, t or "", e.get("url") or ""))
-    if ld:
-        rows += ld
-        src = (src + "+ld") if src else "ld"
+    if ld and not rows:
+        rows, src = ld, "ld"
 
     # one entry per act per night; keep the earliest set time
     best = {}
