@@ -1,87 +1,7 @@
 {
-"generated": "2026-10-29T15:46:47+00:00",
-"count": 461,
+"generated": "2026-10-30T15:29:40+00:00",
+"count": 448,
 "events": [
-{
-"id": "sd820eabc6c",
-"date": "2026-10-28",
-"time": "19:30",
-"title": "Get Out in Concert",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/get-out-in-concert",
-"src": "nyphil"
-},
-{
-"id": "s1346de4598",
-"date": "2026-10-28",
-"time": "",
-"title": "Israel\u2019s Election: Who Won, What Changed, What Comes Next \u2014 Yohanan Plesner, Tamar Hermann, and David Horovitz in Conver",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/israel-s-election",
-"src": "92ny_music"
-},
-{
-"id": "s55dbb3ce82",
-"date": "2026-10-28",
-"time": "",
-"title": "S\u014d Percussion: Steve Reich\u2019s Drumming \u2014 A 90th birthday celebration event",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/so-percussion-steve-reich-s-drumming",
-"src": "92ny_music"
-},
-{
-"id": "s0290802c2e",
-"date": "2026-10-28",
-"time": "",
-"title": "Daniel Kraus with Josh Brolin: Angel Down and the Future of Sci-Fi",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/daniel-kraus",
-"src": "92ny_music"
-},
-{
-"id": "sb24c2a7701",
-"date": "2026-10-28",
-"time": "",
-"title": "Israel\u2019s Election: Who Won, What Changed, What Comes Next \u2014 Yohanan Plesner, Tamar Hermann, and David Horovitz in Conver",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/israel-s-election",
-"src": "92ny_talks"
-},
-{
-"id": "sba9441b557",
-"date": "2026-10-28",
-"time": "",
-"title": "S\u014d Percussion: Steve Reich\u2019s Drumming \u2014 A 90th birthday celebration event",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/so-percussion-steve-reich-s-drumming",
-"src": "92ny_talks"
-},
-{
-"id": "sc7596d5b42",
-"date": "2026-10-28",
-"time": "",
-"title": "Daniel Kraus with Josh Brolin: Angel Down and the Future of Sci-Fi",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/daniel-kraus",
-"src": "92ny_talks"
-},
-{
-"id": "sc838960c92",
-"date": "2026-10-28",
-"time": "",
-"title": "Mentoring Up in STEM: Strengthening Relationships with PIs, Advisors, and Senior Colleagues",
-"venue": "New York Academy of Sciences",
-"cat": "talks",
-"url": "https://www.nyas.org/shaping-science/events/mentoring-up-in-stem-strengthening-relationships/",
-"src": "nyas"
-},
 {
 "id": "saf03040332",
 "date": "2026-10-29",
@@ -113,56 +33,6 @@
 "src": "nyphil"
 },
 {
-"id": "sc507986d23",
-"date": "2026-10-29",
-"time": "17:30",
-"title": "The High Society New Orleans Jazz Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/the-high-society-new-orleans-jazz-band-59/",
-"src": "birdland"
-},
-{
-"id": "s54bfa7d403",
-"date": "2026-10-29",
-"time": "18:00",
-"title": "Opening Reception: Spot P!",
-"venue": "Dyckman Farmhouse",
-"cat": "houses",
-"url": "https://dyckmanfarmhouse.org/event/opening-reception-spot-p/",
-"src": "dyckman"
-},
-{
-"id": "s13fb81e246",
-"date": "2026-10-29",
-"time": "19:00",
-"title": "Ron Carter's Foursight Quartet Livestream",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carters-foursight-quartet-with-renee-rosnes-livestream/",
-"src": "birdland"
-},
-{
-"id": "s78f7930ae7",
-"date": "2026-10-29",
-"time": "19:00",
-"title": "Ron Carter's Foursight Quartet",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.birdlandjazz.com/tm-event/ron-carters-foursight-quartet-3/",
-"src": "birdland"
-},
-{
-"id": "sa4bfcdf612",
-"date": "2026-10-29",
-"time": "19:30",
-"title": "Youl Sun, Piano",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/29/youl-sun-piano-0730pm",
-"src": "carnegie"
-},
-{
 "id": "s3603df4bb3",
 "date": "2026-10-29",
 "time": "19:30",
@@ -173,26 +43,6 @@
 "src": "nyphil"
 },
 {
-"id": "scfcb095e25",
-"date": "2026-10-29",
-"time": "20:00",
-"title": "Festival Chamber Music",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/29/festival-chamber-music-0800pm",
-"src": "carnegie"
-},
-{
-"id": "sd32f60af9e",
-"date": "2026-10-29",
-"time": "",
-"title": "Christopher WilliamsSpectre de la Rose (World Premiere)La Rh\u00e9torique des Dieux (New York Premiere)",
-"venue": "92NY",
-"cat": "classical",
-"url": "https://www.92ny.org/event/christopher-williams",
-"src": "92ny_music"
-},
-{
 "id": "s4d18b3e572",
 "date": "2026-10-29",
 "time": "",
@@ -201,16 +51,6 @@
 "cat": "classical",
 "url": "https://www.92ny.org/event/silas-house-the-tulip-poplars",
 "src": "92ny_music"
-},
-{
-"id": "sfcf31f26c7",
-"date": "2026-10-29",
-"time": "",
-"title": "Christopher WilliamsSpectre de la Rose (World Premiere)La Rh\u00e9torique des Dieux (New York Premiere)",
-"venue": "92NY \u2014 Talks",
-"cat": "talks",
-"url": "https://www.92ny.org/event/christopher-williams",
-"src": "92ny_talks"
 },
 {
 "id": "sbec1d44e2e",
@@ -233,16 +73,6 @@
 "src": "nyphil"
 },
 {
-"id": "s3f59e37f8e",
-"date": "2026-10-30",
-"time": "10:00",
-"title": "huddle",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/10/30/huddle-1000am",
-"src": "carnegie"
-},
-{
 "id": "s9643649fa6",
 "date": "2026-10-30",
 "time": "10:30",
@@ -251,6 +81,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/baby-mozart-babies",
 "src": "nyphil"
+},
+{
+"id": "s3f59e37f8e",
+"date": "2026-10-30",
+"time": "11:30",
+"title": "huddle",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/10/30/huddle-1130am",
+"src": "carnegie"
 },
 {
 "id": "s8cadfd943c",
@@ -573,6 +413,26 @@
 "src": "nyphil"
 },
 {
+"id": "s795b3996d1",
+"date": "2026-11-01",
+"time": "19:00",
+"title": "\"Sound of Home\" Chinese Classical Music Concert",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/11/01/sound-of-home-chinese-classical-music-concert-0700pm",
+"src": "carnegie"
+},
+{
+"id": "sbca224093f",
+"date": "2026-11-01",
+"time": "19:30",
+"title": "Xiaobin Ma, Soprano",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/11/01/xiaobin-ma-soprano-0730pm",
+"src": "carnegie"
+},
+{
 "id": "s4e0d9cc83b",
 "date": "2026-11-02",
 "time": "16:00",
@@ -581,6 +441,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/day-of-the-dead-family-celebration-3/",
 "src": "greenwood"
+},
+{
+"id": "s795dc033b1",
+"date": "2026-11-02",
+"time": "19:00",
+"title": "Falsettos 10 Year Anniversary Concert",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/11/02/falsettos-10-year-anniversary-concert-0700pm",
+"src": "carnegie"
 },
 {
 "id": "s1cbb586de7",

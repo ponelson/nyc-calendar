@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29T15:46:47+00:00",
+  "generated": "2026-10-30T15:29:40+00:00",
   "healthy": 15,
   "total": 29,
   "venues": [
@@ -16,7 +16,7 @@
       "name": "New York Philharmonic",
       "cat": "classical",
       "strategy": "custom",
-      "count": 162,
+      "count": 161,
       "error": null
     },
     {
@@ -24,7 +24,7 @@
       "name": "Carnegie Hall",
       "cat": "classical",
       "strategy": "custom",
-      "count": 8,
+      "count": 9,
       "error": null
     },
     {
@@ -32,7 +32,7 @@
       "name": "92NY",
       "cat": "classical",
       "strategy": "custom",
-      "count": 8,
+      "count": 4,
       "error": null
     },
     {
@@ -56,7 +56,7 @@
       "name": "92NY \u2014 Talks",
       "cat": "talks",
       "strategy": "custom",
-      "count": 8,
+      "count": 4,
       "error": null
     },
     {
@@ -80,7 +80,7 @@
       "name": "New York Academy of Sciences",
       "cat": "talks",
       "strategy": "custom",
-      "count": 22,
+      "count": 21,
       "error": null
     },
     {
@@ -168,7 +168,7 @@
       "name": "Birdland",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 9,
+      "count": 6,
       "error": null
     },
     {
@@ -216,7 +216,7 @@
       "name": "Dyckman Farmhouse",
       "cat": "houses",
       "strategy": "ics",
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
