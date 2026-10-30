@@ -77,10 +77,18 @@ def render(url, capture_json=False, wait_for=None, scroll=0, after=None):
         if capture_json:
             def on_response(resp):
                 try:
-                    if not _JSONISH.search(resp.headers.get("content-type", "")):
-                        return
+                    ctype = resp.headers.get("content-type", "")
                     req = resp.request
                     if req.resource_type not in ("xhr", "fetch"):
+                        return
+                    if "text/x-component" in ctype:
+                        # Next.js server-component / server-action payloads: JSON lines
+                        # behind short ids. Kept raw; adapters decode with rsc_objects().
+                        payloads.append({"url": resp.url, "body": None, "rsc": resp.text(),
+                                         "method": req.method, "headers": dict(req.headers),
+                                         "post": req.post_data})
+                        return
+                    if not _JSONISH.search(ctype):
                         return
                     payloads.append({
                         "url": resp.url,
@@ -152,12 +160,31 @@ def sniff(url):
     return html, out
 
 
+def rsc_objects(text):
+    """Decode a Next.js flight payload ("1:{...}\n2:[...]") into JSON values."""
+    out = []
+    for line in (text or "").splitlines():
+        m = re.match(r"^[0-9a-zA-Z]+:(.*)$", line)
+        if not m:
+            continue
+        chunk = m.group(1)
+        if chunk[:1] in "[{":
+            try:
+                out.append(json.loads(chunk))
+            except ValueError:
+                pass
+    return out
+
+
 def describe(payloads, limit=4):
     """One-line summary of what a page fetched — goes into status.json on failure so
     the next fix can be made from the repo instead of from a pasted terminal."""
     bits = []
     for p in payloads[:limit]:
         b = p.get("body")
+        if p.get("rsc") is not None:
+            bits.append(f"{p.get('method','GET')} {p['url'][:70]} -> rsc[{len(p['rsc'])}]")
+            continue
         shape = (f"dict{sorted(b.keys())[:6]}" if isinstance(b, dict)
                  else f"list[{len(b)}]" if isinstance(b, list) else type(b).__name__)
         bits.append(f"{p.get('method','GET')} {p['url'][:70]} -> {shape}")

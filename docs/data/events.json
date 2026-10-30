@@ -1,57 +1,7 @@
 {
-"generated": "2026-10-30T23:16:45+00:00",
-"count": 571,
+"generated": "2026-10-30T23:22:18+00:00",
+"count": 566,
 "events": [
-{
-"id": "saf03040332",
-"date": "2026-10-29",
-"time": "09:15",
-"title": "Baby Mozart: Toddlers",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/baby-mozart-toddlers",
-"src": "nyphil"
-},
-{
-"id": "s1c6d81d7f2",
-"date": "2026-10-29",
-"time": "10:00",
-"title": "Bandit Running - NYC Marathon Pop-up Shop (Street Event) \u00b7 GRAND STREET between WEST BROADWAY and THOMPSON STREET \u2014 Part",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sb87466abcc",
-"date": "2026-10-29",
-"time": "10:30",
-"title": "Baby Mozart: Babies",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/baby-mozart-babies",
-"src": "nyphil"
-},
-{
-"id": "s6b70a982d7",
-"date": "2026-10-29",
-"time": "11:35",
-"title": "Baby Mozart: Babies & Toddlers",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/baby-mozart-babies-and-toddlers",
-"src": "nyphil"
-},
-{
-"id": "s3603df4bb3",
-"date": "2026-10-29",
-"time": "19:30",
-"title": "Get Out in Concert",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/get-out-in-concert",
-"src": "nyphil"
-},
 {
 "id": "sbd2fb3d7b0",
 "date": "2026-10-30",

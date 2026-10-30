@@ -64,13 +64,8 @@ NOTE = {}
 
 
 def run(venue):
-    html, payloads, extra = render.render(
-        venue["url"], capture_json=True, scroll=2, after=algolia.replay)
-
-    bodies = [p["body"] for p in payloads if "algolia" in p["url"]]
-    extra = extra if isinstance(extra, dict) else {}
-    replayed = extra.get("bodies") or []
-    bodies += replayed
+    bodies, notes, payloads = algolia.harvest(venue)
+    extra = {"notes": notes}
 
     seen, out = set(), []
     for h in algolia.hits(bodies):

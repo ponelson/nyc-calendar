@@ -54,7 +54,7 @@ VENUES = [
     V("morgan", "The Morgan Library", "classical",
       "https://www.themorgan.org/programs", strategy="link"),
     V("92ny_music", "92NY", "classical", "https://www.92ny.org/whats-on/calendar", strategy="custom", adapter="ninetytwoy",
-      menu=["concert", "music", "performance", "dance"]),
+      menu=["concert", "music", "performance", "dance"], state_key="92ny"),
     V("bargemusic", "Bargemusic", "classical", "https://www.bargemusic.org/", strategy="render"),
     V("sawdust", "National Sawdust", "classical",
       "https://nationalsawdust.org/calendar/", strategy="link"),
@@ -92,7 +92,7 @@ VENUES = [
 
     # ---------------- talks & theater ----------------
     V("92ny_talks", "92NY — Talks", "talks", "https://www.92ny.org/whats-on/calendar", strategy="custom", adapter="ninetytwoy",
-      menu=["talk", "conversation", "lecture", "reading"], menu_default=True),
+      menu=["talk", "conversation", "lecture", "reading"], menu_default=True, state_key="92ny"),
     V("nypl", "LIVE from NYPL", "talks",
       "https://www.nypl.org/events/programs/live", strategy="link"),
     V("greenespace", "The Greene Space", "talks", "https://www.thegreenespace.org/", strategy="link"),

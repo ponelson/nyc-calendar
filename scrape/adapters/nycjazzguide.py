@@ -110,7 +110,11 @@ def _other_venue(obj, venue):
 def _from_json(payloads, venue):
     nodes = []
     for p in payloads:
-        _walk(p["body"], nodes)
+        if p.get("rsc") is not None:
+            for obj in render.rsc_objects(p["rsc"]):
+                _walk(obj, nodes)
+        elif p.get("body") is not None:
+            _walk(p["body"], nodes)
     rows = []
     for obj in nodes:
         if not isinstance(obj, dict):
@@ -150,25 +154,78 @@ def _from_json(payloads, venue):
 
 
 NOTE = {}
+BASE = "https://www.nycjazz.guide"
+
+# The venue page calls /api/events/count?venues=<slug>; the list itself is rendered on
+# the server. These are the sibling routes worth asking for, in order. Whatever answers
+# is logged in status.json either way.
+CANDIDATES = (
+    "/api/events?venues={slug}&limit=500",
+    "/api/events?venues={slug}",
+    "/api/events?venue={slug}&limit=500",
+    "/api/venues/{slug}/events?limit=500",
+    "/api/venues/{slug}/events",
+)
+MORE_LABEL = re.compile(r"(load|show|see|view)\s+(more|all|later)|more\s+(shows|events|dates)|next\s+(week|page)", re.I)
+
+
+def _shape(data):
+    if isinstance(data, list):
+        return f"list[{len(data)}]"
+    if isinstance(data, dict):
+        return "dict" + str(sorted(data.keys())[:5])
+    return type(data).__name__
 
 
 def _more(venue):
-    """after-hook: re-send whichever request carried this room's shows, widened."""
     from .. import widen as W
+    slug = venue["guide"]
 
     def after(page, payloads):
         got, notes = [], []
+        # 1. sibling API routes, asked from inside the guide's own page
+        for path in CANDIDATES:
+            url = BASE + path.format(slug=slug)
+            status, data = render.page_fetch(page, url)
+            rows = _from_json([{"url": url, "body": data}], venue) if data is not None else []
+            notes.append(f"{path.format(slug='*')}:{status}:{_shape(data)}:{len(rows)}rows")
+            if rows:
+                got.append({"url": url, "body": data})
+                # page onward if the route paginates
+                for n in range(2, 12):
+                    nxt = url + ("&" if "?" in url else "?") + f"page={n}"
+                    st2, d2 = render.page_fetch(page, nxt)
+                    r2 = _from_json([{"url": nxt, "body": d2}], venue) if d2 is not None else []
+                    if not r2 or set(r2) <= set(rows):
+                        break
+                    rows += r2
+                    got.append({"url": nxt, "body": d2})
+                notes.append(f"paged to {len(rows)} rows")
+                break
+        # 2. any captured request that carried shows, widened
         for p in payloads:
-            if not _from_json([p], venue):
+            if p.get("body") is None or not _from_json([p], venue):
                 continue
             url, method, headers, body, changes = W.widen(p)
-            if not changes:
-                notes.append(f"no widenable params in {p.get('method','GET')} {p['url'][:120]}")
-                continue
-            status, data = render.page_fetch(page, url, method, headers, body)
-            notes.append(f"{status} {' '.join(changes)} <- {p['url'][:100]}")
-            if data is not None:
-                got.append({"url": url, "body": data})
+            if changes:
+                status, data = render.page_fetch(page, url, method, headers, body)
+                notes.append(f"widen {status} {' '.join(changes)}")
+                if data is not None:
+                    got.append({"url": url, "body": data})
+        # 3. a "load more" control, found by its visible label, pressed until it's gone
+        clicks = 0
+        if not got:
+            for _ in range(15):
+                try:
+                    btn = page.get_by_role("button", name=MORE_LABEL).first
+                    if not btn.is_visible(timeout=1500):
+                        break
+                    btn.click(timeout=3000)
+                    page.wait_for_timeout(1500)
+                    clicks += 1
+                except Exception:  # noqa: BLE001
+                    break
+            notes.append(f"load-more clicks:{clicks}")
         return {"payloads": got, "notes": notes}
     return after
 
@@ -177,14 +234,18 @@ def run(venue):
     url = GUIDE.format(slug=venue["guide"])
     html, payloads, extra = render.render(url, capture_json=True, scroll=3, after=_more(venue))
     extra = extra if isinstance(extra, dict) else {}
-    widened = extra.get("payloads") or []
+    found = extra.get("payloads") or []
 
-    rows = _from_json(payloads + widened, venue)
-    if not rows:
-        for e in jsonld_extract(html):
-            day, t = _when(e.get("start"))
-            if day and e.get("title"):
-                rows.append((_text(e["title"]), day, t or "", e.get("url") or ""))
+    rows = _from_json(payloads + found, venue)
+    src = "api" if rows else ""
+    ld = []
+    for e in jsonld_extract(html):     # final DOM, after any load-more clicks
+        day, t = _when(e.get("start"))
+        if day and e.get("title"):
+            ld.append((_text(e["title"]), day, t or "", e.get("url") or ""))
+    if ld:
+        rows += ld
+        src = (src + "+ld") if src else "ld"
 
     # one entry per act per night; keep the earliest set time
     best = {}
@@ -196,7 +257,7 @@ def run(venue):
     out = []
     for title, day, t, link in best.values():
         if link.startswith("/"):
-            link = "https://www.nycjazz.guide" + link
+            link = BASE + link
         out.append({
             "title": title,
             "start": f"{day}T{t}" if t else day,
@@ -204,10 +265,10 @@ def run(venue):
             "url": link or url,
         })
     days = sorted({r[1] for r in rows})
-    NOTE[venue["id"]] = (f"{len(out)} acts {days[0] if days else ''}..{days[-1] if days else ''}; "
-                         + " | ".join(extra.get("notes") or [str(extra.get("error", "no request matched"))])
-                         + "; captured: " + render.describe(payloads, 3))[:700]
+    rsc = sum(1 for p in payloads if p.get("rsc") is not None)
+    NOTE[venue["id"]] = (f"{len(out)} acts {days[0] if days else ''}..{days[-1] if days else ''} via {src or 'nothing'}; "
+                         + " | ".join(extra.get("notes") or [str(extra.get("error", ""))])
+                         + f"; rsc payloads:{rsc}; captured: " + render.describe(payloads, 4))[:900]
     if not out:
-        raise RuntimeError("nycjazz.guide: nothing event-shaped; "
-                           f"ld+json={'application/ld+json' in html}; " + NOTE[venue["id"]])
+        raise RuntimeError("nycjazz.guide: nothing event-shaped; " + NOTE[venue["id"]])
     return out

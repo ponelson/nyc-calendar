@@ -1,23 +1,28 @@
 """
-Algolia replay.
+Algolia, asked directly.
 
-Carnegie Hall and 92NY both paint their calendars from Algolia, and both ask for a
+Carnegie Hall and 92NY both paint their calendars from Algolia and both ask for a
 small slice: Carnegie ten hits, 92NY the month on screen. The browser shows us the
-exact request — index, filters, and the search-only key in its headers — so we send it
-again from inside the same page with two changes:
+exact query — index, filters, and the public search-only key the page sends — so we
+send it again from Python, straight to Algolia, with two changes:
 
-  * hitsPerPage raised to 1000 (Algolia's ceiling), paging until nbPages runs out
+  * hitsPerPage raised to 1000 (or, if the key refuses that, the page's own size
+    walked page by page)
   * any upper date bound in numericFilters / filters pushed out to the horizon
 
-Everything else (facets, index, sort) stays as the venue wrote it. If the replay fails
-for any reason, the adapter still has the original captured hits to fall back on.
+Algolia sits outside the venues' bot walls (DataDome at Carnegie, hCaptcha at 92NY),
+so once a query is known it works from CI. Each captured query is saved to
+scrape/state/algolia-<venue>.json; when a run can't load the venue page, the saved
+query is used instead. The key is the same public search key every visitor's browser
+receives.
 """
 import json
+import os
 import re
 import time
-from urllib.parse import parse_qsl, urlencode, quote
+from urllib.parse import parse_qsl, urlencode, quote, urlsplit
 
-from .render import page_fetch
+import requests
 
 HORIZON_DAYS = 240
 MAX_PAGES = 6
@@ -68,21 +73,57 @@ def _mutate_request(req, page_no):
     return req
 
 
-def _creds_to_query(url, headers):
-    """Move x-algolia-* credentials from headers into the URL (Algolia accepts both).
-    Keeps the replay a CORS 'simple request', the same trick Algolia's own client uses."""
-    h = dict(headers or {})
-    extra = []
-    for k in list(h):
-        if k.lower() in ("x-algolia-api-key", "x-algolia-application-id"):
-            extra.append((k.lower(), h.pop(k)))
-    for k in list(h):
-        if k.lower() == "content-type":
-            h.pop(k)
-    h["content-type"] = "application/x-www-form-urlencoded"
-    if extra:
-        url += ("&" if "?" in url else "?") + urlencode(extra)
-    return url, h
+STATE_DIR = os.path.join(os.path.dirname(__file__), "state")
+
+
+def _creds(p):
+    """(app_id, api_key) from a captured request's headers or query string."""
+    h = {k.lower(): v for k, v in (p.get("headers") or {}).items()}
+    q = {k.lower(): v for k, v in parse_qsl(urlsplit(p["url"]).query)}
+    app = h.get("x-algolia-application-id") or q.get("x-algolia-application-id")
+    key = h.get("x-algolia-api-key") or q.get("x-algolia-api-key")
+    if not app:
+        m = re.match(r"https://([a-z0-9]+)-dsn\.algolia\.net", p["url"], re.I)
+        app = m.group(1) if m else None
+    return app, key
+
+
+def specs_from(payloads, page_url):
+    """Every distinct Algolia query the page made, with what's needed to send it again."""
+    out, seen = [], set()
+    for p in payloads:
+        if "algolia" not in p["url"] or not p.get("post"):
+            continue
+        try:
+            body = json.loads(p["post"])
+        except (ValueError, TypeError):
+            continue
+        app, key = _creds(p)
+        if not (app and key):
+            continue
+        sig = json.dumps(body, sort_keys=True)
+        if sig in seen:
+            continue
+        seen.add(sig)
+        parts = urlsplit(p["url"])
+        out.append({"endpoint": f"{parts.scheme}://{parts.netloc}{parts.path}",
+                    "app": app, "key": key, "body": body, "referer": page_url})
+    return out
+
+
+def save(venue_id, specs):
+    os.makedirs(STATE_DIR, exist_ok=True)
+    with open(os.path.join(STATE_DIR, f"algolia-{venue_id}.json"), "w") as f:
+        json.dump({"saved": time.strftime("%Y-%m-%d"), "specs": specs}, f, indent=1)
+
+
+def load(venue_id):
+    try:
+        with open(os.path.join(STATE_DIR, f"algolia-{venue_id}.json")) as f:
+            d = json.load(f)
+        return d.get("specs") or [], d.get("saved", "?")
+    except (OSError, ValueError):
+        return [], None
 
 
 def _orig_size(body):
@@ -107,13 +148,28 @@ def _set_size(req, size, page_no):
     return req
 
 
-def _send(page, url, headers, body, size, page_no):
+def _post(spec, size, page_no):
+    body = spec["body"]
     if "requests" in body:
         nb = dict(body)
         nb["requests"] = [_set_size(r, size, page_no) for r in body["requests"]]
     else:
         nb = _set_size(body, size, page_no)
-    return page_fetch(page, url, "POST", headers, json.dumps(nb))
+    origin = "/".join(spec["referer"].split("/")[:3])
+    try:
+        r = requests.post(spec["endpoint"], data=json.dumps(nb), timeout=30, headers={
+            "X-Algolia-API-Key": spec["key"], "X-Algolia-Application-Id": spec["app"],
+            "Content-Type": "application/json", "Referer": spec["referer"], "Origin": origin,
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+                          "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"})
+    except Exception as e:  # noqa: BLE001
+        return type(e).__name__, None
+    if r.status_code != 200:
+        return r.status_code, None
+    try:
+        return 200, r.json()
+    except ValueError:
+        return "not json", None
 
 
 def _pages_left(data):
@@ -122,44 +178,28 @@ def _pages_left(data):
                for r in results)
 
 
-def replay(page, payloads):
-    """Re-send the page's own Algolia query for the whole season.
-    Returns {"bodies": [...], "notes": [...]} — notes land in status.json."""
-    out, notes, tried = [], [], set()
-    posts = [p for p in payloads if "algolia" in p["url"] and p.get("post")]
-    gets = [p for p in payloads if "algolia" in p["url"] and not p.get("post")]
-    if gets and not posts:
-        notes.append(f"algolia via GET only ({gets[0]['url'][:90]}) — not replayed")
-    for p in posts:
-        try:
-            body = json.loads(p["post"])
-        except (ValueError, TypeError):
-            notes.append("algolia body not JSON")
-            continue
-        sig = json.dumps(body, sort_keys=True)[:400]
-        if sig in tried:
-            continue
-        tried.add(sig)
-        url, headers = _creds_to_query(p["url"], p.get("headers"))
-
-        # 1. one big page
-        status, data = _send(page, url, headers, body, 1000, 0)
+def query_all(specs):
+    """Send each saved query for the whole season. Returns (bodies, notes).
+    Algolia sits outside the venue's bot wall, so this works from CI even when the
+    venue's own page is behind DataDome or a captcha."""
+    out, notes = [], []
+    for spec in specs[:3]:
+        status, data = _post(spec, 1000, 0)
         if data:
             out.append(data)
-            notes.append(f"1000/page ok")
             n = 1
             while _pages_left(data) and n < MAX_PAGES:
-                status, data = _send(page, url, headers, body, 1000, n)
+                status, data = _post(spec, 1000, n)
                 if not data:
                     break
                 out.append(data)
                 n += 1
+            notes.append(f"1000/page ok, {n} page(s)")
             continue
-        # 2. the page's own size, walked page by page
-        size = _orig_size(body)
+        size = _orig_size(spec["body"])
         notes.append(f"1000/page refused ({status}); walking {size}/page")
         for n in range(90):
-            status, data = _send(page, url, headers, body, size, n)
+            status, data = _post(spec, size, n)
             if not data:
                 notes.append(f"stopped at page {n} ({status})")
                 break
@@ -167,11 +207,32 @@ def replay(page, payloads):
             if not _pages_left(data):
                 notes.append(f"walked {n + 1} pages")
                 break
-        if len(tried) >= 3:
-            break
-    if not posts and not gets:
-        notes.append("no algolia request captured")
-    return {"bodies": out, "notes": notes}
+    return out, notes
+
+
+def harvest(venue):
+    """Render the venue page to catch its Algolia query; fall back to the last query
+    saved in scrape/state when the page is walled. Returns (bodies, notes, payloads)."""
+    from .render import render, describe
+    notes, payloads = [], []
+    try:
+        _, payloads = render(venue["url"], capture_json=True, scroll=1)
+    except Exception as e:  # noqa: BLE001
+        notes.append(f"render failed: {type(e).__name__}")
+    key = venue.get("state_key", venue["id"])
+    specs = specs_from(payloads, venue["url"])
+    if specs:
+        save(key, specs)
+        notes.append(f"captured {len(specs)} query(ies), saved")
+    else:
+        specs, saved = load(key)
+        notes.append(f"no query captured ({describe(payloads, 2)}); "
+                     + (f"using query saved {saved}" if specs else
+                        "none saved — run once from a home connection: "
+                        f"python -m scrape.main --only {venue['id']}"))
+    captured = [p["body"] for p in payloads if "algolia" in p["url"] and p.get("body")]
+    bodies, more = query_all(specs) if specs else ([], [])
+    return captured + bodies, notes + more, payloads
 
 
 def hits(bodies):
