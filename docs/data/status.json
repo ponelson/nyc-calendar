@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-30T15:29:40+00:00",
-  "healthy": 15,
-  "total": 29,
+  "generated": "2026-10-30T18:18:10+00:00",
+  "healthy": 23,
+  "total": 30,
   "venues": [
     {
       "id": "nycballet",
@@ -24,7 +24,7 @@
       "name": "Carnegie Hall",
       "cat": "classical",
       "strategy": "custom",
-      "count": 9,
+      "count": 6,
       "error": null
     },
     {
@@ -32,7 +32,7 @@
       "name": "92NY",
       "cat": "classical",
       "strategy": "custom",
-      "count": 4,
+      "count": 1,
       "error": null
     },
     {
@@ -49,14 +49,14 @@
       "cat": "opera",
       "strategy": "custom",
       "count": 0,
-      "error": "no events parsed"
+      "error": "RuntimeError: no events from API or browser; 0 JSON payloads: "
     },
     {
       "id": "92ny_talks",
       "name": "92NY \u2014 Talks",
       "cat": "talks",
       "strategy": "custom",
-      "count": 4,
+      "count": 1,
       "error": null
     },
     {
@@ -132,60 +132,68 @@
       "error": null
     },
     {
-      "id": "smalls",
-      "name": "Smalls",
-      "cat": "jazz",
-      "strategy": "custom",
-      "count": 0,
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.smallslive.com/wp-json/wp/v2/event?per_page=100"
-    },
-    {
-      "id": "mezzrow",
-      "name": "Mezzrow",
-      "cat": "jazz",
-      "strategy": "custom",
-      "count": 0,
-      "error": "SSLError: HTTPSConnectionPool(host='www.mezzrow.com', port=443): Max retries exceeded with url: /wp-json/wp/v2/event?per_page=100 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
-    },
-    {
-      "id": "dizzys",
-      "name": "Dizzy's Club",
-      "cat": "jazz",
-      "strategy": "jsonld",
-      "count": 0,
-      "error": "RuntimeError: HTTP 403"
-    },
-    {
-      "id": "smoke",
-      "name": "Smoke Jazz Club",
-      "cat": "jazz",
-      "strategy": "custom",
-      "count": 0,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.smokejazz.com/wp-json/wp/v2/event?per_page=100"
-    },
-    {
-      "id": "birdland",
-      "name": "Birdland",
+      "id": "vanguard",
+      "name": "Village Vanguard",
       "cat": "jazz",
       "strategy": "custom",
       "count": 6,
       "error": null
     },
     {
-      "id": "jazzgallery",
-      "name": "The Jazz Gallery",
+      "id": "bluenote",
+      "name": "Blue Note",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 0,
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://jazzgallery.org/wp-json/wp/v2/event?per_page=100"
+      "count": 6,
+      "error": null
     },
     {
-      "id": "lunatico",
-      "name": "Bar Lun\u00c0tico",
+      "id": "smalls",
+      "name": "Smalls",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 0,
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.barlunatico.com/wp-json/wp/v2/event?per_page=100"
+      "count": 7,
+      "error": null
+    },
+    {
+      "id": "mezzrow",
+      "name": "Mezzrow",
+      "cat": "jazz",
+      "strategy": "custom",
+      "count": 6,
+      "error": null
+    },
+    {
+      "id": "dizzys",
+      "name": "Dizzy's Club",
+      "cat": "jazz",
+      "strategy": "custom",
+      "count": 5,
+      "error": null
+    },
+    {
+      "id": "smoke",
+      "name": "Smoke Jazz Club",
+      "cat": "jazz",
+      "strategy": "custom",
+      "count": 2,
+      "error": null
+    },
+    {
+      "id": "birdland",
+      "name": "Birdland",
+      "cat": "jazz",
+      "strategy": "custom",
+      "count": 7,
+      "error": null
+    },
+    {
+      "id": "zincbar",
+      "name": "Zinc Bar",
+      "cat": "jazz",
+      "strategy": "custom",
+      "count": 6,
+      "error": null
     },
     {
       "id": "mvhm",
@@ -201,7 +209,7 @@
       "cat": "houses",
       "strategy": "ics",
       "count": 0,
-      "error": "RuntimeError: ConnectionError"
+      "error": "RuntimeError: HTTP 202"
     },
     {
       "id": "aliceausten",
@@ -232,8 +240,8 @@
       "name": "NYC Permitted Events",
       "cat": "streets",
       "strategy": "custom",
-      "count": 0,
-      "error": "ModuleNotFoundError: No module named 'scrape.adapters.nyc_events'"
+      "count": 1223,
+      "error": null
     }
   ]
 }
