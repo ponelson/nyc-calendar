@@ -1,17 +1,125 @@
 {
-  "note": "Hand-curated performing-arts seasons with verified dates from each venue's own site. Refresh quarterly. For venues whose sites publish a fixed season but expose no scrapeable feed (Park Avenue Armory, church concert series). Merged like curated.json.",
-  "updated": "2026-10-16",
-  "events": [
-    {"venue":"Park Avenue Armory","cat":"classical","title":"Music for 18 Musicians: Staged Variations (Steve Reich / Alarm Will Sound)","start":"2026-10-14","end":"2026-10-18","url":"https://www.armoryonpark.org/season-events/2026-season/music-for-18-musicians-staged-variations/"},
-    {"venue":"Park Avenue Armory","cat":"classical","title":"Raven Chacon (Veterans Room)","start":"2026-10-07","end":"2026-10-08","url":"https://www.armoryonpark.org/"},
-    {"venue":"Park Avenue Armory","cat":"opera","title":"IONE: The Nubian Word for Flowers (Veterans Room)","start":"2026-10-20","end":"2026-10-21","url":"https://www.armoryonpark.org/"},
-    {"venue":"Park Avenue Armory","cat":"classical","title":"Recital Series: Carlo Vistoli with Giulio Zappa","start":"2026-09-10","end":"2026-09-12","url":"https://www.armoryonpark.org/"},
-    {"venue":"Park Avenue Armory","cat":"classical","title":"Recital Series: Ben Bliss with Christopher Allen","start":"2026-10-09","end":"2026-10-11","url":"https://www.armoryonpark.org/"},
-    {"venue":"Park Avenue Armory","cat":"classical","title":"Recital Series: Deepa Johnny with Jonathan Ware","start":"2026-11-19","end":"2026-11-21","url":"https://www.armoryonpark.org/"},
-    {"venue":"Park Avenue Armory","cat":"classical","title":"Steven Schick & Tyshawn Sorey: world premiere Armory commission","start":"2026-12-04","end":"2026-12-05","url":"https://www.armoryonpark.org/"},
-    {"venue":"Park Avenue Armory","cat":"talks","title":"2026 Armory Gala: Wonderland","start":"2026-10-27","end":"2026-10-27","url":"https://www.armoryonpark.org/"},
-    {"venue":"Park Avenue Armory","cat":"opera","title":"Balkan Erotic Epic (Marina Abramović, North American premiere)","start":"2026-12-09","end":"2026-12-19","url":"https://www.armoryonpark.org/season-events/current-season/"},
-    {"venue":"Park Avenue Armory","cat":"art","title":"Installation: Balkan Erotic Epic (Marina Abramović)","start":"2026-12-09","end":"2026-12-19","url":"https://www.armoryonpark.org/season-events/current-season/"},
-    {"venue":"Park Avenue Armory","cat":"art","title":"The Winter Show 2027","start":"2027-01-22","end":"2027-01-31","url":"https://www.thewintershow.org/tickets"}
-  ]
+ "note": "Hand-curated seasons with dates verified against each venue's own pages. Use `dates` for individual performances (YYYY-MM-DD or YYYY-MM-DDTHH:MM); use `start`/`end` for runs (≤14 days draw every day; longer runs draw opening and final day). `room` is appended to the venue line. Refresh when a venue announces its next season.",
+ "updated": "2026-10-30",
+ "events": [
+  {
+   "title": "Recital Series: Carlo Vistoli & Giulio Zappa",
+   "cat": "classical",
+   "room": "Board of Officers Room",
+   "dates": [
+    "2026-09-10",
+    "2026-09-12"
+   ],
+   "url": "https://www.armoryonpark.org/",
+   "venue": "Park Avenue Armory"
+  },
+  {
+   "title": "Raven Chacon — new score-based work",
+   "cat": "classical",
+   "room": "Veterans Room",
+   "dates": [
+    "2026-10-07",
+    "2026-10-08"
+   ],
+   "url": "https://www.armoryonpark.org/",
+   "venue": "Park Avenue Armory"
+  },
+  {
+   "title": "Recital Series: Ben Bliss & Christopher Allen",
+   "cat": "classical",
+   "room": "Board of Officers Room",
+   "dates": [
+    "2026-10-09",
+    "2026-10-11"
+   ],
+   "url": "https://www.armoryonpark.org/",
+   "venue": "Park Avenue Armory"
+  },
+  {
+   "title": "Music for 18 Musicians: Staged Variations — Steve Reich Ensemble, Alarm Will Sound, Tactus",
+   "cat": "classical",
+   "room": "Drill Hall",
+   "dates": [
+    "2026-10-14T19:00",
+    "2026-10-15T19:00",
+    "2026-10-16T19:00",
+    "2026-10-17T19:00",
+    "2026-10-18T15:00"
+   ],
+   "url": "https://www.armoryonpark.org/season-events/2026-season/music-for-18-musicians-staged-variations/",
+   "venue": "Park Avenue Armory"
+  },
+  {
+   "title": "IONE: The Nubian Word for Flowers",
+   "cat": "opera",
+   "room": "Veterans Room",
+   "dates": [
+    "2026-10-20",
+    "2026-10-21"
+   ],
+   "url": "https://www.armoryonpark.org/",
+   "venue": "Park Avenue Armory"
+  },
+  {
+   "title": "Recital Series: Deepa Johnny & Jonathan Ware",
+   "cat": "classical",
+   "room": "Board of Officers Room",
+   "dates": [
+    "2026-11-19",
+    "2026-11-21"
+   ],
+   "url": "https://www.armoryonpark.org/",
+   "venue": "Park Avenue Armory"
+  },
+  {
+   "title": "Steven Schick & Tyshawn Sorey — Sorey world premiere",
+   "cat": "classical",
+   "room": "Veterans Room",
+   "dates": [
+    "2026-12-04",
+    "2026-12-05"
+   ],
+   "url": "https://www.armoryonpark.org/season-events/2026-season/recital-series/steven-schick-tyshawn-sorey/",
+   "venue": "Park Avenue Armory"
+  },
+  {
+   "title": "Marina Abramović: Balkan Erotic Epic (North American premiere)",
+   "cat": "dance",
+   "room": "Drill Hall",
+   "dates": [
+    "2026-12-08T19:00",
+    "2026-12-09T19:00",
+    "2026-12-10T19:00",
+    "2026-12-11T19:00",
+    "2026-12-12T19:00",
+    "2026-12-13T15:00",
+    "2026-12-15T19:00",
+    "2026-12-16T19:00",
+    "2026-12-17T19:00",
+    "2026-12-18T19:00",
+    "2026-12-19T19:00",
+    "2026-12-20T15:00"
+   ],
+   "url": "https://www.armoryonpark.org/season-events/2026-season/balkan-erotic-epic/",
+   "venue": "Park Avenue Armory"
+  },
+  {
+   "title": "Installation: Balkan Erotic Epic (Abramović), daytime",
+   "cat": "art",
+   "room": "Drill Hall",
+   "start": "2026-12-09",
+   "end": "2026-12-19",
+   "url": "https://www.armoryonpark.org/season-events/current-season/",
+   "venue": "Park Avenue Armory"
+  },
+  {
+   "title": "The Winter Show",
+   "cat": "art",
+   "room": "Drill Hall",
+   "start": "2027-01-22",
+   "end": "2027-01-31",
+   "url": "https://www.thewintershow.org/tickets",
+   "venue": "Park Avenue Armory"
+  }
+ ]
 }

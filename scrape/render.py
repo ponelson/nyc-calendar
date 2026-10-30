@@ -5,9 +5,15 @@ For venues that block a plain HTTP client or render listings in JavaScript, we d
 real Chromium. It executes the page's JS, satisfies bot checks, and hands us a finished
 DOM plus every JSON response the page fetched while loading.
 
-`scroll` matters for lazy-loaded calendars (Carnegie paginates its Algolia results 10 at
-a time as you scroll). When set, we scroll to the bottom repeatedly, letting each batch
-fire, and collect them all.
+Two additions in v2:
+
+* Each captured payload now carries its REQUEST too (method, headers, body). A calendar
+  page usually asks its API for one month or one page of ten. Knowing the exact request
+  lets an adapter ask again for more, from inside the same page, with the same cookies
+  and keys the venue's own code used.
+
+* `after=fn(page, payloads)` runs before the browser closes, so an adapter can make
+  those follow-up requests with `page_fetch()`. Returning (html, payloads, extra).
 """
 import json
 import re
@@ -15,6 +21,10 @@ import re
 RENDER_TIMEOUT = 30_000
 SETTLE_MS = 2_500
 _JSONISH = re.compile(r"application/json|\+json")
+
+# headers the browser sets itself; passing them to fetch() is refused or pointless
+_DROP_HEADERS = {"host", "content-length", "origin", "referer", "user-agent", "cookie",
+                 "accept-encoding", "connection"}
 
 
 def _ctx(browser):
@@ -30,9 +40,34 @@ def _ctx(browser):
     return ctx
 
 
-def render(url, capture_json=False, wait_for=None, scroll=0):
+def clean_headers(h):
+    return {k: v for k, v in (h or {}).items()
+            if k.lower() not in _DROP_HEADERS and not k.lower().startswith("sec-")
+            and not k.startswith(":")}
+
+
+def page_fetch(page, url, method="GET", headers=None, body=None):
+    """fetch() from inside the rendered page. Returns (status, parsed_json_or_None)."""
+    js = """async ([u, m, h, b]) => {
+        try {
+          const r = await fetch(u, {method: m, headers: h || {}, body: b || undefined,
+                                     credentials: 'include'});
+          return [r.status, await r.text()];
+        } catch (e) { return [0, String(e)]; }
+    }"""
+    status, text = page.evaluate(js, [url, method, clean_headers(headers), body])
+    if status != 200:
+        return status, None
+    try:
+        return status, json.loads(text)
+    except (ValueError, TypeError):
+        return status, None
+
+
+def render(url, capture_json=False, wait_for=None, scroll=0, after=None):
     from playwright.sync_api import sync_playwright
     payloads = []
+    extra = None
     with sync_playwright() as pw:
         browser = pw.chromium.launch(
             args=["--disable-blink-features=AutomationControlled"])
@@ -44,9 +79,16 @@ def render(url, capture_json=False, wait_for=None, scroll=0):
                 try:
                     if not _JSONISH.search(resp.headers.get("content-type", "")):
                         return
-                    if resp.request.resource_type not in ("xhr", "fetch"):
+                    req = resp.request
+                    if req.resource_type not in ("xhr", "fetch"):
                         return
-                    payloads.append({"url": resp.url, "body": resp.json()})
+                    payloads.append({
+                        "url": resp.url,
+                        "body": resp.json(),
+                        "method": req.method,
+                        "headers": dict(req.headers),
+                        "post": req.post_data,
+                    })
                 except Exception:  # noqa: BLE001
                     pass
             page.on("response", on_response)
@@ -71,8 +113,16 @@ def render(url, capture_json=False, wait_for=None, scroll=0):
             except Exception:  # noqa: BLE001
                 break
 
+        if after:
+            try:
+                extra = after(page, payloads)
+            except Exception as e:  # noqa: BLE001
+                extra = {"error": f"{type(e).__name__}: {e}"}
+
         html = page.content()
         browser.close()
+    if after:
+        return html, payloads, extra
     return html, payloads
 
 
@@ -100,3 +150,15 @@ def sniff(url):
     html, payloads = render(url, capture_json=True)
     out = [{"url": p["url"], "bytes": len(json.dumps(p["body"]))} for p in payloads]
     return html, out
+
+
+def describe(payloads, limit=4):
+    """One-line summary of what a page fetched — goes into status.json on failure so
+    the next fix can be made from the repo instead of from a pasted terminal."""
+    bits = []
+    for p in payloads[:limit]:
+        b = p.get("body")
+        shape = (f"dict{sorted(b.keys())[:6]}" if isinstance(b, dict)
+                 else f"list[{len(b)}]" if isinstance(b, list) else type(b).__name__)
+        bits.append(f"{p.get('method','GET')} {p['url'][:70]} -> {shape}")
+    return f"{len(payloads)} JSON payloads: " + " | ".join(bits)

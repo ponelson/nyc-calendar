@@ -18,10 +18,49 @@ API = "https://www.metopera.org/ace-api/events/?startDate={start}&endDate={end}"
 DROP_CATS = {"tours", "talks", "backstage", "education", "student"}
 
 
+HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+                   "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"),
+    "Accept": "application/json, text/plain, */*",
+    "Referer": "https://www.metopera.org/Calendar/",
+}
+CAL = "https://www.metopera.org/Calendar/?date={start}&layout=C&categories=On%20Stage"
+
+
 def _get(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "nyc-calendar/1.0"})
+    req = urllib.request.Request(url, headers=HEADERS)
     with urllib.request.urlopen(req, timeout=30) as r:
         return json.loads(r.read().decode())
+
+
+def _windows():
+    today = date.today()
+    for i in range(6):
+        start = today + timedelta(days=30 * i)
+        yield start, start + timedelta(days=31)
+
+
+def _via_browser():
+    """The Met's CDN refuses plain clients from cloud IPs (every CI run since Oct 7
+    returned nothing). Load the calendar in Chromium and ask the same API from inside
+    the page, where the Met's own cookies apply."""
+    from .. import render
+
+    def after(page, payloads):
+        got = []
+        for start, end in _windows():
+            _, data = render.page_fetch(page, API.format(start=start.isoformat(),
+                                                          end=end.isoformat()))
+            if data:
+                got.append(data)
+        return got
+
+    _, payloads, extra = render.render(CAL.format(start=date.today().isoformat()),
+                                       capture_json=True, after=after)
+    bodies = [p["body"] for p in payloads if "ace-api" in p["url"]]
+    if isinstance(extra, list):
+        bodies += extra
+    return bodies, payloads
 
 
 def _events(obj, depth=0):
@@ -42,39 +81,47 @@ def _events(obj, depth=0):
     return None
 
 
+def _rows(bodies):
+    for data in bodies:
+        for e in (_events(data) or []):
+            yield e
+
+
 def run(venue):
-    today = date.today()
-    out, seen = [], set()
-    # pull ~6 one-month windows forward
-    for i in range(6):
-        start = today + timedelta(days=30 * i)
-        end = start + timedelta(days=31)
+    bodies = []
+    for start, end in _windows():
         try:
-            data = _get(API.format(start=start.isoformat(), end=end.isoformat()))
+            bodies.append(_get(API.format(start=start.isoformat(), end=end.isoformat())))
         except Exception:  # noqa: BLE001
             continue
-        for e in (_events(data) or []):
-            name = (e.get("name") or "").strip()
-            when = e.get("eventDate")
-            if not name or not when:
-                continue
-            cats = [str(c).lower() for c in (e.get("categories") or [])]
-            if any(c in DROP_CATS for c in cats):
-                continue
-            key = (name, when[:10])
-            if key in seen:
-                continue
-            seen.add(key)
-            # fold the composer/cast into the title where present
-            title = name
-            comp = (e.get("composer") or "").strip()
-            if comp and comp.lower() not in name.lower():
-                title = f"{comp}: {name}"
-            out.append({
-                "title": title,
-                "start": when,
-                "end": None,
-                "url": "https://www.metopera.org" + (e.get("viewDetailCtaUrl") or e.get("buyTicketCtaUrl") or ""),
-                "location": e.get("location") or "Metropolitan Opera",
-            })
+    payloads = []
+    if not any(_events(b) for b in bodies):
+        bodies, payloads = _via_browser()
+
+    out, seen = [], set()
+    for e in _rows(bodies):
+        name = (e.get("name") or "").strip()
+        when = e.get("eventDate")
+        if not name or not when:
+            continue
+        cats = [str(c).lower() for c in (e.get("categories") or [])]
+        if any(c in DROP_CATS for c in cats):
+            continue
+        key = (name, when[:16])
+        if key in seen:
+            continue
+        seen.add(key)
+        title = name
+        comp = (e.get("composer") or "").strip()
+        if comp and comp.lower() not in name.lower():
+            title = f"{comp}: {name}"
+        out.append({
+            "title": title,
+            "start": when,
+            "end": None,
+            "url": "https://www.metopera.org" + (e.get("viewDetailCtaUrl") or e.get("buyTicketCtaUrl") or ""),
+        })
+    if not out:
+        from .. import render
+        raise RuntimeError("no events from API or browser; " + render.describe(payloads))
     return out

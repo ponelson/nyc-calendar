@@ -1,70 +1,90 @@
 """
 92NY (92nd Street Y).
 
-Calendar is Algolia-backed. We render to capture the Algolia response (the page sends
-the key in headers we can't easily replay), then read its hits. Confirmed fields:
-  Title, Prefix, Suffix (combine to full billing), FirstDate (Unix epoch seconds),
-  URL, EventMenu ({'lvl0': ['Talks']/['Concerts']...}).
+Algolia-backed calendar. v1 read only the hits the page fetched on load — the month
+on screen — so the count fell by ~3 a day all month. v2 replays 92NY's own Algolia
+request from inside the page at full size with the date bound pushed out (see
+scrape/algolia.py).
 
-Prefix + Title + Suffix is the real event line, e.g.
-  "Recanati-Kaplan Talks — An Evening to Honor Gloria Steinem — With Marlo Thomas…"
+Confirmed fields: Title, Prefix, Suffix, FirstDate (epoch seconds), URL,
+EventMenu ({'lvl0': ['Talks'] / ['Concerts'] ...}).
+
+Both registry entries (92ny_music, 92ny_talks) use this adapter; each passes `menu`
+so a concert isn't listed twice. Hits with no menu go to talks only.
 """
 from datetime import datetime, timezone
-
-import re
+from zoneinfo import ZoneInfo
 import html as _html
-from .. import render
+import re
 
-
-def _cat_from_menu(menu):
-    try:
-        lvl0 = (menu or {}).get("lvl0") or []
-        return (lvl0[0] if lvl0 else "").lower()
-    except Exception:  # noqa: BLE001
-        return ""
-
+from .. import algolia, render
 
 TAGS = re.compile(r"<[^>]+>")
+NY = ZoneInfo("America/New_York")
+
 
 def _clean(t):
     return TAGS.sub("", _html.unescape(t or "")).strip()
 
 
+def _menu(h):
+    m = h.get("EventMenu") or {}
+    try:
+        lvl0 = m.get("lvl0") or []
+        if isinstance(lvl0, str):
+            lvl0 = [lvl0]
+        return " ".join(str(x) for x in lvl0).lower()
+    except Exception:  # noqa: BLE001
+        return ""
+
+
+def _wanted(h, venue):
+    want = [w.lower() for w in venue.get("menu", [])]
+    if not want:
+        return True
+    menu = _menu(h)
+    if not menu:
+        return venue.get("menu_default", False)
+    return any(w in menu for w in want)
+
+
 def run(venue):
-    _, payloads = render.render(venue["url"], capture_json=True, scroll=4)
+    html, payloads, extra = render.render(
+        venue["url"], capture_json=True, scroll=2, after=algolia.replay)
+    bodies = [p["body"] for p in payloads if "algolia" in p["url"]]
+    replayed = extra if isinstance(extra, list) else []
+    bodies += replayed
+
     out, seen = [], set()
-    for p in payloads:
-        if "algolia.net" not in p["url"]:
+    for h in algolia.hits(bodies):
+        if not _wanted(h, venue):
             continue
-        body = p["body"]
-        results = body.get("results", [body]) if isinstance(body, dict) else []
-        for res in results:
-            for h in res.get("hits", []):
-                title = _clean(h.get("Title"))
-                epoch = h.get("FirstDate")
-                if not title or not epoch:
-                    continue
-                try:
-                    when = datetime.fromtimestamp(int(epoch), tz=timezone.utc)
-                except (ValueError, TypeError, OSError):
-                    continue
-                prefix = _clean(h.get("Prefix"))
-                suffix = _clean(h.get("Suffix"))
-                full = title
-                if suffix:
-                    full = f"{title} — {suffix}"
-                key = (full, when.date().isoformat())
-                if key in seen:
-                    continue
-                seen.add(key)
-                url = h.get("URL") or ""
-                if url.startswith("/"):
-                    url = "https://www.92ny.org" + url
-                out.append({
-                    "title": full,
-                    "start": when.date().isoformat(),
-                    "end": None,
-                    "url": url or venue["url"],
-                    "location": prefix or "92NY",
-                })
+        title = _clean(h.get("Title"))
+        epoch = h.get("FirstDate")
+        if not title or not epoch:
+            continue
+        try:
+            when = datetime.fromtimestamp(int(float(epoch)), tz=timezone.utc).astimezone(NY)
+        except (ValueError, TypeError, OSError):
+            continue
+        suffix = _clean(h.get("Suffix"))
+        full = f"{title} — {suffix}" if suffix else title
+        key = (full.lower(), when.date().isoformat())
+        if key in seen:
+            continue
+        seen.add(key)
+        url = h.get("URL") or ""
+        if url.startswith("/"):
+            url = "https://www.92ny.org" + url
+        t = when.strftime("%H:%M")
+        out.append({
+            "title": full,
+            "start": when.strftime("%Y-%m-%d") + (f"T{t}" if t != "00:00" else ""),
+            "end": None,
+            "url": url or venue["url"],
+        })
+
+    if not out:
+        why = extra.get("error") if isinstance(extra, dict) else f"replayed {len(replayed)}"
+        raise RuntimeError(f"no hits ({why}); " + render.describe(payloads))
     return out

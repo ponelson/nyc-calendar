@@ -53,7 +53,8 @@ VENUES = [
       "https://www.metmuseum.org/events", strategy="link"),
     V("morgan", "The Morgan Library", "classical",
       "https://www.themorgan.org/programs", strategy="link"),
-    V("92ny_music", "92NY", "classical", "https://www.92ny.org/whats-on/calendar", strategy="custom", adapter="ninetytwoy"),
+    V("92ny_music", "92NY", "classical", "https://www.92ny.org/whats-on/calendar", strategy="custom", adapter="ninetytwoy",
+      menu=["concert", "music"]),
     V("bargemusic", "Bargemusic", "classical", "https://www.bargemusic.org/", strategy="render"),
     V("sawdust", "National Sawdust", "classical",
       "https://nationalsawdust.org/calendar/", strategy="link"),
@@ -90,7 +91,8 @@ VENUES = [
       "https://www.armoryonpark.org/programs_events/calendar", strategy="link"),
 
     # ---------------- talks & theater ----------------
-    V("92ny_talks", "92NY — Talks", "talks", "https://www.92ny.org/whats-on/calendar", strategy="custom", adapter="ninetytwoy"),
+    V("92ny_talks", "92NY — Talks", "talks", "https://www.92ny.org/whats-on/calendar", strategy="custom", adapter="ninetytwoy",
+      menu=["talk", "conversation", "lecture", "reading"], menu_default=True),
     V("nypl", "LIVE from NYPL", "talks",
       "https://www.nypl.org/events/programs/live", strategy="link"),
     V("greenespace", "The Greene Space", "talks", "https://www.thegreenespace.org/", strategy="link"),
@@ -242,18 +244,28 @@ VENUES = [
       "https://www.artic.edu/exhibitions", strategy="link"),
 
     # ---------------- jazz & cabaret ----------------
-    # Confirmed WordPress + WooCommerce, custom `event` post type; artist name is the
-    # post title. No schema.org markup, so the generic jsonld pass finds nothing here.
-    V("vanguard", "Village Vanguard", "jazz", "https://villagevanguard.com/category/event", strategy="render"),
-    V("bluenote", "Blue Note", "jazz", "https://www.bluenotejazz.com/nyc/", strategy="link"),
-    V("smalls", "Smalls", "jazz", "https://www.smallslive.com/", strategy="custom", adapter="wordpress"),
-    V("mezzrow", "Mezzrow", "jazz", "https://www.mezzrow.com/", strategy="custom", adapter="wordpress"),
-    V("dizzys", "Dizzy's Club", "jazz", "https://www.jazz.org/dizzys/", strategy="jsonld"),
-    V("smoke", "Smoke Jazz Club", "jazz", "https://www.smokejazz.com/", strategy="custom", adapter="wordpress"),
-    V("birdland", "Birdland", "jazz", "https://www.birdlandjazz.com/calendar/", strategy="custom", adapter="birdland"),
-    V("jazzgallery", "The Jazz Gallery", "jazz", "https://jazzgallery.org/calendar/", strategy="custom", adapter="wordpress"),
+    # The clubs' own sites expose nothing usable (or one month at a time). nycjazz.guide
+    # aggregates every room artist-by-artist; see adapters/nycjazzguide.py. `url` stays
+    # the club's own site so the calendar's fallback link goes to the box office.
+    V("vanguard", "Village Vanguard", "jazz", "https://villagevanguard.com/",
+      strategy="custom", adapter="nycjazzguide", guide="village_vanguard"),
+    V("bluenote", "Blue Note", "jazz", "https://www.bluenotejazz.com/nyc/",
+      strategy="custom", adapter="nycjazzguide", guide="blue_note"),
+    V("smalls", "Smalls", "jazz", "https://www.smallslive.com/",
+      strategy="custom", adapter="nycjazzguide", guide="smalls"),
+    V("mezzrow", "Mezzrow", "jazz", "https://www.mezzrow.com/",
+      strategy="custom", adapter="nycjazzguide", guide="mezzrow"),
+    V("dizzys", "Dizzy's Club", "jazz", "https://www.jazz.org/dizzys/",
+      strategy="custom", adapter="nycjazzguide", guide="dizzys_club_lincoln_center"),
+    V("smoke", "Smoke Jazz Club", "jazz", "https://www.smokejazz.com/",
+      strategy="custom", adapter="nycjazzguide", guide="smoke_jazz_club"),
+    V("birdland", "Birdland", "jazz", "https://www.birdlandjazz.com/calendar/",
+      strategy="custom", adapter="nycjazzguide", guide="birdland"),
+    V("zincbar", "Zinc Bar", "jazz", "https://www.zincbar.com/",
+      strategy="custom", adapter="nycjazzguide", guide="zinc_bar"),
+    V("jazzgallery", "The Jazz Gallery", "jazz", "https://jazzgallery.org/calendar/", strategy="link"),
     V("nines", "The Nines", "jazz", "https://www.thenines.nyc/", enabled=False, strategy="link"),
-    V("lunatico", "Bar LunÀtico", "jazz", "https://www.barlunatico.com/", strategy="custom", adapter="wordpress"),
+    V("lunatico", "Bar LunÀtico", "jazz", "https://www.barlunatico.com/", strategy="link"),
     V("54below", "54 Below", "jazz", "https://54below.org/", strategy="link"),
     V("greenroom42", "The Green Room 42", "jazz", "https://thegreenroom42.com/", strategy="link"),
     V("carlyle", "Café Carlyle", "jazz",

@@ -16,6 +16,7 @@ That way a gallery show announces itself twice, when either fact is actionable, 
 the grid stays readable.
 """
 import hashlib
+import html
 import re
 from datetime import date, datetime, timedelta
 
@@ -50,13 +51,16 @@ def _eid(venue_id, day, title):
 
 
 def _clean(title):
-    title = re.sub(r"\s+", " ", title or "").strip()
+    title = html.unescape(title or "")
+    title = re.sub(r"<[^>]+>", "", title)
+    title = re.sub(r"\s+", " ", title).strip()
     title = re.sub(r"^(Buy tickets?|Tickets?):?\s*", "", title, flags=re.I)
     return title[:120]
 
 
 def normalize(raw_events, venue):
-    """raw_events: list of {title,start,end,url,location}. Returns app-schema events."""
+    """raw_events: list of {title,start,end,url,location[,room]}. Returns app-schema events.
+    `room` (e.g. Carnegie's Zankel Hall) is appended to the venue line."""
     today = date.today()
     horizon = today + timedelta(days=HORIZON_DAYS)
     floor = today - timedelta(days=1)
@@ -102,7 +106,7 @@ def normalize(raw_events, venue):
                 "date": day.isoformat(),
                 "time": t or "",
                 "title": label,
-                "venue": venue["name"],
+                "venue": (f"{venue['name']} · {raw['room']}" if raw.get("room") else venue["name"]),
                 "cat": venue["cat"],
                 "url": url,
                 "src": venue["id"],
