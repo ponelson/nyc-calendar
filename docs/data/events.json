@@ -1,7 +1,57 @@
 {
-"generated": "2026-10-30T23:41:09+00:00",
-"count": 1986,
+"generated": "2026-10-30T23:44:49+00:00",
+"count": 1982,
 "events": [
+{
+"id": "saf03040332",
+"date": "2026-10-29",
+"time": "09:15",
+"title": "Baby Mozart: Toddlers",
+"venue": "New York Philharmonic",
+"cat": "classical",
+"url": "https://www.nyphil.org/concerts-tickets/2627/baby-mozart-toddlers",
+"src": "nyphil"
+},
+{
+"id": "s1c6d81d7f2",
+"date": "2026-10-29",
+"time": "10:00",
+"title": "Bandit Running - NYC Marathon Pop-up Shop (Street Event) \u00b7 GRAND STREET between WEST BROADWAY and THOMPSON STREET \u2014 Part",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "sb87466abcc",
+"date": "2026-10-29",
+"time": "10:30",
+"title": "Baby Mozart: Babies",
+"venue": "New York Philharmonic",
+"cat": "classical",
+"url": "https://www.nyphil.org/concerts-tickets/2627/baby-mozart-babies",
+"src": "nyphil"
+},
+{
+"id": "s6b70a982d7",
+"date": "2026-10-29",
+"time": "11:35",
+"title": "Baby Mozart: Babies & Toddlers",
+"venue": "New York Philharmonic",
+"cat": "classical",
+"url": "https://www.nyphil.org/concerts-tickets/2627/baby-mozart-babies-and-toddlers",
+"src": "nyphil"
+},
+{
+"id": "s3603df4bb3",
+"date": "2026-10-29",
+"time": "19:30",
+"title": "Get Out in Concert",
+"venue": "New York Philharmonic",
+"cat": "classical",
+"url": "https://www.nyphil.org/concerts-tickets/2627/get-out-in-concert",
+"src": "nyphil"
+},
 {
 "id": "sbd2fb3d7b0",
 "date": "2026-10-30",
@@ -383,16 +433,6 @@
 "src": "carnegie"
 },
 {
-"id": "s9694b1c2c3",
-"date": "2026-10-30",
-"time": "20:00",
-"title": "Aaron Parks Trio",
-"venue": "Village Vanguard",
-"cat": "jazz",
-"url": "https://www.nycjazz.guide/events/16606",
-"src": "vanguard"
-},
-{
 "id": "sd71d34de5a",
 "date": "2026-10-30",
 "time": "20:30",
@@ -641,16 +681,6 @@
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
-},
-{
-"id": "s89c71c7e4a",
-"date": "2026-10-31",
-"time": "14:00",
-"title": "There will be No Afternoon Jam Session",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34119-there-will-be-no-afternoon-jam-session/",
-"src": "smalls"
 },
 {
 "id": "se261c76ac7",
@@ -933,16 +963,6 @@
 "src": "nycpermits"
 },
 {
-"id": "s514b52eb38",
-"date": "2026-10-31",
-"time": "19:00",
-"title": "Halloween \u2013 Closed for the Holiday",
-"venue": "Zinc Bar",
-"cat": "jazz",
-"url": "https://www.zincbar.com/event/halloween-closed-for-the-holiday/",
-"src": "zincbar"
-},
-{
 "id": "s9c2cfa7b2d",
 "date": "2026-10-31",
 "time": "19:30",
@@ -971,16 +991,6 @@
 "cat": "jazz",
 "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvab4",
 "src": "bluenote"
-},
-{
-"id": "s26cef14a51",
-"date": "2026-10-31",
-"time": "20:00",
-"title": "Aaron Parks Trio",
-"venue": "Village Vanguard",
-"cat": "jazz",
-"url": "https://www.nycjazz.guide/events/16608",
-"src": "vanguard"
 },
 {
 "id": "s6bc892b12b",
@@ -1231,16 +1241,6 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/robert-glasper-x-finale-with-blue-note-jazz-club-tickets/15019043",
 "src": "bluenote"
-},
-{
-"id": "sa50510c205",
-"date": "2026-11-01",
-"time": "20:00",
-"title": "Aaron Parks Trio",
-"venue": "Village Vanguard",
-"cat": "jazz",
-"url": "https://www.nycjazz.guide/events/16610",
-"src": "vanguard"
 },
 {
 "id": "s34c121d332",
@@ -1603,16 +1603,6 @@
 "src": "carnegie"
 },
 {
-"id": "s4bada58f43",
-"date": "2026-11-03",
-"time": "20:00",
-"title": "Ethan Iverson Sextet",
-"venue": "Village Vanguard",
-"cat": "jazz",
-"url": "https://www.nycjazz.guide/events/18304",
-"src": "vanguard"
-},
-{
 "id": "s28411dccf1",
 "date": "2026-11-03",
 "time": "21:00",
@@ -1821,16 +1811,6 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2026/11/04/punch-brothers-0800pm",
 "src": "carnegie"
-},
-{
-"id": "sc10faa45db",
-"date": "2026-11-04",
-"time": "20:00",
-"title": "Ethan Iverson Sextet",
-"venue": "Village Vanguard",
-"cat": "jazz",
-"url": "https://www.nycjazz.guide/events/18306",
-"src": "vanguard"
 },
 {
 "id": "s416bdba2aa",
@@ -5931,16 +5911,6 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34387-jam-session-hosted-by-carlos-abadie/",
 "src": "smalls"
-},
-{
-"id": "sf007e3d2a1",
-"date": "2026-11-26",
-"time": "11:42",
-"title": "CLOSED FOR THANKSGIVING",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34461-closed-for-thanksgiving/",
-"src": "mezzrow"
 },
 {
 "id": "sb416114901",
@@ -10181,16 +10151,6 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/chris-botti-blue-note-jazz-club-tickets/14237634",
 "src": "bluenote"
-},
-{
-"id": "s79ecf7bfc8",
-"date": "2026-12-25",
-"time": "19:00",
-"title": "Club Closed for the Holiday",
-"venue": "Zinc Bar",
-"cat": "jazz",
-"url": "https://www.zincbar.com/event/club-closed-for-the-holiday-3/",
-"src": "zincbar"
 },
 {
 "id": "s60c9ca840b",
