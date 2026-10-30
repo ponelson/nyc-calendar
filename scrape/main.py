@@ -69,6 +69,11 @@ def main():
                  "strategy": v["strategy"], "count": 0, "error": None}
         try:
             raw = _run_venue(v)
+            if v["strategy"] == "custom":
+                mod = importlib.import_module(f".adapters.{v['adapter']}", __package__)
+                note = getattr(mod, "NOTE", {}).get(v["id"])
+                if note:
+                    entry["note"] = note
             events = normalize(raw, v)
             all_events.extend(events)
             entry["count"] = len(events)
@@ -76,7 +81,7 @@ def main():
                 entry["error"] = "no events parsed"
             print(f"  {v['id']:<22} {len(events):>4}  {v['strategy']}")
         except Exception as e:  # noqa: BLE001
-            entry["error"] = f"{type(e).__name__}: {e}"
+            entry["error"] = f"{type(e).__name__}: {e}"[:900]
             print(f"  {v['id']:<22}  ERR  {entry['error']}", file=sys.stderr)
             if os.environ.get("NYCAL_DEBUG"):
                 traceback.print_exc()

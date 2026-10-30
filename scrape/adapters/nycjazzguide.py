@@ -149,11 +149,37 @@ def _from_json(payloads, venue):
     return rows
 
 
+NOTE = {}
+
+
+def _more(venue):
+    """after-hook: re-send whichever request carried this room's shows, widened."""
+    from .. import widen as W
+
+    def after(page, payloads):
+        got, notes = [], []
+        for p in payloads:
+            if not _from_json([p], venue):
+                continue
+            url, method, headers, body, changes = W.widen(p)
+            if not changes:
+                notes.append(f"no widenable params in {p.get('method','GET')} {p['url'][:120]}")
+                continue
+            status, data = render.page_fetch(page, url, method, headers, body)
+            notes.append(f"{status} {' '.join(changes)} <- {p['url'][:100]}")
+            if data is not None:
+                got.append({"url": url, "body": data})
+        return {"payloads": got, "notes": notes}
+    return after
+
+
 def run(venue):
     url = GUIDE.format(slug=venue["guide"])
-    html, payloads = render.render(url, capture_json=True, scroll=3)
+    html, payloads, extra = render.render(url, capture_json=True, scroll=3, after=_more(venue))
+    extra = extra if isinstance(extra, dict) else {}
+    widened = extra.get("payloads") or []
 
-    rows = _from_json(payloads, venue)
+    rows = _from_json(payloads + widened, venue)
     if not rows:
         for e in jsonld_extract(html):
             day, t = _when(e.get("start"))
@@ -177,8 +203,11 @@ def run(venue):
             "end": None,
             "url": link or url,
         })
+    days = sorted({r[1] for r in rows})
+    NOTE[venue["id"]] = (f"{len(out)} acts {days[0] if days else ''}..{days[-1] if days else ''}; "
+                         + " | ".join(extra.get("notes") or [str(extra.get("error", "no request matched"))])
+                         + "; captured: " + render.describe(payloads, 3))[:700]
     if not out:
         raise RuntimeError("nycjazz.guide: nothing event-shaped; "
-                           f"ld+json={'application/ld+json' in html}; "
-                           + render.describe(payloads))
+                           f"ld+json={'application/ld+json' in html}; " + NOTE[venue["id"]])
     return out

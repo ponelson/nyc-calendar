@@ -54,7 +54,7 @@ VENUES = [
     V("morgan", "The Morgan Library", "classical",
       "https://www.themorgan.org/programs", strategy="link"),
     V("92ny_music", "92NY", "classical", "https://www.92ny.org/whats-on/calendar", strategy="custom", adapter="ninetytwoy",
-      menu=["concert", "music"]),
+      menu=["concert", "music", "performance", "dance"]),
     V("bargemusic", "Bargemusic", "classical", "https://www.bargemusic.org/", strategy="render"),
     V("sawdust", "National Sawdust", "classical",
       "https://nationalsawdust.org/calendar/", strategy="link"),

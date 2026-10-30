@@ -60,12 +60,16 @@ def _hall(fac):
     return f
 
 
+NOTE = {}
+
+
 def run(venue):
     html, payloads, extra = render.render(
         venue["url"], capture_json=True, scroll=2, after=algolia.replay)
 
     bodies = [p["body"] for p in payloads if "algolia" in p["url"]]
-    replayed = extra if isinstance(extra, list) else []
+    extra = extra if isinstance(extra, dict) else {}
+    replayed = extra.get("bodies") or []
     bodies += replayed
 
     seen, out = set(), []
@@ -92,7 +96,10 @@ def run(venue):
             "room": _hall(h.get("facility")),
         })
 
+    days = sorted(e["start"][:10] for e in out)
+    NOTE[venue["id"]] = (f"{len(out)} kept {days[0] if days else ''}..{days[-1] if days else ''}; "
+                         + " | ".join(extra.get("notes") or [str(extra.get("error", ""))])
+                         + "; " + render.describe(payloads, 2))[:700]
     if not out:
-        why = extra.get("error") if isinstance(extra, dict) else f"replayed {len(replayed)}"
-        raise RuntimeError(f"no hits ({why}); " + render.describe(payloads))
+        raise RuntimeError(f"no hits; {NOTE.get(venue['id'],'')}")
     return out

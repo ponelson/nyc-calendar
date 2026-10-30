@@ -48,15 +48,21 @@ def _wanted(h, venue):
     return any(w in menu for w in want)
 
 
+NOTE = {}
+
+
 def run(venue):
     html, payloads, extra = render.render(
         venue["url"], capture_json=True, scroll=2, after=algolia.replay)
     bodies = [p["body"] for p in payloads if "algolia" in p["url"]]
-    replayed = extra if isinstance(extra, list) else []
+    extra = extra if isinstance(extra, dict) else {}
+    replayed = extra.get("bodies") or []
     bodies += replayed
 
-    out, seen = [], set()
+    out, seen, menus = [], set(), {}
     for h in algolia.hits(bodies):
+        m = _menu(h) or "(none)"
+        menus[m] = menus.get(m, 0) + 1
         if not _wanted(h, venue):
             continue
         title = _clean(h.get("Title"))
@@ -64,7 +70,9 @@ def run(venue):
         if not title or not epoch:
             continue
         try:
-            when = datetime.fromtimestamp(int(float(epoch)), tz=timezone.utc).astimezone(NY)
+            # 92NY stores New York wall-clock time as if it were UTC: a 7:30 PM talk
+            # arrives as 19:30Z. Read it back without converting.
+            when = datetime.fromtimestamp(int(float(epoch)), tz=timezone.utc)
         except (ValueError, TypeError, OSError):
             continue
         suffix = _clean(h.get("Suffix"))
@@ -84,7 +92,11 @@ def run(venue):
             "url": url or venue["url"],
         })
 
+    days = sorted(e["start"][:10] for e in out)
+    NOTE[venue["id"]] = (f"{len(out)} kept {days[0] if days else ''}..{days[-1] if days else ''}; "
+                         f"menus seen {dict(sorted(menus.items(), key=lambda x: -x[1])[:8])}; "
+                         + " | ".join(extra.get("notes") or [str(extra.get("error", ""))])
+                         + "; " + render.describe(payloads, 2))[:700]
     if not out:
-        why = extra.get("error") if isinstance(extra, dict) else f"replayed {len(replayed)}"
-        raise RuntimeError(f"no hits ({why}); " + render.describe(payloads))
+        raise RuntimeError(f"no hits; {NOTE.get(venue['id'],'')}")
     return out

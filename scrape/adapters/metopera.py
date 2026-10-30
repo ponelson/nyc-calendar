@@ -40,27 +40,37 @@ def _windows():
         yield start, start + timedelta(days=31)
 
 
+NOTE = {}
+
+
 def _via_browser():
     """The Met's CDN refuses plain clients from cloud IPs (every CI run since Oct 7
-    returned nothing). Load the calendar in Chromium and ask the same API from inside
-    the page, where the Met's own cookies apply."""
+    returned nothing). Load the calendar in Chromium, then ask the same API from inside
+    the page; if fetch() is refused, navigate the tab to the API URL itself."""
     from .. import render
 
     def after(page, payloads):
-        got = []
+        got, notes = [], [f"calendar page: {page.title()[:60]!r}, {len(page.content())} chars"]
         for start, end in _windows():
-            _, data = render.page_fetch(page, API.format(start=start.isoformat(),
-                                                          end=end.isoformat()))
-            if data:
+            api = API.format(start=start.isoformat(), end=end.isoformat())
+            status, data = render.page_fetch(page, api)
+            if data is None:
+                try:
+                    resp = page.goto(api, timeout=20_000)
+                    status = resp.status if resp else 0
+                    data = json.loads(page.inner_text("body")) if status == 200 else None
+                except Exception as e:  # noqa: BLE001
+                    status = type(e).__name__
+            notes.append(f"{start.isoformat()}:{status}")
+            if data is not None:
                 got.append(data)
-        return got
+        return {"bodies": got, "notes": notes}
 
     _, payloads, extra = render.render(CAL.format(start=date.today().isoformat()),
                                        capture_json=True, after=after)
-    bodies = [p["body"] for p in payloads if "ace-api" in p["url"]]
-    if isinstance(extra, list):
-        bodies += extra
-    return bodies, payloads
+    extra = extra if isinstance(extra, dict) else {}
+    bodies = [p["body"] for p in payloads if "ace-api" in p["url"]] + (extra.get("bodies") or [])
+    return bodies, payloads, extra.get("notes") or [str(extra.get("error", ""))]
 
 
 def _events(obj, depth=0):
@@ -94,9 +104,10 @@ def run(venue):
             bodies.append(_get(API.format(start=start.isoformat(), end=end.isoformat())))
         except Exception:  # noqa: BLE001
             continue
-    payloads = []
+    payloads, notes = [], [f"direct API: {sum(1 for b in bodies if _events(b))}/6 windows"]
     if not any(_events(b) for b in bodies):
-        bodies, payloads = _via_browser()
+        bodies, payloads, more = _via_browser()
+        notes += more
 
     out, seen = [], set()
     for e in _rows(bodies):
@@ -121,7 +132,8 @@ def run(venue):
             "end": None,
             "url": "https://www.metopera.org" + (e.get("viewDetailCtaUrl") or e.get("buyTicketCtaUrl") or ""),
         })
+    from .. import render
+    NOTE[venue["id"]] = ("; ".join(notes) + "; " + render.describe(payloads, 2))[:700]
     if not out:
-        from .. import render
-        raise RuntimeError("no events from API or browser; " + render.describe(payloads))
+        raise RuntimeError("no events from API or browser; " + NOTE[venue["id"]])
     return out

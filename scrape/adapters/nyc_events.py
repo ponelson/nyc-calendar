@@ -9,8 +9,10 @@ forward daily.
 Fields: event_name, event_type, event_borough, start_date_time, end_date_time,
 event_location, street_closure_type.
 
-Excluded by default: athletic-field permits (event_type "Sport - Adult/Youth"), which
-are thousands of league games a month and not public events. Edit SKIP_TYPES to taste.
+The raw feed is ~1,200 Manhattan permits a month, and three quarters are park
+"Special Event" bookings: lawn closures, soccer clinics, maintenance. KEEP_TYPES holds
+only what a person would go to. One parade files a permit row per street segment, so
+rows are collapsed to one per event per day.
 """
 import json
 import urllib.parse
@@ -19,7 +21,11 @@ import urllib.request
 DATASET = "tvpp-9vvx"
 BASE = f"https://data.cityofnewyork.us/resource/{DATASET}.json"
 BOROUGH = "Manhattan"
-SKIP_TYPES = ("sport",)
+KEEP_TYPES = {
+    "parade", "street festival", "single block festival", "block party", "street event",
+    "athletic race / tour", "open culture", "religious event", "plaza partner event",
+    "open street partner event",
+}
 
 LABELS = {
     "Parade": "Parade", "Street Festival": "Street Festival", "Block Party": "Block Party",
@@ -49,14 +55,14 @@ def run(venue):
             break
         offset += 1000
 
-    out = []
+    out, seen = [], set()
     for r in rows:
         name = (r.get("event_name") or "").strip()
         start = r.get("start_date_time")
         etype = (r.get("event_type") or "").strip()
         if not name or not start:
             continue
-        if etype.lower().startswith(SKIP_TYPES):
+        if etype.lower() not in KEEP_TYPES and "parade" not in name.lower():
             continue
         label = LABELS.get(etype, etype)
         title = name if (not label or label.lower() in name.lower()) else f"{name} ({label})"
@@ -66,6 +72,12 @@ def run(venue):
             title = f"{title} · {loc[:60]}"
         if closure and closure.lower() not in ("none", "n/a"):
             title = f"{title} — {closure} closure"
+        key = (name.lower(), str(start)[:10])
+        if key in seen:
+            continue
+        seen.add(key)
+        if str(start)[11:16] == "00:00":
+            start = str(start)[:10]
         out.append({
             "title": title,
             "start": start,
