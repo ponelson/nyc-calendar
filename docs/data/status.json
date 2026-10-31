@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T23:44:49+00:00",
+  "generated": "2026-10-31T14:54:32+00:00",
   "healthy": 21,
   "total": 30,
   "venues": [
@@ -10,26 +10,26 @@
       "strategy": "custom",
       "count": 107,
       "error": null,
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "nyphil",
       "name": "New York Philharmonic",
       "cat": "classical",
       "strategy": "custom",
-      "count": 161,
+      "count": 154,
       "error": null,
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "carnegie",
       "name": "Carnegie Hall",
       "cat": "classical",
       "strategy": "custom",
-      "count": 558,
+      "count": 557,
       "error": null,
-      "note": "558 kept 2026-10-30..2027-10-10; captured 1 query(ies), saved | 1000/page ok, 1 page(s); 8 JSON payloads: GET https://ekr.zdassets.com/compose/c75361b5-631d-4288-92e3-d9b7917747ea -> dict['products'] | POST https://q0tmlopf1j-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent -> dict['results']",
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "note": "557 kept 2026-10-31..2027-10-10; captured 1 query(ies), saved | 1000/page ok, 1 page(s); 8 JSON payloads: GET https://ekr.zdassets.com/compose/c75361b5-631d-4288-92e3-d9b7917747ea -> dict['products'] | POST https://q0tmlopf1j-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent -> dict['results']",
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "92ny_music",
@@ -46,7 +46,7 @@
       "strategy": "custom",
       "count": 18,
       "error": null,
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "metopera",
@@ -54,7 +54,7 @@
       "cat": "opera",
       "strategy": "custom",
       "count": 0,
-      "error": "RuntimeError: no events from API or browser; direct API: 0/6 windows; calendar page: 'Just a moment...', 29137 chars; 2026-10-30:403; 2026-11-29:403; 2026-12-29:403; 2027-01-28:403; 2027-02-27:403; 2027-03-29:403; 0 JSON payloads: "
+      "error": "RuntimeError: no events from API or browser; direct API: 0/6 windows; calendar page: 'Just a moment...', 29137 chars; 2026-10-31:403; 2026-11-30:403; 2026-12-30:403; 2027-01-29:403; 2027-02-28:403; 2027-03-30:403; 0 JSON payloads: "
     },
     {
       "id": "92ny_talks",
@@ -79,7 +79,7 @@
       "strategy": "custom",
       "count": 34,
       "error": null,
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "nyas",
@@ -88,7 +88,7 @@
       "strategy": "custom",
       "count": 21,
       "error": null,
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "simons",
@@ -113,7 +113,7 @@
       "strategy": "custom",
       "count": 20,
       "error": null,
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "cooperhewitt",
@@ -122,7 +122,7 @@
       "strategy": "custom",
       "count": 16,
       "error": null,
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "rubin",
@@ -139,7 +139,7 @@
       "strategy": "jsonld",
       "count": 18,
       "error": null,
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "vanguard",
@@ -148,78 +148,78 @@
       "strategy": "custom",
       "count": 17,
       "error": null,
-      "note": "17 acts 2026-11-02..2026-11-30 via api; /api/events?venues=*&limit=500:200:dict['events', 'hasMore', 'matchedCount']:46rows | paged to 46 rows; rsc payloads:7; captured: 12 JSON payloads: GET https://www.nycjazz.guide/venues/village_vanguard/events?venues=villag -> rsc[192244] | GET https://www.nycjazz.guide/venues?_rsc=4tf4g -> rsc[55956] | GET https://www.nycjazz.guide/venues/village_vanguard?_rsc=4tf4g -> rsc[32942] | GET https://www.nycjazz.guide/api/auth/get-session -> NoneType",
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "note": "17 acts 2026-11-02..2026-11-30 via api; /api/events?venues=*&limit=500:200:dict['events', 'hasMore', 'matchedCount']:46rows | paged to 46 rows; rsc payloads:7; captured: 12 JSON payloads: GET https://www.nycjazz.guide/venues?_rsc=4tf4g -> rsc[55956] | GET https://www.nycjazz.guide/venues/village_vanguard/events?venues=villag -> rsc[192285] | GET https://www.nycjazz.guide/venues/village_vanguard?_rsc=4tf4g -> rsc[32983] | GET https://www.nycjazz.guide/?_rsc=4tf4g -> rsc[195455]",
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "bluenote",
       "name": "Blue Note",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 129,
+      "count": 127,
       "error": null,
-      "note": "129 acts 2026-10-30..2027-03-24 via api; /api/events?venues=*&limit=500:200:dict['events', 'hasMore', 'matchedCount']:237rows | paged to 237 rows; rsc payloads:7; captured: 12 JSON payloads: GET https://www.nycjazz.guide/venues/blue_note/events?venues=blue_note&_rs -> rsc[188783] | GET https://www.nycjazz.guide/?_rsc=qxqgp -> rsc[195468] | GET https://www.nycjazz.guide/venues?_rsc=qxqgp -> rsc[55956] | GET https://www.nycjazz.guide/venues/blue_note?_rsc=qxqgp -> rsc[32113]",
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "note": "127 acts 2026-10-31..2027-03-24 via api; /api/events?venues=*&limit=500:200:dict['events', 'hasMore', 'matchedCount']:234rows | paged to 234 rows; rsc payloads:7; captured: 12 JSON payloads: GET https://www.nycjazz.guide/venues?_rsc=qxqgp -> rsc[55956] | GET https://www.nycjazz.guide/?_rsc=qxqgp -> rsc[195455] | GET https://www.nycjazz.guide/api/auth/get-session -> NoneType | GET https://www.nycjazz.guide/venues/blue_note/events?venues=blue_note&_rs -> rsc[188965]",
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "smalls",
       "name": "Smalls",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 199,
+      "count": 193,
       "error": null,
-      "note": "199 acts 2026-10-30..2026-12-30 via api; /api/events?venues=*&limit=500:200:dict['events', 'hasMore', 'matchedCount']:341rows | paged to 341 rows; rsc payloads:7; captured: 12 JSON payloads: GET https://www.nycjazz.guide/venues/smalls/events?venues=smalls&_rsc=1dwx -> rsc[192159] | GET https://www.nycjazz.guide/venues/smalls?_rsc=5y7ap -> rsc[33262] | GET https://www.nycjazz.guide/venues?_rsc=5y7ap -> rsc[55956] | GET https://www.nycjazz.guide/api/auth/get-session -> NoneType",
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "note": "193 acts 2026-10-31..2026-12-30 via api; /api/events?venues=*&limit=500:200:dict['events', 'hasMore', 'matchedCount']:334rows | paged to 334 rows; rsc payloads:7; captured: 12 JSON payloads: GET https://www.nycjazz.guide/venues?_rsc=5y7ap -> rsc[55956] | GET https://www.nycjazz.guide/?_rsc=5y7ap -> rsc[195455] | GET https://www.nycjazz.guide/venues/smalls/events?venues=smalls&_rsc=1dwx -> rsc[192076] | GET https://www.nycjazz.guide/venues/smalls?_rsc=5y7ap -> rsc[33113]",
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "mezzrow",
       "name": "Mezzrow",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 144,
+      "count": 139,
       "error": null,
-      "note": "144 acts 2026-10-30..2026-12-31 via api; /api/events?venues=*&limit=500:200:dict['events', 'hasMore', 'matchedCount']:250rows | paged to 250 rows; rsc payloads:7; captured: 12 JSON payloads: GET https://www.nycjazz.guide/venues/mezzrow/events?venues=mezzrow&_rsc=vp -> rsc[194712] | GET https://www.nycjazz.guide/venues/mezzrow?_rsc=syx7s -> rsc[34076] | GET https://www.nycjazz.guide/?_rsc=syx7s -> rsc[195468] | GET https://www.nycjazz.guide/venues?_rsc=syx7s -> rsc[55956]",
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "note": "139 acts 2026-10-31..2026-12-31 via api; /api/events?venues=*&limit=500:200:dict['events', 'hasMore', 'matchedCount']:244rows | paged to 244 rows; rsc payloads:7; captured: 12 JSON payloads: GET https://www.nycjazz.guide/venues?_rsc=syx7s -> rsc[55956] | GET https://www.nycjazz.guide/?_rsc=syx7s -> rsc[195455] | GET https://www.nycjazz.guide/venues/mezzrow/events?venues=mezzrow&_rsc=vp -> rsc[194112] | GET https://www.nycjazz.guide/api/auth/get-session -> NoneType",
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "dizzys",
       "name": "Dizzy's Club",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 116,
+      "count": 115,
       "error": null,
-      "note": "116 acts 2026-10-30..2027-06-19 via api; /api/events?venues=*&limit=500:200:dict['events', 'hasMore', 'matchedCount']:185rows | paged to 185 rows; rsc payloads:7; captured: 12 JSON payloads: GET https://www.nycjazz.guide/venues/dizzys_club_lincoln_center/events?ven -> rsc[193994] | GET https://www.nycjazz.guide/venues?_rsc=1emrt -> rsc[55956] | GET https://www.nycjazz.guide/venues/dizzys_club_lincoln_center?_rsc=1emrt -> rsc[35160] | GET https://www.nycjazz.guide/?_rsc=1emrt -> rsc[195468]",
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "note": "115 acts 2026-10-31..2027-06-19 via api; /api/events?venues=*&limit=500:200:dict['events', 'hasMore', 'matchedCount']:183rows | paged to 183 rows; rsc payloads:7; captured: 14 JSON payloads: GET https://www.nycjazz.guide/venues?_rsc=1emrt -> rsc[55956] | GET https://www.nycjazz.guide/?_rsc=1emrt -> rsc[195455] | GET https://www.nycjazz.guide/api/auth/get-session -> NoneType | GET https://www.nycjazz.guide/auth/sign-up?_rsc=1emrt -> rsc[12501]",
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "smoke",
       "name": "Smoke Jazz Club",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 29,
+      "count": 28,
       "error": null,
-      "note": "29 acts 2026-10-30..2026-12-06 via api; /api/events?venues=*&limit=500:200:dict['events', 'hasMore', 'matchedCount']:70rows | paged to 70 rows; rsc payloads:7; captured: 14 JSON payloads: GET https://www.nycjazz.guide/api/auth/get-session -> NoneType | GET https://www.nycjazz.guide/venues?_rsc=14cjg -> rsc[55956] | GET https://www.nycjazz.guide/?_rsc=14cjg -> rsc[195468] | GET https://www.nycjazz.guide/venues/smoke_jazz_club?_rsc=14cjg -> rsc[27168]",
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "note": "28 acts 2026-10-31..2026-12-06 via api; /api/events?venues=*&limit=500:200:dict['events', 'hasMore', 'matchedCount']:68rows | paged to 68 rows; rsc payloads:7; captured: 12 JSON payloads: GET https://www.nycjazz.guide/?_rsc=14cjg -> rsc[195455] | GET https://www.nycjazz.guide/venues?_rsc=14cjg -> rsc[55956] | GET https://www.nycjazz.guide/venues/smoke_jazz_club/events?venues=smoke_j -> rsc[185566] | GET https://www.nycjazz.guide/api/auth/get-session -> NoneType",
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "birdland",
       "name": "Birdland",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 225,
+      "count": 223,
       "error": null,
-      "note": "225 acts 2026-10-30..2027-04-30 via api; /api/events?venues=*&limit=500:200:dict['events', 'hasMore', 'matchedCount']:367rows | paged to 367 rows; rsc payloads:7; captured: 12 JSON payloads: GET https://www.nycjazz.guide/venues/birdland/events?venues=birdland&_rsc= -> rsc[193562] | GET https://www.nycjazz.guide/?_rsc=1q3nx -> rsc[195468] | GET https://www.nycjazz.guide/venues/birdland?_rsc=1q3nx -> rsc[33597] | GET https://www.nycjazz.guide/venues?_rsc=1q3nx -> rsc[55956]",
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "note": "223 acts 2026-10-31..2027-04-30 via api; /api/events?venues=*&limit=500:200:dict['events', 'hasMore', 'matchedCount']:365rows | paged to 365 rows; rsc payloads:7; captured: 12 JSON payloads: GET https://www.nycjazz.guide/venues?_rsc=1q3nx -> rsc[55956] | GET https://www.nycjazz.guide/?_rsc=1q3nx -> rsc[195455] | GET https://www.nycjazz.guide/api/auth/get-session -> NoneType | GET https://www.nycjazz.guide/venues/birdland/events?venues=birdland&_rsc= -> rsc[192901]",
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "zincbar",
       "name": "Zinc Bar",
       "cat": "jazz",
       "strategy": "custom",
-      "count": 49,
+      "count": 47,
       "error": null,
-      "note": "49 acts 2026-10-30..2026-12-31 via api; /api/events?venues=*&limit=500:200:dict['events', 'hasMore', 'matchedCount']:89rows | paged to 89 rows; rsc payloads:7; captured: 12 JSON payloads: GET https://www.nycjazz.guide/venues/zinc_bar/events?venues=zinc_bar&_rsc= -> rsc[189989] | GET https://www.nycjazz.guide/venues?_rsc=1prsu -> rsc[55956] | GET https://www.nycjazz.guide/?_rsc=1prsu -> rsc[195468] | GET https://www.nycjazz.guide/venues/zinc_bar?_rsc=1prsu -> rsc[32142]",
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "note": "47 acts 2026-11-01..2026-12-31 via api; /api/events?venues=*&limit=500:200:dict['events', 'hasMore', 'matchedCount']:85rows | paged to 85 rows; rsc payloads:7; captured: 12 JSON payloads: GET https://www.nycjazz.guide/venues?_rsc=1prsu -> rsc[55956] | GET https://www.nycjazz.guide/venues/zinc_bar/events?venues=zinc_bar&_rsc= -> rsc[190677] | GET https://www.nycjazz.guide/?_rsc=1prsu -> rsc[195455] | GET https://www.nycjazz.guide/api/auth/get-session -> NoneType",
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "mvhm",
@@ -228,7 +228,7 @@
       "strategy": "ics",
       "count": 11,
       "error": null,
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "bartowpell",
@@ -236,7 +236,7 @@
       "cat": "houses",
       "strategy": "ics",
       "count": 0,
-      "error": "RuntimeError: HTTP 202"
+      "error": "RuntimeError: ConnectionError"
     },
     {
       "id": "aliceausten",
@@ -253,25 +253,25 @@
       "strategy": "ics",
       "count": 1,
       "error": null,
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "greenwood",
       "name": "Green-Wood Cemetery",
       "cat": "access",
       "strategy": "ics",
-      "count": 19,
+      "count": 24,
       "error": null,
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "last_ok": "2026-10-31T14:54:32+00:00"
     },
     {
       "id": "nycpermits",
       "name": "NYC Permitted Events",
       "cat": "streets",
       "strategy": "custom",
-      "count": 90,
+      "count": 89,
       "error": null,
-      "last_ok": "2026-10-30T23:44:49+00:00"
+      "last_ok": "2026-10-31T14:54:32+00:00"
     }
   ]
 }

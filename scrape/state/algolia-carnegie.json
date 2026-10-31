@@ -1,5 +1,5 @@
 {
- "saved": "2026-10-30",
+ "saved": "2026-10-31",
  "specs": [
   {
    "endpoint": "https://q0tmlopf1j-dsn.algolia.net/1/indexes/*/queries",
@@ -9,23 +9,23 @@
     "requests": [
      {
       "indexName": "prod_Events",
-      "params": "query=&hitsPerPage=10&page=0&facets=%5B%22eventtype%22%2C%22seasonnumber%22%2C%22facilityfacet%22%2C%22genre%22%2C%22instrument%22%2C%22ticketprice%22%5D&tagFilters=&numericFilters=%5B%22startdate%3E1793403903422%22%5D"
+      "params": "query=&hitsPerPage=10&page=0&facets=%5B%22eventtype%22%2C%22seasonnumber%22%2C%22facilityfacet%22%2C%22genre%22%2C%22instrument%22%2C%22ticketprice%22%5D&tagFilters=&numericFilters=%5B%22startdate%3E1793458504398%22%5D"
      },
      {
       "indexName": "prod_Events",
-      "params": "query=&hitsPerPage=1&page=0&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&clickAnalytics=false&facets=genre&numericFilters=%5B%22startdate%3E1793403903422%22%5D"
+      "params": "query=&hitsPerPage=1&page=0&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&clickAnalytics=false&facets=genre&numericFilters=%5B%22startdate%3E1793458504398%22%5D"
      },
      {
       "indexName": "prod_Events",
-      "params": "query=&hitsPerPage=1&page=0&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&clickAnalytics=false&facets=facilityfacet&numericFilters=%5B%22startdate%3E1793403903422%22%5D"
+      "params": "query=&hitsPerPage=1&page=0&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&clickAnalytics=false&facets=facilityfacet&numericFilters=%5B%22startdate%3E1793458504398%22%5D"
      },
      {
       "indexName": "prod_Events",
-      "params": "query=&hitsPerPage=1&page=0&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&clickAnalytics=false&facets=instrument&numericFilters=%5B%22startdate%3E1793403903422%22%5D"
+      "params": "query=&hitsPerPage=1&page=0&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&clickAnalytics=false&facets=instrument&numericFilters=%5B%22startdate%3E1793458504398%22%5D"
      },
      {
       "indexName": "prod_Events",
-      "params": "query=&hitsPerPage=1&page=0&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&clickAnalytics=false&facets=ticketprice&numericFilters=%5B%22startdate%3E1793403903422%22%5D"
+      "params": "query=&hitsPerPage=1&page=0&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&clickAnalytics=false&facets=ticketprice&numericFilters=%5B%22startdate%3E1793458504398%22%5D"
      }
     ]
    },
