@@ -1,347 +1,7 @@
 {
-"generated": "2026-11-01T15:36:37+00:00",
-"count": 1944,
+"generated": "2026-11-02T18:58:52+00:00",
+"count": 1896,
 "events": [
-{
-"id": "s821d5df7bf",
-"date": "2026-10-31",
-"time": "08:00",
-"title": "Abbott Dash to the Finish Line 5K (Street Event) \u00b7 EAST 47 STREET between 2 AVENUE and 1 AVENUE, EAST 46 S \u2014 Full Street",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s1253e72cc7",
-"date": "2026-10-31",
-"time": "08:00",
-"title": "2026 Abbott Dash to the finish line 5k (Athletic Race / Tour) \u00b7 EAST 47 STREET between 2 AVENUE and 1 AVENUE, 1 AVENUE b",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s71ffbf7206",
-"date": "2026-10-31",
-"time": "10:00",
-"title": "VILLAGE FALL FAIR (Street Festival) \u00b7 BROADWAY between EAST 8 STREET and EAST 14 STREET \u2014 Full Street Closure closure",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "scfd78bdbeb",
-"date": "2026-10-31",
-"time": "10:00",
-"title": "Lume Sampling (Street Event) \u00b7 BROADWAY between EAST HOUSTON STREET and PRINCE STREET \u2014 Curb Lane Only closure",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sb820db7835",
-"date": "2026-10-31",
-"time": "10:00",
-"title": "Harlem Grown Haunted Harvest Festival (Street Event) \u00b7 WEST 134 STREET between LENOX AVENUE and 7 AVENUE \u2014 Sidewalk and ",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sf33a175f9b",
-"date": "2026-10-31",
-"time": "10:00",
-"title": "33rd Annual Upper Broadway Fall Fair (Street Festival) \u00b7 BROADWAY between WEST 110 STREET and WEST 116 STREET \u2014 Full Str",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s4d6e525d7f",
-"date": "2026-10-31",
-"time": "12:00",
-"title": "Halloween Trick-or-Streets (Street Event) \u00b7 BROOME STREET between ESSEX STREET and NORFOLK STREET \u2014 Full Street Closure ",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sde304e517d",
-"date": "2026-10-31",
-"time": "12:00",
-"title": "Trick or Streets - Amsterdam Open Streets (Street Event) \u00b7 AMSTERDAM AVENUE between WEST 106 STREET and CATHEDRAL PARK \u2014",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s132b7e1530",
-"date": "2026-10-31",
-"time": "12:00",
-"title": "Trick-or-Streets (Street Event) \u00b7 HAMILTON TERRACE between WEST 141 STREET and WEST 144 STRE \u2014 Full Street Closure closu",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s5a30046df4",
-"date": "2026-10-31",
-"time": "13:00",
-"title": "Trick-Or-Streets: East Harlem (Street Event) \u00b7 EAST 112 STREET between MADISON AVENUE and PARK AVENUE \u2014 Full Street Clos",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sfbaeb4c2ed",
-"date": "2026-10-31",
-"time": "13:30",
-"title": "NYU and CB2 Childrens Halloween Parade (Street Event) \u00b7 WEST 3 STREET between LAGUARDIA PLACE and MERCER STREET \u2014 Full S",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s94e925ec9f",
-"date": "2026-10-31",
-"time": "13:30",
-"title": "TRICK-OR-STREETS IN CHINATOWN (Street Event) \u00b7 MOTT STREET between BAYARD STREET and CANAL STREET \u2014 Full Street Closure ",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "se261c76ac7",
-"date": "2026-10-31",
-"time": "14:30",
-"title": "Open Streets: Trick or Streets Open Arts on Ave B (Open Street Partner Event) \u00b7 AVENUE B between EAST 3 STREET and EAST ",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s31f503b19e",
-"date": "2026-10-31",
-"time": "14:30",
-"title": "Halloween Festivity (Block Party) \u00b7 WEST 138 STREET between ADAM CLAYTON POWELL JR BOULEVARD an \u2014 Sidewalk and Curb Lane",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s7fe645b31e",
-"date": "2026-10-31",
-"time": "15:00",
-"title": "Halloween party (Street Event) \u00b7 WEST 11 STREET between GREENWICH STREET and WASHINGTON STR \u2014 Full Street Closure closur",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s90880c1417",
-"date": "2026-10-31",
-"time": "15:00",
-"title": "36th Annual Children's Halloween Parade (Special Event) \u00b7 Washington Square Park: Garibaldi Plaza ,Washington Square",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s245bfd308d",
-"date": "2026-10-31",
-"time": "15:00",
-"title": "Nightmare on 21 Jay Street (Street Event) \u00b7 JAY STREET between GREENWICH STREET and STAPLE STREET \u2014 Full Street Closure ",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s014b514843",
-"date": "2026-10-31",
-"time": "15:00",
-"title": "Halloween Spooktacular (Plaza Partner Event) \u00b7 Bogardus Plaza: Bogardus Plaza Hudson Street between Chamber \u2014 Pedestrian",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s860db735e7",
-"date": "2026-10-31",
-"time": "15:00",
-"title": "Annual Village Halloween Costume ball (Open Culture) \u00b7 EAST 10 STREET between 1 AVENUE and 2 AVENUE \u2014 Full Street Closur",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s2a38a3d7c3",
-"date": "2026-10-31",
-"time": "15:00",
-"title": "Treat-or-Streets (Street Event) \u00b7 CONVENT AVENUE between WEST 144 STREET and WEST 143 STREET \u2014 Full Street Closure closu",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sa408106c80",
-"date": "2026-10-31",
-"time": "15:00",
-"title": "All Angels Hallowfest Event (Street Event) \u00b7 WEST 80 STREET between BROADWAY and WEST END AVENUE \u2014 Full Street Closure c",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s8db93fbaec",
-"date": "2026-10-31",
-"time": "15:00",
-"title": "Strivers Row Halloween Festival (Street Event) \u00b7 WEST 139 STREET between ADAM CLAYTON POWELL JR BOULEVARD an \u2014 Full Stre",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s089fe014f4",
-"date": "2026-10-31",
-"time": "15:30",
-"title": "Halloween Spooktacular Celebration (Street Event) \u00b7 WEST 107 STREET between CENTRAL PARK WEST and MANHATTAN AVE \u2014 Full S",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s01fd747bbc",
-"date": "2026-10-31",
-"time": "16:00",
-"title": "Trick or Streets: Carnegie Hill Neighbors 15th Annual Spooktacular (Street Event) \u00b7 EAST 92 STREET between PARK AVENUE a",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s66afe8d98a",
-"date": "2026-10-31",
-"time": "16:00",
-"title": "Trick-or-Streets on East 3rd Street (Street Event) \u00b7 EAST 3 STREET between AVENUE B and AVENUE A \u2014 Full Street Closure c",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sc530bb927b",
-"date": "2026-10-31",
-"time": "16:00",
-"title": "Halloween (Street Event) \u00b7 WEST 22 STREET between 8 AVENUE and 10 AVENUE \u2014 Full Street Closure closure",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s0c4c8c68a6",
-"date": "2026-10-31",
-"time": "16:00",
-"title": "Halloween 2026 (Street Event) \u00b7 WEST 78 STREET between AMSTERDAM AVENUE and COLUMBUS AVENU \u2014 Full Street Closure closure",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s5c9510bca5",
-"date": "2026-10-31",
-"time": "16:00",
-"title": "Halloween Block Party (Street Event) \u00b7 WEST 87 STREET between CENTRAL PARK WEST and COLUMBUS AVEN \u2014 Full Street Closure ",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sb526f09afb",
-"date": "2026-10-31",
-"time": "16:30",
-"title": "Halloween Event (Block Party) \u00b7 WEST 90 STREET between CENTRAL PARK WEST and COLUMBUS AVEN \u2014 Full Street Closure closure",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sc4e1db95dc",
-"date": "2026-10-31",
-"time": "17:00",
-"title": "19th Annual Washington Heights Halloween Parade \u00b7 349 CABRINI BOULEVARD, CABRINI BOULEVARD between WEST 190 S \u2014 Full Str",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s7fe959a736",
-"date": "2026-10-31",
-"time": "17:30",
-"title": "West 95th Street 2026 Halloween Party (Block Party) \u00b7 WEST 95 STREET between CENTRAL PARK WEST and COLUMBUS AVEN \u2014 Full ",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s9b00a5c6c0",
-"date": "2026-10-31",
-"time": "18:00",
-"title": "MOXY HOTEL EVENT (Street Event) \u00b7 EAST 11 STREET between 3 AVENUE and 4 AVENUE \u2014 Partial Sidewalk Closure closure",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s3301de375c",
-"date": "2026-10-31",
-"time": "19:00",
-"title": "The 53rd Annual New Yorks Village Halloween Parade \u00b7 SULLIVAN STREET between SPRING STREET and BROOME STREET, SP \u2014 Full ",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s90015b1478",
-"date": "2026-10-31",
-"time": "",
-"title": "Louis Fratino \u2014 final day",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions",
-"src": "zwirner"
-},
 {
 "id": "s8cbd25de3f",
 "date": "2026-11-01",
@@ -361,206 +21,6 @@
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
-},
-{
-"id": "s7846f05b67",
-"date": "2026-11-01",
-"time": "14:00",
-"title": "Smalls Afternoon Jam Session Hosted by Ryo Sasaki Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34349-smalls-afternoon-jam-session-hosted-by-ryo-sasaki-quartet/",
-"src": "smalls"
-},
-{
-"id": "s7912a3d584",
-"date": "2026-11-01",
-"time": "15:00",
-"title": "New York Philharmonic Ensembles",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/merkin-nov",
-"src": "nyphil"
-},
-{
-"id": "sf62a878972",
-"date": "2026-11-01",
-"time": "17:00",
-"title": "Jason Yeager and Justin Poindexter Honor Bill Crow and Steve Little",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://ticketing.jazz.org/21678/21680",
-"src": "dizzys"
-},
-{
-"id": "se1fe7e3342",
-"date": "2026-11-01",
-"time": "17:30",
-"title": "Sam Dillon Quartet",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/sam-dillon-quartet-birdland-jazz-club-tickets/15007213",
-"src": "birdland"
-},
-{
-"id": "sd059c21cd9",
-"date": "2026-11-01",
-"time": "18:00",
-"title": "Kieran Brown Quartet",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34236-kieran-brown-quartet/",
-"src": "mezzrow"
-},
-{
-"id": "sfb18ff6562",
-"date": "2026-11-01",
-"time": "18:00",
-"title": "Craig Wuepper Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34199-craig-wuepper-quartet/",
-"src": "smalls"
-},
-{
-"id": "s3fcf29c956",
-"date": "2026-11-01",
-"time": "18:30",
-"title": "Billy Childs Trio plus special guest Steve Wilson",
-"venue": "Smoke Jazz Club",
-"cat": "jazz",
-"url": "https://tickets.smokejazz.com/shows/13363/?date=2026-11-01",
-"src": "smoke"
-},
-{
-"id": "s60b163aa2c",
-"date": "2026-11-01",
-"time": "19:00",
-"title": "Michael Blake Quartet: Halloween Tales",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/michael-blake-quartet-halloween-tales-birdland-theater-tickets/14278924",
-"src": "birdland"
-},
-{
-"id": "s795b3996d1",
-"date": "2026-11-01",
-"time": "19:00",
-"title": "\"Sound of Home\" Chinese Classical Music Concert",
-"venue": "Carnegie Hall \u00b7 Stern Auditorium",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/01/sound-of-home-chinese-classical-music-concert-0700pm",
-"src": "carnegie"
-},
-{
-"id": "sbca224093f",
-"date": "2026-11-01",
-"time": "19:30",
-"title": "Xiaobin Ma, Soprano",
-"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/01/xiaobin-ma-soprano-0730pm",
-"src": "carnegie"
-},
-{
-"id": "sca9447b5e4",
-"date": "2026-11-01",
-"time": "19:30",
-"title": "Valtinho Anast\u00c3\u00a1cio",
-"venue": "Zinc Bar",
-"cat": "jazz",
-"url": "https://www.zincbar.com/event/valtinho-anastacio-82/",
-"src": "zincbar"
-},
-{
-"id": "sfa101fa15e",
-"date": "2026-11-01",
-"time": "19:30",
-"title": "Valtinho Anast\u00e1cio",
-"venue": "Zinc Bar",
-"cat": "jazz",
-"url": "https://www.zincbar.com/event/valtinho-anastacio-82/",
-"src": "zincbar"
-},
-{
-"id": "sd11008c03f",
-"date": "2026-11-01",
-"time": "20:00",
-"title": "Robert Glasper X Finale with Derrick Hodge & Chris Dave",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/robert-glasper-x-finale-with-blue-note-jazz-club-tickets/15019043",
-"src": "bluenote"
-},
-{
-"id": "s24495bb1d3",
-"date": "2026-11-01",
-"time": "20:00",
-"title": "Robert Glasper",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvab_",
-"src": "bluenote"
-},
-{
-"id": "s34c121d332",
-"date": "2026-11-01",
-"time": "20:30",
-"title": "The Birdland Latin Jazz Orchestra",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-birdland-latin-jazz-orchestra-birdland-jazz-club-tickets/14224954",
-"src": "birdland"
-},
-{
-"id": "s3b24bf0511",
-"date": "2026-11-01",
-"time": "21:00",
-"title": "Lucy Wijnands Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34348-lucy-wijnands-trio/",
-"src": "mezzrow"
-},
-{
-"id": "saadf186a32",
-"date": "2026-11-01",
-"time": "21:00",
-"title": "Lucy Wijnands Quartet",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34348-lucy-wijnands-quartet/",
-"src": "mezzrow"
-},
-{
-"id": "sdd1ed42f7b",
-"date": "2026-11-01",
-"time": "21:00",
-"title": "Nate Jones Septet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34224-nate-jones-septet/",
-"src": "smalls"
-},
-{
-"id": "s33e9ab15a2",
-"date": "2026-11-01",
-"time": "23:55",
-"title": "Aaron Johnson Sextet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34350-aaron-johnson-sextet/",
-"src": "smalls"
-},
-{
-"id": "s31ef3f72b0",
-"date": "2026-11-01",
-"time": "23:55",
-"title": "Aaron Johnson Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34350-aaron-johnson-quartet/",
-"src": "smalls"
 },
 {
 "id": "sb78977d530",
@@ -601,6 +61,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/day-of-the-dead-family-celebration-3/",
 "src": "greenwood"
+},
+{
+"id": "s47d6c4788b",
+"date": "2026-11-02",
+"time": "17:30",
+"title": "Vince Giordano and The Nighthawks",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14225054",
+"src": "birdland"
 },
 {
 "id": "se71321606c",
@@ -703,16 +173,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s3869ba167d",
-"date": "2026-11-02",
-"time": "21:00",
-"title": "Eric Lewis Trio",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34225-eric-lewis-trio/",
-"src": "smalls"
-},
-{
 "id": "s9d3a390ebd",
 "date": "2026-11-02",
 "time": "21:00",
@@ -720,6 +180,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34225-eric-lewis-quartet/",
+"src": "smalls"
+},
+{
+"id": "s3869ba167d",
+"date": "2026-11-02",
+"time": "21:00",
+"title": "Eric Lewis Trio",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34225-eric-lewis-trio/",
 "src": "smalls"
 },
 {
@@ -2113,16 +1583,6 @@
 "src": "smalls"
 },
 {
-"id": "s813d65881c",
-"date": "2026-11-08",
-"time": "23:55",
-"title": "Panas Athanatos Trio",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34364-panas-athanatos-trio/",
-"src": "smalls"
-},
-{
 "id": "s48fdca392a",
 "date": "2026-11-08",
 "time": "23:55",
@@ -2130,6 +1590,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34364-panas-athanatos-quartet/",
+"src": "smalls"
+},
+{
+"id": "s813d65881c",
+"date": "2026-11-08",
+"time": "23:55",
+"title": "Panas Athanatos Trio",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34364-panas-athanatos-trio/",
 "src": "smalls"
 },
 {
@@ -2493,16 +1963,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s0aef9419bc",
-"date": "2026-11-10",
-"time": "21:00",
-"title": "Robert Edwards Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34384-robert-edwards-quartet/",
-"src": "smalls"
-},
-{
 "id": "s93c742e161",
 "date": "2026-11-10",
 "time": "21:00",
@@ -2510,6 +1970,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34384-robert-edwards-quintet/",
+"src": "smalls"
+},
+{
+"id": "s0aef9419bc",
+"date": "2026-11-10",
+"time": "21:00",
+"title": "Robert Edwards Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34384-robert-edwards-quartet/",
 "src": "smalls"
 },
 {
@@ -2933,16 +2403,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s602217594e",
-"date": "2026-11-13",
-"time": "18:00",
-"title": "Tommy Campbell Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34394-tommy-campbell-quartet/",
-"src": "smalls"
-},
-{
 "id": "s3f4a6fbd98",
 "date": "2026-11-13",
 "time": "18:00",
@@ -2950,6 +2410,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34394-tommy-campbell-sextet/",
+"src": "smalls"
+},
+{
+"id": "s602217594e",
+"date": "2026-11-13",
+"time": "18:00",
+"title": "Tommy Campbell Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34394-tommy-campbell-quartet/",
 "src": "smalls"
 },
 {
@@ -3213,16 +2683,6 @@
 "src": "nyphil"
 },
 {
-"id": "s91801d01e2",
-"date": "2026-11-14",
-"time": "14:00",
-"title": "SMALLS AFTERNOON JAM SESSION HOSTED BY Tyler Mitchell",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34482-smalls-afternoon-jam-session-hosted-by-tyler-mitchell/",
-"src": "smalls"
-},
-{
 "id": "s8166a8edf9",
 "date": "2026-11-14",
 "time": "14:00",
@@ -3230,6 +2690,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34482-smalls-afternoon-jam-session-hosted-by-tyler-mitchell-quartet/",
+"src": "smalls"
+},
+{
+"id": "s91801d01e2",
+"date": "2026-11-14",
+"time": "14:00",
+"title": "SMALLS AFTERNOON JAM SESSION HOSTED BY Tyler Mitchell",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34482-smalls-afternoon-jam-session-hosted-by-tyler-mitchell/",
 "src": "smalls"
 },
 {
@@ -3263,16 +2733,6 @@
 "src": "mezzrow"
 },
 {
-"id": "sc8b02c2cf5",
-"date": "2026-11-14",
-"time": "18:00",
-"title": "Tommy Campbell Sextet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34395-tommy-campbell-sextet/",
-"src": "smalls"
-},
-{
 "id": "s692c8868c9",
 "date": "2026-11-14",
 "time": "18:00",
@@ -3280,6 +2740,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34395-tommy-campbell-quartet/",
+"src": "smalls"
+},
+{
+"id": "sc8b02c2cf5",
+"date": "2026-11-14",
+"time": "18:00",
+"title": "Tommy Campbell Sextet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34395-tommy-campbell-sextet/",
 "src": "smalls"
 },
 {
@@ -3633,16 +3103,6 @@
 "src": "smalls"
 },
 {
-"id": "sef64e8db10",
-"date": "2026-11-15",
-"time": "23:55",
-"title": "Jeff McGregor Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34400-jeff-mcgregor-quartet/",
-"src": "smalls"
-},
-{
 "id": "saedaa4b647",
 "date": "2026-11-15",
 "time": "23:55",
@@ -3650,6 +3110,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34400-jeff-mcgregor-quintet/",
+"src": "smalls"
+},
+{
+"id": "sef64e8db10",
+"date": "2026-11-15",
+"time": "23:55",
+"title": "Jeff McGregor Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34400-jeff-mcgregor-quartet/",
 "src": "smalls"
 },
 {
@@ -3763,16 +3233,6 @@
 "src": "mezzrow"
 },
 {
-"id": "sbebb21ff33",
-"date": "2026-11-16",
-"time": "21:00",
-"title": "Marius Van Den Brink Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34405-marius-van-den-brink-quartet/",
-"src": "smalls"
-},
-{
 "id": "s29876755c8",
 "date": "2026-11-16",
 "time": "21:00",
@@ -3780,6 +3240,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34405-marius-van-den-brink-quintet/",
+"src": "smalls"
+},
+{
+"id": "sbebb21ff33",
+"date": "2026-11-16",
+"time": "21:00",
+"title": "Marius Van Den Brink Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34405-marius-van-den-brink-quartet/",
 "src": "smalls"
 },
 {
@@ -4313,16 +3783,6 @@
 "src": "birdland"
 },
 {
-"id": "s75e954329b",
-"date": "2026-11-20",
-"time": "18:00",
-"title": "Kenny Davis Quartet",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34328-kenny-davis-quartet/",
-"src": "mezzrow"
-},
-{
 "id": "sca3ac55be7",
 "date": "2026-11-20",
 "time": "18:00",
@@ -4330,6 +3790,16 @@
 "venue": "Mezzrow",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34328-kenny-davis-trio/",
+"src": "mezzrow"
+},
+{
+"id": "s75e954329b",
+"date": "2026-11-20",
+"time": "18:00",
+"title": "Kenny Davis Quartet",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34328-kenny-davis-quartet/",
 "src": "mezzrow"
 },
 {
@@ -4583,16 +4053,6 @@
 "src": "nycpermits"
 },
 {
-"id": "s276d18c730",
-"date": "2026-11-21",
-"time": "18:00",
-"title": "Kenny Davis Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34329-kenny-davis-trio/",
-"src": "mezzrow"
-},
-{
 "id": "s4d2aaa6d45",
 "date": "2026-11-21",
 "time": "18:00",
@@ -4600,6 +4060,16 @@
 "venue": "Mezzrow",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34329-kenny-davis-quartet/",
+"src": "mezzrow"
+},
+{
+"id": "s276d18c730",
+"date": "2026-11-21",
+"time": "18:00",
+"title": "Kenny Davis Trio",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34329-kenny-davis-trio/",
 "src": "mezzrow"
 },
 {
@@ -4933,16 +4403,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s5d32a72429",
-"date": "2026-11-23",
-"time": "18:00",
-"title": "Eliot Zigmund Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34425-eliot-zigmund-quartet/",
-"src": "smalls"
-},
-{
 "id": "s8a5a6e19f2",
 "date": "2026-11-23",
 "time": "18:00",
@@ -4950,6 +4410,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34425-eliot-zigmund-quintet/",
+"src": "smalls"
+},
+{
+"id": "s5d32a72429",
+"date": "2026-11-23",
+"time": "18:00",
+"title": "Eliot Zigmund Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34425-eliot-zigmund-quartet/",
 "src": "smalls"
 },
 {
@@ -5183,16 +4653,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s3332ebccf1",
-"date": "2026-11-24",
-"time": "23:55",
-"title": "Jam Session Hosted By Jason Clotter Trio",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34427-jam-session-hosted-by-jason-clotter-trio/",
-"src": "smalls"
-},
-{
 "id": "sb7ef8f6638",
 "date": "2026-11-24",
 "time": "23:55",
@@ -5200,6 +4660,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34427-jam-session-hosted-by-jason-clotter/",
+"src": "smalls"
+},
+{
+"id": "s3332ebccf1",
+"date": "2026-11-24",
+"time": "23:55",
+"title": "Jam Session Hosted By Jason Clotter Trio",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34427-jam-session-hosted-by-jason-clotter-trio/",
 "src": "smalls"
 },
 {
@@ -5553,16 +5023,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s693bd005f7",
-"date": "2026-11-27",
-"time": "21:00",
-"title": "Brandon Lee Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34436-brandon-lee-quartet/",
-"src": "smalls"
-},
-{
 "id": "s037b2351bc",
 "date": "2026-11-27",
 "time": "21:00",
@@ -5570,6 +5030,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34436-brandon-lee-quintet/",
+"src": "smalls"
+},
+{
+"id": "s693bd005f7",
+"date": "2026-11-27",
+"time": "21:00",
+"title": "Brandon Lee Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34436-brandon-lee-quartet/",
 "src": "smalls"
 },
 {
@@ -5913,16 +5383,6 @@
 "src": "zincbar"
 },
 {
-"id": "sd3c9800fa2",
-"date": "2026-11-29",
-"time": "20:00",
-"title": "The War And Treaty - w/ Butter & Grit, Jordan Babbs",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketmaster.com/the-war-and-treaty-w-butter-new-york-new-york-11-29-2026/event/000064D1E9C1208B",
-"src": "bluenote"
-},
-{
 "id": "sdffd4ab113",
 "date": "2026-11-29",
 "time": "20:00",
@@ -5940,6 +5400,16 @@
 "venue": "Blue Note",
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/chief-adjuah-blue-note-jazz-club-tickets/15032733",
+"src": "bluenote"
+},
+{
+"id": "sd3c9800fa2",
+"date": "2026-11-29",
+"time": "20:00",
+"title": "The War And Treaty - w/ Butter & Grit, Jordan Babbs",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketmaster.com/the-war-and-treaty-w-butter-new-york-new-york-11-29-2026/event/000064D1E9C1208B",
 "src": "bluenote"
 },
 {
@@ -6063,16 +5533,6 @@
 "src": "nyphil"
 },
 {
-"id": "s8463d18ff1",
-"date": "2026-11-30",
-"time": "20:00",
-"title": "Zohar and Adam",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvS-0",
-"src": "bluenote"
-},
-{
 "id": "s6f892342da",
 "date": "2026-11-30",
 "time": "20:00",
@@ -6080,6 +5540,16 @@
 "venue": "Blue Note",
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/zohar-adam-blue-note-jazz-club-tickets/15031733",
+"src": "bluenote"
+},
+{
+"id": "s8463d18ff1",
+"date": "2026-11-30",
+"time": "20:00",
+"title": "Zohar and Adam",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvS-0",
 "src": "bluenote"
 },
 {
@@ -6243,16 +5713,6 @@
 "src": "mezzrow"
 },
 {
-"id": "sb48fdc24e6",
-"date": "2026-12-01",
-"time": "21:00",
-"title": "Diallo House Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34531-diallo-house-quartet/",
-"src": "smalls"
-},
-{
 "id": "se77046879d",
 "date": "2026-12-01",
 "time": "21:00",
@@ -6260,6 +5720,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34531-diallo-house-sextet/",
+"src": "smalls"
+},
+{
+"id": "sb48fdc24e6",
+"date": "2026-12-01",
+"time": "21:00",
+"title": "Diallo House Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34531-diallo-house-quartet/",
 "src": "smalls"
 },
 {
@@ -6293,13 +5763,13 @@
 "src": "mezzrow"
 },
 {
-"id": "s2899f6fecf",
+"id": "s25e6e0abd9",
 "date": "2026-12-02",
 "time": "18:00",
-"title": "Rodney Jones / Didier Conchon Quartet",
+"title": "Didier Conchon & Rodney Jones Quartet",
 "venue": "Smalls",
 "cat": "jazz",
-"url": "https://www.smallslive.com/events/34642-rodney-jones-didier-conchon-quartet/",
+"url": "https://www.smallslive.com/events/34642-didier-conchon-rodney-jones-quartet/",
 "src": "smalls"
 },
 {
@@ -6313,13 +5783,13 @@
 "src": "smalls"
 },
 {
-"id": "s25e6e0abd9",
+"id": "s2899f6fecf",
 "date": "2026-12-02",
 "time": "18:00",
-"title": "Didier Conchon & Rodney Jones Quartet",
+"title": "Rodney Jones / Didier Conchon Quartet",
 "venue": "Smalls",
 "cat": "jazz",
-"url": "https://www.smallslive.com/events/34642-didier-conchon-rodney-jones-quartet/",
+"url": "https://www.smallslive.com/events/34642-rodney-jones-didier-conchon-quartet/",
 "src": "smalls"
 },
 {
@@ -6593,16 +6063,6 @@
 "src": "mezzrow"
 },
 {
-"id": "sb63ca9129b",
-"date": "2026-12-03",
-"time": "21:00",
-"title": "Brian Melvin Trio",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34534-brian-melvin-trio/",
-"src": "smalls"
-},
-{
 "id": "s99daac637d",
 "date": "2026-12-03",
 "time": "21:00",
@@ -6610,6 +6070,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34534-brian-melvin-quartet/",
+"src": "smalls"
+},
+{
+"id": "sb63ca9129b",
+"date": "2026-12-03",
+"time": "21:00",
+"title": "Brian Melvin Trio",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34534-brian-melvin-trio/",
 "src": "smalls"
 },
 {
@@ -6663,16 +6133,6 @@
 "src": "mezzrow"
 },
 {
-"id": "sc8b68469eb",
-"date": "2026-12-04",
-"time": "18:00",
-"title": "David Smith Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34535-david-smith-quartet/",
-"src": "smalls"
-},
-{
 "id": "s105df17ac0",
 "date": "2026-12-04",
 "time": "18:00",
@@ -6680,6 +6140,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34535-david-smith-quintet/",
+"src": "smalls"
+},
+{
+"id": "sc8b68469eb",
+"date": "2026-12-04",
+"time": "18:00",
+"title": "David Smith Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34535-david-smith-quartet/",
 "src": "smalls"
 },
 {
@@ -6720,6 +6190,16 @@
 "venue": "Carnegie Hall \u00b7 Weill Recital Hall",
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2026/12/04/lily-friedman-amp-friends-celebration-recital-benefiting-summertrios-0730pm",
+"src": "carnegie"
+},
+{
+"id": "s0f974220f3",
+"date": "2026-12-04",
+"time": "19:30",
+"title": "Dilber Yunus Solo Recital",
+"venue": "Carnegie Hall \u00b7 Zankel Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/12/04/dilber-yunus-solo-recital-0730pm",
 "src": "carnegie"
 },
 {
@@ -6853,16 +6333,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s2e6c354a21",
-"date": "2026-12-05",
-"time": "18:00",
-"title": "David Smith Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34536-david-smith-quartet/",
-"src": "smalls"
-},
-{
 "id": "sb43ff64fbd",
 "date": "2026-12-05",
 "time": "18:00",
@@ -6870,6 +6340,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34536-david-smith-quintet/",
+"src": "smalls"
+},
+{
+"id": "s2e6c354a21",
+"date": "2026-12-05",
+"time": "18:00",
+"title": "David Smith Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34536-david-smith-quartet/",
 "src": "smalls"
 },
 {
@@ -7109,7 +6589,7 @@
 "title": "Cindy Blackman Santana",
 "venue": "Blue Note",
 "cat": "jazz",
-"url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv8bs",
+"url": "https://www.ticketweb.com/event/cindy-blackman-santana-blue-note-jazz-club-tickets/15031973",
 "src": "bluenote"
 },
 {
@@ -7443,16 +6923,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s00ca9d7b4f",
-"date": "2026-12-09",
-"time": "18:00",
-"title": "Marty Ehrlich Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34541-marty-ehrlich-quartet/",
-"src": "smalls"
-},
-{
 "id": "s8c6c429b69",
 "date": "2026-12-09",
 "time": "18:00",
@@ -7460,6 +6930,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34541-marty-ehrlich-trio/",
+"src": "smalls"
+},
+{
+"id": "s00ca9d7b4f",
+"date": "2026-12-09",
+"time": "18:00",
+"title": "Marty Ehrlich Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34541-marty-ehrlich-quartet/",
 "src": "smalls"
 },
 {
@@ -7733,16 +7213,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s95e1c752ef",
-"date": "2026-12-11",
-"time": "18:00",
-"title": "James Zollar Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34602-james-zollar-quartet/",
-"src": "smalls"
-},
-{
 "id": "sc74498042e",
 "date": "2026-12-11",
 "time": "18:00",
@@ -7750,6 +7220,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34602-james-zollar-sextet/",
+"src": "smalls"
+},
+{
+"id": "s95e1c752ef",
+"date": "2026-12-11",
+"time": "18:00",
+"title": "James Zollar Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34602-james-zollar-quartet/",
 "src": "smalls"
 },
 {
@@ -7953,16 +7433,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s0c70103590",
-"date": "2026-12-12",
-"time": "18:00",
-"title": "James Zollar Sextet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34604-james-zollar-sextet/",
-"src": "smalls"
-},
-{
 "id": "s983c2cffd6",
 "date": "2026-12-12",
 "time": "18:00",
@@ -7970,6 +7440,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34604-james-zollar-quartet/",
+"src": "smalls"
+},
+{
+"id": "s0c70103590",
+"date": "2026-12-12",
+"time": "18:00",
+"title": "James Zollar Sextet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34604-james-zollar-sextet/",
 "src": "smalls"
 },
 {
@@ -8119,7 +7599,7 @@
 "title": "Chris Botti",
 "venue": "Blue Note",
 "cat": "jazz",
-"url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JF__",
+"url": "https://www.ticketweb.com/event/chris-botti-blue-note-jazz-club-tickets/14237804",
 "src": "bluenote"
 },
 {
@@ -9043,16 +8523,6 @@
 "src": "zwirner"
 },
 {
-"id": "se0663d6dd8",
-"date": "2026-12-20",
-"time": "13:00",
-"title": "The World Famous Harlem Gospel Choir",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/15030363",
-"src": "bluenote"
-},
-{
 "id": "s4f76600294",
 "date": "2026-12-20",
 "time": "13:00",
@@ -9060,6 +8530,16 @@
 "venue": "Blue Note",
 "cat": "jazz",
 "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv3eo",
+"src": "bluenote"
+},
+{
+"id": "se0663d6dd8",
+"date": "2026-12-20",
+"time": "13:00",
+"title": "The World Famous Harlem Gospel Choir",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/15030363",
 "src": "bluenote"
 },
 {
@@ -9739,7 +9219,7 @@
 "title": "Chris Botti",
 "venue": "Blue Note",
 "cat": "jazz",
-"url": "https://www.ticketweb.com/event/chris-botti-blue-note-jazz-club-tickets/14237824",
+"url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JF_4",
 "src": "bluenote"
 },
 {
@@ -9813,16 +9293,6 @@
 "src": "smalls"
 },
 {
-"id": "s82773a1267",
-"date": "2026-12-28",
-"time": "13:30",
-"title": "The World Famous Harlem Gospel Choir",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/15030353",
-"src": "bluenote"
-},
-{
 "id": "s0dca3e5dc1",
 "date": "2026-12-28",
 "time": "13:30",
@@ -9830,6 +9300,16 @@
 "venue": "Blue Note",
 "cat": "jazz",
 "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv3eK",
+"src": "bluenote"
+},
+{
+"id": "s82773a1267",
+"date": "2026-12-28",
+"time": "13:30",
+"title": "The World Famous Harlem Gospel Choir",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/15030353",
 "src": "bluenote"
 },
 {
@@ -10463,6 +9943,16 @@
 "src": "birdland"
 },
 {
+"id": "s22c7530a73",
+"date": "2027-01-08",
+"time": "",
+"title": "Learn to Read Hiragana",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/learn-to-read-hiragana-jan2027/",
+"src": "japansociety"
+},
+{
 "id": "sbd36efaa3e",
 "date": "2027-01-09",
 "time": "13:00",
@@ -10741,6 +10231,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/kurt-elling-birdland-jazz-club-tickets/14321064",
 "src": "birdland"
+},
+{
+"id": "saf0b6b667a",
+"date": "2027-01-15",
+"time": "",
+"title": "Learn to Read Katakana",
+"venue": "Japan Society",
+"cat": "talks",
+"url": "https://japansociety.org/events/learn-to-read-katakana-jan2027/",
+"src": "japansociety"
 },
 {
 "id": "sf826c2794c",
@@ -11631,6 +11131,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/benny-green-trio-birdland-jazz-club-tickets/14379834",
 "src": "birdland"
+},
+{
+"id": "sea6f236b28",
+"date": "2027-01-30",
+"time": "",
+"title": "Works & Process: Lim\u00f3n Dance Company: The Moor\u2019s Pavane Reimagined by Akram Khan (first look)",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/works-process-limon-dance-company-the-moors-pavane-reimagined-by-akram-khan-first-look",
+"src": "guggenheim"
 },
 {
 "id": "s2a10211ff4",
@@ -12691,6 +12201,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/richard-bona-quartet-birdland-jazz-club-tickets/14379934",
 "src": "birdland"
+},
+{
+"id": "s86f101c753",
+"date": "2027-02-18",
+"time": "19:30",
+"title": "MinJung Baek, Piano",
+"venue": "Carnegie Hall \u00b7 Zankel Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/02/18/minjung-baek-piano-0730pm",
+"src": "carnegie"
 },
 {
 "id": "sec78b02fd2",
@@ -14083,13 +13603,13 @@
 "src": "birdland"
 },
 {
-"id": "s3118cf7b3f",
+"id": "s03a2fb3abc",
 "date": "2027-03-13",
 "time": "19:30",
-"title": "Larchmont Music Academy Concert",
+"title": "Larchmont Music Academy Honor Students and Ensemble Concert",
 "venue": "Carnegie Hall \u00b7 Weill Recital Hall",
 "cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2027/03/13/larchmont-music-academy-concert-0730pm",
+"url": "https://www.carnegiehall.org/calendar/2027/03/13/larchmont-music-academy-honor-students-and-ensemble-concert-0730pm",
 "src": "carnegie"
 },
 {
@@ -19123,6 +18643,16 @@
 "src": "japansociety"
 },
 {
+"id": "s274be8020c",
+"date": "2027-09-20",
+"time": "",
+"title": "Works & Process Underground Uptown Dance Festival: Julia Antinozzi and John Manzari",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/works-process-underground-uptown-dance-festival-julia-antinozzi-and-john-manzari",
+"src": "guggenheim"
+},
+{
 "id": "sa7226275b5",
 "date": "2027-09-21",
 "time": "",
@@ -19341,16 +18871,6 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/late-shift",
 "src": "guggenheim"
-},
-{
-"id": "s0b163d3bf9",
-"date": "2027-10-17",
-"time": "",
-"title": "Family Art Day: Button-Making Inspired by Art of Inokuma",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/family-art-day-button-making-inspired-by-art-of-inokuma/",
-"src": "japansociety"
 },
 {
 "id": "s4fbd7b1dea",
