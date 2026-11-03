@@ -3,12 +3,12 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>City by the Day v2.0 — NYC culture calendar</title>
+<title>City by the Day v2.1 — NYC culture calendar</title>
 <meta name="description" content="Dance, concerts, opera, talks, Broadway, museums, jazz rooms and the city's rarer openings, scraped nightly from the venues themselves." />
 <meta name="theme-color" content="#f5f5f7" id="themeColorMeta" />
 <meta name="color-scheme" content="light dark" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="City by the Day v2.0" />
+<meta property="og:title" content="City by the Day v2.1" />
 <meta property="og:description" content="A New York culture calendar, scraped nightly." />
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23111'/%3E%3Ccircle cx='16' cy='16' r='6' fill='%230071e3'/%3E%3C/svg%3E" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -342,7 +342,7 @@ html[data-theme="dark"]  .themetoggle .i-sun{display:block}
   </div>
   <nav class="nav" aria-label="Calendar controls">
     <div class="nav-inner">
-      <div class="brand">City by the Day<span class="vtag">v2.0</span></div>
+      <div class="brand">City by the Day<span class="vtag">v2.1</span></div>
       <div class="views" id="viewSeg" role="group" aria-label="View">
         <button type="button" data-view="month" aria-pressed="true">Month</button>
         <button type="button" data-view="list" aria-pressed="false">Agenda</button>
@@ -360,7 +360,7 @@ html[data-theme="dark"]  .themetoggle .i-sun{display:block}
 <header class="hero">
   <div class="orb a"></div><div class="orb b"></div>
   <div class="wrap">
-    <div class="eyebrow">New York culture calendar &nbsp;/&nbsp; <b>v2.0</b> &nbsp;&middot;&nbsp; 30 October 2026, 2:08 PM ET &nbsp;&middot;&nbsp; <span class="mono">build 2026-10-30T14:08-04:00</span></div>
+    <div class="eyebrow">New York culture calendar &nbsp;/&nbsp; <b>v2.1</b> &nbsp;&middot;&nbsp; 2 November 2026, 10:28 AM ET &nbsp;&middot;&nbsp; <span class="mono">build 2026-11-02T10:28-05:00</span></div>
     <h1 class="h1">City by the <em>Day</em></h1>
     <p class="lede">Dance, concerts, opera, talks, Broadway, museums, jazz rooms, and the places that open once a year. Read nightly from the venues&rsquo; own listings; everything else links straight to the box office.</p>
     <div class="todaypill" id="todayPill"></div>
@@ -393,8 +393,8 @@ html[data-theme="dark"]  .themetoggle .i-sun{display:block}
 
 <footer class="footer">
   <div class="wrap">
-    <p>Listings are read nightly from structured data the venues publish (APIs, JSON-LD, iCalendar) or, for the jazz rooms, from the NYC Jazz Guide aggregator. Seasons that publish no feed &mdash; Park Avenue Armory, the Met&rsquo;s exhibitions &mdash; are hand-curated with dates checked against the venue. Events you add are kept in this browser only.</p>
-    <p class="verstamp">City by the Day &mdash; v2.0 &middot; build 2026-10-30T14:08-04:00 &middot; supersedes v1 (unversioned build of 16 October 2026). Changes in v2: house-style redesign with light/dark theme; month grid columns locked to equal width so cells align with the weekday row; curated seasons now draw every performance date (Armory was showing only first and last nights, and hid past dates in the current month); generic jazz placeholders removed in favour of named performers; hall names on Carnegie listings; added events now persist in this browser.</p>
+    <p>Listings are read nightly from structured data the venues publish (APIs, JSON-LD, iCalendar) or, for the jazz rooms, from the NYC Jazz Guide aggregator. Seasons that publish no feed &mdash; Park Avenue Armory, the Met Museum&rsquo;s exhibitions &mdash; are hand-curated with dates checked against the venue. The Metropolitan Opera&rsquo;s season is curated from secondary listings and tagged to confirm at metopera.org. Events you add are kept in this browser only.</p>
+    <p class="verstamp">City by the Day &mdash; v2.1 &middot; build 2026-11-02T10:28-05:00 &middot; supersedes v2.0 (build of 30 October 2026). Changes in v2.1: the Metropolitan Opera's 2026–27 season added as curated listings (Bachtrack's season listing, cross-checked against two other listings), tagged “Secondary listing · confirm” because metopera.org now sits behind a bot check. Changes in v2.0: house-style redesign with light/dark theme; month grid columns locked to equal width so cells align with the weekday row; curated seasons now draw every performance date (Armory was showing only first and last nights, and hid past dates in the current month); generic jazz placeholders removed in favour of named performers; hall names on Carnegie listings; added events now persist in this browser.</p>
     <p>Contact: <a href="mailto:ponelson@gmail.com">ponelson@gmail.com</a> &middot; <a href="https://www.linkedin.com/in/ponelson/">LinkedIn</a> &middot; <a href="https://ponelson.github.io/pon/">GitHub</a></p>
   </div>
 </footer>
@@ -722,7 +722,7 @@ function expandCurated(raw){
     const [date, time] = stamp.split('T');
     return { id:'c'+btoa(unescape(encodeURIComponent(e.venue+e.title+stamp+suffix))).slice(-14),
       date, time: time ? time.slice(0,5) : (e.time||''), title: e.title + suffix,
-      venue: e.room ? `${e.venue} · ${e.room}` : e.venue, cat: e.cat, url: e.url, feed:true };
+      venue: e.room ? `${e.venue} · ${e.room}` : e.venue, cat: e.cat, url: e.url, feed:true, confirm: !!e.confirm };
   };
   const inRange = s => { const d = parseISO(s.slice(0,10)); return d>=floor && d<=horizon; };
   (raw||[]).forEach(e=>{
@@ -859,7 +859,7 @@ function rowHTML(e){
     <div class="time">${fmtTime(e.time)}</div>
     <div>
       <div class="cat-chip" style="--cc:${c.color}"><i></i>${esc(c.name)}</div>
-      <div class="t">${esc(e.title)}${e.recurring?'<span class="badge">Standing · confirm</span>':''}</div>
+      <div class="t">${esc(e.title)}${e.recurring?'<span class="badge">Standing · confirm</span>':''}${e.confirm?'<span class="badge" title="From secondary listings; the venue site is behind a bot check">Secondary listing · confirm</span>':''}</div>
       <div class="v">${esc(e.venue||'')}</div>
     </div>
     <div class="acts">

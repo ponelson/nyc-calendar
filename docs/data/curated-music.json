@@ -1,6 +1,6 @@
 {
- "note": "Hand-curated seasons with dates verified against each venue's own pages. Use `dates` for individual performances (YYYY-MM-DD or YYYY-MM-DDTHH:MM); use `start`/`end` for runs (≤14 days draw every day; longer runs draw opening and final day). `room` is appended to the venue line. Refresh when a venue announces its next season.",
- "updated": "2026-10-30",
+ "note": "Hand-curated seasons with dates verified against each venue's own pages. Use `dates` for individual performances (YYYY-MM-DD or YYYY-MM-DDTHH:MM); use `start`/`end` for runs (≤14 days draw every day; longer runs draw opening and final day). `room` is appended to the venue line. Refresh when a venue announces its next season. Metropolitan Opera entries (confirm: true) come from secondary listings — Bachtrack's season listing, cross-checked against theater.guide, opera-online and the fan-maintained Future Met wiki — because metopera.org sits behind a bot check. Times appear only where a listing gives one. Confirm at metopera.org.",
+ "updated": "2026-11-02",
  "events": [
   {
    "title": "Recital Series: Carlo Vistoli & Giulio Zappa",
@@ -120,6 +120,415 @@
    "end": "2027-01-31",
    "url": "https://www.thewintershow.org/tickets",
    "venue": "Park Avenue Armory"
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/",
+   "confirm": true,
+   "title": "Lincoln in the Bardo (Mazzoli) — world premiere; Mattei, Goerke",
+   "dates": [
+    "2026-10-19T20:00",
+    "2026-10-24T13:00",
+    "2026-10-26T19:30",
+    "2026-10-29T19:30",
+    "2026-10-31T20:00",
+    "2026-11-03T19:30",
+    "2026-11-07T13:00",
+    "2026-11-11T19:30",
+    "2026-11-14T20:00"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/medea/",
+   "confirm": true,
+   "title": "Medea (Cherubini) — Yoncheva, Spyres",
+   "dates": [
+    "2026-10-30",
+    "2026-11-04T19:30",
+    "2026-11-07T20:00",
+    "2026-11-10T19:30",
+    "2026-11-13T19:30",
+    "2026-11-19T20:00",
+    "2026-11-21T20:00"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/tosca/",
+   "confirm": true,
+   "title": "Tosca (Puccini) — Hernández, Baek, Kelsey",
+   "dates": [
+    "2026-11-06T20:00",
+    "2026-11-09T19:30",
+    "2026-11-14T13:00",
+    "2026-11-17T19:30",
+    "2026-11-20T20:00"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/jenufa/",
+   "confirm": true,
+   "title": "Jenůfa (Janáček) — new production; Grigorian, Stemme",
+   "dates": [
+    "2026-11-16T19:30",
+    "2026-11-21T13:00",
+    "2026-11-23T19:30",
+    "2026-11-28T13:00",
+    "2026-11-30T19:30",
+    "2026-12-04T19:30"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
+   "confirm": true,
+   "title": "La Bohème (Puccini) — Ayan, Lombardi",
+   "dates": [
+    "2026-11-24T19:30",
+    "2026-11-28T20:00",
+    "2026-12-03T19:30",
+    "2026-12-05T20:00",
+    "2026-12-10T19:30"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/samson-et-dalila/",
+   "confirm": true,
+   "title": "Samson et Dalila (Saint-Saëns) — Hilley, Akhmetshina",
+   "dates": [
+    "2026-11-27T19:30",
+    "2026-12-01T19:30",
+    "2026-12-05T12:00",
+    "2026-12-08T19:30",
+    "2026-12-12T20:00",
+    "2026-12-15",
+    "2026-12-18",
+    "2026-12-23"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/maria-stuarda/",
+   "confirm": true,
+   "title": "Maria Stuarda (Donizetti) — Oropesa, Meade",
+   "dates": [
+    "2026-12-06T15:00",
+    "2026-12-09T19:30",
+    "2026-12-12T13:00",
+    "2026-12-16",
+    "2026-12-19",
+    "2026-12-22"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
+   "confirm": true,
+   "title": "The Magic Flute — Holiday Presentation (in English)",
+   "dates": [
+    "2026-12-11T19:00",
+    "2026-12-17",
+    "2026-12-26",
+    "2027-01-02"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/the-magic-flute/",
+   "confirm": true,
+   "title": "The Magic Flute — Holiday Presentation (in English) — matinee",
+   "dates": [
+    "2026-12-13",
+    "2026-12-19",
+    "2026-12-20",
+    "2026-12-24",
+    "2026-12-28",
+    "2026-12-30",
+    "2027-01-02"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/la-fanciulla-del-west/",
+   "confirm": true,
+   "title": "La Fanciulla del West (Puccini) — new production; Baek, Maltman",
+   "dates": [
+    "2026-12-31T18:30",
+    "2027-01-05T19:30",
+    "2027-01-08T19:30",
+    "2027-01-13T19:00",
+    "2027-01-16T20:00",
+    "2027-01-19T19:00",
+    "2027-01-23T13:00",
+    "2027-01-27T19:30",
+    "2027-01-30T20:00"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/tosca/",
+   "confirm": true,
+   "title": "Tosca (Puccini) — Kurzak, Beczała, Gagnidze",
+   "dates": [
+    "2027-01-06T19:30",
+    "2027-01-09T13:00",
+    "2027-01-12T19:00",
+    "2027-01-15T19:00",
+    "2027-01-17T15:00",
+    "2027-01-22T19:00",
+    "2027-01-24T15:00",
+    "2027-01-29T19:30"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/otello/",
+   "confirm": true,
+   "title": "Otello (Verdi) — Fabiano, Blue, Enkhbat",
+   "dates": [
+    "2027-01-11",
+    "2027-01-20",
+    "2027-01-23",
+    "2027-01-26"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/otello/",
+   "confirm": true,
+   "title": "Otello (Verdi) — Fabiano, Blue, Enkhbat — matinee",
+   "dates": [
+    "2027-01-16",
+    "2027-01-30"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/silent-night/",
+   "confirm": true,
+   "title": "Silent Night (Puts) — Met premiere; van den Heever, Bliss, Villazón",
+   "dates": [
+    "2027-03-08",
+    "2027-03-11",
+    "2027-03-13",
+    "2027-03-16",
+    "2027-03-20T13:00",
+    "2027-03-22",
+    "2027-03-27",
+    "2027-04-01",
+    "2027-04-03"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/aida/",
+   "confirm": true,
+   "title": "Aida (Verdi) — Blue / Pirozzi / Hawkins, Fabiano",
+   "dates": [
+    "2027-03-09",
+    "2027-03-17",
+    "2027-03-20",
+    "2027-03-25",
+    "2027-03-29",
+    "2027-04-02",
+    "2027-04-06",
+    "2027-04-09",
+    "2027-04-13",
+    "2027-04-15",
+    "2027-04-23",
+    "2027-05-15",
+    "2027-05-28T19:30",
+    "2027-05-30T15:00",
+    "2027-06-04",
+    "2027-06-12"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/aida/",
+   "confirm": true,
+   "title": "Aida (Verdi) — Blue / Pirozzi / Hawkins, Fabiano — matinee",
+   "dates": [
+    "2027-03-13",
+    "2027-04-10",
+    "2027-04-18",
+    "2027-05-22",
+    "2027-06-06"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/manon/",
+   "confirm": true,
+   "title": "Manon (Massenet) — Sierra, Polenzani",
+   "dates": [
+    "2027-03-12",
+    "2027-03-15",
+    "2027-03-19",
+    "2027-03-23",
+    "2027-03-26",
+    "2027-03-30",
+    "2027-04-03T12:00",
+    "2027-04-08"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/der-rosenkavalier/",
+   "confirm": true,
+   "title": "Der Rosenkavalier (Strauss) — Willis-Sørensen, D'Angelo, Fang",
+   "dates": [
+    "2027-03-24",
+    "2027-03-31",
+    "2027-04-07",
+    "2027-04-10"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/der-rosenkavalier/",
+   "confirm": true,
+   "title": "Der Rosenkavalier (Strauss) — Willis-Sørensen, D'Angelo, Fang — matinee",
+   "dates": [
+    "2027-03-27",
+    "2027-04-04"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/otello/",
+   "confirm": true,
+   "title": "Otello (Verdi) — Jagde, Pérez, Ruciński",
+   "dates": [
+    "2027-04-17",
+    "2027-04-20",
+    "2027-04-24T13:00",
+    "2027-04-27",
+    "2027-05-01"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/otello/",
+   "confirm": true,
+   "title": "Otello (Verdi) — Jagde, Pérez, Ruciński — matinee",
+   "dates": [
+    "2027-04-11"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/la-boheme/",
+   "confirm": true,
+   "title": "La Bohème (Puccini) — Chacón-Cruz, Grimaldi",
+   "dates": [
+    "2027-04-16T19:00",
+    "2027-04-17T13:00",
+    "2027-04-22T19:00",
+    "2027-04-24T20:00",
+    "2027-04-25T15:00",
+    "2027-04-29T19:00"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/tosca/",
+   "confirm": true,
+   "title": "Tosca (Puccini) — Buratto, Polenzani, Enkhbat",
+   "dates": [
+    "2027-04-28T19:00",
+    "2027-04-30T19:30",
+    "2027-05-01T13:00",
+    "2027-05-02T15:00",
+    "2027-05-04T20:00",
+    "2027-05-07",
+    "2027-05-14",
+    "2027-05-18",
+    "2027-05-22",
+    "2027-05-27T19:30"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/tosca/",
+   "confirm": true,
+   "title": "Tosca (Puccini) — Buratto, Polenzani, Enkhbat — matinee",
+   "dates": [
+    "2027-05-08",
+    "2027-05-15"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/parsifal/",
+   "confirm": true,
+   "title": "Parsifal (Wagner) — Beczała, Garanča, Mattei",
+   "dates": [
+    "2027-05-20",
+    "2027-05-26T18:00",
+    "2027-05-29T12:00",
+    "2027-06-01",
+    "2027-06-05T12:00"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "opera",
+   "url": "https://www.metopera.org/season/2026-27-season/",
+   "confirm": true,
+   "title": "Diamond Jubilee: 60 Years at Lincoln Center (gala)",
+   "dates": [
+    "2027-05-25T18:00"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "classical",
+   "url": "https://www.metopera.org/season/2026-27-season/",
+   "confirm": true,
+   "title": "Mahler: Symphony No. 8 — Met Orchestra & Chorus, Nézet-Séguin",
+   "dates": [
+    "2027-06-10",
+    "2027-06-11"
+   ]
+  },
+  {
+   "venue": "Metropolitan Opera",
+   "cat": "classical",
+   "url": "https://www.metopera.org/season/2026-27-season/",
+   "confirm": true,
+   "title": "Mahler: Symphony No. 8 — Met Orchestra & Chorus, Nézet-Séguin — matinee",
+   "dates": [
+    "2027-06-12"
+   ]
   }
  ]
 }

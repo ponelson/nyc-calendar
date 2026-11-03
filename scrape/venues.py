@@ -53,8 +53,9 @@ VENUES = [
       "https://www.metmuseum.org/events", strategy="link"),
     V("morgan", "The Morgan Library", "classical",
       "https://www.themorgan.org/programs", strategy="link"),
-    V("92ny_music", "92NY", "classical", "https://www.92ny.org/whats-on/calendar", strategy="custom", adapter="ninetytwoy",
-      menu=["concert", "music", "performance", "dance"], state_key="92ny"),
+    # Calendar sits behind a bot check (Cloudflare / hCaptcha) since Oct 2026. Not worked
+    # around by design; link-only until a curated season or a public feed exists.
+    V("92ny_music", "92NY", "classical", "https://www.92ny.org/whats-on/calendar", strategy="link"),
     V("bargemusic", "Bargemusic", "classical", "https://www.bargemusic.org/", strategy="render"),
     V("sawdust", "National Sawdust", "classical",
       "https://nationalsawdust.org/calendar/", strategy="link"),
@@ -82,17 +83,19 @@ VENUES = [
       "https://www.bethmorrisonprojects.org/", strategy="link"),
     V("operalafayette", "Opera Lafayette", "opera", "https://operalafayette.org/", strategy="link"),
     V("onsite", "On Site Opera", "opera", "https://www.osopera.org/", strategy="link"),
+    # Calendar sits behind a bot check (Cloudflare / hCaptcha) since Oct 2026. Not worked
+    # around by design; link-only until a curated season or a public feed exists.
     V("metopera", "Metropolitan Opera", "opera",
-      "https://www.metopera.org/season/2026-27-season/",
-      strategy="custom", adapter="metopera"),
+      "https://www.metopera.org/season/2026-27-season/", strategy="link"),
     V("nycopera", "New York City Opera", "opera", "https://nycopera.com/", strategy="link"),
     V("bam", "BAM", "opera", "https://www.bam.org/", strategy="render"),
     V("armory", "Park Avenue Armory", "opera",
       "https://www.armoryonpark.org/programs_events/calendar", strategy="link"),
 
     # ---------------- talks & theater ----------------
-    V("92ny_talks", "92NY — Talks", "talks", "https://www.92ny.org/whats-on/calendar", strategy="custom", adapter="ninetytwoy",
-      menu=["talk", "conversation", "lecture", "reading"], menu_default=True, state_key="92ny"),
+    # Calendar sits behind a bot check (Cloudflare / hCaptcha) since Oct 2026. Not worked
+    # around by design; link-only until a curated season or a public feed exists.
+    V("92ny_talks", "92NY — Talks", "talks", "https://www.92ny.org/whats-on/calendar", strategy="link"),
     V("nypl", "LIVE from NYPL", "talks",
       "https://www.nypl.org/events/programs/live", strategy="link"),
     V("greenespace", "The Greene Space", "talks", "https://www.thegreenespace.org/", strategy="link"),
