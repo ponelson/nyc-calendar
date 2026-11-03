@@ -1,6 +1,6 @@
 {
-"generated": "2026-11-03T06:03:11+00:00",
-"count": 1892,
+"generated": "2026-11-03T16:44:12+00:00",
+"count": 1886,
 "events": [
 {
 "id": "sb78977d530",
@@ -33,26 +33,6 @@
 "src": "nycpermits"
 },
 {
-"id": "s47d6c4788b",
-"date": "2026-11-02",
-"time": "17:30",
-"title": "Vince Giordano and The Nighthawks",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14225054",
-"src": "birdland"
-},
-{
-"id": "se71321606c",
-"date": "2026-11-02",
-"time": "18:00",
-"title": "Spike Wilner Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34214-spike-wilner-trio/",
-"src": "mezzrow"
-},
-{
 "id": "s661dc81e3a",
 "date": "2026-11-02",
 "time": "18:00",
@@ -61,66 +41,6 @@
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
-},
-{
-"id": "sada4a3ae2c",
-"date": "2026-11-02",
-"time": "18:00",
-"title": "Mike Clark Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34204-mike-clark-quartet/",
-"src": "smalls"
-},
-{
-"id": "s0c59575565",
-"date": "2026-11-02",
-"time": "19:00",
-"title": "Salisha Thomas: The Possibility Project",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/salisha-thomas-the-possibility-project-birdland-jazz-club-tickets/14278884",
-"src": "birdland"
-},
-{
-"id": "s8f30c6a7b0",
-"date": "2026-11-02",
-"time": "19:00",
-"title": "Jimmy Heath Big Band Centennial Celebration",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://ticketing.jazz.org/21682/21683",
-"src": "dizzys"
-},
-{
-"id": "s500300ca35",
-"date": "2026-11-02",
-"time": "19:00",
-"title": "Paul Nedzela",
-"venue": "Zinc Bar",
-"cat": "jazz",
-"url": "https://www.zincbar.com/event/paul-nedzela/",
-"src": "zincbar"
-},
-{
-"id": "s7c93480aa8",
-"date": "2026-11-02",
-"time": "20:00",
-"title": "Elena Pinderhughes",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/elena-pinderhughes-blue-note-jazz-club-tickets/15018583",
-"src": "bluenote"
-},
-{
-"id": "sd9cd17c81e",
-"date": "2026-11-02",
-"time": "20:00",
-"title": "Vanguard Jazz Orchestra",
-"venue": "Village Vanguard",
-"cat": "jazz",
-"url": "https://squadup.com/events/monday-800-pm---vanguard-jazz-orchestra-249",
-"src": "vanguard"
 },
 {
 "id": "s1cbb586de7",
@@ -163,6 +83,16 @@
 "src": "mvhm"
 },
 {
+"id": "sb111bbff41",
+"date": "2026-11-03",
+"time": "17:30",
+"title": "Vince Giordano and The Nighthawks",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14225124",
+"src": "birdland"
+},
+{
 "id": "s24e1124b20",
 "date": "2026-11-03",
 "time": "18:00",
@@ -181,6 +111,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34226-mikey-migliore-quartet/",
 "src": "smalls"
+},
+{
+"id": "s62dd6813c9",
+"date": "2026-11-03",
+"time": "19:00",
+"title": "Cyrille Aim\u00c3\u00a9e",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/cyrille-aime-birdland-jazz-club-tickets/15005153",
+"src": "birdland"
 },
 {
 "id": "sfd51c1f6e2",
