@@ -1,147 +1,7 @@
 {
-"generated": "2026-11-05T16:57:28+00:00",
-"count": 1946,
+"generated": "2026-11-06T16:29:44+00:00",
+"count": 1966,
 "events": [
-{
-"id": "s5037b698fe",
-"date": "2026-11-04",
-"time": "19:30",
-"title": "Thibaudet Performs Liszt",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/thibaudet-performs-liszt",
-"src": "nyphil"
-},
-{
-"id": "s6a960decac",
-"date": "2026-11-04",
-"time": "",
-"title": "Ichi-go Ichi-e (\u4e00\u671f\u4e00\u4f1a) with Elizabeth Brown on Shakuhachi",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/ichi-go-ichi-e-with-elizabeth-brown-on-shakuhachi/",
-"src": "japansociety"
-},
-{
-"id": "s302b66b6cd",
-"date": "2026-11-05",
-"time": "07:30",
-"title": "Street Health Outreach and Wellness (Street Event) \u00b7 DELANCEY STREET between CHRYSTIE STREET and FORSYTH STREET \u2014 Sidewa",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s228321a037",
-"date": "2026-11-05",
-"time": "16:00",
-"title": "East 4th Street Open Street (Open Street Partner Event) \u00b7 EAST 4 STREET between BOWERY and SECOND AVENUE \u2014 Full Street C",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s014b03e760",
-"date": "2026-11-05",
-"time": "16:00",
-"title": "INTERNATIONAL RESCUE (Street Event) \u00b7 EAST 42 STREET between PARK AVENUE and LEXINGTON AVENUE \u2014 Partial Sidewalk Closure",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sef1fdfd78a",
-"date": "2026-11-05",
-"time": "17:30",
-"title": "The High Society New Orleans Jazz Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-high-society-new-orleans-birdland-theater-tickets/14196764",
-"src": "birdland"
-},
-{
-"id": "sd1800845ba",
-"date": "2026-11-05",
-"time": "18:00",
-"title": "Justin Wert Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34499-justin-wert-trio/",
-"src": "mezzrow"
-},
-{
-"id": "s6db7b6e241",
-"date": "2026-11-05",
-"time": "18:00",
-"title": "Ron Vincent Sextet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34230-ron-vincent-sextet/",
-"src": "smalls"
-},
-{
-"id": "s0fd14ed57f",
-"date": "2026-11-05",
-"time": "18:30",
-"title": "Charles McPherson Quintet featuring Terell Stafford",
-"venue": "Smoke Jazz Club",
-"cat": "jazz",
-"url": "https://tickets.smokejazz.com/shows/13393/?date=2026-11-05",
-"src": "smoke"
-},
-{
-"id": "s97f0f9df8b",
-"date": "2026-11-05",
-"time": "19:00",
-"title": "Cyrille Aim\u00c3\u00a9e",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/cyrille-aime-birdland-jazz-club-tickets/15005223",
-"src": "birdland"
-},
-{
-"id": "sb2c94c1b91",
-"date": "2026-11-05",
-"time": "19:00",
-"title": "Cyrille Aim\u00e9e",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/cyrille-aime-birdland-jazz-club-tickets/15005223",
-"src": "birdland"
-},
-{
-"id": "s74aa0b551e",
-"date": "2026-11-05",
-"time": "19:00",
-"title": "Jason Marsalis Presents the Rare Works of Ellis Marsalis",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://ticketing.jazz.org/21688/21689",
-"src": "dizzys"
-},
-{
-"id": "sd79997bb46",
-"date": "2026-11-05",
-"time": "19:30",
-"title": "The Met Orchestra Chamber Ensemble",
-"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/05/the-met-orchestra-chamber-ensemble-0730pm",
-"src": "carnegie"
-},
-{
-"id": "safcff87ca1",
-"date": "2026-11-05",
-"time": "19:30",
-"title": "Alisa Weilerstein: FRAGMENTS 6",
-"venue": "Carnegie Hall \u00b7 Zankel Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/05/alisa-weilerstein-fragments-6-0730pm",
-"src": "carnegie"
-},
 {
 "id": "s4c27e763f7",
 "date": "2026-11-05",
@@ -151,96 +11,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/thibaudet-performs-liszt",
 "src": "nyphil"
-},
-{
-"id": "s8cc2625af5",
-"date": "2026-11-05",
-"time": "19:30",
-"title": "Tristan & Yseult",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/tristan-yseult-4/",
-"src": "stanns"
-},
-{
-"id": "s289a8ad447",
-"date": "2026-11-05",
-"time": "20:00",
-"title": "Sid Sriram",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/sid-sriram-blue-note-jazz-club-tickets/14900393",
-"src": "bluenote"
-},
-{
-"id": "s2c699f6edd",
-"date": "2026-11-05",
-"time": "20:00",
-"title": "Orchestra of St. Luke\u2019s",
-"venue": "Carnegie Hall \u00b7 Stern Auditorium",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/05/orchestra-of-st-lukes-0800pm",
-"src": "carnegie"
-},
-{
-"id": "sb469a100ec",
-"date": "2026-11-05",
-"time": "21:00",
-"title": "Stefan Vasnier Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34219-stefan-vasnier-trio/",
-"src": "mezzrow"
-},
-{
-"id": "s49b3efd3ed",
-"date": "2026-11-05",
-"time": "21:00",
-"title": "Willerm Delisfort Sextet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34231-willerm-delisfort-sextet/",
-"src": "smalls"
-},
-{
-"id": "sa246e049fe",
-"date": "2026-11-05",
-"time": "21:00",
-"title": "Zach Brock",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34231-zach-brock/",
-"src": "smalls"
-},
-{
-"id": "s68471653b0",
-"date": "2026-11-05",
-"time": "21:00",
-"title": "Willerm Delisfort Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34231-willerm-delisfort-quartet/",
-"src": "smalls"
-},
-{
-"id": "s098f1147cc",
-"date": "2026-11-05",
-"time": "23:30",
-"title": "VINYL AFTER HOURS",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34449-vinyl-after-hours/",
-"src": "mezzrow"
-},
-{
-"id": "s9a2784598c",
-"date": "2026-11-05",
-"time": "23:45",
-"title": "Jam Session Hosted By Matt Snow",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34358-jam-session-hosted-by-matt-snow/",
-"src": "smalls"
 },
 {
 "id": "sacefe5ef82",
@@ -373,6 +143,16 @@
 "src": "smoke"
 },
 {
+"id": "s72577d2adb",
+"date": "2026-11-06",
+"time": "19:00",
+"title": "Tatiana Eva Marie",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/tatiana-eva-marie-birdland-theater-tickets/15007163",
+"src": "birdland"
+},
+{
 "id": "sa11e461abb",
 "date": "2026-11-06",
 "time": "19:00",
@@ -421,6 +201,16 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2026/11/06/chamber-girls-choir-of-the-mv-lysenko-kyiv-state-music-lyceum-and-the-westches-0730pm",
 "src": "carnegie"
+},
+{
+"id": "s0bb8e3b925",
+"date": "2026-11-06",
+"time": "19:30",
+"title": "Marsalis\u00e2\u20ac\u2122 Swinging CitiesThe Jazz at Lincoln Center Orchestra with Wynton Marsalis",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://ticketing.jazz.org/20624/20625",
+"src": "dizzys"
 },
 {
 "id": "sa0fed27278",
@@ -1083,16 +873,6 @@
 "src": "smalls"
 },
 {
-"id": "s48fdca392a",
-"date": "2026-11-08",
-"time": "23:55",
-"title": "Panas Athanatos Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34364-panas-athanatos-quartet/",
-"src": "smalls"
-},
-{
 "id": "s813d65881c",
 "date": "2026-11-08",
 "time": "23:55",
@@ -1100,6 +880,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34364-panas-athanatos-trio/",
+"src": "smalls"
+},
+{
+"id": "s48fdca392a",
+"date": "2026-11-08",
+"time": "23:55",
+"title": "Panas Athanatos Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34364-panas-athanatos-quartet/",
 "src": "smalls"
 },
 {
@@ -1263,16 +1053,6 @@
 "src": "smalls"
 },
 {
-"id": "s8393e64586",
-"date": "2026-11-09",
-"time": "21:30",
-"title": "Ted Firth Trio",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/ted-firth-trio-birdland-jazz-club-tickets/14349114",
-"src": "birdland"
-},
-{
 "id": "s594eee98c0",
 "date": "2026-11-09",
 "time": "21:30",
@@ -1280,6 +1060,16 @@
 "venue": "Birdland",
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/jim-carusos-cast-party-with-birdland-jazz-club-tickets/15007243",
+"src": "birdland"
+},
+{
+"id": "s8393e64586",
+"date": "2026-11-09",
+"time": "21:30",
+"title": "Ted Firth Trio",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/ted-firth-trio-birdland-jazz-club-tickets/14349114",
 "src": "birdland"
 },
 {
@@ -1873,16 +1663,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s0778914cd4",
-"date": "2026-11-12",
-"time": "23:55",
-"title": "Jam Session Hosted By Greg Glassman Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34390-jam-session-hosted-by-greg-glassman-quartet/",
-"src": "smalls"
-},
-{
 "id": "s20c66d3330",
 "date": "2026-11-12",
 "time": "23:55",
@@ -1890,6 +1670,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34390-jam-session-hosted-by-greg-glassman/",
+"src": "smalls"
+},
+{
+"id": "s0778914cd4",
+"date": "2026-11-12",
+"time": "23:55",
+"title": "Jam Session Hosted By Greg Glassman Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34390-jam-session-hosted-by-greg-glassman-quartet/",
 "src": "smalls"
 },
 {
@@ -2173,16 +1963,6 @@
 "src": "nycpermits"
 },
 {
-"id": "se85772e686",
-"date": "2026-11-14",
-"time": "13:00",
-"title": "The Music Of The Buena Vista Social Club A Tribute To The Golden Age Of Cuba",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-music-of-the-buena-blue-note-jazz-club-tickets/14316054",
-"src": "bluenote"
-},
-{
 "id": "sfed60a9d28",
 "date": "2026-11-14",
 "time": "13:00",
@@ -2190,6 +1970,16 @@
 "venue": "Blue Note",
 "cat": "jazz",
 "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvS-t",
+"src": "bluenote"
+},
+{
+"id": "se85772e686",
+"date": "2026-11-14",
+"time": "13:00",
+"title": "The Music Of The Buena Vista Social Club A Tribute To The Golden Age Of Cuba",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/the-music-of-the-buena-blue-note-jazz-club-tickets/14316054",
 "src": "bluenote"
 },
 {
@@ -2223,16 +2013,6 @@
 "src": "nyphil"
 },
 {
-"id": "s8166a8edf9",
-"date": "2026-11-14",
-"time": "14:00",
-"title": "SMALLS AFTERNOON JAM SESSION HOSTED BY Tyler Mitchell Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34482-smalls-afternoon-jam-session-hosted-by-tyler-mitchell-quartet/",
-"src": "smalls"
-},
-{
 "id": "s91801d01e2",
 "date": "2026-11-14",
 "time": "14:00",
@@ -2240,6 +2020,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34482-smalls-afternoon-jam-session-hosted-by-tyler-mitchell/",
+"src": "smalls"
+},
+{
+"id": "s8166a8edf9",
+"date": "2026-11-14",
+"time": "14:00",
+"title": "SMALLS AFTERNOON JAM SESSION HOSTED BY Tyler Mitchell Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34482-smalls-afternoon-jam-session-hosted-by-tyler-mitchell-quartet/",
 "src": "smalls"
 },
 {
@@ -2273,16 +2063,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s692c8868c9",
-"date": "2026-11-14",
-"time": "18:00",
-"title": "Tommy Campbell Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34395-tommy-campbell-quartet/",
-"src": "smalls"
-},
-{
 "id": "sc8b02c2cf5",
 "date": "2026-11-14",
 "time": "18:00",
@@ -2290,6 +2070,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34395-tommy-campbell-sextet/",
+"src": "smalls"
+},
+{
+"id": "s692c8868c9",
+"date": "2026-11-14",
+"time": "18:00",
+"title": "Tommy Campbell Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34395-tommy-campbell-quartet/",
 "src": "smalls"
 },
 {
@@ -2663,16 +2453,6 @@
 "src": "smalls"
 },
 {
-"id": "saedaa4b647",
-"date": "2026-11-15",
-"time": "23:55",
-"title": "Jeff McGregor Quintet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34400-jeff-mcgregor-quintet/",
-"src": "smalls"
-},
-{
 "id": "sef64e8db10",
 "date": "2026-11-15",
 "time": "23:55",
@@ -2680,6 +2460,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34400-jeff-mcgregor-quartet/",
+"src": "smalls"
+},
+{
+"id": "saedaa4b647",
+"date": "2026-11-15",
+"time": "23:55",
+"title": "Jeff McGregor Quintet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34400-jeff-mcgregor-quintet/",
 "src": "smalls"
 },
 {
@@ -2803,16 +2593,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s29876755c8",
-"date": "2026-11-16",
-"time": "21:00",
-"title": "Marius Van Den Brink Quintet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34405-marius-van-den-brink-quintet/",
-"src": "smalls"
-},
-{
 "id": "sbebb21ff33",
 "date": "2026-11-16",
 "time": "21:00",
@@ -2820,6 +2600,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34405-marius-van-den-brink-quartet/",
+"src": "smalls"
+},
+{
+"id": "s29876755c8",
+"date": "2026-11-16",
+"time": "21:00",
+"title": "Marius Van Den Brink Quintet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34405-marius-van-den-brink-quintet/",
 "src": "smalls"
 },
 {
@@ -2853,6 +2643,16 @@
 "src": "smalls"
 },
 {
+"id": "se0b99ac58f",
+"date": "2026-11-16",
+"time": "23:55",
+"title": "Jam Session Hosted By Adam Ray Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34403-jam-session-hosted-by-adam-ray-quartet/",
+"src": "smalls"
+},
+{
 "id": "s0050fb4f46",
 "date": "2026-11-17",
 "time": "18:00",
@@ -2863,16 +2663,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s00399d5fee",
-"date": "2026-11-17",
-"time": "18:00",
-"title": "Lafayette Harris Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34407-lafayette-harris-quartet/",
-"src": "smalls"
-},
-{
 "id": "scf8bfdeb45",
 "date": "2026-11-17",
 "time": "18:00",
@@ -2880,6 +2670,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34407-lafayette-harris-presents-the-cecilia-smith-ensemble/",
+"src": "smalls"
+},
+{
+"id": "s00399d5fee",
+"date": "2026-11-17",
+"time": "18:00",
+"title": "Lafayette Harris Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34407-lafayette-harris-quartet/",
 "src": "smalls"
 },
 {
@@ -3593,16 +3393,6 @@
 "src": "greenwood"
 },
 {
-"id": "sd6f8eaeba0",
-"date": "2026-11-21",
-"time": "13:30",
-"title": "King Of The World: A Steely Dan Revue",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/king-of-the-world-a-blue-note-jazz-club-tickets/14977443",
-"src": "bluenote"
-},
-{
 "id": "sbcc3b0a5e9",
 "date": "2026-11-21",
 "time": "13:30",
@@ -3610,6 +3400,16 @@
 "venue": "Blue Note",
 "cat": "jazz",
 "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JF_F",
+"src": "bluenote"
+},
+{
+"id": "sd6f8eaeba0",
+"date": "2026-11-21",
+"time": "13:30",
+"title": "King Of The World: A Steely Dan Revue",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/king-of-the-world-a-blue-note-jazz-club-tickets/14977443",
 "src": "bluenote"
 },
 {
@@ -3673,16 +3473,6 @@
 "src": "nycpermits"
 },
 {
-"id": "s276d18c730",
-"date": "2026-11-21",
-"time": "18:00",
-"title": "Kenny Davis Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34329-kenny-davis-trio/",
-"src": "mezzrow"
-},
-{
 "id": "s4d2aaa6d45",
 "date": "2026-11-21",
 "time": "18:00",
@@ -3690,6 +3480,16 @@
 "venue": "Mezzrow",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34329-kenny-davis-quartet/",
+"src": "mezzrow"
+},
+{
+"id": "s276d18c730",
+"date": "2026-11-21",
+"time": "18:00",
+"title": "Kenny Davis Trio",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34329-kenny-davis-trio/",
 "src": "mezzrow"
 },
 {
@@ -4013,16 +3813,6 @@
 "src": "smalls"
 },
 {
-"id": "s5a806ea58a",
-"date": "2026-11-22",
-"time": "23:55",
-"title": "Aaron Johnson Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34421-aaron-johnson-quartet/",
-"src": "smalls"
-},
-{
 "id": "sd8fea8d31a",
 "date": "2026-11-22",
 "time": "23:55",
@@ -4030,6 +3820,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34421-aaron-johnson-quintet/",
+"src": "smalls"
+},
+{
+"id": "s5a806ea58a",
+"date": "2026-11-22",
+"time": "23:55",
+"title": "Aaron Johnson Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34421-aaron-johnson-quartet/",
 "src": "smalls"
 },
 {
@@ -4053,16 +3853,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s8a5a6e19f2",
-"date": "2026-11-23",
-"time": "18:00",
-"title": "Eliot Zigmund Quintet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34425-eliot-zigmund-quintet/",
-"src": "smalls"
-},
-{
 "id": "s5d32a72429",
 "date": "2026-11-23",
 "time": "18:00",
@@ -4070,6 +3860,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34425-eliot-zigmund-quartet/",
+"src": "smalls"
+},
+{
+"id": "s8a5a6e19f2",
+"date": "2026-11-23",
+"time": "18:00",
+"title": "Eliot Zigmund Quintet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34425-eliot-zigmund-quintet/",
 "src": "smalls"
 },
 {
@@ -4683,16 +4483,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s037b2351bc",
-"date": "2026-11-27",
-"time": "21:00",
-"title": "Brandon Lee Quintet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34436-brandon-lee-quintet/",
-"src": "smalls"
-},
-{
 "id": "s693bd005f7",
 "date": "2026-11-27",
 "time": "21:00",
@@ -4700,6 +4490,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34436-brandon-lee-quartet/",
+"src": "smalls"
+},
+{
+"id": "s037b2351bc",
+"date": "2026-11-27",
+"time": "21:00",
+"title": "Brandon Lee Quintet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34436-brandon-lee-quintet/",
 "src": "smalls"
 },
 {
@@ -5373,16 +5173,6 @@
 "src": "mezzrow"
 },
 {
-"id": "sb48fdc24e6",
-"date": "2026-12-01",
-"time": "21:00",
-"title": "Diallo House Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34531-diallo-house-quartet/",
-"src": "smalls"
-},
-{
 "id": "se77046879d",
 "date": "2026-12-01",
 "time": "21:00",
@@ -5390,6 +5180,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34531-diallo-house-sextet/",
+"src": "smalls"
+},
+{
+"id": "sb48fdc24e6",
+"date": "2026-12-01",
+"time": "21:00",
+"title": "Diallo House Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34531-diallo-house-quartet/",
 "src": "smalls"
 },
 {
@@ -5423,16 +5223,6 @@
 "src": "mezzrow"
 },
 {
-"id": "sc730617a30",
-"date": "2026-12-02",
-"time": "18:00",
-"title": "Didier Conchon & Rodney Jones",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34642-didier-conchon-rodney-jones/",
-"src": "smalls"
-},
-{
 "id": "s25e6e0abd9",
 "date": "2026-12-02",
 "time": "18:00",
@@ -5440,6 +5230,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34642-didier-conchon-rodney-jones-quartet/",
+"src": "smalls"
+},
+{
+"id": "sc730617a30",
+"date": "2026-12-02",
+"time": "18:00",
+"title": "Didier Conchon & Rodney Jones",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34642-didier-conchon-rodney-jones/",
 "src": "smalls"
 },
 {
@@ -5543,16 +5343,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s4cc00de76b",
-"date": "2026-12-02",
-"time": "21:00",
-"title": "Kyle Nasser Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34532-kyle-nasser-quartet/",
-"src": "smalls"
-},
-{
 "id": "s528d16b6c3",
 "date": "2026-12-02",
 "time": "21:00",
@@ -5560,6 +5350,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34532-kyle-nasser-quintet/",
+"src": "smalls"
+},
+{
+"id": "s4cc00de76b",
+"date": "2026-12-02",
+"time": "21:00",
+"title": "Kyle Nasser Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34532-kyle-nasser-quartet/",
 "src": "smalls"
 },
 {
@@ -5793,16 +5593,6 @@
 "src": "birdland"
 },
 {
-"id": "s687de10fb9",
-"date": "2026-12-04",
-"time": "18:00",
-"title": "Miguel Zen\u00f3n & Luis Perdomo",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34554-miguel-zenon-luis-perdomo/",
-"src": "mezzrow"
-},
-{
 "id": "sa993a75191",
 "date": "2026-12-04",
 "time": "18:00",
@@ -5813,14 +5603,14 @@
 "src": "mezzrow"
 },
 {
-"id": "sc8b68469eb",
+"id": "s687de10fb9",
 "date": "2026-12-04",
 "time": "18:00",
-"title": "David Smith Quartet",
-"venue": "Smalls",
+"title": "Miguel Zen\u00f3n & Luis Perdomo",
+"venue": "Mezzrow",
 "cat": "jazz",
-"url": "https://www.smallslive.com/events/34535-david-smith-quartet/",
-"src": "smalls"
+"url": "https://www.smallslive.com/events/34554-miguel-zenon-luis-perdomo/",
+"src": "mezzrow"
 },
 {
 "id": "s105df17ac0",
@@ -5830,6 +5620,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34535-david-smith-quintet/",
+"src": "smalls"
+},
+{
+"id": "sc8b68469eb",
+"date": "2026-12-04",
+"time": "18:00",
+"title": "David Smith Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34535-david-smith-quartet/",
 "src": "smalls"
 },
 {
@@ -6053,16 +5853,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s2e6c354a21",
-"date": "2026-12-05",
-"time": "18:00",
-"title": "David Smith Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34536-david-smith-quartet/",
-"src": "smalls"
-},
-{
 "id": "sb43ff64fbd",
 "date": "2026-12-05",
 "time": "18:00",
@@ -6070,6 +5860,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34536-david-smith-quintet/",
+"src": "smalls"
+},
+{
+"id": "s2e6c354a21",
+"date": "2026-12-05",
+"time": "18:00",
+"title": "David Smith Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34536-david-smith-quartet/",
 "src": "smalls"
 },
 {
@@ -6349,7 +6149,7 @@
 "title": "Cindy Blackman Santana",
 "venue": "Blue Note",
 "cat": "jazz",
-"url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv8bs",
+"url": "https://www.ticketweb.com/event/cindy-blackman-santana-blue-note-jazz-club-tickets/15031973",
 "src": "bluenote"
 },
 {
@@ -6403,16 +6203,6 @@
 "src": "mezzrow"
 },
 {
-"id": "s035b02aab1",
-"date": "2026-12-07",
-"time": "18:00",
-"title": "Tony Leone Quintet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34538-tony-leone-quintet/",
-"src": "smalls"
-},
-{
 "id": "scb3bfb4adb",
 "date": "2026-12-07",
 "time": "18:00",
@@ -6420,6 +6210,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34538-tony-leone-quartet/",
+"src": "smalls"
+},
+{
+"id": "s035b02aab1",
+"date": "2026-12-07",
+"time": "18:00",
+"title": "Tony Leone Quintet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34538-tony-leone-quintet/",
 "src": "smalls"
 },
 {
@@ -6531,6 +6331,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34521-jam-session-hosted-by-mike-boone/",
 "src": "smalls"
+},
+{
+"id": "se19d7db825",
+"date": "2026-12-07",
+"time": "",
+"title": "Women of Emanu-El: \u201cRoy Lichtenstein: Like New\u201d at the Whitney",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-roy-lichtenstein-like-new-at-the-whitney/",
+"src": "emanuel"
 },
 {
 "id": "s4e516713ab",
@@ -6723,6 +6533,16 @@
 "src": "carnegie"
 },
 {
+"id": "sf2ff3b1925",
+"date": "2026-12-09",
+"time": "18:00",
+"title": "Melissa Stylianou Quartet",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34561-melissa-stylianou-quartet/",
+"src": "mezzrow"
+},
+{
 "id": "s553dc2e3e5",
 "date": "2026-12-09",
 "time": "18:00",
@@ -6733,14 +6553,14 @@
 "src": "mezzrow"
 },
 {
-"id": "sf2ff3b1925",
+"id": "s8c6c429b69",
 "date": "2026-12-09",
 "time": "18:00",
-"title": "Melissa Stylianou Quartet",
-"venue": "Mezzrow",
+"title": "Marty Ehrlich Trio",
+"venue": "Smalls",
 "cat": "jazz",
-"url": "https://www.smallslive.com/events/34561-melissa-stylianou-quartet/",
-"src": "mezzrow"
+"url": "https://www.smallslive.com/events/34541-marty-ehrlich-trio/",
+"src": "smalls"
 },
 {
 "id": "s00ca9d7b4f",
@@ -6753,14 +6573,14 @@
 "src": "smalls"
 },
 {
-"id": "s8c6c429b69",
+"id": "s95ceca2ace",
 "date": "2026-12-09",
 "time": "18:00",
-"title": "Marty Ehrlich Trio",
-"venue": "Smalls",
+"title": "Countdown 2027 Coltrane Festival I: Melissa Aldana Quintet feat. Walter Smith III",
+"venue": "Smoke Jazz Club",
 "cat": "jazz",
-"url": "https://www.smallslive.com/events/34541-marty-ehrlich-trio/",
-"src": "smalls"
+"url": "https://tickets.smokejazz.com/shows/13818/?date=2026-12-09",
+"src": "smoke"
 },
 {
 "id": "s54e131b279",
@@ -6913,6 +6733,16 @@
 "src": "smalls"
 },
 {
+"id": "s1762c5e3bd",
+"date": "2026-12-10",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival I: Melissa Aldana Quintet feat. Walter Smith III",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13818/?date=2026-12-10",
+"src": "smoke"
+},
+{
 "id": "sf6f406c6ad",
 "date": "2026-12-10",
 "time": "19:00",
@@ -7063,6 +6893,16 @@
 "src": "mezzrow"
 },
 {
+"id": "sc74498042e",
+"date": "2026-12-11",
+"time": "18:00",
+"title": "James Zollar Sextet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34602-james-zollar-sextet/",
+"src": "smalls"
+},
+{
 "id": "s95e1c752ef",
 "date": "2026-12-11",
 "time": "18:00",
@@ -7073,14 +6913,14 @@
 "src": "smalls"
 },
 {
-"id": "sc74498042e",
+"id": "s8f3dbeae6e",
 "date": "2026-12-11",
 "time": "18:00",
-"title": "James Zollar Sextet",
-"venue": "Smalls",
+"title": "Countdown 2027 Coltrane Festival I: Melissa Aldana Quintet feat. Walter Smith III",
+"venue": "Smoke Jazz Club",
 "cat": "jazz",
-"url": "https://www.smallslive.com/events/34602-james-zollar-sextet/",
-"src": "smalls"
+"url": "https://tickets.smokejazz.com/shows/13818/?date=2026-12-11",
+"src": "smoke"
 },
 {
 "id": "s6da14e670c",
@@ -7323,6 +7163,16 @@
 "src": "mezzrow"
 },
 {
+"id": "s0c70103590",
+"date": "2026-12-12",
+"time": "18:00",
+"title": "James Zollar Sextet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34604-james-zollar-sextet/",
+"src": "smalls"
+},
+{
 "id": "s983c2cffd6",
 "date": "2026-12-12",
 "time": "18:00",
@@ -7333,14 +7183,14 @@
 "src": "smalls"
 },
 {
-"id": "s0c70103590",
+"id": "s0c1a8d231d",
 "date": "2026-12-12",
 "time": "18:00",
-"title": "James Zollar Sextet",
-"venue": "Smalls",
+"title": "Countdown 2027 Coltrane Festival I: Melissa Aldana Quintet feat. Walter Smith III",
+"venue": "Smoke Jazz Club",
 "cat": "jazz",
-"url": "https://www.smallslive.com/events/34604-james-zollar-sextet/",
-"src": "smalls"
+"url": "https://tickets.smokejazz.com/shows/13818/?date=2026-12-12",
+"src": "smoke"
 },
 {
 "id": "s6fd4375cff",
@@ -7371,6 +7221,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/handels-messiah",
 "src": "nyphil"
+},
+{
+"id": "s96fd5cc08d",
+"date": "2026-12-12",
+"time": "19:00",
+"title": "Saigon",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/saigon-9/",
+"src": "stanns"
 },
 {
 "id": "saf88559ee5",
@@ -7583,6 +7443,16 @@
 "src": "smalls"
 },
 {
+"id": "s85aad6288f",
+"date": "2026-12-13",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival I: Melissa Aldana Quintet feat. Walter Smith III",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13818/?date=2026-12-13",
+"src": "smoke"
+},
+{
 "id": "sf7c3ffe92e",
 "date": "2026-12-13",
 "time": "19:00",
@@ -7709,7 +7579,7 @@
 "title": "Chris Botti",
 "venue": "Blue Note",
 "cat": "jazz",
-"url": "https://www.ticketweb.com/event/chris-botti-blue-note-jazz-club-tickets/14237924",
+"url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JF_-",
 "src": "bluenote"
 },
 {
@@ -8003,6 +7873,16 @@
 "src": "smalls"
 },
 {
+"id": "sed551683cb",
+"date": "2026-12-16",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival II: Ravi Coltrane Quartet",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13819/?date=2026-12-16",
+"src": "smoke"
+},
+{
 "id": "sd827d6dd50",
 "date": "2026-12-16",
 "time": "19:00",
@@ -8043,16 +7923,6 @@
 "src": "carnegie"
 },
 {
-"id": "s906c77e16d",
-"date": "2026-12-16",
-"time": "19:00",
-"title": "Big Band HolidaysThe Jazz at Lincoln Center Orchestra",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://ticketing.jazz.org/20667/20672",
-"src": "dizzys"
-},
-{
 "id": "sddee0f0d10",
 "date": "2026-12-16",
 "time": "19:00",
@@ -8060,6 +7930,16 @@
 "venue": "Dizzy's Club",
 "cat": "jazz",
 "url": "https://ticketing.jazz.org/21940/21943",
+"src": "dizzys"
+},
+{
+"id": "s906c77e16d",
+"date": "2026-12-16",
+"time": "19:00",
+"title": "Big Band HolidaysThe Jazz at Lincoln Center Orchestra",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://ticketing.jazz.org/20667/20672",
 "src": "dizzys"
 },
 {
@@ -8131,6 +8011,26 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34576-eric-comstock-barbara-fasano-quartet/",
 "src": "mezzrow"
+},
+{
+"id": "se56edfb2d4",
+"date": "2026-12-17",
+"time": "18:00",
+"title": "Mary Ann McSweeney Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34614-mary-ann-mcsweeney-quartet/",
+"src": "smalls"
+},
+{
+"id": "s65dfe361fd",
+"date": "2026-12-17",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival II: Ravi Coltrane Quartet",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13819/?date=2026-12-17",
+"src": "smoke"
 },
 {
 "id": "sf2b5438432",
@@ -8291,6 +8191,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34616-roberta-piketbilly-mintz-quintet/",
 "src": "smalls"
+},
+{
+"id": "s5b1b0a5c13",
+"date": "2026-12-18",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival II: Ravi Coltrane Quartet",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13819/?date=2026-12-18",
+"src": "smoke"
 },
 {
 "id": "s507e8611b1",
@@ -8483,6 +8393,16 @@
 "src": "smalls"
 },
 {
+"id": "s7534017d48",
+"date": "2026-12-19",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival II: Ravi Coltrane Quartet",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13819/?date=2026-12-19",
+"src": "smoke"
+},
+{
 "id": "s4d782d3cc1",
 "date": "2026-12-19",
 "time": "19:00",
@@ -8669,7 +8589,7 @@
 "title": "Chris Botti",
 "venue": "Blue Note",
 "cat": "jazz",
-"url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JF_a",
+"url": "https://www.ticketweb.com/event/chris-botti-blue-note-jazz-club-tickets/14237854",
 "src": "bluenote"
 },
 {
@@ -8713,6 +8633,16 @@
 "src": "birdland"
 },
 {
+"id": "s1a40af68de",
+"date": "2026-12-20",
+"time": "18:00",
+"title": "Emily Braden Trio",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34582-emily-braden-trio/",
+"src": "mezzrow"
+},
+{
 "id": "sfffac76dd7",
 "date": "2026-12-20",
 "time": "18:00",
@@ -8721,6 +8651,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34620-brandon-sanders-quartet/",
 "src": "smalls"
+},
+{
+"id": "s537c133399",
+"date": "2026-12-20",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival II: Ravi Coltrane Quartet",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13819/?date=2026-12-20",
+"src": "smoke"
 },
 {
 "id": "s47c34c7e09",
@@ -8943,6 +8883,16 @@
 "src": "smalls"
 },
 {
+"id": "s57ab13bbbd",
+"date": "2026-12-22",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival III: \u201cThe John Coltrane and Johnny Hartman Songbook\u201d with special guest Nicholas Bearde",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13839/?date=2026-12-22",
+"src": "smoke"
+},
+{
 "id": "sf3ee5897ee",
 "date": "2026-12-22",
 "time": "19:00",
@@ -9043,6 +8993,16 @@
 "src": "birdland"
 },
 {
+"id": "sd5eed6cc47",
+"date": "2026-12-23",
+"time": "18:00",
+"title": "JinJoo Yoo Quartet",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34586-jinjoo-yoo-quartet/",
+"src": "mezzrow"
+},
+{
 "id": "sf4315fd564",
 "date": "2026-12-23",
 "time": "18:00",
@@ -9051,6 +9011,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34624-pete-zimmer-quartet/",
 "src": "smalls"
+},
+{
+"id": "sbf3a62f40a",
+"date": "2026-12-23",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival IV: Jeremy Pelt with the Countdown Festival Quartet featuring Vincent Herring & Eric Sc",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13820/?date=2026-12-23",
+"src": "smoke"
 },
 {
 "id": "s78a5f5b694",
@@ -9101,6 +9071,16 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2026/12/23/the-masterwork-chorus-with-orchestra-0730pm",
 "src": "carnegie"
+},
+{
+"id": "s67f36d1a69",
+"date": "2026-12-23",
+"time": "21:00",
+"title": "Quintin Harris Trio",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34587-quintin-harris-trio/",
+"src": "mezzrow"
 },
 {
 "id": "s32f20fc1d1",
@@ -9183,6 +9163,16 @@
 "src": "birdland"
 },
 {
+"id": "s6724db9e09",
+"date": "2026-12-24",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival V: Steve Turre with the Countdown Festival Quartet featuring Vincent Herring & Eric Sco",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13840/?date=2026-12-24",
+"src": "smoke"
+},
+{
 "id": "s4460b4f4a7",
 "date": "2026-12-24",
 "time": "19:00",
@@ -9263,6 +9253,16 @@
 "src": "smalls"
 },
 {
+"id": "s1e31b39875",
+"date": "2026-12-25",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival VI: Eddie Henderson with the Countdown Festival Quartet featuring Vincent Herring & Eri",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13841/?date=2026-12-25",
+"src": "smoke"
+},
+{
 "id": "s87a9be70e8",
 "date": "2026-12-25",
 "time": "19:00",
@@ -9271,6 +9271,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/chris-botti-blue-note-jazz-club-tickets/14237634",
 "src": "bluenote"
+},
+{
+"id": "s6d68adcc10",
+"date": "2026-12-25",
+"time": "21:00",
+"title": "David Kikoski Solo Piano",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34590-david-kikoski-solo-piano/",
+"src": "mezzrow"
 },
 {
 "id": "s60c9ca840b",
@@ -9343,6 +9353,16 @@
 "src": "smalls"
 },
 {
+"id": "s8cd2215221",
+"date": "2026-12-26",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival VII: Tia Fuller with the Countdown Festival Quartet featuring Vincent Herring & Eric Sc",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13843/?date=2026-12-26",
+"src": "smoke"
+},
+{
 "id": "sdcccf7118a",
 "date": "2026-12-26",
 "time": "19:00",
@@ -9371,6 +9391,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
 "src": "nycballet"
+},
+{
+"id": "sbea6514531",
+"date": "2026-12-26",
+"time": "21:00",
+"title": "David Kikoski Solo Piano",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34591-david-kikoski-solo-piano/",
+"src": "mezzrow"
 },
 {
 "id": "s0caed3f0e4",
@@ -9449,7 +9479,7 @@
 "title": "Chris Botti",
 "venue": "Blue Note",
 "cat": "jazz",
-"url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JF_4",
+"url": "https://www.ticketweb.com/event/chris-botti-blue-note-jazz-club-tickets/14237824",
 "src": "bluenote"
 },
 {
@@ -9503,6 +9533,16 @@
 "src": "smalls"
 },
 {
+"id": "s37b9ef90ec",
+"date": "2026-12-27",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival VIII: Randy Brecker with the Countdown Festival Quartet featuring Vincent Herring & Eri",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13824/?date=2026-12-27",
+"src": "smoke"
+},
+{
 "id": "s377f80cef4",
 "date": "2026-12-27",
 "time": "19:30",
@@ -9511,6 +9551,16 @@
 "cat": "jazz",
 "url": "https://www.zincbar.com/event/valtinho-anastacio-86/",
 "src": "zincbar"
+},
+{
+"id": "s9b81f1f67e",
+"date": "2026-12-27",
+"time": "21:00",
+"title": "Richard Cortez Quartet",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34682-richard-cortez-quartet/",
+"src": "mezzrow"
 },
 {
 "id": "s5002af809e",
@@ -9533,16 +9583,6 @@
 "src": "smalls"
 },
 {
-"id": "s0dca3e5dc1",
-"date": "2026-12-28",
-"time": "13:30",
-"title": "Harlem Gospel Choir",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv3eK",
-"src": "bluenote"
-},
-{
 "id": "s82773a1267",
 "date": "2026-12-28",
 "time": "13:30",
@@ -9550,6 +9590,16 @@
 "venue": "Blue Note",
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/15030353",
+"src": "bluenote"
+},
+{
+"id": "s0dca3e5dc1",
+"date": "2026-12-28",
+"time": "13:30",
+"title": "Harlem Gospel Choir",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv3eK",
 "src": "bluenote"
 },
 {
@@ -9633,6 +9683,16 @@
 "src": "carnegie"
 },
 {
+"id": "sc02ad944dd",
+"date": "2026-12-28",
+"time": "21:00",
+"title": "Pasquale Grasso Trio",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34660-pasquale-grasso-trio/",
+"src": "mezzrow"
+},
+{
 "id": "s9c8a3aec0f",
 "date": "2026-12-28",
 "time": "21:00",
@@ -9711,6 +9771,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34634-tobias-meinhart-quartet/",
 "src": "smalls"
+},
+{
+"id": "se0667bf83d",
+"date": "2026-12-29",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival IX: A Supreme Blue: Inspired by \u201cA Love Supreme\u201d and \u201cKind of Blue\u201d",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13825/?date=2026-12-29",
+"src": "smoke"
 },
 {
 "id": "sf43958e769",
@@ -9821,6 +9891,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34594-jim-whitney-trio/",
 "src": "mezzrow"
+},
+{
+"id": "se0f819112d",
+"date": "2026-12-30",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival IX: A Supreme Blue: Inspired by \u201cA Love Supreme\u201d and \u201cKind of Blue\u201d",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13825/?date=2026-12-30",
+"src": "smoke"
 },
 {
 "id": "sa93daa6861",
@@ -10033,6 +10113,16 @@
 "src": "birdland"
 },
 {
+"id": "sf28e0a9f56",
+"date": "2027-01-01",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival IX: A Supreme Blue: Inspired by \u201cA Love Supreme\u201d and \u201cKind of Blue\u201d",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13825/?date=2027-01-01",
+"src": "smoke"
+},
+{
 "id": "s0376bf3cf7",
 "date": "2027-01-01",
 "time": "19:00",
@@ -10071,6 +10161,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/birdland-big-band-feat-emma-birdland-jazz-club-tickets/15007533",
 "src": "birdland"
+},
+{
+"id": "s73d812d8b2",
+"date": "2027-01-02",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival IX: A Supreme Blue: Inspired by \u201cA Love Supreme\u201d and \u201cKind of Blue\u201d",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13825/?date=2027-01-02",
+"src": "smoke"
 },
 {
 "id": "sc9dfe5b48c",
@@ -10173,6 +10273,16 @@
 "src": "birdland"
 },
 {
+"id": "s4a9d9ba96b",
+"date": "2027-01-03",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival IX: A Supreme Blue: Inspired by \u201cA Love Supreme\u201d and \u201cKind of Blue\u201d",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13825/?date=2027-01-03",
+"src": "smoke"
+},
+{
 "id": "s33aa355ec3",
 "date": "2027-01-03",
 "time": "19:30",
@@ -10223,6 +10333,16 @@
 "src": "birdland"
 },
 {
+"id": "sdc50766661",
+"date": "2027-01-04",
+"time": "",
+"title": "Women of Emanu-El: Aunt Jake\u2019s Pasta Making Class",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-aunt-jakes-pasta-making-class/",
+"src": "emanuel"
+},
+{
 "id": "s27bc498a81",
 "date": "2027-01-05",
 "time": "19:00",
@@ -10243,6 +10363,16 @@
 "src": "dizzys"
 },
 {
+"id": "s2a39aada3d",
+"date": "2027-01-06",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival X: James Carter Quintet",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13845/?date=2027-01-06",
+"src": "smoke"
+},
+{
 "id": "sdf975deff0",
 "date": "2027-01-06",
 "time": "19:00",
@@ -10261,6 +10391,16 @@
 "cat": "jazz",
 "url": "https://ticketing.jazz.org/22035/22036",
 "src": "dizzys"
+},
+{
+"id": "s44b356d1cc",
+"date": "2027-01-07",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival X: James Carter Quintet",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13845/?date=2027-01-07",
+"src": "smoke"
 },
 {
 "id": "sc1822e278a",
@@ -10301,6 +10441,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/birdland-big-band-birdland-jazz-club-tickets/14331634",
 "src": "birdland"
+},
+{
+"id": "s7ede6feeeb",
+"date": "2027-01-08",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival X: James Carter Quintet",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13845/?date=2027-01-08",
+"src": "smoke"
 },
 {
 "id": "s1c6f64046b",
@@ -10381,6 +10531,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/bill-charlap-solo-birdland-jazz-club-tickets/14309964",
 "src": "birdland"
+},
+{
+"id": "s13c38083c4",
+"date": "2027-01-09",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival X: James Carter Quintet",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13845/?date=2027-01-09",
+"src": "smoke"
 },
 {
 "id": "sb67bbcc4f1",
@@ -10491,6 +10651,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/mike-davis-and-the-new-birdland-jazz-club-tickets/14379714",
 "src": "birdland"
+},
+{
+"id": "s9ca8ac3f6a",
+"date": "2027-01-10",
+"time": "18:00",
+"title": "Countdown 2027 Coltrane Festival X: James Carter Quintet",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13845/?date=2027-01-10",
+"src": "smoke"
 },
 {
 "id": "s6cdedcd132",
@@ -10833,6 +11003,16 @@
 "src": "carnegie"
 },
 {
+"id": "seccaab6768",
+"date": "2027-01-17",
+"time": "17:00",
+"title": "ALC Presents, World on a String: The Swinging Songs of Broadway with Kate Kortum and David Marino",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://ticketing.jazz.org/22057/22058",
+"src": "dizzys"
+},
+{
 "id": "s95fd283fc7",
 "date": "2027-01-17",
 "time": "17:30",
@@ -10863,6 +11043,26 @@
 "src": "carnegie"
 },
 {
+"id": "s6eecef217e",
+"date": "2027-01-17",
+"time": "19:30",
+"title": "Sean Mason Trio: State of the Art",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://ticketing.jazz.org/22059/22060",
+"src": "dizzys"
+},
+{
+"id": "sde1800c037",
+"date": "2027-01-17",
+"time": "21:30",
+"title": "Joe Gransden Plays and Sings: Sinatra, Bennett and Mangione: A Night of Swing",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://ticketing.jazz.org/22061/22062",
+"src": "dizzys"
+},
+{
 "id": "se00de1a078",
 "date": "2027-01-18",
 "time": "19:00",
@@ -10883,6 +11083,16 @@
 "src": "carnegie"
 },
 {
+"id": "sc748b060ea",
+"date": "2027-01-18",
+"time": "19:00",
+"title": "Matthew Whitaker",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://ticketing.jazz.org/22063/22064",
+"src": "dizzys"
+},
+{
 "id": "s163b2b7b97",
 "date": "2027-01-19",
 "time": "19:00",
@@ -10891,6 +11101,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/ms-lisa-fischer-featuring-orrin-birdland-jazz-club-tickets/14310014",
 "src": "birdland"
+},
+{
+"id": "s64fdc0ff0c",
+"date": "2027-01-19",
+"time": "19:00",
+"title": "Mark Sherman's Project 5",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://ticketing.jazz.org/22065/22066",
+"src": "dizzys"
 },
 {
 "id": "s63884c33a3",
@@ -10943,6 +11163,16 @@
 "src": "carnegie"
 },
 {
+"id": "s5a1b1b3481",
+"date": "2027-01-20",
+"time": "19:00",
+"title": "Sachal Vasandani with Special Guest Geoffery Keezer",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://ticketing.jazz.org/22068/22069",
+"src": "dizzys"
+},
+{
 "id": "s45539af1ee",
 "date": "2027-01-20",
 "time": "19:30",
@@ -10991,6 +11221,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/ms-lisa-fischer-featuring-orrin-birdland-jazz-club-tickets/14310024",
 "src": "birdland"
+},
+{
+"id": "sf90e1fe809",
+"date": "2027-01-21",
+"time": "19:00",
+"title": "Sachal Vasandani with Special Guest Geoffery Keezer",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://ticketing.jazz.org/22068/22071",
+"src": "dizzys"
 },
 {
 "id": "sb1ea8fd08d",
@@ -11303,6 +11543,16 @@
 "src": "nyas"
 },
 {
+"id": "s861e75d539",
+"date": "2027-01-25",
+"time": "",
+"title": "Women of Emanu-El\u2019s Stretch, Smile, Shalom: Mommy/Daddy and Me Yoga Class",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-els-stretch-smile-shalom-mommy-daddy-and-me-yoga-class/",
+"src": "emanuel"
+},
+{
 "id": "s030f2b9827",
 "date": "2027-01-26",
 "time": "19:00",
@@ -11511,16 +11761,6 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/benny-green-trio-birdland-jazz-club-tickets/14379854",
 "src": "birdland"
-},
-{
-"id": "s5d12a39659",
-"date": "2027-01-29",
-"time": "",
-"title": "Dream Big: A Broadway Family Shabbat",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/broadway-family-shabbat-2026/",
-"src": "emanuel"
 },
 {
 "id": "s9930d5049d",
@@ -12313,6 +12553,16 @@
 "src": "bluenote"
 },
 {
+"id": "s01f242b92e",
+"date": "2027-02-11",
+"time": "20:00",
+"title": "Estefan Iatcekiw, Piano",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/02/11/estefan-iatcekiw-piano-0800pm",
+"src": "carnegie"
+},
+{
 "id": "s3e5f11b8d8",
 "date": "2027-02-11",
 "time": "20:00",
@@ -12320,16 +12570,6 @@
 "venue": "Carnegie Hall \u00b7 Stern Auditorium",
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2027/02/11/orchestra-of-st-lukes-0800pm",
-"src": "carnegie"
-},
-{
-"id": "s01f242b92e",
-"date": "2027-02-11",
-"time": "20:00",
-"title": "Estefan Iatcekiw, Piano",
-"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2027/02/11/estefan-iatcekiw-piano-0800pm",
 "src": "carnegie"
 },
 {
@@ -19313,16 +19553,6 @@
 "src": "emanuel"
 },
 {
-"id": "s796e58e9c0",
-"date": "2027-10-07",
-"time": "",
-"title": "Kosha Dillz Unfiltered: Pride, Remembrance, and Courage",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/kosha-dillz-unfiltered-pride-remembrance-and-courage/",
-"src": "emanuel"
-},
-{
 "id": "sda64834b2c",
 "date": "2027-10-08",
 "time": "",
@@ -19353,16 +19583,6 @@
 "src": "carnegie"
 },
 {
-"id": "sbe4e72e7c6",
-"date": "2027-10-14",
-"time": "",
-"title": "Teen Philanthropic Committee Meeting",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/teen-philanthropic-committee-meeting-332-956/",
-"src": "emanuel"
-},
-{
 "id": "sa89fcfadda",
 "date": "2027-10-15",
 "time": "",
@@ -19390,16 +19610,6 @@
 "venue": "Temple Emanu-El \u2014 Streicker",
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/tikkun-olam-first-day-of-sukkot-food-drive-370/",
-"src": "emanuel"
-},
-{
-"id": "se46f45a414",
-"date": "2027-10-18",
-"time": "",
-"title": "Calling Generations Brunch",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/calling-generations-128/",
 "src": "emanuel"
 },
 {
@@ -19441,16 +19651,6 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/rental-family/",
 "src": "japansociety"
-},
-{
-"id": "sef4436b23a",
-"date": "2027-10-25",
-"time": "",
-"title": "The Emanu-El Theatre Company",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/the-emanu-el-theatre-company/",
-"src": "emanuel"
 },
 {
 "id": "s6e57d3236a",
