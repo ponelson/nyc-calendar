@@ -1,316 +1,26 @@
 {
-"generated": "2026-11-10T16:41:17+00:00",
-"count": 1918,
+"generated": "2026-11-12T17:14:53+00:00",
+"count": 1935,
 "events": [
 {
-"id": "s37c3b914e6",
-"date": "2026-11-09",
-"time": "07:00",
-"title": "Dieux - Parasol - Dieux Pop-up (Street Event) \u00b7 ELIZABETH STREET between EAST HOUSTON STREET and PRINCE STRE \u2014 Sidewalk ",
+"id": "s9e440ee9d9",
+"date": "2026-11-11",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 DELANCEY STREET between CHRYSTIE STREET and FORSYTH STREET \u2014 Sidewa",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
 },
 {
-"id": "s50b4dea2f9",
-"date": "2026-11-09",
-"time": "09:00",
-"title": "Magna Investor Day (Street Event) \u00b7 EAST 45 STREET between LEXINGTON AVENUE and PARK AVENUE \u2014 Curb Lane Only closure",
+"id": "s55315f4bf6",
+"date": "2026-11-11",
+"time": "10:00",
+"title": "VETERANS DAY FESTIVAL (Street Festival) \u00b7 BROADWAY between LIBERTY STREET and BATTERY PLACE \u2014 Full Street Closure closur",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
-},
-{
-"id": "s7177d0ab90",
-"date": "2026-11-09",
-"time": "11:00",
-"title": "Arih NYC Noodle Truck (Street Event) \u00b7 WASHINGTON SQUARE SOUTH between WASHINGTON SQUARE EAST and L \u2014 Sidewalk and Curb ",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sb49d0ab519",
-"date": "2026-11-09",
-"time": "22:00",
-"title": "Vanguard Jazz Orchestra",
-"venue": "Village Vanguard",
-"cat": "jazz",
-"url": "https://squadup.com/events/monday-1000-pm---vanguard-jazz-orchestra-253",
-"src": "vanguard"
-},
-{
-"id": "s1474cf310f",
-"date": "2026-11-09",
-"time": "22:30",
-"title": "KOTA The Friend",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/kota-the-friend-blue-note-jazz-club-tickets/14430844",
-"src": "bluenote"
-},
-{
-"id": "sf1b89751e3",
-"date": "2026-11-09",
-"time": "22:30",
-"title": "Yazmin Lacey",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/yazmin-lacey-blue-note-jazz-club-tickets/14297424",
-"src": "bluenote"
-},
-{
-"id": "s13715b3cb4",
-"date": "2026-11-09",
-"time": "22:30",
-"title": "Solo Guitar with Diego Figueiredo",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34304-solo-guitar-with-diego-figueiredo/",
-"src": "mezzrow"
-},
-{
-"id": "s61dfa511c5",
-"date": "2026-11-09",
-"time": "22:30",
-"title": "Jerome Jennings Quintet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34381-jerome-jennings-quintet/",
-"src": "smalls"
-},
-{
-"id": "s872b701a40",
-"date": "2026-11-09",
-"time": "23:30",
-"title": "VINYL AFTER HOURS",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34450-vinyl-after-hours/",
-"src": "mezzrow"
-},
-{
-"id": "sc3eb549f7b",
-"date": "2026-11-09",
-"time": "23:55",
-"title": "Jam Session Hosted By Mike Boone",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34378-jam-session-hosted-by-mike-boone/",
-"src": "smalls"
-},
-{
-"id": "s47f583dae2",
-"date": "2026-11-10",
-"time": "07:00",
-"title": "Peec AI (Street Event) \u00b7 EAST 20 STREET between BROADWAY and PARK AVENUE SOUTH \u2014 Sidewalk and Curb Lane Closure closure",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s921627eb1a",
-"date": "2026-11-10",
-"time": "07:00",
-"title": "Tsutomu Nakai",
-"venue": "Zinc Bar",
-"cat": "jazz",
-"url": "https://www.zincbar.com/event/tsutomu-nakai-7/",
-"src": "zincbar"
-},
-{
-"id": "sfae3471ac5",
-"date": "2026-11-10",
-"time": "08:00",
-"title": "Mercury Hot CoCo Cart at 146 Fifth Avenue (Street Event) \u00b7 5 AVENUE between EAST 19 STREET and EAST 20 STREET \u2014 Sidewalk",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sc23851e56a",
-"date": "2026-11-10",
-"time": "17:30",
-"title": "Vince Giordano and The Nighthawks",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14225114",
-"src": "birdland"
-},
-{
-"id": "s71545ad8ff",
-"date": "2026-11-10",
-"time": "18:00",
-"title": "Carolyn Leonhart Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34308-carolyn-leonhart-trio/",
-"src": "mezzrow"
-},
-{
-"id": "se1166cadc9",
-"date": "2026-11-10",
-"time": "18:00",
-"title": "Allen Lowe Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34383-allen-lowe-quartet/",
-"src": "smalls"
-},
-{
-"id": "s7cbd2e3f3a",
-"date": "2026-11-10",
-"time": "19:00",
-"title": "Houston Person Quintet: 92nd Birthday Celebration",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/houston-person-quintet-92nd-birthday-birdland-jazz-club-tickets/15007193",
-"src": "birdland"
-},
-{
-"id": "sb10cc13164",
-"date": "2026-11-10",
-"time": "19:00",
-"title": "Jon Gordon Nonet",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://ticketing.jazz.org/21701/21702",
-"src": "dizzys"
-},
-{
-"id": "s4acd84c532",
-"date": "2026-11-10",
-"time": "19:00",
-"title": "An Unlikely Barn: The Mount Vernon Hotel & Villa Building on the East River",
-"venue": "Mount Vernon Hotel Museum",
-"cat": "houses",
-"url": "https://mvhm.org/event/an-unlikely-barn-the-mount-vernon-hotel-museum-early-villa-building/",
-"src": "mvhm"
-},
-{
-"id": "s65329b4dae",
-"date": "2026-11-10",
-"time": "19:30",
-"title": "Santiago Ca\u00f1\u00f3n-Valencia, CelloVictor Santiago Asuncion, Piano",
-"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/10/santiago-canonvalencia-cello-victor-santiago-asuncion-piano-0730pm",
-"src": "carnegie"
-},
-{
-"id": "sa5d3adffd4",
-"date": "2026-11-10",
-"time": "19:30",
-"title": "Juilliard at Zankel Hall",
-"venue": "Carnegie Hall \u00b7 Zankel Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/10/juilliard-at-zankel-hall-0730pm",
-"src": "carnegie"
-},
-{
-"id": "s30abef916c",
-"date": "2026-11-10",
-"time": "19:30",
-"title": "Tristan & Yseult",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/tristan-yseult-10/",
-"src": "stanns"
-},
-{
-"id": "s2e5d6069f7",
-"date": "2026-11-10",
-"time": "20:00",
-"title": "Vic Mensa with Live Band",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/vic-mensa-with-live-band-blue-note-jazz-club-tickets/14316924",
-"src": "bluenote"
-},
-{
-"id": "s4a98691182",
-"date": "2026-11-10",
-"time": "20:00",
-"title": "Oratorio Society of New York",
-"venue": "Carnegie Hall \u00b7 Stern Auditorium",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/10/oratorio-society-of-new-york-0800pm",
-"src": "carnegie"
-},
-{
-"id": "s683d1d9eca",
-"date": "2026-11-10",
-"time": "20:00",
-"title": "Tyshawn Sorey",
-"venue": "Village Vanguard",
-"cat": "jazz",
-"url": "https://squadup.com/events/tuesday-800-pm---tyshawn-sorey-1",
-"src": "vanguard"
-},
-{
-"id": "s040776703e",
-"date": "2026-11-10",
-"time": "21:00",
-"title": "Jordan Piper Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34309-jordan-piper-trio/",
-"src": "mezzrow"
-},
-{
-"id": "s93c742e161",
-"date": "2026-11-10",
-"time": "21:00",
-"title": "Robert Edwards Quintet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34384-robert-edwards-quintet/",
-"src": "smalls"
-},
-{
-"id": "s77b6a02901",
-"date": "2026-11-10",
-"time": "22:30",
-"title": "Vic Mensa",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvS-N",
-"src": "bluenote"
-},
-{
-"id": "s10943ca657",
-"date": "2026-11-10",
-"time": "23:30",
-"title": "VINYL AFTER HOURS",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34451-vinyl-after-hours/",
-"src": "mezzrow"
-},
-{
-"id": "sa34a78e8cf",
-"date": "2026-11-10",
-"time": "23:55",
-"title": "Jam Session Hosted By Jason Clotter Trio",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34382-jam-session-hosted-by-jason-clotter-trio/",
-"src": "smalls"
-},
-{
-"id": "sda6f09f2cf",
-"date": "2026-11-10",
-"time": "",
-"title": "Under the Oculus: A Celebration of Visionaries",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/under-the-oculus-a-celebration-of-visionaries",
-"src": "guggenheim"
 },
 {
 "id": "s761923f19e",
@@ -333,144 +43,14 @@
 "src": "nycpermits"
 },
 {
-"id": "s59597620a3",
-"date": "2026-11-11",
-"time": "18:00",
-"title": "Dan Cray Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34310-dan-cray-trio/",
-"src": "mezzrow"
-},
-{
-"id": "s483a0da7a8",
-"date": "2026-11-11",
-"time": "18:00",
-"title": "Ryan Keberle and Pantanal Jam",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34388-ryan-keberle-and-pantanal-jam/",
-"src": "smalls"
-},
-{
-"id": "s4efa6aada8",
-"date": "2026-11-11",
-"time": "18:30",
-"title": "Tenor Titans! The Wayne Escoffery & Jimmy Greeen Quintet featuring Buster Williams & Lenny White",
-"venue": "Smoke Jazz Club",
-"cat": "jazz",
-"url": "https://tickets.smokejazz.com/shows/13394/?date=2026-11-11",
-"src": "smoke"
-},
-{
-"id": "s1f4f798f10",
-"date": "2026-11-11",
-"time": "19:00",
-"title": "Dee Dee Bridgewater",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/dee-dee-bridgewater-birdland-jazz-club-tickets/15005253",
-"src": "birdland"
-},
-{
-"id": "s5e1f09dc44",
-"date": "2026-11-11",
-"time": "19:00",
-"title": "Vocal and Chamber Music Concert",
-"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/11/vocal-and-chamber-music-concert-0700pm",
-"src": "carnegie"
-},
-{
-"id": "s1c9cc2c6d3",
-"date": "2026-11-11",
-"time": "19:00",
-"title": "Django Reinhardt NY Festival",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://ticketing.jazz.org/21704/21705",
-"src": "dizzys"
-},
-{
-"id": "s1ddb4d5701",
-"date": "2026-11-11",
-"time": "19:00",
-"title": "Kelly Green Quartet",
-"venue": "Zinc Bar",
-"cat": "jazz",
-"url": "https://www.zincbar.com/event/kelly-green-quartet-3/",
-"src": "zincbar"
-},
-{
-"id": "s09bfc70449",
-"date": "2026-11-11",
-"time": "19:30",
-"title": "Aigul Akhmetshina, Mezzo-Soprano Jonathan Palmer Lakeland, Piano",
-"venue": "Carnegie Hall \u00b7 Zankel Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/11/aigul-akhmetshina-mezzosoprano-jonathan-palmer-lakeland-piano-0730pm",
-"src": "carnegie"
-},
-{
-"id": "s0124bfe245",
-"date": "2026-11-11",
-"time": "19:30",
-"title": "Tristan & Yseult",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/tristan-yseult-12/",
-"src": "stanns"
-},
-{
-"id": "s4b77487fd9",
-"date": "2026-11-11",
-"time": "20:00",
-"title": "Tyshawn Sorey",
-"venue": "Village Vanguard",
-"cat": "jazz",
-"url": "https://squadup.com/events/wednesday-800-pm---tyshawn-sorey-1",
-"src": "vanguard"
-},
-{
-"id": "sda17074e15",
-"date": "2026-11-11",
-"time": "21:00",
-"title": "Yaniv Taubenhouse Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34311-yaniv-taubenhouse-trio/",
-"src": "mezzrow"
-},
-{
-"id": "s4d6d2cafff",
-"date": "2026-11-11",
-"time": "21:00",
-"title": "Matt Panayides Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34389-matt-panayides-quartet/",
-"src": "smalls"
-},
-{
-"id": "se40832a23b",
-"date": "2026-11-11",
-"time": "23:30",
-"title": "VINYL AFTER HOURS",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34452-vinyl-after-hours/",
-"src": "mezzrow"
-},
-{
-"id": "s9763ba2b29",
-"date": "2026-11-11",
-"time": "23:55",
-"title": "Jam Session Hosted By Carlos Abadie",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34385-jam-session-hosted-by-carlos-abadie/",
-"src": "smalls"
+"id": "s93ba4b0d7d",
+"date": "2026-11-12",
+"time": "06:00",
+"title": "MDMA Holiday Installation 2026 (Plaza Partner Event) \u00b7 9 AVENUE between 12 STREET and 14 STREET, WEST 13 STREET \u2014 Curb L",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s50d852b84f",
@@ -493,10 +73,50 @@
 "src": "nycpermits"
 },
 {
+"id": "s2e74d148fd",
+"date": "2026-11-12",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 MOUNT MORRIS PARK WEST between WEST 123 STREET and WEST 12 \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "sd74c1d1dc2",
+"date": "2026-11-12",
+"time": "07:30",
+"title": "HEINZ NYSE EVENT (Street Event) \u00b7 BROAD STREET between WALL STREET and EXCHANGE PLACE \u2014 Curb Lane Only closure",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "se3713d56fc",
 "date": "2026-11-12",
 "time": "08:00",
 "title": "1-Coffee Truck Sampling - Broadway (Street Event) \u00b7 BROADWAY between MURRAY STREET and WARREN STREET \u2014 Curb Lane Only cl",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "sb719f00de0",
+"date": "2026-11-12",
+"time": "09:00",
+"title": "Amazon x Art Week NYC - Chelsea (Street Event) \u00b7 10 AVENUE between WEST 22 STREET and WEST 23 STREET \u2014 Sidewalk and Curb",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s9f90463d3d",
+"date": "2026-11-12",
+"time": "10:00",
+"title": "FINANCIAL COMMUNITY FALL FAIR (Single Block Festival) \u00b7 PARK PLACE between BROADWAY and CHURCH STREET \u2014 Full Street Clos",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -533,6 +153,16 @@
 "src": "nycpermits"
 },
 {
+"id": "s4a5d2b0bf5",
+"date": "2026-11-12",
+"time": "17:30",
+"title": "The High Society New Orleans Jazz Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/the-high-society-new-orleans-birdland-theater-tickets/14196774",
+"src": "birdland"
+},
+{
 "id": "s3aa9f91cbe",
 "date": "2026-11-12",
 "time": "18:00",
@@ -541,6 +171,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34312-evan-schwam-quartet/",
 "src": "mezzrow"
+},
+{
+"id": "s3c4a914b0d",
+"date": "2026-11-12",
+"time": "18:00",
+"title": "Ferrari Lifestyle Show After Party at 92 Prince St. (Street Event) \u00b7 PRINCE STREET between MERCER STREET and BROADWAY, M",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "sf76a3b09d6",
@@ -591,6 +231,16 @@
 "cat": "jazz",
 "url": "https://ticketing.jazz.org/21704/21707",
 "src": "dizzys"
+},
+{
+"id": "sa0325fca9e",
+"date": "2026-11-12",
+"time": "19:00",
+"title": "Production Parking 225 W28th Street (Street Event) \u00b7 WEST 28 STREET between 7 AVENUE and 8 AVENUE \u2014 Sidewalk and Curb La",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "sc791e22683",
@@ -703,6 +353,16 @@
 "src": "zincbar"
 },
 {
+"id": "s817b63a50a",
+"date": "2026-11-13",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 MOUNT MORRIS PARK WEST between WEST 123 STREET and WEST 12 \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s3459c44248",
 "date": "2026-11-13",
 "time": "07:30",
@@ -723,20 +383,20 @@
 "src": "nycpermits"
 },
 {
-"id": "sed6a6792c4",
+"id": "s38d39bcf36",
 "date": "2026-11-13",
 "time": "09:00",
-"title": "Amazon x Art Week NYC - UES (Street Event) \u00b7 MADISON AVENUE between EAST 73 STREET and EAST 72 STREET \u2014 Sidewalk and Cur",
+"title": "Amazon Art Week NYC Tribeca (Street Event) \u00b7 WEST BROADWAY between WALKER STREET and NORTH MOORE STREET, \u2014 Sidewalk and ",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
 },
 {
-"id": "sa081fc77a6",
+"id": "sed6a6792c4",
 "date": "2026-11-13",
-"time": "10:00",
-"title": "Turkey Fest (Street Event) \u00b7 WEST 67 STREET between AMSTERDAM AVENUE and BROADWAY \u2014 Full Street Closure closure",
+"time": "09:00",
+"title": "Amazon x Art Week NYC - UES (Street Event) \u00b7 MADISON AVENUE between EAST 73 STREET and EAST 72 STREET \u2014 Sidewalk and Cur",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -961,6 +621,36 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/americas-250th-anniversary-tour-of-fort-greene/",
 "src": "greenwood"
+},
+{
+"id": "s2a94e34d96",
+"date": "2026-11-14",
+"time": "10:00",
+"title": "NYC TOURIST DAY (Single Block Festival) \u00b7 WEST 50 STREET between 6 AVENUE and 7 AVENUE \u2014 Full Street Closure closure",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "sb2dbdf0c0e",
+"date": "2026-11-14",
+"time": "10:00",
+"title": "JAPAN Fes (Single Block Festival) \u00b7 WEST 40 STREET between 5 AVENUE and 6 AVENUE \u2014 Full Street Closure closure",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s1e4ffb2326",
+"date": "2026-11-14",
+"time": "10:00",
+"title": "Amazon Art Week NYC LES (Street Event) \u00b7 BOWERY between RIVINGTON STREET and SPRING STREET, BOWERY b \u2014 Sidewalk and Curb",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s0fd1ec4ca6",
@@ -1253,6 +943,16 @@
 "src": "smalls"
 },
 {
+"id": "sf090a977b2",
+"date": "2026-11-14",
+"time": "23:59",
+"title": "yasiin bey: Archives & New Works",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/yasiin-bey-archives-new-blue-note-jazz-club-tickets/14438254",
+"src": "bluenote"
+},
+{
 "id": "s7a4f7cb35b",
 "date": "2026-11-14",
 "time": "",
@@ -1291,6 +991,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/grave-beginnings-walking-green-wood-5/",
 "src": "greenwood"
+},
+{
+"id": "scc7ae468ef",
+"date": "2026-11-15",
+"time": "10:00",
+"title": "UNION SQUARE SPRING FAIR (Street Festival) \u00b7 SIXTH AVENUE between WEST 23 STREET and WEST 34 STREET \u2014 Full Street Closur",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "sab80eac815",
@@ -1523,6 +1233,26 @@
 "src": "japansociety"
 },
 {
+"id": "sfde6e85095",
+"date": "2026-11-16",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 DELANCEY STREET between CHRYSTIE STREET and FORSYTH STREET \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s52933b7d96",
+"date": "2026-11-16",
+"time": "11:00",
+"title": "Citi Boost (Street Event) \u00b7 EAST 79 STREET between 1 AVENUE and YORK AVENUE \u2014 Sidewalk and Curb Lane Closure closure",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s3ce390733a",
 "date": "2026-11-16",
 "time": "18:00",
@@ -1673,10 +1403,40 @@
 "src": "smalls"
 },
 {
+"id": "sff9ea16715",
+"date": "2026-11-17",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 MOUNT MORRIS PARK WEST between WEST 123 STREET and WEST 12 \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s7315bef01d",
+"date": "2026-11-17",
+"time": "08:00",
+"title": "Spellbook Coffee Truck at W 48th St (Street Event) \u00b7 WEST 48 STREET between 6 AVENUE and 7 AVENUE \u2014 Sidewalk and Curb La",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s4574e07b26",
 "date": "2026-11-17",
 "time": "11:00",
 "title": "Citi Boost 2 (Street Event) \u00b7 BROADWAY between WEST 86 STREET and WEST 85 STREET \u2014 Curb Lane Only closure",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s4367e573bc",
+"date": "2026-11-17",
+"time": "17:00",
+"title": "Harlem Holiday Lights Seating (Street Event) \u00b7 MALCOLM X BOULEVARD between WEST 133 STREET and WEST 134 S \u2014 Partial Side",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -1831,6 +1591,16 @@
 "cat": "jazz",
 "url": "https://www.zincbar.com/event/kieran-brown-quartet/",
 "src": "zincbar"
+},
+{
+"id": "sec9a5ed30f",
+"date": "2026-11-18",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 WEST 28 STREET between 9 AVENUE and 10 AVENUE \u2014 Sidewalk and Curb L",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s6fa31d04b5",
@@ -2003,6 +1773,16 @@
 "src": "smalls"
 },
 {
+"id": "s04b0958216",
+"date": "2026-11-19",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 MOUNT MORRIS PARK WEST between WEST 123 STREET and WEST 12 \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "sa75ab97364",
 "date": "2026-11-19",
 "time": "08:00",
@@ -2031,6 +1811,16 @@
 "cat": "houses",
 "url": "https://mvhm.org/event/spies-among-us-from-the-american-revolution-to-1830s-new-york-2/",
 "src": "mvhm"
+},
+{
+"id": "s6e372c2521",
+"date": "2026-11-19",
+"time": "15:00",
+"title": "Thanksgiving block party (Street Event) \u00b7 WADSWORTH AVENUE between WEST 176 STREET and WEST 177 STRE \u2014 Full Street Closu",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s387420a440",
@@ -2201,6 +1991,16 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/ichi-go-ichi-e-encounters-with-yumi-kurosawa/",
 "src": "japansociety"
+},
+{
+"id": "s1578a7958e",
+"date": "2026-11-20",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 MOUNT MORRIS PARK WEST between WEST 123 STREET and WEST 12 \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s157d99f69d",
@@ -2405,11 +2205,11 @@
 {
 "id": "sb309f4f197",
 "date": "2026-11-21",
-"time": "13:00",
+"time": "12:00",
 "title": "IAPMT Winners' Concert",
 "venue": "Carnegie Hall \u00b7 Weill Recital Hall",
 "cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/21/iapmt-winners-concert-0100pm",
+"url": "https://www.carnegiehall.org/calendar/2026/11/21/iapmt-winners-concert-1200pm",
 "src": "carnegie"
 },
 {
@@ -2665,11 +2465,11 @@
 {
 "id": "sdefc87322d",
 "date": "2026-11-22",
-"time": "13:00",
+"time": "12:00",
 "title": "IAPMT Winners' Concert",
 "venue": "Carnegie Hall \u00b7 Weill Recital Hall",
 "cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/22/iapmt-winners-concert-0100pm",
+"url": "https://www.carnegiehall.org/calendar/2026/11/22/iapmt-winners-concert-1200pm",
 "src": "carnegie"
 },
 {
@@ -2853,6 +2653,16 @@
 "src": "zincbar"
 },
 {
+"id": "sf9bfb0a51d",
+"date": "2026-11-23",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 DELANCEY STREET between CHRYSTIE STREET and FORSYTH STREET \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s2f1beed3ac",
 "date": "2026-11-23",
 "time": "18:00",
@@ -2981,6 +2791,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34424-jam-session-hosted-by-mike-boone/",
 "src": "smalls"
+},
+{
+"id": "s7c2da7cc80",
+"date": "2026-11-24",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 DELANCEY STREET between CHRYSTIE STREET and FORSYTH STREET \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s17608635d4",
@@ -3143,6 +2963,16 @@
 "src": "zwirner"
 },
 {
+"id": "s5d5ce0d9d6",
+"date": "2026-11-25",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 WEST 28 STREET between 9 AVENUE and 10 AVENUE \u2014 Sidewalk and Curb L",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s318f0cb732",
 "date": "2026-11-25",
 "time": "08:50",
@@ -3293,6 +3123,26 @@
 "src": "smalls"
 },
 {
+"id": "sd083fdcf4e",
+"date": "2026-11-25",
+"time": "",
+"title": "Unseen. Until Now.",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/outside-in-benefit",
+"src": "zwirner"
+},
+{
+"id": "s001afbf685",
+"date": "2026-11-26",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 MOUNT MORRIS PARK WEST between WEST 123 STREET and WEST 12 \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "sb416114901",
 "date": "2026-11-26",
 "time": "18:30",
@@ -3361,6 +3211,26 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34433-jam-session-hosted-by-matt-snow/",
 "src": "smalls"
+},
+{
+"id": "s2232704b52",
+"date": "2026-11-26",
+"time": "",
+"title": "Unseen. Until Now.",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/outside-in-benefit",
+"src": "zwirner"
+},
+{
+"id": "sb47e0473cd",
+"date": "2026-11-27",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 MOUNT MORRIS PARK WEST between WEST 123 STREET and WEST 12 \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "sbc6de23d4d",
@@ -3551,6 +3421,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34438-ken-fowser-quartet/",
 "src": "smalls"
+},
+{
+"id": "s05cf874eb3",
+"date": "2026-11-27",
+"time": "",
+"title": "Unseen. Until Now.",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/outside-in-benefit",
+"src": "zwirner"
 },
 {
 "id": "s67ec92b0fb",
@@ -3773,6 +3653,16 @@
 "src": "smalls"
 },
 {
+"id": "s4aa5685608",
+"date": "2026-11-28",
+"time": "",
+"title": "Unseen. Until Now.",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/outside-in-benefit",
+"src": "zwirner"
+},
+{
 "id": "sa235431a31",
 "date": "2026-11-29",
 "time": "10:00",
@@ -3913,16 +3803,6 @@
 "src": "zincbar"
 },
 {
-"id": "sdffd4ab113",
-"date": "2026-11-29",
-"time": "20:00",
-"title": "The War And Treaty",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-war-and-treaty-blue-note-jazz-club-tickets/14378334",
-"src": "bluenote"
-},
-{
 "id": "sade68ddbc3",
 "date": "2026-11-29",
 "time": "20:00",
@@ -3930,6 +3810,16 @@
 "venue": "Blue Note",
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/chief-adjuah-blue-note-jazz-club-tickets/15032733",
+"src": "bluenote"
+},
+{
+"id": "sdffd4ab113",
+"date": "2026-11-29",
+"time": "20:00",
+"title": "The War And Treaty",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/the-war-and-treaty-blue-note-jazz-club-tickets/14378334",
 "src": "bluenote"
 },
 {
@@ -3981,6 +3871,26 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34440-andrew-kushnir-trio/",
 "src": "smalls"
+},
+{
+"id": "sdb8482f047",
+"date": "2026-11-29",
+"time": "",
+"title": "Unseen. Until Now.",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/outside-in-benefit",
+"src": "zwirner"
+},
+{
+"id": "saba180c3d3",
+"date": "2026-11-30",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 DELANCEY STREET between CHRYSTIE STREET and FORSYTH STREET \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s6c18e6b29e",
@@ -4133,6 +4043,26 @@
 "src": "smalls"
 },
 {
+"id": "sd13d456c80",
+"date": "2026-11-30",
+"time": "",
+"title": "Unseen. Until Now.",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/outside-in-benefit",
+"src": "zwirner"
+},
+{
+"id": "s8a833a850c",
+"date": "2026-12-01",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 DELANCEY STREET between CHRYSTIE STREET and FORSYTH STREET \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "scde32f653c",
 "date": "2026-12-01",
 "time": "18:00",
@@ -4261,6 +4191,26 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34518-jam-session-hosted-by-kyle-colina/",
 "src": "smalls"
+},
+{
+"id": "sb89357e071",
+"date": "2026-12-01",
+"time": "",
+"title": "Unseen. Until Now.",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/outside-in-benefit",
+"src": "zwirner"
+},
+{
+"id": "sd3ea9493a6",
+"date": "2026-12-02",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 MOUNT MORRIS PARK WEST between WEST 123 STREET and WEST 12 \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s22aba734d2",
@@ -4421,6 +4371,26 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34513-jam-session-hosted-by-carlos-abadie/",
 "src": "smalls"
+},
+{
+"id": "sab9403c06b",
+"date": "2026-12-02",
+"time": "",
+"title": "Unseen. Until Now.",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/outside-in-benefit",
+"src": "zwirner"
+},
+{
+"id": "s4509065da2",
+"date": "2026-12-03",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 DELANCEY STREET between CHRYSTIE STREET and FORSYTH STREET \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s7dc445f63f",
@@ -4591,6 +4561,26 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34527-jam-session-hosted-by-ben-barnett/",
 "src": "smalls"
+},
+{
+"id": "s9487f1cca1",
+"date": "2026-12-03",
+"time": "",
+"title": "Unseen. Until Now.",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/outside-in-benefit",
+"src": "zwirner"
+},
+{
+"id": "se8051eabd3",
+"date": "2026-12-04",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 MOUNT MORRIS PARK WEST between WEST 123 STREET and WEST 12 \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s6dcf472216",
@@ -4793,6 +4783,16 @@
 "src": "smalls"
 },
 {
+"id": "s8e5ad80b74",
+"date": "2026-12-04",
+"time": "",
+"title": "Unseen. Until Now.",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/outside-in-benefit",
+"src": "zwirner"
+},
+{
 "id": "s3898d5aa9a",
 "date": "2026-12-05",
 "time": "12:00",
@@ -4821,6 +4821,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour-31/",
 "src": "greenwood"
+},
+{
+"id": "s79db58b865",
+"date": "2026-12-05",
+"time": "13:00",
+"title": "Guadalupe December 5 (Religious Event) \u00b7 119 AVENUE B, AVENUE B between EAST 8 STREET and EAST \u2014 Full Street Closure clo",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s5a44c82a27",
@@ -5003,6 +5013,16 @@
 "src": "smalls"
 },
 {
+"id": "s36abf0c2da",
+"date": "2026-12-05",
+"time": "",
+"title": "Unseen. Until Now.",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2026/outside-in-benefit",
+"src": "zwirner"
+},
+{
 "id": "s206c1d99a6",
 "date": "2026-12-06",
 "time": "11:00",
@@ -5123,6 +5143,16 @@
 "src": "smalls"
 },
 {
+"id": "s9bec56b1aa",
+"date": "2026-12-06",
+"time": "18:20",
+"title": "Annual Park Avenue Tree Lighting (Street Event) \u00b7 PARK AVENUE between EAST 91 STREET and EAST 92 STREET \u2014 Sidewalk and S",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "sc32e5a7190",
 "date": "2026-12-06",
 "time": "18:30",
@@ -5201,6 +5231,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34665-aaron-johnson-quartet/",
 "src": "smalls"
+},
+{
+"id": "s97d005d37f",
+"date": "2026-12-07",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 MOUNT MORRIS PARK WEST between WEST 123 STREET and WEST 12 \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s8e87ef8f32",
@@ -5293,16 +5333,6 @@
 "src": "mezzrow"
 },
 {
-"id": "se16ccca6d6",
-"date": "2026-12-07",
-"time": "21:00",
-"title": "Ben Solomon Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34600-ben-solomon-quartet/",
-"src": "smalls"
-},
-{
 "id": "sf7d3d18f05",
 "date": "2026-12-07",
 "time": "21:00",
@@ -5310,6 +5340,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34600-joe-farnsworth-quartet/",
+"src": "smalls"
+},
+{
+"id": "se16ccca6d6",
+"date": "2026-12-07",
+"time": "21:00",
+"title": "Ben Solomon Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34600-ben-solomon-quartet/",
 "src": "smalls"
 },
 {
@@ -5351,6 +5391,16 @@
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/women-of-emanu-el-roy-lichtenstein-like-new-at-the-whitney/",
 "src": "emanuel"
+},
+{
+"id": "s2d1e693f0e",
+"date": "2026-12-08",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 DELANCEY STREET between CHRYSTIE STREET and FORSYTH STREET \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s21d72080b9",
@@ -5433,16 +5483,6 @@
 "src": "stanns"
 },
 {
-"id": "sb2416c034d",
-"date": "2026-12-08",
-"time": "19:00",
-"title": "Caelan Cardello Trio",
-"venue": "Zinc Bar",
-"cat": "jazz",
-"url": "https://www.zincbar.com/event/caelan-cardello-trio-5/",
-"src": "zincbar"
-},
-{
 "id": "sad2018d689",
 "date": "2026-12-08",
 "time": "19:00",
@@ -5450,6 +5490,16 @@
 "venue": "Zinc Bar",
 "cat": "jazz",
 "url": "https://www.zincbar.com/event/willerm-delisfort-and-jason-marshall-dec8/",
+"src": "zincbar"
+},
+{
+"id": "sb2416c034d",
+"date": "2026-12-08",
+"time": "19:00",
+"title": "Caelan Cardello Trio",
+"venue": "Zinc Bar",
+"cat": "jazz",
+"url": "https://www.zincbar.com/event/caelan-cardello-trio-5/",
 "src": "zincbar"
 },
 {
@@ -5513,13 +5563,13 @@
 "src": "smalls"
 },
 {
-"id": "saaf7b898d9",
+"id": "s331771675a",
 "date": "2026-12-08",
 "time": "",
-"title": "Discover Design Online: Church in Jamaica",
+"title": "Discover Design Online: Frederic Church in Jamaica",
 "venue": "Cooper Hewitt",
 "cat": "art",
-"url": "https://www.cooperhewitt.org/event/discover-design-online-church-in-jamaica-12-08-2026/",
+"url": "https://www.cooperhewitt.org/event/discover-design-online-frederic-church-in-jamaica-12-08-2026/",
 "src": "cooperhewitt"
 },
 {
@@ -5531,6 +5581,16 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/winter-member-shopping-week",
 "src": "guggenheim"
+},
+{
+"id": "s1b7337cbc1",
+"date": "2026-12-09",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 MOUNT MORRIS PARK WEST between WEST 123 STREET and WEST 12 \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s4ebc641c40",
@@ -5711,6 +5771,16 @@
 "cat": "talks",
 "url": "https://www.nyas.org/shaping-science/events/scientific-publishing-at-the-edge-trust-and-authority-in-the-age-of-ai-and-open-access/",
 "src": "nyas"
+},
+{
+"id": "sa85d76a03a",
+"date": "2026-12-10",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 DELANCEY STREET between CHRYSTIE STREET and FORSYTH STREET \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s85e6e18c6c",
@@ -6483,13 +6553,13 @@
 "src": "smalls"
 },
 {
-"id": "s7713684cc7",
+"id": "s640c13f72e",
 "date": "2026-12-13",
 "time": "23:55",
-"title": "Andrew Kushnir Quartet",
+"title": "Andrew Kushnir Trio",
 "venue": "Smalls",
 "cat": "jazz",
-"url": "https://www.smallslive.com/events/34670-andrew-kushnir-quartet/",
+"url": "https://www.smallslive.com/events/34670-andrew-kushnir-trio/",
 "src": "smalls"
 },
 {
@@ -6511,6 +6581,16 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/sketch-with-jeff-storytelling-and-art-at-the-guggenheim",
 "src": "guggenheim"
+},
+{
+"id": "s330f53a294",
+"date": "2026-12-14",
+"time": "18:00",
+"title": "Jeremy Manasia Trio",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34656-jeremy-manasia-trio/",
+"src": "mezzrow"
 },
 {
 "id": "s2e93abcded",
@@ -6953,16 +7033,6 @@
 "src": "zincbar"
 },
 {
-"id": "sab56a69d6b",
-"date": "2026-12-16",
-"time": "22:30",
-"title": "Alex Weitz Trio",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34612-alex-weitz-trio/",
-"src": "smalls"
-},
-{
 "id": "sa2db04c9b9",
 "date": "2026-12-16",
 "time": "23:30",
@@ -7113,13 +7183,13 @@
 "src": "mezzrow"
 },
 {
-"id": "s06e7b424b5",
+"id": "sd206335c15",
 "date": "2026-12-17",
 "time": "21:00",
-"title": "Colin Stranahan Quintet",
+"title": "Colin Stranahan/Tom Gershwin Quintet",
 "venue": "Smalls",
 "cat": "jazz",
-"url": "https://www.smallslive.com/events/34615-colin-stranahan-quintet/",
+"url": "https://www.smallslive.com/events/34615-colin-stranahantom-gershwin-quintet/",
 "src": "smalls"
 },
 {
@@ -7323,6 +7393,16 @@
 "src": "smalls"
 },
 {
+"id": "sf1f4c12327",
+"date": "2026-12-18",
+"time": "23:55",
+"title": "Round Midnight Solo Piano With Janice Friedman",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34844-round-midnight-solo-piano-with-janice-friedman/",
+"src": "mezzrow"
+},
+{
 "id": "s33654acf8f",
 "date": "2026-12-18",
 "time": "23:55",
@@ -7513,6 +7593,16 @@
 "src": "smalls"
 },
 {
+"id": "s297e0f5ea3",
+"date": "2026-12-19",
+"time": "23:55",
+"title": "Round Midnight Solo Piano With Janice Friedman",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34845-round-midnight-solo-piano-with-janice-friedman/",
+"src": "mezzrow"
+},
+{
 "id": "sa3ff9d14bc",
 "date": "2026-12-19",
 "time": "23:55",
@@ -7551,16 +7641,6 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/jem-perucchini",
 "src": "zwirner"
-},
-{
-"id": "se0663d6dd8",
-"date": "2026-12-20",
-"time": "13:00",
-"title": "The World Famous Harlem Gospel Choir",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/15030363",
-"src": "bluenote"
 },
 {
 "id": "s4f76600294",
@@ -7611,6 +7691,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34376-smalls-afternoon-jam-session-hosted-by-ryo-sasaki/",
 "src": "smalls"
+},
+{
+"id": "sba556ee7bc",
+"date": "2026-12-20",
+"time": "14:00",
+"title": "Saigon",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/saigon-15/",
+"src": "stanns"
 },
 {
 "id": "s28a454e8bf",
@@ -7913,6 +8003,16 @@
 "src": "birdland"
 },
 {
+"id": "sca38aa9d91",
+"date": "2026-12-22",
+"time": "18:00",
+"title": "Harvey Diamond w. Cameron Brown",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34584-harvey-diamond-w-cameron-brown/",
+"src": "mezzrow"
+},
+{
 "id": "sc61136b8af",
 "date": "2026-12-22",
 "time": "18:00",
@@ -8171,16 +8271,6 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34516-jam-session-hosted-by-carlos-abadie/",
 "src": "smalls"
-},
-{
-"id": "s0a51ad4f89",
-"date": "2026-12-24",
-"time": "13:30",
-"title": "The World Famous Harlem Gospel Choir",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/15030293",
-"src": "bluenote"
 },
 {
 "id": "s38418a1f88",
@@ -8653,16 +8743,6 @@
 "src": "smalls"
 },
 {
-"id": "s82773a1267",
-"date": "2026-12-28",
-"time": "13:30",
-"title": "The World Famous Harlem Gospel Choir",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/15030353",
-"src": "bluenote"
-},
-{
 "id": "s0dca3e5dc1",
 "date": "2026-12-28",
 "time": "13:30",
@@ -8691,6 +8771,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34655-alan-broadbent-trio/",
 "src": "mezzrow"
+},
+{
+"id": "sc75ec1d070",
+"date": "2026-12-28",
+"time": "18:00",
+"title": "Eliot Zigmund Quintet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34632-eliot-zigmund-quintet/",
+"src": "smalls"
 },
 {
 "id": "s15f63c0da8",
@@ -8940,6 +9030,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34520-jam-session-hosted-by-kyle-colina/",
+"src": "smalls"
+},
+{
+"id": "s50372ed03a",
+"date": "2026-12-30",
+"time": "00:30",
+"title": "Jam Session Hosted By Matt Snow",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34847-jam-session-hosted-by-matt-snow/",
 "src": "smalls"
 },
 {
@@ -9853,6 +9953,16 @@
 "src": "birdland"
 },
 {
+"id": "sfb7cb301c0",
+"date": "2027-01-11",
+"time": "18:00",
+"title": "SongStudio: Sondra Radvanovsky Master Class",
+"venue": "Carnegie Hall \u00b7 Resnick Education Wing",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/01/11/songstudio-sondra-radvanovsky-master-class-0600pm",
+"src": "carnegie"
+},
+{
 "id": "s69450437c1",
 "date": "2027-01-11",
 "time": "19:00",
@@ -9891,6 +10001,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/jim-carusos-cast-party-with-birdland-jazz-club-tickets/14309604",
 "src": "birdland"
+},
+{
+"id": "sc62072b2ff",
+"date": "2027-01-12",
+"time": "18:00",
+"title": "SongStudio: Mary Testa Master Class",
+"venue": "Carnegie Hall \u00b7 Resnick Education Wing",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/01/12/songstudio-mary-testa-master-class-0600pm",
+"src": "carnegie"
 },
 {
 "id": "se382e3076f",
@@ -9953,6 +10073,16 @@
 "src": "carnegie"
 },
 {
+"id": "sc4486fd89c",
+"date": "2027-01-13",
+"time": "18:00",
+"title": "SongStudio: Michael Heaston Master Class",
+"venue": "Carnegie Hall \u00b7 Resnick Education Wing",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/01/13/songstudio-michael-heaston-master-class-0600pm",
+"src": "carnegie"
+},
+{
 "id": "scfb7b3e733",
 "date": "2027-01-13",
 "time": "19:00",
@@ -10011,6 +10141,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/birdland-big-band-birdland-jazz-club-tickets/14331644",
 "src": "birdland"
+},
+{
+"id": "s3f296ad2bd",
+"date": "2027-01-15",
+"time": "18:00",
+"title": "SongStudio: Anthony Roth Costanzo Master Class",
+"venue": "Carnegie Hall \u00b7 Resnick Education Wing",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/01/15/songstudio-anthony-roth-costanzo-master-class-0600pm",
+"src": "carnegie"
 },
 {
 "id": "sfce579e40d",
@@ -10203,13 +10343,13 @@
 "src": "carnegie"
 },
 {
-"id": "s2a25f6be68",
+"id": "s18122fd534",
 "date": "2027-01-17",
 "time": "19:30",
-"title": "SongStudio: Young Artists Recital",
+"title": "SongStudio: Golden Orbit",
 "venue": "Carnegie Hall \u00b7 Zankel Hall",
 "cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2027/01/17/songstudio-young-artists-recital-0730pm",
+"url": "https://www.carnegiehall.org/calendar/2027/01/17/songstudio-golden-orbit-0730pm",
 "src": "carnegie"
 },
 {
@@ -10413,6 +10553,16 @@
 "src": "dizzys"
 },
 {
+"id": "sc41994a44b",
+"date": "2027-01-21",
+"time": "19:30",
+"title": "When Ravel Meets Gershwin in Manhattan",
+"venue": "Carnegie Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/01/21/when-ravel-meets-gershwin-in-manhattan-0730pm",
+"src": "carnegie"
+},
+{
 "id": "sb1ea8fd08d",
 "date": "2027-01-21",
 "time": "19:30",
@@ -10420,16 +10570,6 @@
 "venue": "Carnegie Hall \u00b7 Weill Recital Hall",
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2027/01/21/the-met-orchestra-chamber-ensemble-0730pm",
-"src": "carnegie"
-},
-{
-"id": "sc41994a44b",
-"date": "2027-01-21",
-"time": "19:30",
-"title": "When Ravel Meets Gershwin in Manhattan",
-"venue": "Carnegie Hall \u00b7 Zankel Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2027/01/21/when-ravel-meets-gershwin-in-manhattan-0730pm",
 "src": "carnegie"
 },
 {
@@ -11953,13 +12093,13 @@
 "src": "carnegie"
 },
 {
-"id": "sda1d53a103",
+"id": "sc6d6f83565",
 "date": "2027-02-12",
 "time": "20:00",
-"title": "Justina La Cour, Marina Saiki, and Friends",
+"title": "Justina La Cour and Dornonville Soloists",
 "venue": "Carnegie Hall \u00b7 Weill Recital Hall",
 "cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2027/02/12/justina-la-cour-marina-saiki-and-friends-0800pm",
+"url": "https://www.carnegiehall.org/calendar/2027/02/12/justina-la-cour-and-dornonville-soloists-0800pm",
 "src": "carnegie"
 },
 {
@@ -12777,7 +12917,7 @@
 "date": "2027-02-26",
 "time": "19:30",
 "title": "Amazonas 2027",
-"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
+"venue": "Carnegie Hall",
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2027/02/26/amazonas-2027-0730pm",
 "src": "carnegie"
@@ -13343,13 +13483,13 @@
 "src": "birdland"
 },
 {
-"id": "sc5b44d2e5f",
+"id": "sbb3b37a55d",
 "date": "2027-03-06",
 "time": "20:30",
-"title": "WorldStrides Honors Performance",
+"title": "National Youth Choir & Multi-Generational Choir",
 "venue": "Carnegie Hall \u00b7 Stern Auditorium",
 "cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2027/03/06/worldstrides-honors-performance-0830pm",
+"url": "https://www.carnegiehall.org/calendar/2027/03/06/national-youth-choir-multigenerational-choir-0830pm",
 "src": "carnegie"
 },
 {
@@ -13433,13 +13573,13 @@
 "src": "birdland"
 },
 {
-"id": "s815914922e",
+"id": "s9c0cdaeb2e",
 "date": "2027-03-07",
 "time": "20:30",
-"title": "MidAmerica Productions Concert Series",
+"title": "New England Symphonic Ensemble",
 "venue": "Carnegie Hall \u00b7 Stern Auditorium",
 "cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2027/03/07/midamerica-productions-concert-series-0830pm",
+"url": "https://www.carnegiehall.org/calendar/2027/03/07/new-england-symphonic-ensemble-0830pm",
 "src": "carnegie"
 },
 {
@@ -13551,6 +13691,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/marina-abramovic-alma-y-fuego",
 "src": "nyphil"
+},
+{
+"id": "sc93f6b1c00",
+"date": "2027-03-10",
+"time": "20:00",
+"title": "The Works of Tom Waits",
+"venue": "Carnegie Hall \u00b7 Stern Auditorium",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/03/10/the-works-of-tom-waits-0800pm",
+"src": "carnegie"
 },
 {
 "id": "s62e4b18530",
@@ -13853,13 +14003,13 @@
 "src": "carnegie"
 },
 {
-"id": "sfd2e95ba93",
+"id": "s5d04b3cfee",
 "date": "2027-03-15",
 "time": "20:00",
-"title": "National Concert Chorus and National Symphonic Chorus",
+"title": "National Concert Chorus, National Symphonic Chorus, and Navarro College Wind Ensemble",
 "venue": "Carnegie Hall \u00b7 Stern Auditorium",
 "cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2027/03/15/national-concert-chorus-and-national-symphonic-chorus-0800pm",
+"url": "https://www.carnegiehall.org/calendar/2027/03/15/national-concert-chorus-national-symphonic-chorus-and-navarro-college-wind-ens-0800pm",
 "src": "carnegie"
 },
 {
@@ -14443,13 +14593,13 @@
 "src": "birdland"
 },
 {
-"id": "s86a4d1790c",
+"id": "s75929cdb26",
 "date": "2027-03-28",
 "time": "13:00",
-"title": "MidAmerica Productions Concert Series",
+"title": "New England Symphonic Ensemble",
 "venue": "Carnegie Hall \u00b7 Stern Auditorium",
 "cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2027/03/28/midamerica-productions-concert-series-0100pm",
+"url": "https://www.carnegiehall.org/calendar/2027/03/28/new-england-symphonic-ensemble-0100pm",
 "src": "carnegie"
 },
 {
@@ -14910,6 +15060,16 @@
 "venue": "Carnegie Hall \u00b7 Stern Auditorium",
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2027/04/06/2027-new-york-international-music-festival-0100pm",
+"src": "carnegie"
+},
+{
+"id": "s2fafb2db61",
+"date": "2027-04-06",
+"time": "18:30",
+"title": "Carnegie Hall Medal of Excellence Gala",
+"venue": "Carnegie Hall \u00b7 Cipriani 25 Broadway",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/04/06/carnegie-hall-medal-of-excellence-gala-0630pm",
 "src": "carnegie"
 },
 {
@@ -16301,6 +16461,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/spring-2027/masters-at-work-ii",
 "src": "nycballet"
+},
+{
+"id": "s00a663d111",
+"date": "2027-05-04",
+"time": "20:00",
+"title": "Stewart Copeland: Police Deranged",
+"venue": "Carnegie Hall \u00b7 Stern Auditorium",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/05/04/stewart-copeland-police-deranged-0800pm",
+"src": "carnegie"
 },
 {
 "id": "s654af51b12",
