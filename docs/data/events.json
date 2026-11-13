@@ -1,47 +1,7 @@
 {
-"generated": "2026-11-12T17:14:53+00:00",
-"count": 1935,
+"generated": "2026-11-13T16:51:49+00:00",
+"count": 1939,
 "events": [
-{
-"id": "s9e440ee9d9",
-"date": "2026-11-11",
-"time": "07:30",
-"title": "Street Health Outreach and Wellness (Street Event) \u00b7 DELANCEY STREET between CHRYSTIE STREET and FORSYTH STREET \u2014 Sidewa",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s55315f4bf6",
-"date": "2026-11-11",
-"time": "10:00",
-"title": "VETERANS DAY FESTIVAL (Street Festival) \u00b7 BROADWAY between LIBERTY STREET and BATTERY PLACE \u2014 Full Street Closure closur",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s761923f19e",
-"date": "2026-11-11",
-"time": "12:00",
-"title": "CIPRIANI EVENTS (Street Event) \u00b7 EAST 42 STREET between PARK AVENUE and LEXINGTON AVENUE \u2014 Sidewalk and Curb Lane Closur",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "se34b015f00",
-"date": "2026-11-11",
-"time": "12:30",
-"title": "2026 New York City Veterans Day Parade \u00b7 WEST 24 STREET between 7 AVENUE and 6 AVENUE, WEST 24 S \u2014 Full Street Closure c",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
 {
 "id": "s93ba4b0d7d",
 "date": "2026-11-12",
@@ -153,26 +113,6 @@
 "src": "nycpermits"
 },
 {
-"id": "s4a5d2b0bf5",
-"date": "2026-11-12",
-"time": "17:30",
-"title": "The High Society New Orleans Jazz Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-high-society-new-orleans-birdland-theater-tickets/14196774",
-"src": "birdland"
-},
-{
-"id": "s3aa9f91cbe",
-"date": "2026-11-12",
-"time": "18:00",
-"title": "Evan Schwam Quartet",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34312-evan-schwam-quartet/",
-"src": "mezzrow"
-},
-{
 "id": "s3c4a914b0d",
 "date": "2026-11-12",
 "time": "18:00",
@@ -181,26 +121,6 @@
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
-},
-{
-"id": "sf76a3b09d6",
-"date": "2026-11-12",
-"time": "18:00",
-"title": "Steve Fidyk Quintet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34391-steve-fidyk-quintet/",
-"src": "smalls"
-},
-{
-"id": "s5c70f159dc",
-"date": "2026-11-12",
-"time": "18:30",
-"title": "Tenor Titans! The Wayne Escoffery & Jimmy Greeen Quintet featuring Buster Williams & Lenny White",
-"venue": "Smoke Jazz Club",
-"cat": "jazz",
-"url": "https://tickets.smokejazz.com/shows/13394/?date=2026-11-12",
-"src": "smoke"
 },
 {
 "id": "sb42424a6e2",
@@ -213,26 +133,6 @@
 "src": "nycpermits"
 },
 {
-"id": "se2de2f02f6",
-"date": "2026-11-12",
-"time": "19:00",
-"title": "Dee Dee Bridgewater",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/dee-dee-bridgewater-birdland-jazz-club-tickets/15005273",
-"src": "birdland"
-},
-{
-"id": "s0abdbde330",
-"date": "2026-11-12",
-"time": "19:00",
-"title": "Django Reinhardt NY Festival",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://ticketing.jazz.org/21704/21707",
-"src": "dizzys"
-},
-{
 "id": "sa0325fca9e",
 "date": "2026-11-12",
 "time": "19:00",
@@ -241,106 +141,6 @@
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
-},
-{
-"id": "sc791e22683",
-"date": "2026-11-12",
-"time": "19:30",
-"title": "Ensemble Connect",
-"venue": "Carnegie Hall \u00b7 Paul Hall, The Juilliard School",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/12/ensemble-connect-0730pm",
-"src": "carnegie"
-},
-{
-"id": "scbb629bdd2",
-"date": "2026-11-12",
-"time": "19:30",
-"title": "MidAtlantic Philharmonic Orchestra",
-"venue": "Carnegie Hall \u00b7 Zankel Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/12/midatlantic-philharmonic-orchestra-0730pm",
-"src": "carnegie"
-},
-{
-"id": "s1b3ae8bad8",
-"date": "2026-11-12",
-"time": "19:30",
-"title": "Tristan & Yseult",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/tristan-yseult-13/",
-"src": "stanns"
-},
-{
-"id": "s955892b6ff",
-"date": "2026-11-12",
-"time": "20:00",
-"title": "Dodie",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/dodie-blue-note-jazz-club-tickets/14278564",
-"src": "bluenote"
-},
-{
-"id": "secb08e39fa",
-"date": "2026-11-12",
-"time": "20:00",
-"title": "Cristiana Pegoraro, Piano",
-"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/12/cristiana-pegoraro-piano-0800pm",
-"src": "carnegie"
-},
-{
-"id": "s29daf6da4a",
-"date": "2026-11-12",
-"time": "20:00",
-"title": "Tyshawn Sorey",
-"venue": "Village Vanguard",
-"cat": "jazz",
-"url": "https://squadup.com/events/thursday-800-pm---tyshawn-sorey-1",
-"src": "vanguard"
-},
-{
-"id": "sa9be79874d",
-"date": "2026-11-12",
-"time": "21:00",
-"title": "Bennett Paster Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34313-bennett-paster-trio/",
-"src": "mezzrow"
-},
-{
-"id": "s5fc12b7180",
-"date": "2026-11-12",
-"time": "21:00",
-"title": "David Janeway Quintet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34392-david-janeway-quintet/",
-"src": "smalls"
-},
-{
-"id": "s9d2786001e",
-"date": "2026-11-12",
-"time": "23:30",
-"title": "VINYL AFTER HOURS",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34453-vinyl-after-hours/",
-"src": "mezzrow"
-},
-{
-"id": "s0778914cd4",
-"date": "2026-11-12",
-"time": "23:55",
-"title": "Jam Session Hosted By Greg Glassman Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34390-jam-session-hosted-by-greg-glassman-quartet/",
-"src": "smalls"
 },
 {
 "id": "scedce55640",
@@ -451,6 +251,16 @@
 "cat": "jazz",
 "url": "https://tickets.smokejazz.com/shows/13394/?date=2026-11-13",
 "src": "smoke"
+},
+{
+"id": "sdacbb3772e",
+"date": "2026-11-13",
+"time": "19:00",
+"title": "Troy Roberts Quartet - A Tribute to Stanley Turrentine",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/troy-roberts-quartet-birdland-theater-tickets/15022923",
+"src": "birdland"
 },
 {
 "id": "s57f64bd0e6",
@@ -703,16 +513,6 @@
 "src": "nycpermits"
 },
 {
-"id": "se85772e686",
-"date": "2026-11-14",
-"time": "13:00",
-"title": "The Music Of The Buena Vista Social Club A Tribute To The Golden Age Of Cuba",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-music-of-the-buena-blue-note-jazz-club-tickets/14316054",
-"src": "bluenote"
-},
-{
 "id": "sfed60a9d28",
 "date": "2026-11-14",
 "time": "13:00",
@@ -720,6 +520,16 @@
 "venue": "Blue Note",
 "cat": "jazz",
 "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvS-t",
+"src": "bluenote"
+},
+{
+"id": "se85772e686",
+"date": "2026-11-14",
+"time": "13:00",
+"title": "The Music Of The Buena Vista Social Club A Tribute To The Golden Age Of Cuba",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/the-music-of-the-buena-blue-note-jazz-club-tickets/14316054",
 "src": "bluenote"
 },
 {
@@ -745,7 +555,7 @@
 {
 "id": "s777b12e730",
 "date": "2026-11-14",
-"time": "14:00",
+"time": "13:00",
 "title": "The Art of Wellbeing | Take A Breath: Music & Creativity",
 "venue": "New York Philharmonic",
 "cat": "classical",
@@ -1573,13 +1383,13 @@
 "src": "mezzrow"
 },
 {
-"id": "s79ff2621d6",
+"id": "s150a3e5608",
 "date": "2026-11-17",
 "time": "23:55",
-"title": "Jam Session Hosted By Kyle Colina",
+"title": "Jam Session Hosted By Kyle Colina Quartet",
 "venue": "Smalls",
 "cat": "jazz",
-"url": "https://www.smallslive.com/events/34406-jam-session-hosted-by-kyle-colina/",
+"url": "https://www.smallslive.com/events/34406-jam-session-hosted-by-kyle-colina-quartet/",
 "src": "smalls"
 },
 {
@@ -1821,6 +1631,16 @@
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
+},
+{
+"id": "s158a2cae03",
+"date": "2026-11-19",
+"time": "18:00",
+"title": "Thomas Linger Trio",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34326-thomas-linger-trio/",
+"src": "mezzrow"
 },
 {
 "id": "s387420a440",
@@ -3803,16 +3623,6 @@
 "src": "zincbar"
 },
 {
-"id": "sade68ddbc3",
-"date": "2026-11-29",
-"time": "20:00",
-"title": "Chief Adjuah",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/chief-adjuah-blue-note-jazz-club-tickets/15032733",
-"src": "bluenote"
-},
-{
 "id": "sdffd4ab113",
 "date": "2026-11-29",
 "time": "20:00",
@@ -3820,6 +3630,16 @@
 "venue": "Blue Note",
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/the-war-and-treaty-blue-note-jazz-club-tickets/14378334",
+"src": "bluenote"
+},
+{
+"id": "sade68ddbc3",
+"date": "2026-11-29",
+"time": "20:00",
+"title": "Chief Adjuah",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/chief-adjuah-blue-note-jazz-club-tickets/15032733",
 "src": "bluenote"
 },
 {
@@ -4807,7 +4627,7 @@
 "date": "2026-12-05",
 "time": "13:00",
 "title": "Veritas International Music Competition Winners' Recital",
-"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
+"venue": "Carnegie Hall",
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2026/12/05/veritas-international-music-competition-winners-recital-0100pm",
 "src": "carnegie"
@@ -4833,16 +4653,6 @@
 "src": "nycpermits"
 },
 {
-"id": "s5a44c82a27",
-"date": "2026-12-05",
-"time": "13:00",
-"title": "The Art of Wellbeing | Take A Breath: Songs of the Season",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/take-a-breath-dec",
-"src": "nyphil"
-},
-{
 "id": "s2e04711218",
 "date": "2026-12-05",
 "time": "13:30",
@@ -4851,6 +4661,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/new-york-holiday-swing-with-blue-note-jazz-club-tickets/14342794",
 "src": "bluenote"
+},
+{
+"id": "s5a44c82a27",
+"date": "2026-12-05",
+"time": "14:00",
+"title": "The Art of Wellbeing | Take A Breath: Songs of the Season",
+"venue": "New York Philharmonic",
+"cat": "classical",
+"url": "https://www.nyphil.org/concerts-tickets/2627/take-a-breath-dec",
+"src": "nyphil"
 },
 {
 "id": "sbaf3a29060",
@@ -4881,6 +4701,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34536-david-smith-quintet/",
 "src": "smalls"
+},
+{
+"id": "s942d1d2841",
+"date": "2026-12-05",
+"time": "18:00",
+"title": "Eric Alexander Quartet featuring George Cables \u201cFifth Quadrant\u201d Record Release",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13933/?date=2026-12-05",
+"src": "smoke"
 },
 {
 "id": "s7bc8600a87",
@@ -5103,6 +4933,16 @@
 "src": "nyphil"
 },
 {
+"id": "sc9b43bdbac",
+"date": "2026-12-06",
+"time": "16:00",
+"title": "Conifers",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/conifers-2/",
+"src": "greenwood"
+},
+{
 "id": "s5686979277",
 "date": "2026-12-06",
 "time": "17:00",
@@ -5141,6 +4981,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34537-adam-brenner-octet/",
 "src": "smalls"
+},
+{
+"id": "sc3f30413e1",
+"date": "2026-12-06",
+"time": "18:00",
+"title": "Eric Alexander Quartet featuring George Cables \u201cFifth Quadrant\u201d Record Release",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13933/?date=2026-12-06",
+"src": "smoke"
 },
 {
 "id": "s9bec56b1aa",
@@ -5401,16 +5251,6 @@
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
-},
-{
-"id": "s21d72080b9",
-"date": "2026-12-08",
-"time": "10:00",
-"title": "Toddler Takeover at the Green-House",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-12-08/",
-"src": "greenwood"
 },
 {
 "id": "s4e516713ab",
@@ -5703,6 +5543,16 @@
 "src": "zincbar"
 },
 {
+"id": "s447132bdf5",
+"date": "2026-12-09",
+"time": "20:00",
+"title": "Mach-Hommy featuring Sam Gendel, Chris Dave, Sam Wilkes & Benny Bock",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/mach-hommy-featuring-sam-gendel-blue-note-jazz-club-tickets/14429724",
+"src": "bluenote"
+},
+{
 "id": "s716e60f383",
 "date": "2026-12-09",
 "time": "21:00",
@@ -5781,16 +5631,6 @@
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
-},
-{
-"id": "s85e6e18c6c",
-"date": "2026-12-10",
-"time": "18:00",
-"title": "Member Mingle (Members Only)",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/member-mingle-members-only/",
-"src": "greenwood"
 },
 {
 "id": "s487dac4bcb",
@@ -5941,6 +5781,16 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/winter-member-shopping-week",
 "src": "guggenheim"
+},
+{
+"id": "s72433112c6",
+"date": "2026-12-11",
+"time": "07:30",
+"title": "Street Health Outreach and Wellness (Street Event) \u00b7 DELANCEY STREET between CHRYSTIE STREET and FORSYTH STREET \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s897dc7bcbc",
@@ -9343,6 +9193,16 @@
 "src": "bluenote"
 },
 {
+"id": "s9eeb419ffb",
+"date": "2027-01-01",
+"time": "21:00",
+"title": "Greg Abate Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34680-greg-abate-quartet/",
+"src": "smalls"
+},
+{
 "id": "s9b6d6491d5",
 "date": "2027-01-02",
 "time": "12:30",
@@ -9431,6 +9291,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker",
 "src": "nycballet"
+},
+{
+"id": "s400a6043a6",
+"date": "2027-01-02",
+"time": "21:00",
+"title": "Greg Abate Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34681-greg-abate-quartet/",
+"src": "smalls"
 },
 {
 "id": "sce69bd753f",
@@ -10793,13 +10663,13 @@
 "src": "carnegie"
 },
 {
-"id": "sa0f3632173",
+"id": "scc43adabee",
 "date": "2027-01-24",
 "time": "13:30",
-"title": "The World Famous Harlem Gospel Choir",
+"title": "Harlem Gospel Choir",
 "venue": "Blue Note",
 "cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/14376244",
+"url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7pr7",
 "src": "bluenote"
 },
 {
@@ -10963,6 +10833,16 @@
 "src": "nyphil"
 },
 {
+"id": "sf90a404271",
+"date": "2027-01-26",
+"time": "20:00",
+"title": "Stanley Clarke",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/stanley-clarke-blue-note-jazz-club-tickets/14443624",
+"src": "bluenote"
+},
+{
 "id": "sb3278e87d6",
 "date": "2027-01-26",
 "time": "20:00",
@@ -11011,6 +10891,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
 "src": "nycballet"
+},
+{
+"id": "sb48c15c090",
+"date": "2027-01-27",
+"time": "20:00",
+"title": "Stanley Clarke",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/stanley-clarke-blue-note-jazz-club-tickets/14443644",
+"src": "bluenote"
 },
 {
 "id": "sfcb7577d42",
@@ -11083,6 +10973,16 @@
 "src": "nyphil"
 },
 {
+"id": "s4d9bb1197e",
+"date": "2027-01-28",
+"time": "20:00",
+"title": "Stanley Clarke",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/stanley-clarke-blue-note-jazz-club-tickets/14443634",
+"src": "bluenote"
+},
+{
 "id": "sc58f21f334",
 "date": "2027-01-29",
 "time": "17:30",
@@ -11151,6 +11051,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/mirga-grazinyte-tyla-and-maxim-vengerov",
 "src": "nyphil"
+},
+{
+"id": "s5d811821d9",
+"date": "2027-01-29",
+"time": "20:00",
+"title": "Stanley Clarke",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/stanley-clarke-blue-note-jazz-club-tickets/14443814",
+"src": "bluenote"
 },
 {
 "id": "see81a1960a",
@@ -11263,6 +11173,16 @@
 "src": "nyphil"
 },
 {
+"id": "s5a6942e3d4",
+"date": "2027-01-30",
+"time": "20:00",
+"title": "Stanley Clarke",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/stanley-clarke-blue-note-jazz-club-tickets/14443844",
+"src": "bluenote"
+},
+{
 "id": "s2706ef41b9",
 "date": "2027-01-30",
 "time": "20:00",
@@ -11341,6 +11261,16 @@
 "cat": "jazz",
 "url": "https://ticketing.jazz.org/22088/22095",
 "src": "dizzys"
+},
+{
+"id": "sc2012d4b84",
+"date": "2027-01-31",
+"time": "20:00",
+"title": "Stanley Clarke",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/stanley-clarke-blue-note-jazz-club-tickets/14443664",
+"src": "bluenote"
 },
 {
 "id": "sce178c15eb",
@@ -14513,6 +14443,16 @@
 "src": "carnegie"
 },
 {
+"id": "s52fdcbb58d",
+"date": "2027-03-25",
+"time": "20:00",
+"title": "Avishai Cohen",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/avishai-cohen-blue-note-jazz-club-tickets/14445064",
+"src": "bluenote"
+},
+{
 "id": "s31cd2b52f4",
 "date": "2027-03-26",
 "time": "10:00",
@@ -16103,6 +16043,16 @@
 "src": "nyphil"
 },
 {
+"id": "sfd4caf08f8",
+"date": "2027-04-27",
+"time": "20:00",
+"title": "Gonzalo Rubalcaba, Chris Potter, Eric Harland & Larry Grenadier",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/gonzalo-rubalcaba-chris-potter-eric-blue-note-jazz-club-tickets/14444054",
+"src": "bluenote"
+},
+{
 "id": "s5b1a2ff874",
 "date": "2027-04-27",
 "time": "20:00",
@@ -16141,6 +16091,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/spring-2027/all-balanchine-iv",
 "src": "nycballet"
+},
+{
+"id": "s7d47987d49",
+"date": "2027-04-28",
+"time": "20:00",
+"title": "Gonzalo Rubalcaba, Chris Potter, Eric Harland & Larry Grenadier",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/gonzalo-rubalcaba-chris-potter-eric-blue-note-jazz-club-tickets/14444064",
+"src": "bluenote"
 },
 {
 "id": "s25b88eff72",
@@ -16201,6 +16161,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/francesco-piemontesi-performs-rachmaninoff",
 "src": "nyphil"
+},
+{
+"id": "sbcac90bb19",
+"date": "2027-04-29",
+"time": "20:00",
+"title": "Gonzalo Rubalcaba, Chris Potter, Eric Harland & Larry Grenadier",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/gonzalo-rubalcaba-chris-potter-eric-blue-note-jazz-club-tickets/14444134",
+"src": "bluenote"
 },
 {
 "id": "saff2940159",
@@ -16271,6 +16241,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/francesco-piemontesi-performs-rachmaninoff",
 "src": "nyphil"
+},
+{
+"id": "sbf9bd0b65c",
+"date": "2027-04-30",
+"time": "20:00",
+"title": "Gonzalo Rubalcaba, Chris Potter, Eric Harland & Larry Grenadier",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/gonzalo-rubalcaba-chris-potter-eric-blue-note-jazz-club-tickets/14444124",
+"src": "bluenote"
 },
 {
 "id": "s1e53637b8e",
@@ -16363,6 +16343,16 @@
 "src": "nyphil"
 },
 {
+"id": "sde5d93276d",
+"date": "2027-05-01",
+"time": "20:00",
+"title": "Gonzalo Rubalcaba, Chris Potter, Eric Harland & Larry Grenadier",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/gonzalo-rubalcaba-chris-potter-eric-blue-note-jazz-club-tickets/14444164",
+"src": "bluenote"
+},
+{
 "id": "sbf1e46731a",
 "date": "2027-05-01",
 "time": "20:30",
@@ -16411,6 +16401,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/merkin-may",
 "src": "nyphil"
+},
+{
+"id": "s812f1b9657",
+"date": "2027-05-02",
+"time": "20:00",
+"title": "Gonzalo Rubalcaba, Chris Potter, Eric Harland & Larry Grenadier",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/gonzalo-rubalcaba-chris-potter-eric-blue-note-jazz-club-tickets/14444094",
+"src": "bluenote"
 },
 {
 "id": "s319bc4434b",
@@ -17163,6 +17163,16 @@
 "src": "nyphil"
 },
 {
+"id": "s0684cfe4b1",
+"date": "2027-05-20",
+"time": "20:00",
+"title": "For Chick: John Patitucci, Beka Gochiashvili & Dave Weckl",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/for-chick-john-patitucci-beka-blue-note-jazz-club-tickets/14444194",
+"src": "bluenote"
+},
+{
 "id": "s2a5985e2d4",
 "date": "2027-05-20",
 "time": "20:00",
@@ -17243,6 +17253,16 @@
 "src": "nyphil"
 },
 {
+"id": "sae3c738deb",
+"date": "2027-05-21",
+"time": "20:00",
+"title": "For Chick: John Patitucci, Beka Gochiashvili & Dave Weckl",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/for-chick-john-patitucci-beka-blue-note-jazz-club-tickets/14444234",
+"src": "bluenote"
+},
+{
 "id": "s33cc4028ae",
 "date": "2027-05-22",
 "time": "13:00",
@@ -17301,6 +17321,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/mitsuko-uchida-plays-beethoven",
 "src": "nyphil"
+},
+{
+"id": "s0616f85bf4",
+"date": "2027-05-22",
+"time": "20:00",
+"title": "For Chick: John Patitucci, Beka Gochiashvili & Dave Weckl",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/for-chick-john-patitucci-beka-blue-note-jazz-club-tickets/14444254",
+"src": "bluenote"
 },
 {
 "id": "s65ef512a03",
@@ -17371,6 +17401,16 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2027/05/23/afaf-winners-concert-0730pm",
 "src": "carnegie"
+},
+{
+"id": "s005547b246",
+"date": "2027-05-23",
+"time": "20:00",
+"title": "For Chick: John Patitucci, Beka Gochiashvili & Dave Weckl",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/for-chick-john-patitucci-beka-blue-note-jazz-club-tickets/14444224",
+"src": "bluenote"
 },
 {
 "id": "s9fcd5be260",
