@@ -1,157 +1,7 @@
 {
-"generated": "2026-11-13T16:51:49+00:00",
-"count": 1939,
+"generated": "2026-11-14T15:25:28+00:00",
+"count": 1919,
 "events": [
-{
-"id": "s93ba4b0d7d",
-"date": "2026-11-12",
-"time": "06:00",
-"title": "MDMA Holiday Installation 2026 (Plaza Partner Event) \u00b7 9 AVENUE between 12 STREET and 14 STREET, WEST 13 STREET \u2014 Curb L",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s50d852b84f",
-"date": "2026-11-12",
-"time": "06:00",
-"title": "Holiday Event Altman Building (Street Event) \u00b7 WEST 18 STREET between 7 AVENUE and 6 AVENUE \u2014 Partial Sidewalk Closure c",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sce42437756",
-"date": "2026-11-12",
-"time": "07:00",
-"title": "PEEC AI (Street Event) \u00b7 EAST 49 STREET between MADISON AVENUE and PARK AVENUE \u2014 Sidewalk and Curb Lane Closure closure",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s2e74d148fd",
-"date": "2026-11-12",
-"time": "07:30",
-"title": "Street Health Outreach and Wellness (Street Event) \u00b7 MOUNT MORRIS PARK WEST between WEST 123 STREET and WEST 12 \u2014 Sidewa",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sd74c1d1dc2",
-"date": "2026-11-12",
-"time": "07:30",
-"title": "HEINZ NYSE EVENT (Street Event) \u00b7 BROAD STREET between WALL STREET and EXCHANGE PLACE \u2014 Curb Lane Only closure",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "se3713d56fc",
-"date": "2026-11-12",
-"time": "08:00",
-"title": "1-Coffee Truck Sampling - Broadway (Street Event) \u00b7 BROADWAY between MURRAY STREET and WARREN STREET \u2014 Curb Lane Only cl",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sb719f00de0",
-"date": "2026-11-12",
-"time": "09:00",
-"title": "Amazon x Art Week NYC - Chelsea (Street Event) \u00b7 10 AVENUE between WEST 22 STREET and WEST 23 STREET \u2014 Sidewalk and Curb",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s9f90463d3d",
-"date": "2026-11-12",
-"time": "10:00",
-"title": "FINANCIAL COMMUNITY FALL FAIR (Single Block Festival) \u00b7 PARK PLACE between BROADWAY and CHURCH STREET \u2014 Full Street Clos",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s79ed5136be",
-"date": "2026-11-12",
-"time": "13:00",
-"title": "2-Coffee Truck Sampling - 5th Ave. (Street Event) \u00b7 5 AVENUE between WEST 33 STREET and WEST 34 STREET \u2014 Sidewalk and Cu",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s1808c80b42",
-"date": "2026-11-12",
-"time": "16:00",
-"title": "Target Soho Cashmere Collection Activation at 600 Broadway (Street Event) \u00b7 BROADWAY between EAST HOUSTON STREET and PRI",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s09c6f6de7f",
-"date": "2026-11-12",
-"time": "17:00",
-"title": "Ferrari Lifestyle Show at Jack Shainman Gallery: 46 Lafayette St. (Street Event) \u00b7 LEONARD STREET between BROADWAY and L",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s3c4a914b0d",
-"date": "2026-11-12",
-"time": "18:00",
-"title": "Ferrari Lifestyle Show After Party at 92 Prince St. (Street Event) \u00b7 PRINCE STREET between MERCER STREET and BROADWAY, M",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sb42424a6e2",
-"date": "2026-11-12",
-"time": "18:45",
-"title": "Pasquale Bruni opening (Street Event) \u00b7 789 MADISON AVENUE between EAST 67 STREET and EAST 66 S \u2014 Partial Sidewalk Closu",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sa0325fca9e",
-"date": "2026-11-12",
-"time": "19:00",
-"title": "Production Parking 225 W28th Street (Street Event) \u00b7 WEST 28 STREET between 7 AVENUE and 8 AVENUE \u2014 Sidewalk and Curb La",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "scedce55640",
-"date": "2026-11-13",
-"time": "07:00",
-"title": "Willerm Delisfort Trio",
-"venue": "Zinc Bar",
-"cat": "jazz",
-"url": "https://www.zincbar.com/event/willerm-delisfort-trio-2/",
-"src": "zincbar"
-},
 {
 "id": "s817b63a50a",
 "date": "2026-11-13",
@@ -203,204 +53,14 @@
 "src": "nycpermits"
 },
 {
-"id": "s1d307543d7",
+"id": "s50d52fbac5",
 "date": "2026-11-13",
-"time": "17:30",
-"title": "Birdland Big Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/birdland-big-band-birdland-jazz-club-tickets/14196744",
-"src": "birdland"
-},
-{
-"id": "sf9859dbbdf",
-"date": "2026-11-13",
-"time": "18:00",
-"title": "Brandi Disterheft Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34314-brandi-disterheft-trio/",
-"src": "mezzrow"
-},
-{
-"id": "s745fd1367b",
-"date": "2026-11-13",
-"time": "18:00",
-"title": "Tommy Campbell \"Vocal Eyes\" Sextet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34394-tommy-campbell-vocal-eyes-sextet/",
-"src": "smalls"
-},
-{
-"id": "s3d747022eb",
-"date": "2026-11-13",
-"time": "18:30",
-"title": "Grieving & Weaving",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grieving-weaving-8/2026-11-13/",
-"src": "greenwood"
-},
-{
-"id": "s9a45fb1c2b",
-"date": "2026-11-13",
-"time": "18:30",
-"title": "Tenor Titans! The Wayne Escoffery & Jimmy Greeen Quintet featuring Buster Williams & Lenny White",
-"venue": "Smoke Jazz Club",
-"cat": "jazz",
-"url": "https://tickets.smokejazz.com/shows/13394/?date=2026-11-13",
-"src": "smoke"
-},
-{
-"id": "sdacbb3772e",
-"date": "2026-11-13",
-"time": "19:00",
-"title": "Troy Roberts Quartet - A Tribute to Stanley Turrentine",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/troy-roberts-quartet-birdland-theater-tickets/15022923",
-"src": "birdland"
-},
-{
-"id": "s57f64bd0e6",
-"date": "2026-11-13",
-"time": "19:00",
-"title": "The 20th Annual LISMA International Music Competition Winner's Concert",
-"venue": "Carnegie Hall \u00b7 Zankel Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/13/the-20th-annual-lisma-international-music-competition-winners-concert-0700pm",
-"src": "carnegie"
-},
-{
-"id": "se75bf10772",
-"date": "2026-11-13",
-"time": "19:00",
-"title": "Django Reinhardt NY Festival",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://ticketing.jazz.org/21704/21709",
-"src": "dizzys"
-},
-{
-"id": "sc0dc7598fa",
-"date": "2026-11-13",
-"time": "19:30",
-"title": "New York Philharmonic",
-"venue": "Carnegie Hall \u00b7 Stern Auditorium",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/13/new-york-philharmonic-0730pm",
-"src": "carnegie"
-},
-{
-"id": "s42ae11fe59",
-"date": "2026-11-13",
-"time": "19:30",
-"title": "An Evening of Jazz with Charu Suri and Lizzie Thomas",
-"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/13/an-evening-of-jazz-with-charu-suri-and-lizzie-thomas-0730pm",
-"src": "carnegie"
-},
-{
-"id": "s6b201bbcdf",
-"date": "2026-11-13",
-"time": "19:30",
-"title": "Eddie Palmieri Experience: An All-Star Celebration",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://ticketing.jazz.org/20627/20629",
-"src": "dizzys"
-},
-{
-"id": "s9a97e20aa3",
-"date": "2026-11-13",
-"time": "19:30",
-"title": "Dudamel Conducts Tosca at Carnegie Hall",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/tosca-nov-13",
-"src": "nyphil"
-},
-{
-"id": "s7d74efd97b",
-"date": "2026-11-13",
-"time": "19:30",
-"title": "Tristan & Yseult",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/tristan-yseult-14/",
-"src": "stanns"
-},
-{
-"id": "sc40bab0ca9",
-"date": "2026-11-13",
-"time": "20:00",
-"title": "Cash Cobain",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/cash-cobain-blue-note-jazz-club-tickets/14368234",
-"src": "bluenote"
-},
-{
-"id": "s5e9369c389",
-"date": "2026-11-13",
-"time": "20:00",
-"title": "Tyshawn Sorey",
-"venue": "Village Vanguard",
-"cat": "jazz",
-"url": "https://squadup.com/events/friday-800-pm---tyshawn-sorey-1",
-"src": "vanguard"
-},
-{
-"id": "s5cf367b248",
-"date": "2026-11-13",
-"time": "20:30",
-"title": "Dee Dee Bridgewater",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/dee-dee-bridgewater-birdland-jazz-club-tickets/15005293",
-"src": "birdland"
-},
-{
-"id": "s6addd9f9cb",
-"date": "2026-11-13",
-"time": "21:00",
-"title": "Jonny King Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34316-jonny-king-trio/",
-"src": "mezzrow"
-},
-{
-"id": "sa5011ccecd",
-"date": "2026-11-13",
-"time": "21:00",
-"title": "Charles Owens Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34396-charles-owens-quartet/",
-"src": "smalls"
-},
-{
-"id": "s9abb40c0bc",
-"date": "2026-11-13",
-"time": "23:55",
-"title": "Round Midnight Solo Piano with Chris McCarthy",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34318-round-midnight-solo-piano-with-chris-mccarthy/",
-"src": "mezzrow"
-},
-{
-"id": "s4dfd480db9",
-"date": "2026-11-13",
-"time": "23:55",
-"title": "Matt Martinez Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34496-matt-martinez-quartet/",
-"src": "smalls"
+"time": "13:00",
+"title": "Grindr Edge Portrait Studio (Street Event) \u00b7 11 AVENUE between WEST 28 STREET and WEST 29 STREET \u2014 Sidewalk and Curb Lan",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "sf7e02dc38d",
@@ -457,6 +117,16 @@
 "date": "2026-11-14",
 "time": "10:00",
 "title": "Amazon Art Week NYC LES (Street Event) \u00b7 BOWERY between RIVINGTON STREET and SPRING STREET, BOWERY b \u2014 Sidewalk and Curb",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s1900c604ed",
+"date": "2026-11-14",
+"time": "10:00",
+"title": "Focul Fuel Pop Up Event (Street Event) \u00b7 EAST 3 STREET between 1 AVENUE and 2 AVENUE \u2014 Sidewalk and Curb Lane Closure cl",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -633,6 +303,16 @@
 "src": "smoke"
 },
 {
+"id": "s5ea0a535cf",
+"date": "2026-11-14",
+"time": "19:00",
+"title": "Troy Roberts Quartet - A Tribute to Stanley Turrentine",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/troy-roberts-quartet-birdland-theater-tickets/15022933",
+"src": "birdland"
+},
+{
 "id": "scc4d01f6c0",
 "date": "2026-11-14",
 "time": "19:00",
@@ -787,6 +467,16 @@
 "date": "2026-11-15",
 "time": "07:00",
 "title": "Holiday Decorations (Plaza Partner Event) \u00b7 33rd Street Plaza: 33rd Street Plaza WEST 33 STREET betwee \u2014 Pedestrian Plaz",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s77331736ae",
+"date": "2026-11-15",
+"time": "08:00",
+"title": "Nordstrom Holiday Store Display (Street Event) \u00b7 WEST 57 STREET between BROADWAY and SEVENTH AVENUE, WEST \u2014 Sidewalk and",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -1633,6 +1323,16 @@
 "src": "nycpermits"
 },
 {
+"id": "s387420a440",
+"date": "2026-11-19",
+"time": "18:00",
+"title": "Michael Cochrane Trio",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34326-michael-cochrane-trio/",
+"src": "mezzrow"
+},
+{
 "id": "s158a2cae03",
 "date": "2026-11-19",
 "time": "18:00",
@@ -1643,14 +1343,14 @@
 "src": "mezzrow"
 },
 {
-"id": "s387420a440",
+"id": "s332826c7ba",
 "date": "2026-11-19",
 "time": "18:00",
-"title": "Michael Cochrane Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34326-michael-cochrane-trio/",
-"src": "mezzrow"
+"title": "BERGDORF WINDOW UNVEILING (Street Event) \u00b7 5 AVENUE between WEST 57 STREET and WEST 58 STREET, WES \u2014 Partial Sidewalk Cl",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s69d7c7dd79",
@@ -1823,6 +1523,16 @@
 "src": "nycpermits"
 },
 {
+"id": "s4faf6b2bdd",
+"date": "2026-11-20",
+"time": "10:00",
+"title": "Turkey Fest (Street Event) \u00b7 WEST 67 STREET between AMSTERDAM AVENUE and BROADWAY \u2014 Full Street Closure closure",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s157d99f69d",
 "date": "2026-11-20",
 "time": "11:00",
@@ -1981,6 +1691,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34330-mike-ledonne-trio/",
 "src": "mezzrow"
+},
+{
+"id": "s386f10542f",
+"date": "2026-11-20",
+"time": "21:00",
+"title": "PBS Great Performances: Dudamel Conducts the New York Philharmonic",
+"venue": "New York Philharmonic",
+"cat": "classical",
+"url": "https://www.nyphil.org/concerts-tickets/2627/dudamel-conducts-mahler-and-tania-leon-pbs-great-performances",
+"src": "nyphil"
 },
 {
 "id": "s80a15a78fb",
@@ -5183,16 +4903,6 @@
 "src": "mezzrow"
 },
 {
-"id": "sf7d3d18f05",
-"date": "2026-12-07",
-"time": "21:00",
-"title": "Joe Farnsworth Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34600-joe-farnsworth-quartet/",
-"src": "smalls"
-},
-{
 "id": "se16ccca6d6",
 "date": "2026-12-07",
 "time": "21:00",
@@ -5200,6 +4910,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34600-ben-solomon-quartet/",
+"src": "smalls"
+},
+{
+"id": "sf7d3d18f05",
+"date": "2026-12-07",
+"time": "21:00",
+"title": "Joe Farnsworth Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34600-joe-farnsworth-quartet/",
 "src": "smalls"
 },
 {
@@ -5253,6 +4973,16 @@
 "src": "nycpermits"
 },
 {
+"id": "s21d72080b9",
+"date": "2026-12-08",
+"time": "10:00",
+"title": "Toddler Takeover at the Green-House",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-12-08/",
+"src": "greenwood"
+},
+{
 "id": "s4e516713ab",
 "date": "2026-12-08",
 "time": "18:00",
@@ -5291,6 +5021,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/emmet-cohen-trio-birdland-jazz-club-tickets/15005613",
 "src": "birdland"
+},
+{
+"id": "s03d64165b9",
+"date": "2026-12-08",
+"time": "19:00",
+"title": "In Celebration of the 81st Session of the United Nations General Assembly",
+"venue": "Carnegie Hall \u00b7 Stern Auditorium",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2026/12/08/in-celebration-of-the-81st-session-of-the-united-nations-general-assembly-0700pm",
+"src": "carnegie"
 },
 {
 "id": "sdbce54dcef",
@@ -6051,6 +5791,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/the-cb-quintet-presents-blue-note-jazz-club-tickets/14381434",
 "src": "bluenote"
+},
+{
+"id": "s0aab5d73ed",
+"date": "2026-12-12",
+"time": "17:00",
+"title": "Dia de la Virgen de Guadalupe (Religious Event) \u00b7 WEST 156 STREET between BROADWAY and RIVERSIDE DRIVE, WEST \u2014 Full Stre",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s215e52632e",
@@ -9093,6 +8843,16 @@
 "src": "smalls"
 },
 {
+"id": "s7aa81cf3fe",
+"date": "2026-12-31",
+"time": "19:00",
+"title": "NEW YEAR\u2019S EVE: Nicholas Payton Quartet feat. Bill Charlap PLUS very special guest Catherine Russell",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/13826/?date=2026-12-31",
+"src": "smoke"
+},
+{
 "id": "s5963f48df0",
 "date": "2026-12-31",
 "time": "20:30",
@@ -9111,16 +8871,6 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34571-noa-lee-chait-quartet/",
 "src": "mezzrow"
-},
-{
-"id": "s7aa81cf3fe",
-"date": "2026-12-31",
-"time": "21:30",
-"title": "NEW YEAR\u2019S EVE: Nicholas Payton Quartet feat. Bill Charlap PLUS very special guest Catherine Russell",
-"venue": "Smoke Jazz Club",
-"cat": "jazz",
-"url": "https://tickets.smokejazz.com/shows/13826/?date=2026-12-31",
-"src": "smoke"
 },
 {
 "id": "s8a806fa90d",
@@ -10293,6 +10043,16 @@
 "src": "birdland"
 },
 {
+"id": "s761ab2ae7e",
+"date": "2027-01-19",
+"time": "19:00",
+"title": "CMA Opera Recital",
+"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/01/19/cma-opera-recital-0700pm",
+"src": "carnegie"
+},
+{
 "id": "s64fdc0ff0c",
 "date": "2027-01-19",
 "time": "19:00",
@@ -10663,13 +10423,13 @@
 "src": "carnegie"
 },
 {
-"id": "scc43adabee",
+"id": "sa0f3632173",
 "date": "2027-01-24",
 "time": "13:30",
-"title": "Harlem Gospel Choir",
+"title": "The World Famous Harlem Gospel Choir",
 "venue": "Blue Note",
 "cat": "jazz",
-"url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7pr7",
+"url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/14376244",
 "src": "bluenote"
 },
 {
@@ -11871,6 +11631,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/mohini-dey-blue-note-jazz-club-tickets/14414864",
 "src": "bluenote"
+},
+{
+"id": "s79fe3e163e",
+"date": "2027-02-10",
+"time": "20:00",
+"title": "Jonathan Tetelman & Nino Surguladze",
+"venue": "Carnegie Hall \u00b7 Stern Auditorium",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/02/10/jonathan-tetelman--nino-surguladze-0800pm",
+"src": "carnegie"
 },
 {
 "id": "sace9c5c04e",
@@ -13903,23 +13673,23 @@
 "src": "birdland"
 },
 {
-"id": "se430ad8213",
+"id": "sf3bb451d2b",
 "date": "2027-03-14",
 "time": "20:30",
-"title": "Manhattan Concert Productions Series",
+"title": "Manhattan Concert Productions Symphonic Series",
 "venue": "Carnegie Hall \u00b7 Stern Auditorium",
 "cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2027/03/14/manhattan-concert-productions-series-0830pm",
+"url": "https://www.carnegiehall.org/calendar/2027/03/14/manhattan-concert-productions-symphonic-series-0830pm",
 "src": "carnegie"
 },
 {
 "id": "sb378a62a9e",
 "date": "2027-03-15",
-"time": "11:00",
+"time": "12:00",
 "title": "National Band & Orchestra Fest",
 "venue": "Carnegie Hall \u00b7 Stern Auditorium",
 "cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2027/03/15/national-band--orchestra-fest-1100am",
+"url": "https://www.carnegiehall.org/calendar/2027/03/15/national-band--orchestra-fest-1200pm",
 "src": "carnegie"
 },
 {
@@ -14483,6 +14253,16 @@
 "src": "carnegie"
 },
 {
+"id": "sf65c8420b4",
+"date": "2027-03-26",
+"time": "20:00",
+"title": "Avishai Cohen",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/avishai-cohen-blue-note-jazz-club-tickets/14446684",
+"src": "bluenote"
+},
+{
 "id": "seb9ddcc5d3",
 "date": "2027-03-26",
 "time": "20:30",
@@ -14523,6 +14303,16 @@
 "src": "carnegie"
 },
 {
+"id": "s5bbc2820b3",
+"date": "2027-03-27",
+"time": "20:00",
+"title": "Avishai Cohen",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/avishai-cohen-blue-note-jazz-club-tickets/14446724",
+"src": "bluenote"
+},
+{
 "id": "s8a9b9027e0",
 "date": "2027-03-27",
 "time": "20:30",
@@ -14561,6 +14351,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/gabrielle-stravelli-quartet-birdland-jazz-club-tickets/14401094",
 "src": "birdland"
+},
+{
+"id": "se316a3ee46",
+"date": "2027-03-28",
+"time": "20:00",
+"title": "Avishai Cohen",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/avishai-cohen-blue-note-jazz-club-tickets/14446694",
+"src": "bluenote"
 },
 {
 "id": "s785122dcdf",
@@ -14605,11 +14405,11 @@
 {
 "id": "sa63a48080d",
 "date": "2027-03-30",
-"time": "11:00",
+"time": "12:00",
 "title": "National Concerts Band & Orchestra Fest",
 "venue": "Carnegie Hall \u00b7 Stern Auditorium",
 "cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2027/03/30/national-concerts-band--orchestra-fest-1100am",
+"url": "https://www.carnegiehall.org/calendar/2027/03/30/national-concerts-band--orchestra-fest-1200pm",
 "src": "carnegie"
 },
 {
