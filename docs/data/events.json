@@ -1,37 +1,7 @@
 {
-"generated": "2026-11-16T19:04:18+00:00",
-"count": 1873,
+"generated": "2026-11-17T17:59:40+00:00",
+"count": 1857,
 "events": [
-{
-"id": "sbfe444408d",
-"date": "2026-11-15",
-"time": "07:00",
-"title": "Holiday Decorations (Plaza Partner Event) \u00b7 33rd Street Plaza: 33rd Street Plaza WEST 33 STREET betwee \u2014 Pedestrian Plaz",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "scc7ae468ef",
-"date": "2026-11-15",
-"time": "10:00",
-"title": "UNION SQUARE SPRING FAIR (Street Festival) \u00b7 SIXTH AVENUE between WEST 23 STREET and WEST 34 STREET \u2014 Full Street Closur",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s7898fe5eac",
-"date": "2026-11-15",
-"time": "",
-"title": "The Seven Bridges",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/the-seven-bridges/",
-"src": "japansociety"
-},
 {
 "id": "sfde6e85095",
 "date": "2026-11-16",
@@ -51,166 +21,6 @@
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
-},
-{
-"id": "s2ca5ee7183",
-"date": "2026-11-16",
-"time": "17:30",
-"title": "Vince Giordano and The Nighthawks",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14225074",
-"src": "birdland"
-},
-{
-"id": "s3ce390733a",
-"date": "2026-11-16",
-"time": "18:00",
-"title": "Carnegie Hall Citywide: \u200b2nd Annual Vessel Lighting Ceremony with The New York Pops",
-"venue": "Carnegie Hall \u00b7 Hudson Yards",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/16/carnegie-hall-citywide-2nd-annual-vessel-lighting-ceremony-with-the-new-york-p-0600pm",
-"src": "carnegie"
-},
-{
-"id": "s89b90ca73f",
-"date": "2026-11-16",
-"time": "18:00",
-"title": "Spike Wilner Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34321-spike-wilner-trio/",
-"src": "mezzrow"
-},
-{
-"id": "sab2c5e25ef",
-"date": "2026-11-16",
-"time": "18:00",
-"title": "Scott Neumann Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34404-scott-neumann-quartet/",
-"src": "smalls"
-},
-{
-"id": "s9b1ecd6f1d",
-"date": "2026-11-16",
-"time": "19:00",
-"title": "Frankie Moreno",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/frankie-moreno-birdland-jazz-club-tickets/14342154",
-"src": "birdland"
-},
-{
-"id": "se2a502b3be",
-"date": "2026-11-16",
-"time": "19:00",
-"title": "DCINY: Spirit of Freedom",
-"venue": "Carnegie Hall \u00b7 Stern Auditorium",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/16/dciny-spirit-of-freedom-0700pm",
-"src": "carnegie"
-},
-{
-"id": "s5542c60de7",
-"date": "2026-11-16",
-"time": "19:00",
-"title": "Mark Whitfield Trio",
-"venue": "Zinc Bar",
-"cat": "jazz",
-"url": "https://www.zincbar.com/event/mark-whitfield-trio-6/",
-"src": "zincbar"
-},
-{
-"id": "se7c145ac43",
-"date": "2026-11-16",
-"time": "19:30",
-"title": "J\u00e1nos Bal\u00e1zs, Piano",
-"venue": "Carnegie Hall \u00b7 Zankel Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/16/janos-balazs-piano-0730pm",
-"src": "carnegie"
-},
-{
-"id": "se9216656bf",
-"date": "2026-11-16",
-"time": "20:00",
-"title": "Mamas Gun",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/mamas-gun-blue-note-jazz-club-tickets/14820153",
-"src": "bluenote"
-},
-{
-"id": "sabbbfe0c90",
-"date": "2026-11-16",
-"time": "20:00",
-"title": "Opera Nova: Contemporary Arias from Brazilian Composers",
-"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/16/opera-nova-contemporary-arias-from-brazilian-composers-0800pm",
-"src": "carnegie"
-},
-{
-"id": "s6f16804e63",
-"date": "2026-11-16",
-"time": "20:00",
-"title": "Vanguard Jazz Orchestra",
-"venue": "Village Vanguard",
-"cat": "jazz",
-"url": "https://squadup.com/events/monday-800-pm---vanguard-jazz-orchestra-251",
-"src": "vanguard"
-},
-{
-"id": "s0588464d50",
-"date": "2026-11-16",
-"time": "21:00",
-"title": "Pasquale Grasso Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34485-pasquale-grasso-trio/",
-"src": "mezzrow"
-},
-{
-"id": "s29876755c8",
-"date": "2026-11-16",
-"time": "21:00",
-"title": "Marius Van Den Brink Quintet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34405-marius-van-den-brink-quintet/",
-"src": "smalls"
-},
-{
-"id": "s2208d3f32d",
-"date": "2026-11-16",
-"time": "21:30",
-"title": "Jim Caruso's Cast Party with Billy Stritch",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/jim-carusos-cast-party-with-birdland-jazz-club-tickets/15007253",
-"src": "birdland"
-},
-{
-"id": "seecf6b14a2",
-"date": "2026-11-16",
-"time": "23:30",
-"title": "VINYL AFTER HOURS",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34454-vinyl-after-hours/",
-"src": "mezzrow"
-},
-{
-"id": "se0b99ac58f",
-"date": "2026-11-16",
-"time": "23:55",
-"title": "Jam Session Hosted By Adam Ray Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34403-jam-session-hosted-by-adam-ray-quartet/",
-"src": "smalls"
 },
 {
 "id": "sff9ea16715",
@@ -261,6 +71,16 @@
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
+},
+{
+"id": "s8c75eb87cc",
+"date": "2026-11-17",
+"time": "17:30",
+"title": "Vince Giordano and The Nighthawks",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14225094",
+"src": "birdland"
 },
 {
 "id": "s0050fb4f46",
@@ -633,20 +453,20 @@
 "src": "nycpermits"
 },
 {
-"id": "sbc440e304d",
+"id": "sa75ab97364",
 "date": "2026-11-19",
 "time": "08:00",
-"title": "Grand Opening (Street Event) \u00b7 EAST 17 STREET between UNION SQUARE WEST and 5 AVENUE \u2014 Partial Sidewalk Closure closure",
+"title": "People x Yellowjackets Newsstand Activation at 599 Broadway (Street Event) \u00b7 BROADWAY between EAST HOUSTON STREET and PR",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
 },
 {
-"id": "sa75ab97364",
+"id": "sbc440e304d",
 "date": "2026-11-19",
 "time": "08:00",
-"title": "People x Yellowjackets Newsstand Activation at 599 Broadway (Street Event) \u00b7 BROADWAY between EAST HOUSTON STREET and PR",
+"title": "Grand Opening (Street Event) \u00b7 EAST 17 STREET between UNION SQUARE WEST and 5 AVENUE \u2014 Partial Sidewalk Closure closure",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -683,16 +503,6 @@
 "src": "nycpermits"
 },
 {
-"id": "s158a2cae03",
-"date": "2026-11-19",
-"time": "18:00",
-"title": "Thomas Linger Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34326-thomas-linger-trio/",
-"src": "mezzrow"
-},
-{
 "id": "s387420a440",
 "date": "2026-11-19",
 "time": "18:00",
@@ -700,6 +510,16 @@
 "venue": "Mezzrow",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34326-michael-cochrane-trio/",
+"src": "mezzrow"
+},
+{
+"id": "s158a2cae03",
+"date": "2026-11-19",
+"time": "18:00",
+"title": "Thomas Linger Trio",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34326-thomas-linger-trio/",
 "src": "mezzrow"
 },
 {
@@ -863,6 +683,16 @@
 "src": "guggenheim"
 },
 {
+"id": "sa792a0b2dc",
+"date": "2026-11-19",
+"time": "",
+"title": "Late Shift",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/late-shift",
+"src": "guggenheim"
+},
+{
 "id": "s841898308a",
 "date": "2026-11-19",
 "time": "",
@@ -943,13 +773,13 @@
 "src": "mezzrow"
 },
 {
-"id": "s4242964d85",
+"id": "see18a61a9b",
 "date": "2026-11-20",
 "time": "18:00",
-"title": "Valery Ponomarve Quintet",
+"title": "Valery Ponomarev Quintet",
 "venue": "Smalls",
 "cat": "jazz",
-"url": "https://www.smallslive.com/events/34415-valery-ponomarve-quintet/",
+"url": "https://www.smallslive.com/events/34415-valery-ponomarev-quintet/",
 "src": "smalls"
 },
 {
@@ -1223,13 +1053,13 @@
 "src": "nycpermits"
 },
 {
-"id": "scb0109afe6",
+"id": "sec3a382317",
 "date": "2026-11-21",
 "time": "18:00",
-"title": "Valery Ponomarve Quintet",
+"title": "Valery Ponomarev Quintet",
 "venue": "Smalls",
 "cat": "jazz",
-"url": "https://www.smallslive.com/events/34416-valery-ponomarve-quintet/",
+"url": "https://www.smallslive.com/events/34416-valery-ponomarev-quintet/",
 "src": "smalls"
 },
 {
@@ -2323,13 +2153,13 @@
 "src": "mezzrow"
 },
 {
-"id": "sfbdd4a7e77",
+"id": "s17ad63deb2",
 "date": "2026-11-27",
 "time": "23:55",
-"title": "Ken Fowser Quartet",
+"title": "Ken Fowser Quintet",
 "venue": "Smalls",
 "cat": "jazz",
-"url": "https://www.smallslive.com/events/34438-ken-fowser-quartet/",
+"url": "https://www.smallslive.com/events/34438-ken-fowser-quintet/",
 "src": "smalls"
 },
 {
@@ -3113,6 +2943,26 @@
 "src": "zwirner"
 },
 {
+"id": "s9ca9eb3656",
+"date": "2026-12-01",
+"time": "",
+"title": "Beginner Mah-Jongg Class \u2014 opens",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/beginner-mah-jongg-class/",
+"src": "emanuel"
+},
+{
+"id": "sd82dfc708c",
+"date": "2026-12-01",
+"time": "",
+"title": "Beginner Bridge Class",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-fall-tuesday-evening-beginner-bridge-class/",
+"src": "emanuel"
+},
+{
 "id": "sd3ea9493a6",
 "date": "2026-12-02",
 "time": "07:30",
@@ -3291,6 +3141,16 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/outside-in-benefit",
 "src": "zwirner"
+},
+{
+"id": "s3402c56e81",
+"date": "2026-12-02",
+"time": "",
+"title": "Supervised Bridge Class",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-morning-supervised-class/",
+"src": "emanuel"
 },
 {
 "id": "s4509065da2",
@@ -3481,6 +3341,26 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/outside-in-benefit",
 "src": "zwirner"
+},
+{
+"id": "sa8152d82d0",
+"date": "2026-12-03",
+"time": "",
+"title": "Bridge Supervised Play",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-thursday-evening-bridge-supervised-play/",
+"src": "emanuel"
+},
+{
+"id": "s86c733817f",
+"date": "2026-12-03",
+"time": "",
+"title": "Intermediate Bridge Class",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-thursday-morning-intermediate-bridge-class/",
+"src": "emanuel"
 },
 {
 "id": "se8051eabd3",
@@ -4273,16 +4153,6 @@
 "src": "mezzrow"
 },
 {
-"id": "sf7d3d18f05",
-"date": "2026-12-07",
-"time": "21:00",
-"title": "Joe Farnsworth Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34600-joe-farnsworth-quartet/",
-"src": "smalls"
-},
-{
 "id": "se16ccca6d6",
 "date": "2026-12-07",
 "time": "21:00",
@@ -4290,6 +4160,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34600-ben-solomon-quartet/",
+"src": "smalls"
+},
+{
+"id": "sf7d3d18f05",
+"date": "2026-12-07",
+"time": "21:00",
+"title": "Joe Farnsworth Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34600-joe-farnsworth-quartet/",
 "src": "smalls"
 },
 {
@@ -7193,6 +7073,16 @@
 "src": "smalls"
 },
 {
+"id": "sbb2e51e42b",
+"date": "2026-12-22",
+"time": "",
+"title": "Beginner Mah-Jongg Class \u2014 final day",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/beginner-mah-jongg-class/",
+"src": "emanuel"
+},
+{
 "id": "sdb43fc1926",
 "date": "2026-12-23",
 "time": "13:30",
@@ -8663,6 +8553,16 @@
 "src": "emanuel"
 },
 {
+"id": "sb9a907e151",
+"date": "2027-01-05",
+"time": "18:00",
+"title": "Tessa Souter Trio",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34776-tessa-souter-trio/",
+"src": "mezzrow"
+},
+{
 "id": "s27bc498a81",
 "date": "2027-01-05",
 "time": "19:00",
@@ -9963,13 +9863,13 @@
 "src": "carnegie"
 },
 {
-"id": "sa0f3632173",
+"id": "scc43adabee",
 "date": "2027-01-24",
 "time": "13:30",
-"title": "The World Famous Harlem Gospel Choir",
+"title": "Harlem Gospel Choir",
 "venue": "Blue Note",
 "cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/14376244",
+"url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7pr7",
 "src": "bluenote"
 },
 {
@@ -13193,6 +13093,16 @@
 "src": "nyphil"
 },
 {
+"id": "sf3bb451d2b",
+"date": "2027-03-14",
+"time": "20:00",
+"title": "Manhattan Concert Productions Symphonic Series",
+"venue": "Carnegie Hall \u00b7 Stern Auditorium",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/03/14/manhattan-concert-productions-symphonic-series-0800pm",
+"src": "carnegie"
+},
+{
 "id": "sdfebcb07eb",
 "date": "2027-03-14",
 "time": "20:30",
@@ -13201,16 +13111,6 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/the-birdland-latin-jazz-orchestra-birdland-jazz-club-tickets/14400684",
 "src": "birdland"
-},
-{
-"id": "sf3bb451d2b",
-"date": "2027-03-14",
-"time": "20:30",
-"title": "Manhattan Concert Productions Symphonic Series",
-"venue": "Carnegie Hall \u00b7 Stern Auditorium",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2027/03/14/manhattan-concert-productions-symphonic-series-0830pm",
-"src": "carnegie"
 },
 {
 "id": "sb378a62a9e",
@@ -14061,16 +13961,6 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2027/04/01/michelle-chen-kuo-and-christopher-kuo-0800pm",
 "src": "carnegie"
-},
-{
-"id": "sba253234d0",
-"date": "2027-04-01",
-"time": "",
-"title": "Works & Process: VOX: American Voices Opera Lab",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/works-process-vox-american-voices-opera-lab",
-"src": "guggenheim"
 },
 {
 "id": "s725e705b82",
@@ -18483,26 +18373,6 @@
 "src": "guggenheim"
 },
 {
-"id": "sb246a29cc2",
-"date": "2027-09-22",
-"time": "",
-"title": "Women of Emanu-El: Fall Tuesday Evening Beginner Bridge Class",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-fall-tuesday-evening-beginner-bridge-class/",
-"src": "emanuel"
-},
-{
-"id": "s272a08c4c9",
-"date": "2027-09-23",
-"time": "",
-"title": "Women of Emanu-El: Morning Supervised Bridge Class",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-morning-supervised-class/",
-"src": "emanuel"
-},
-{
 "id": "s62d0149eff",
 "date": "2027-09-24",
 "time": "",
@@ -18511,26 +18381,6 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/an-interview-with-mieko-kawakami-an-owl-takes-flight-at-dawn/",
 "src": "japansociety"
-},
-{
-"id": "s71c5c62462",
-"date": "2027-09-24",
-"time": "",
-"title": "Women of Emanu-El: Thursday Evening Bridge Supervised Play",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-thursday-evening-bridge-supervised-play/",
-"src": "emanuel"
-},
-{
-"id": "s63de66a122",
-"date": "2027-09-24",
-"time": "",
-"title": "Women of Emanu-El: Thursday Morning Intermediate Bridge Class",
-"venue": "Temple Emanu-El \u2014 Streicker",
-"cat": "classical",
-"url": "https://emanuelnyc.org/calendar/women-of-emanu-el-thursday-morning-intermediate-bridge-class/",
-"src": "emanuel"
 },
 {
 "id": "s8e0b38e699",
@@ -18651,16 +18501,6 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2027/10/10/the-legend-of-zelda-40th-anniversary-concert-0100pm",
 "src": "carnegie"
-},
-{
-"id": "sa89fcfadda",
-"date": "2027-10-15",
-"time": "",
-"title": "Late Shift",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/late-shift",
-"src": "guggenheim"
 },
 {
 "id": "s4fbd7b1dea",
