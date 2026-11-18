@@ -1,27 +1,7 @@
 {
-"generated": "2026-11-17T17:59:40+00:00",
-"count": 1857,
+"generated": "2026-11-18T17:41:01+00:00",
+"count": 1853,
 "events": [
-{
-"id": "sfde6e85095",
-"date": "2026-11-16",
-"time": "07:30",
-"title": "Street Health Outreach and Wellness (Street Event) \u00b7 DELANCEY STREET between CHRYSTIE STREET and FORSYTH STREET \u2014 Sidewa",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s52933b7d96",
-"date": "2026-11-16",
-"time": "11:00",
-"title": "Citi Boost (Street Event) \u00b7 EAST 79 STREET between 1 AVENUE and YORK AVENUE \u2014 Sidewalk and Curb Lane Closure closure",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
 {
 "id": "sff9ea16715",
 "date": "2026-11-17",
@@ -73,24 +53,14 @@
 "src": "nycpermits"
 },
 {
-"id": "s8c75eb87cc",
-"date": "2026-11-17",
-"time": "17:30",
-"title": "Vince Giordano and The Nighthawks",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14225094",
-"src": "birdland"
-},
-{
-"id": "s0050fb4f46",
+"id": "sb0735c28f6",
 "date": "2026-11-17",
 "time": "18:00",
-"title": "Gabrielle Stravelli Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34322-gabrielle-stravelli-trio/",
-"src": "mezzrow"
+"title": "The New School Gala at Storied (Street Event) \u00b7 WEST 26 STREET between 11 AVENUE and 10 AVENUE \u2014 Sidewalk and Curb Lane ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s3c1167bc16",
@@ -101,136 +71,6 @@
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
-},
-{
-"id": "scf8bfdeb45",
-"date": "2026-11-17",
-"time": "18:00",
-"title": "Lafayette Harris Presents The Cecilia Smith Ensemble",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34407-lafayette-harris-presents-the-cecilia-smith-ensemble/",
-"src": "smalls"
-},
-{
-"id": "s5e0d771a6c",
-"date": "2026-11-17",
-"time": "19:00",
-"title": "Maria Schneider Orchestra",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/maria-schneider-orchestra-birdland-jazz-club-tickets/15005333",
-"src": "birdland"
-},
-{
-"id": "s4967ef3d49",
-"date": "2026-11-17",
-"time": "19:00",
-"title": "The Orchestra Now",
-"venue": "Carnegie Hall \u00b7 Stern Auditorium",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/17/the-orchestra-now-0700pm",
-"src": "carnegie"
-},
-{
-"id": "sf958c882a9",
-"date": "2026-11-17",
-"time": "19:00",
-"title": "Sheila Jordan Birthday Celebration",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://ticketing.jazz.org/21718/21719",
-"src": "dizzys"
-},
-{
-"id": "s4f3bc4a491",
-"date": "2026-11-17",
-"time": "19:00",
-"title": "Misha Piatigorsky",
-"venue": "Zinc Bar",
-"cat": "jazz",
-"url": "https://www.zincbar.com/event/misha-piatigorsky-2/",
-"src": "zincbar"
-},
-{
-"id": "s9f6c6be293",
-"date": "2026-11-17",
-"time": "19:30",
-"title": "Jupiter Ensemble",
-"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/17/jupiter-ensemble-0730pm",
-"src": "carnegie"
-},
-{
-"id": "se117c2e3cf",
-"date": "2026-11-17",
-"time": "19:30",
-"title": "Orpheus Chamber Orchestra\u200bIsata Kanneh-Mason, Piano",
-"venue": "Carnegie Hall \u00b7 Zankel Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/17/orpheus-chamber-orchestra-isata-kannehmason-piano-0730pm",
-"src": "carnegie"
-},
-{
-"id": "sac62551559",
-"date": "2026-11-17",
-"time": "19:30",
-"title": "Tristan & Yseult",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/tristan-yseult-18/",
-"src": "stanns"
-},
-{
-"id": "sa84321d5ba",
-"date": "2026-11-17",
-"time": "20:00",
-"title": "Jarobi of A Tribe Called Quest & Friends with Live Band",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/jarobi-of-a-tribe-called-blue-note-jazz-club-tickets/14367234",
-"src": "bluenote"
-},
-{
-"id": "sf2e8e1e03b",
-"date": "2026-11-17",
-"time": "21:00",
-"title": "Declan Cashman Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34323-declan-cashman-trio/",
-"src": "mezzrow"
-},
-{
-"id": "s76f53a8dc8",
-"date": "2026-11-17",
-"time": "21:00",
-"title": "Ivan Polyanskiy Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34409-ivan-polyanskiy-quartet/",
-"src": "smalls"
-},
-{
-"id": "sb94f178168",
-"date": "2026-11-17",
-"time": "23:30",
-"title": "VINYL AFTER HOURS",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34455-vinyl-after-hours/",
-"src": "mezzrow"
-},
-{
-"id": "s150a3e5608",
-"date": "2026-11-17",
-"time": "23:55",
-"title": "Jam Session Hosted By Kyle Colina Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34406-jam-session-hosted-by-kyle-colina-quartet/",
-"src": "smalls"
 },
 {
 "id": "se43bb67737",
@@ -253,24 +93,14 @@
 "src": "nycpermits"
 },
 {
-"id": "s416d54be6b",
+"id": "sbc654d3928",
 "date": "2026-11-18",
 "time": "10:00",
-"title": "Frank Eileen NY Pop-Up Activation. (Street Event) \u00b7 EAST 65 STREET between 5 AVENUE and MADISON AVENUE \u2014 Partial Sidewal",
+"title": "Frank Eileen NY Pop-Up Activation. (Street Event) \u00b7 EAST 65 STREET between PARK AVENUE and MADISON AVENUE \u2014 Partial Side",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
-},
-{
-"id": "s6fa31d04b5",
-"date": "2026-11-18",
-"time": "10:30",
-"title": "Green-Wood on Wheels: Stroller-Friendly Tour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-11-18/",
-"src": "greenwood"
 },
 {
 "id": "sbc3140d5cb",
@@ -281,6 +111,16 @@
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
+},
+{
+"id": "s83618285c9",
+"date": "2026-11-18",
+"time": "17:30",
+"title": "David Ostwald's Louis Armstrong Eternity Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/david-ostwalds-louis-armstrong-eternity-birdland-theater-tickets/14196854",
+"src": "birdland"
 },
 {
 "id": "s6a0d43212c",
@@ -351,6 +191,16 @@
 "cat": "jazz",
 "url": "https://ticketing.jazz.org/21725/21726",
 "src": "dizzys"
+},
+{
+"id": "sd11cbdb948",
+"date": "2026-11-18",
+"time": "19:00",
+"title": "Johnny O\u00e2\u20ac\u2122Neal Trio",
+"venue": "Zinc Bar",
+"cat": "jazz",
+"url": "https://www.zincbar.com/event/johnny-oneal-trio-7/",
+"src": "zincbar"
 },
 {
 "id": "seee3f556d7",
@@ -443,6 +293,16 @@
 "src": "smalls"
 },
 {
+"id": "s9064f7346a",
+"date": "2026-11-19",
+"time": "07:00",
+"title": "Essentia x Rocky at Action Black: 152 Franklin St. (Street Event) \u00b7 FRANKLIN STREET between VARICK STREET and HUDSON STR",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s04b0958216",
 "date": "2026-11-19",
 "time": "07:30",
@@ -453,20 +313,20 @@
 "src": "nycpermits"
 },
 {
-"id": "sa75ab97364",
+"id": "sbc440e304d",
 "date": "2026-11-19",
 "time": "08:00",
-"title": "People x Yellowjackets Newsstand Activation at 599 Broadway (Street Event) \u00b7 BROADWAY between EAST HOUSTON STREET and PR",
+"title": "Grand Opening (Street Event) \u00b7 EAST 17 STREET between UNION SQUARE WEST and 5 AVENUE \u2014 Partial Sidewalk Closure closure",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
 },
 {
-"id": "sbc440e304d",
+"id": "sa75ab97364",
 "date": "2026-11-19",
 "time": "08:00",
-"title": "Grand Opening (Street Event) \u00b7 EAST 17 STREET between UNION SQUARE WEST and 5 AVENUE \u2014 Partial Sidewalk Closure closure",
+"title": "People x Yellowjackets Newsstand Activation at 599 Broadway (Street Event) \u00b7 BROADWAY between EAST HOUSTON STREET and PR",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -743,6 +603,16 @@
 "src": "nycpermits"
 },
 {
+"id": "s4214f6b71b",
+"date": "2026-11-20",
+"time": "12:00",
+"title": "ETRO Holiday Activation (Street Event) \u00b7 GREENE STREET between PRINCE STREET and SPRING STREET \u2014 Partial Sidewalk Closur",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s95b1d5c2f5",
 "date": "2026-11-20",
 "time": "14:00",
@@ -941,6 +811,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/the-revolution-continues-brooklyns-black-trailblazers-2/",
 "src": "greenwood"
+},
+{
+"id": "s511a517d10",
+"date": "2026-11-21",
+"time": "11:00",
+"title": "Bang Olufsen (Street Event) \u00b7 WASHINGTON STREET between GANSEVOORT STREET and LITTLE WEST \u2014 Curb Lane Only closure",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "sb309f4f197",
@@ -4363,6 +4243,16 @@
 "src": "nyphil"
 },
 {
+"id": "s3f41d8890b",
+"date": "2026-12-08",
+"time": "20:00",
+"title": "Dizzy Gillespie All-Stars",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/dizzy-gillespie-all-stars-blue-note-jazz-club-tickets/14453224",
+"src": "bluenote"
+},
+{
 "id": "s3a16b12e8f",
 "date": "2026-12-08",
 "time": "21:00",
@@ -4623,6 +4513,16 @@
 "src": "nyas"
 },
 {
+"id": "s826ba64f3c",
+"date": "2026-12-09",
+"time": "",
+"title": "Chanukah Blessing & Sanctuary Tour",
+"venue": "Temple Emanu-El \u2014 Streicker",
+"cat": "classical",
+"url": "https://emanuelnyc.org/calendar/chanukah-blessing-sanctuary-tour/",
+"src": "emanuel"
+},
+{
 "id": "sa85d76a03a",
 "date": "2026-12-10",
 "time": "07:30",
@@ -4811,6 +4711,16 @@
 "cat": "houses",
 "url": "https://mvhm.org/event/holiday-open-house-at-the-mount-vernon-hotel-museum-garden-fri-dec-11th/",
 "src": "mvhm"
+},
+{
+"id": "s82b10fb938",
+"date": "2026-12-11",
+"time": "12:00",
+"title": "Class of 2027 WHEELS Seniors College March (Parade) \u00b7 511 WEST 182 STREET, AUDUBON AVENUE between WEST 183 STREE \u2014 Full ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "scef0675de3",
@@ -5041,6 +4951,16 @@
 "cat": "classical",
 "url": "https://emanuelnyc.org/calendar/friday-evening-worship-service-with-mohammad-darawshe/",
 "src": "emanuel"
+},
+{
+"id": "s36d66e09c4",
+"date": "2026-12-12",
+"time": "07:30",
+"title": "CARRERA GRUPO GUADALUPANO ARQUIDIOCES DE New York (Religious Event) \u00b7 328 WEST 14 STREET, WEST 14 STREET between 8 AVENU",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s53fa47d7e6",
@@ -8533,6 +8453,16 @@
 "src": "dizzys"
 },
 {
+"id": "s837173d4ad",
+"date": "2027-01-04",
+"time": "20:00",
+"title": "Dizzy Gillespie All-Stars",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/dizzy-gillespie-all-stars-blue-note-jazz-club-tickets/14453244",
+"src": "bluenote"
+},
+{
 "id": "scae3c62287",
 "date": "2027-01-04",
 "time": "21:30",
@@ -9823,6 +9753,16 @@
 "src": "nyphil"
 },
 {
+"id": "s07b38fdaac",
+"date": "2027-01-23",
+"time": "19:30",
+"title": "LSD (...just the high points...) Renovation",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/lsd-just-the-high-points-renovation-8/",
+"src": "stanns"
+},
+{
 "id": "s827d77e869",
 "date": "2027-01-23",
 "time": "20:00",
@@ -9863,13 +9803,13 @@
 "src": "carnegie"
 },
 {
-"id": "scc43adabee",
+"id": "sa0f3632173",
 "date": "2027-01-24",
 "time": "13:30",
-"title": "Harlem Gospel Choir",
+"title": "The World Famous Harlem Gospel Choir",
 "venue": "Blue Note",
 "cat": "jazz",
-"url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7pr7",
+"url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/14376244",
 "src": "bluenote"
 },
 {
@@ -11531,6 +11471,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/winter-2027/contemporary-choreography-ii",
 "src": "nycballet"
+},
+{
+"id": "s7b6a79ddd0",
+"date": "2027-02-17",
+"time": "20:00",
+"title": "Lizzie Berchie & Ego Ella May: Powerful Voices of UK Soul: A Double Feature",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/lizzie-berchie-ego-ella-blue-note-jazz-club-tickets/14443564",
+"src": "bluenote"
 },
 {
 "id": "se872bd1b3a",
@@ -13863,13 +13813,13 @@
 "src": "carnegie"
 },
 {
-"id": "s826ebf260d",
+"id": "s1b47b67a30",
 "date": "2027-03-30",
 "time": "20:00",
-"title": "National Treble Chorus",
+"title": "National Treble Chorus and The Harker School Orchestra",
 "venue": "Carnegie Hall \u00b7 Stern Auditorium",
 "cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2027/03/30/national-treble-chorus-0800pm",
+"url": "https://www.carnegiehall.org/calendar/2027/03/30/national-treble-chorus-and-the-harker-school-orchestra-0800pm",
 "src": "carnegie"
 },
 {
@@ -14793,13 +14743,13 @@
 "src": "emanuel"
 },
 {
-"id": "s94f3a69864",
+"id": "sdd2c6c2327",
 "date": "2027-04-17",
 "time": "13:00",
-"title": "National Concert Chorus and National Masterwork Chorus",
+"title": "National Masterwork Chorus",
 "venue": "Carnegie Hall \u00b7 Stern Auditorium",
 "cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2027/04/17/national-concert-chorus-and-national-masterwork-chorus-0100pm",
+"url": "https://www.carnegiehall.org/calendar/2027/04/17/national-masterwork-chorus-0100pm",
 "src": "carnegie"
 },
 {
@@ -14841,6 +14791,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/zubin-mehta-conducts-sibelius-and-dvoak",
 "src": "nyphil"
+},
+{
+"id": "s94f3a69864",
+"date": "2027-04-17",
+"time": "20:00",
+"title": "National Concert Chorus and National Masterwork Chorus",
+"venue": "Carnegie Hall \u00b7 Stern Auditorium",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/04/17/national-concert-chorus-and-national-masterwork-chorus-0800pm",
+"src": "carnegie"
 },
 {
 "id": "s22997e8716",
