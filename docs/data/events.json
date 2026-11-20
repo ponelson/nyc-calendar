@@ -1,57 +1,7 @@
 {
-"generated": "2026-11-19T17:50:37+00:00",
-"count": 1840,
+"generated": "2026-11-20T17:26:01+00:00",
+"count": 1844,
 "events": [
-{
-"id": "sec9a5ed30f",
-"date": "2026-11-18",
-"time": "07:30",
-"title": "Street Health Outreach and Wellness (Street Event) \u00b7 WEST 28 STREET between 9 AVENUE and 10 AVENUE \u2014 Sidewalk and Curb L",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sbc654d3928",
-"date": "2026-11-18",
-"time": "10:00",
-"title": "Frank Eileen NY Pop-Up Activation. (Street Event) \u00b7 EAST 65 STREET between PARK AVENUE and MADISON AVENUE \u2014 Partial Side",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s4fbf6ca84a",
-"date": "2026-11-18",
-"time": "11:00",
-"title": "Citi Boost 3 (Street Event) \u00b7 CEDAR STREET between BROADWAY and TRINITY PLACE \u2014 Sidewalk and Curb Lane Closure closure",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sbc3140d5cb",
-"date": "2026-11-18",
-"time": "16:30",
-"title": "Snowflake Lighting Ceremony (Street Event) \u00b7 FIFTH AVENUE between EAST 58 STREET and EAST 59 STREET, \u2014 Sidewalk and Curb",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s58d6b09a33",
-"date": "2026-11-18",
-"time": "18:00",
-"title": "NATIONAL BOOK AWARDS (Street Event) \u00b7 WALL STREET between WILLIAM STREET and HANOVER STREET, EXCH \u2014 Partial Sidewalk Clo",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
 {
 "id": "s9064f7346a",
 "date": "2026-11-19",
@@ -113,16 +63,6 @@
 "src": "nycpermits"
 },
 {
-"id": "s416f0f4526",
-"date": "2026-11-19",
-"time": "14:00",
-"title": "Spies Among Us: From the American Revolution to 1830s New York",
-"venue": "Mount Vernon Hotel Museum",
-"cat": "houses",
-"url": "https://mvhm.org/event/spies-among-us-from-the-american-revolution-to-1830s-new-york-2/",
-"src": "mvhm"
-},
-{
 "id": "s6e372c2521",
 "date": "2026-11-19",
 "time": "15:00",
@@ -131,36 +71,6 @@
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
-},
-{
-"id": "s4d31122639",
-"date": "2026-11-19",
-"time": "17:30",
-"title": "The High Society New Orleans Jazz Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-high-society-new-orleans-birdland-theater-tickets/14196814",
-"src": "birdland"
-},
-{
-"id": "s387420a440",
-"date": "2026-11-19",
-"time": "18:00",
-"title": "Michael Cochrane Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34326-michael-cochrane-trio/",
-"src": "mezzrow"
-},
-{
-"id": "s158a2cae03",
-"date": "2026-11-19",
-"time": "18:00",
-"title": "Thomas Linger Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34326-thomas-linger-trio/",
-"src": "mezzrow"
 },
 {
 "id": "s332826c7ba",
@@ -173,56 +83,6 @@
 "src": "nycpermits"
 },
 {
-"id": "s69d7c7dd79",
-"date": "2026-11-19",
-"time": "18:00",
-"title": "Sheryl Bailey Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34414-sheryl-bailey-quartet/",
-"src": "smalls"
-},
-{
-"id": "sbda3fcf089",
-"date": "2026-11-19",
-"time": "18:30",
-"title": "Billy Hart Quartet",
-"venue": "Smoke Jazz Club",
-"cat": "jazz",
-"url": "https://tickets.smokejazz.com/shows/13395/?date=2026-11-19",
-"src": "smoke"
-},
-{
-"id": "sf376278b51",
-"date": "2026-11-19",
-"time": "19:00",
-"title": "Maria Schneider Orchestra",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/maria-schneider-orchestra-birdland-jazz-club-tickets/15005343",
-"src": "birdland"
-},
-{
-"id": "saba908fe4d",
-"date": "2026-11-19",
-"time": "19:00",
-"title": "Bill Charlap Solo Piano",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://ticketing.jazz.org/21725/21728",
-"src": "dizzys"
-},
-{
-"id": "seb1e5ddb37",
-"date": "2026-11-19",
-"time": "19:30",
-"title": "Roberto Plano, Piano",
-"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/19/roberto-plano-piano-0730pm",
-"src": "carnegie"
-},
-{
 "id": "sd5d90e44c1",
 "date": "2026-11-19",
 "time": "19:30",
@@ -231,76 +91,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/gonzalez-monjas-conducts",
 "src": "nyphil"
-},
-{
-"id": "s571ad56b2c",
-"date": "2026-11-19",
-"time": "19:30",
-"title": "Tristan & Yseult",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/tristan-yseult-21/",
-"src": "stanns"
-},
-{
-"id": "sc4cd3da8df",
-"date": "2026-11-19",
-"time": "20:00",
-"title": "Charles Lloyd Quartet featuring TBA, Larry Grenadier & Kweku Sumbry",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/charles-lloyd-quartet-featuring-tba-blue-note-jazz-club-tickets/14973953",
-"src": "bluenote"
-},
-{
-"id": "s2677a070b2",
-"date": "2026-11-19",
-"time": "20:00",
-"title": "GIV\u0112ON",
-"venue": "Carnegie Hall \u00b7 Stern Auditorium",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/19/giveon-0800pm",
-"src": "carnegie"
-},
-{
-"id": "sb63e09b08d",
-"date": "2026-11-19",
-"time": "21:00",
-"title": "Mike Bond Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34327-mike-bond-trio/",
-"src": "mezzrow"
-},
-{
-"id": "s3e0c3f990b",
-"date": "2026-11-19",
-"time": "21:00",
-"title": "Ryan Meagher Quintet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34491-ryan-meagher-quintet/",
-"src": "smalls"
-},
-{
-"id": "sc257c33b8f",
-"date": "2026-11-19",
-"time": "23:30",
-"title": "VINYL AFTER HOURS",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34457-vinyl-after-hours/",
-"src": "mezzrow"
-},
-{
-"id": "sb8807d74c2",
-"date": "2026-11-19",
-"time": "23:55",
-"title": "Jam Session Hosted By Ben Barnett",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34413-jam-session-hosted-by-ben-barnett/",
-"src": "smalls"
 },
 {
 "id": "sbcc2ffbe75",
@@ -320,16 +110,6 @@
 "venue": "Guggenheim",
 "cat": "art",
 "url": "https://www.guggenheim.org/event/member-morning-guggenheim-pop",
-"src": "guggenheim"
-},
-{
-"id": "sa792a0b2dc",
-"date": "2026-11-19",
-"time": "",
-"title": "Late Shift",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/late-shift",
 "src": "guggenheim"
 },
 {
@@ -413,6 +193,16 @@
 "src": "birdland"
 },
 {
+"id": "sc52cfe4a8b",
+"date": "2026-11-20",
+"time": "17:45",
+"title": "Bloomingdales Holiday Window Unveiling Premier (Street Event) \u00b7 LEXINGTON AVENUE between EAST 59 STREET and EAST 60 STRE",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s75e954329b",
 "date": "2026-11-20",
 "time": "18:00",
@@ -441,6 +231,16 @@
 "cat": "jazz",
 "url": "https://tickets.smokejazz.com/shows/13395/?date=2026-11-20",
 "src": "smoke"
+},
+{
+"id": "s0d240f9bf5",
+"date": "2026-11-20",
+"time": "19:00",
+"title": "Evan Palazzo & Friends",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/evan-palazzo-friends-birdland-theater-tickets/15001913",
+"src": "birdland"
 },
 {
 "id": "sa02121b1ad",
@@ -591,6 +391,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/the-revolution-continues-brooklyns-black-trailblazers-2/",
 "src": "greenwood"
+},
+{
+"id": "sc7b98c9caa",
+"date": "2026-11-21",
+"time": "10:00",
+"title": "tonies Holiday Listening Lounge (Street Event) \u00b7 LEXINGTON AVENUE between EAST 81 STREET and EAST 80 STRE \u2014 Sidewalk and",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s511a517d10",
@@ -1083,6 +893,16 @@
 "src": "nycpermits"
 },
 {
+"id": "s44e435f4d0",
+"date": "2026-11-23",
+"time": "11:00",
+"title": "Canada Goose line queue (Street Event) \u00b7 EAST 54 STREET between 5 AVENUE and MADISON AVENUE \u2014 Partial Sidewalk Closure c",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s2f1beed3ac",
 "date": "2026-11-23",
 "time": "18:00",
@@ -1141,6 +961,16 @@
 "cat": "jazz",
 "url": "https://ticketing.jazz.org/21736/21737",
 "src": "dizzys"
+},
+{
+"id": "s36874416ca",
+"date": "2026-11-23",
+"time": "19:00",
+"title": "SAKS WINDOW UNVEILING (Street Event) \u00b7 5 AVENUE between WEST 49 STREET and WEST 50 STREET, EAS \u2014 Partial Sidewalk Closur",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "sc996f7a84e",
@@ -3043,13 +2873,13 @@
 "src": "mezzrow"
 },
 {
-"id": "sf7e9c59089",
+"id": "s2cc27375fa",
 "date": "2026-12-03",
 "time": "23:55",
-"title": "Jam Session Hosted By Ben Barnett",
+"title": "Ben Barnett Quartet",
 "venue": "Smalls",
 "cat": "jazz",
-"url": "https://www.smallslive.com/events/34527-jam-session-hosted-by-ben-barnett/",
+"url": "https://www.smallslive.com/events/34527-ben-barnett-quartet/",
 "src": "smalls"
 },
 {
@@ -3303,6 +3133,16 @@
 "src": "zwirner"
 },
 {
+"id": "s2d8df67afa",
+"date": "2026-12-05",
+"time": "11:00",
+"title": "Solferino Perfumes promotion (Street Event) \u00b7 EAST 59 STREET between LEXINGTON AVENUE and 3 AVENUE \u2014 Sidewalk and Curb L",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s3898d5aa9a",
 "date": "2026-12-05",
 "time": "12:00",
@@ -3317,7 +3157,7 @@
 "date": "2026-12-05",
 "time": "13:00",
 "title": "Veritas International Music Competition Winners' Recital",
-"venue": "Carnegie Hall",
+"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2026/12/05/veritas-international-music-competition-winners-recital-0100pm",
 "src": "carnegie"
@@ -3633,6 +3473,16 @@
 "src": "greenwood"
 },
 {
+"id": "s5b59568300",
+"date": "2026-12-06",
+"time": "16:30",
+"title": "Hanuka Menorah Lighting (Religious Event) \u00b7 EAST 75 STREET between 1 AVENUE and 2 AVENUE \u2014 Sidewalk and Curb Lane Closur",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s5686979277",
 "date": "2026-12-06",
 "time": "17:00",
@@ -3777,6 +3627,16 @@
 "date": "2026-12-07",
 "time": "07:30",
 "title": "Street Health Outreach and Wellness (Street Event) \u00b7 MOUNT MORRIS PARK WEST between WEST 123 STREET and WEST 12 \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s2347823261",
+"date": "2026-12-07",
+"time": "16:30",
+"title": "Chanukah Ice Sculpted Menorah (Religious Event) \u00b7 3 AVENUE between EAST 67 STREET and EAST 66 STREET \u2014 Curb Lane Only cl",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -5473,16 +5333,6 @@
 "src": "carnegie"
 },
 {
-"id": "sb3b368b4eb",
-"date": "2026-12-15",
-"time": "19:00",
-"title": "The Pan-American Nutcracker Suite: Joe McCarthy's NY Afro Bop Alliance Big Band",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://ticketing.jazz.org/21940/21941",
-"src": "dizzys"
-},
-{
 "id": "sd2dee2464d",
 "date": "2026-12-15",
 "time": "19:00",
@@ -5490,6 +5340,16 @@
 "venue": "Dizzy's Club",
 "cat": "jazz",
 "url": "https://ticketing.jazz.org/20667/20668",
+"src": "dizzys"
+},
+{
+"id": "sb3b368b4eb",
+"date": "2026-12-15",
+"time": "19:00",
+"title": "The Pan-American Nutcracker Suite: Joe McCarthy's NY Afro Bop Alliance Big Band",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://ticketing.jazz.org/21940/21941",
 "src": "dizzys"
 },
 {
@@ -5901,6 +5761,26 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34530-jam-session-hosted-by-matt-snow/",
 "src": "smalls"
+},
+{
+"id": "s3391ab7867",
+"date": "2026-12-17",
+"time": "",
+"title": "Late Shift",
+"venue": "Guggenheim",
+"cat": "art",
+"url": "https://www.guggenheim.org/event/late-shift",
+"src": "guggenheim"
+},
+{
+"id": "s9bab943dde",
+"date": "2026-12-18",
+"time": "09:00",
+"title": "DOT Partner Pell Open Streets Events (Open Street Partner Event) \u00b7 PELL STREET between BOWERY and MOTT STREET \u2014 Full Str",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s2912339da4",
@@ -6441,6 +6321,16 @@
 "cat": "jazz",
 "url": "https://ticketing.jazz.org/21945/21952",
 "src": "dizzys"
+},
+{
+"id": "s73cff8d282",
+"date": "2026-12-20",
+"time": "17:00",
+"title": "Night of the Invincible Sun",
+"venue": "Green-Wood Cemetery",
+"cat": "access",
+"url": "https://www.green-wood.com/event/night-of-the-invincible-sun/",
+"src": "greenwood"
 },
 {
 "id": "s2a037b42f8",
@@ -7083,13 +6973,13 @@
 "src": "smalls"
 },
 {
-"id": "s4e762ffcea",
+"id": "saa24b7dede",
 "date": "2026-12-24",
 "time": "23:55",
-"title": "Jam Session Hosted By Ben Barnett",
+"title": "X-MAS EVE JAM hosted by Ben Barnett",
 "venue": "Smalls",
 "cat": "jazz",
-"url": "https://www.smallslive.com/events/34528-jam-session-hosted-by-ben-barnett/",
+"url": "https://www.smallslive.com/events/34528-x-mas-eve-jam-hosted-by-ben-barnett/",
 "src": "smalls"
 },
 {
@@ -8383,6 +8273,26 @@
 "src": "bluenote"
 },
 {
+"id": "s5d20b3624f",
+"date": "2027-01-05",
+"time": "21:00",
+"title": "Neal Miner Trio",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34777-neal-miner-trio/",
+"src": "mezzrow"
+},
+{
+"id": "sa50d61d43d",
+"date": "2027-01-06",
+"time": "18:00",
+"title": "Kenny Wessel Trio",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34778-kenny-wessel-trio/",
+"src": "mezzrow"
+},
+{
 "id": "s2a39aada3d",
 "date": "2027-01-06",
 "time": "18:00",
@@ -8421,6 +8331,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/cory-henry-blue-note-jazz-club-tickets/14435464",
 "src": "bluenote"
+},
+{
+"id": "s17adeed285",
+"date": "2027-01-06",
+"time": "21:00",
+"title": "Chet Doxas Sextet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34743-chet-doxas-sextet/",
+"src": "smalls"
 },
 {
 "id": "s44b356d1cc",
@@ -8471,6 +8391,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/cory-henry-blue-note-jazz-club-tickets/14435444",
 "src": "bluenote"
+},
+{
+"id": "sf205b1325d",
+"date": "2027-01-07",
+"time": "21:00",
+"title": "Caleb Tobocman Quartet",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34830-caleb-tobocman-quartet/",
+"src": "mezzrow"
 },
 {
 "id": "sd11f5ab895",
@@ -8691,6 +8621,26 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/mike-davis-and-the-new-birdland-jazz-club-tickets/14379714",
 "src": "birdland"
+},
+{
+"id": "s118821bc31",
+"date": "2027-01-10",
+"time": "18:00",
+"title": "Jami Templeton Quartet",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34836-jami-templeton-quartet/",
+"src": "mezzrow"
+},
+{
+"id": "saa200cc6e8",
+"date": "2027-01-10",
+"time": "18:00",
+"title": "Behn Gillece Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34849-behn-gillece-quartet/",
+"src": "smalls"
 },
 {
 "id": "s9ca8ac3f6a",
@@ -9063,13 +9013,13 @@
 "src": "birdland"
 },
 {
-"id": "s1ab0455ffe",
+"id": "sae92076760",
 "date": "2027-01-17",
 "time": "13:00",
-"title": "DIMATexas Recital",
+"title": "DIMA Texas",
 "venue": "Carnegie Hall \u00b7 Weill Recital Hall",
 "cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2027/01/17/dimatexas-recital-0100pm",
+"url": "https://www.carnegiehall.org/calendar/2027/01/17/dima-texas-0100pm",
 "src": "carnegie"
 },
 {
@@ -9663,13 +9613,13 @@
 "src": "carnegie"
 },
 {
-"id": "scc43adabee",
+"id": "sa0f3632173",
 "date": "2027-01-24",
 "time": "13:30",
-"title": "Harlem Gospel Choir",
+"title": "The World Famous Harlem Gospel Choir",
 "venue": "Blue Note",
 "cat": "jazz",
-"url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7pr7",
+"url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/14376244",
 "src": "bluenote"
 },
 {
@@ -9691,6 +9641,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
 "src": "nycballet"
+},
+{
+"id": "s3ce11be4a5",
+"date": "2027-01-24",
+"time": "16:00",
+"title": "Carnegie Hall Citywide: Naomi Steele, Mezzo-SopranoJohn Arida, Piano",
+"venue": "Carnegie Hall \u00b7 St. Paul & St. Andrew United Methodist Church",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/01/24/carnegie-hall-citywide-naomi-steele-mezzosoprano-john-arida-piano-0400pm",
+"src": "carnegie"
 },
 {
 "id": "s9f76e9e8f9",
@@ -9901,6 +9861,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/winter-2027/romeo-and-juliet",
 "src": "nycballet"
+},
+{
+"id": "s8e4b2f4fad",
+"date": "2027-01-27",
+"time": "19:30",
+"title": "LSD (...just the high points...) Renovation",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/lsd-just-the-high-points-renovation-11/",
+"src": "stanns"
 },
 {
 "id": "sb48c15c090",
@@ -10953,16 +10923,6 @@
 "src": "bluenote"
 },
 {
-"id": "s01f242b92e",
-"date": "2027-02-11",
-"time": "20:00",
-"title": "Estefan Iatcekiw, Piano",
-"venue": "Carnegie Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2027/02/11/estefan-iatcekiw-piano-0800pm",
-"src": "carnegie"
-},
-{
 "id": "s3e5f11b8d8",
 "date": "2027-02-11",
 "time": "20:00",
@@ -10970,6 +10930,16 @@
 "venue": "Carnegie Hall \u00b7 Stern Auditorium",
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2027/02/11/orchestra-of-st-lukes-0800pm",
+"src": "carnegie"
+},
+{
+"id": "s01f242b92e",
+"date": "2027-02-11",
+"time": "20:00",
+"title": "Estefan Iatcekiw, Piano",
+"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/02/11/estefan-iatcekiw-piano-0800pm",
 "src": "carnegie"
 },
 {
@@ -11877,7 +11847,7 @@
 "date": "2027-02-26",
 "time": "19:30",
 "title": "Amazonas 2027",
-"venue": "Carnegie Hall",
+"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2027/02/26/amazonas-2027-0730pm",
 "src": "carnegie"
@@ -12051,6 +12021,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/winter-2027/taylor-stanley-farewell",
 "src": "nycballet"
+},
+{
+"id": "s9d05ca4351",
+"date": "2027-02-28",
+"time": "16:00",
+"title": "Carnegie Hall Citywide: The Met Orchestra Chamber Ensemble",
+"venue": "Carnegie Hall \u00b7 St. Paul & St. Andrew United Methodist Church",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/02/28/carnegie-hall-citywide-the-met-orchestra-chamber-ensemble-0400pm",
+"src": "carnegie"
 },
 {
 "id": "se1e6170089",
@@ -13743,13 +13723,13 @@
 "src": "carnegie"
 },
 {
-"id": "s8936a2f49a",
+"id": "s73de1459f2",
 "date": "2027-03-31",
 "time": "20:00",
-"title": "The Sophia Rosoff Concert Series 2027",
+"title": "The Sophia Rosoff Concert Series",
 "venue": "Carnegie Hall \u00b7 Weill Recital Hall",
 "cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2027/03/31/the-sophia-rosoff-concert-series-2027-0800pm",
+"url": "https://www.carnegiehall.org/calendar/2027/03/31/the-sophia-rosoff-concert-series-0800pm",
 "src": "carnegie"
 },
 {
@@ -14731,6 +14711,26 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/merkin-apr",
 "src": "nyphil"
+},
+{
+"id": "saaa182b822",
+"date": "2027-04-18",
+"time": "16:00",
+"title": "Carnegie Hall Citywide: David Virelles, Piano",
+"venue": "Carnegie Hall \u00b7 Brooklyn Public Library, Central Library",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/04/18/carnegie-hall-citywide-david-virelles-piano-0400pm",
+"src": "carnegie"
+},
+{
+"id": "s4b78b43fc2",
+"date": "2027-04-18",
+"time": "16:00",
+"title": "Carnegie Hall Citywide: \u200bChuanyuan Liu, CountertenorTongyao Li, Piano",
+"venue": "Carnegie Hall \u00b7 St. Paul & St. Andrew United Methodist Church",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/04/18/carnegie-hall-citywide-chuanyuan-liu-countertenor-tongyao-li-piano-0400pm",
+"src": "carnegie"
 },
 {
 "id": "sb3f83d158e",
@@ -15783,6 +15783,16 @@
 "src": "nycballet"
 },
 {
+"id": "sec4e7defed",
+"date": "2027-05-09",
+"time": "16:00",
+"title": "Carnegie Hall Citywide: Jazmine Saunders, SopranoMicha\u0142 Skowronek, Piano",
+"venue": "Carnegie Hall \u00b7 St. Paul & St. Andrew United Methodist Church",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/05/09/carnegie-hall-citywide-jazmine-saunders-soprano-michal-skowronek-piano-0400pm",
+"src": "carnegie"
+},
+{
 "id": "s31d56d2726",
 "date": "2027-05-09",
 "time": "19:30",
@@ -16423,6 +16433,16 @@
 "src": "carnegie"
 },
 {
+"id": "s75133b4956",
+"date": "2027-05-23",
+"time": "15:00",
+"title": "Carnegie Hall Citywide: \u200bSoh Daiko",
+"venue": "Carnegie Hall \u00b7 LaGuardia Community College",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/05/23/carnegie-hall-citywide-soh-daiko-0300pm",
+"src": "carnegie"
+},
+{
 "id": "s8ee6dd727b",
 "date": "2027-05-23",
 "time": "15:00",
@@ -16441,6 +16461,16 @@
 "cat": "dance",
 "url": "https://www.nycballet.com/season-and-tickets/spring-2027/copland-dance-episodes",
 "src": "nycballet"
+},
+{
+"id": "sb4f578153b",
+"date": "2027-05-23",
+"time": "16:00",
+"title": "Carnegie Hall Citywide: The Met Orchestra Chamber Ensemble",
+"venue": "Carnegie Hall \u00b7 Brooklyn Public Library, Central Library",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/05/23/carnegie-hall-citywide-the-met-orchestra-chamber-ensemble-0400pm",
+"src": "carnegie"
 },
 {
 "id": "s88ed2695ba",
@@ -17363,6 +17393,26 @@
 "src": "carnegie"
 },
 {
+"id": "s69e271ab29",
+"date": "2027-06-16",
+"time": "20:00",
+"title": "The Sophia Rosoff Concert Series",
+"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/06/16/the-sophia-rosoff-concert-series-0800pm",
+"src": "carnegie"
+},
+{
+"id": "se78caad58f",
+"date": "2027-06-17",
+"time": "19:00",
+"title": "Carnegie Hall Citywide: Merz Trio",
+"venue": "Carnegie Hall \u00b7 Brooklyn Public Library, Central Library",
+"cat": "classical",
+"url": "https://www.carnegiehall.org/calendar/2027/06/17/carnegie-hall-citywide-merz-trio-0700pm",
+"src": "carnegie"
+},
+{
 "id": "s4a112deb43",
 "date": "2027-06-17",
 "time": "19:00",
@@ -17671,16 +17721,6 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2027/06/26/final-fantasy-40th-anniversary-distant-worlds-music-from-final-fantasy---etern-0800pm",
 "src": "carnegie"
-},
-{
-"id": "s3512abdefa",
-"date": "2027-06-26",
-"time": "",
-"title": "Alex Da Corte\u2019s ROY G BIV (2022)",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/alex-da-cortes-roy-g-biv-2022",
-"src": "guggenheim"
 },
 {
 "id": "s2b7e972fdc",
