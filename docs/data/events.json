@@ -1,126 +1,16 @@
 {
-"generated": "2026-11-20T17:26:01+00:00",
-"count": 1844,
+"generated": "2026-11-21T16:29:52+00:00",
+"count": 1849,
 "events": [
 {
-"id": "s9064f7346a",
-"date": "2026-11-19",
+"id": "sd015da3d6f",
+"date": "2026-11-20",
 "time": "07:00",
-"title": "Essentia x Rocky at Action Black: 152 Franklin St. (Street Event) \u00b7 FRANKLIN STREET between VARICK STREET and HUDSON STR",
+"title": "Project Street Beat - Keith Haring Foundation Mobile Health Center Community Event (Street Event) \u00b7 684 6 AVENUE between",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
-},
-{
-"id": "s04b0958216",
-"date": "2026-11-19",
-"time": "07:30",
-"title": "Street Health Outreach and Wellness (Street Event) \u00b7 MOUNT MORRIS PARK WEST between WEST 123 STREET and WEST 12 \u2014 Sidewa",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s7ace403f9b",
-"date": "2026-11-19",
-"time": "07:30",
-"title": "Journey Through Italy (Street Event) \u00b7 WASHINGTON STREET between WEST 14 STREET and WEST 13 STR \u2014 Partial Sidewalk Closu",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sa75ab97364",
-"date": "2026-11-19",
-"time": "08:00",
-"title": "People x Yellowjackets Newsstand Activation at 599 Broadway (Street Event) \u00b7 BROADWAY between EAST HOUSTON STREET and PR",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sbc440e304d",
-"date": "2026-11-19",
-"time": "08:00",
-"title": "Grand Opening (Street Event) \u00b7 EAST 17 STREET between UNION SQUARE WEST and 5 AVENUE \u2014 Partial Sidewalk Closure closure",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s8746002900",
-"date": "2026-11-19",
-"time": "10:30",
-"title": "Sushiro Grand Opening (Street Event) \u00b7 8 AVENUE between WEST 42 STREET and WEST 43 STREET \u2014 Partial Sidewalk Closure clo",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s6e372c2521",
-"date": "2026-11-19",
-"time": "15:00",
-"title": "Thanksgiving block party (Street Event) \u00b7 WADSWORTH AVENUE between WEST 176 STREET and WEST 177 STRE \u2014 Full Street Closu",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s332826c7ba",
-"date": "2026-11-19",
-"time": "18:00",
-"title": "BERGDORF WINDOW UNVEILING (Street Event) \u00b7 5 AVENUE between WEST 57 STREET and WEST 58 STREET, WES \u2014 Partial Sidewalk Cl",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sd5d90e44c1",
-"date": "2026-11-19",
-"time": "19:30",
-"title": "Frank Huang Performs Mendelssohn",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/gonzalez-monjas-conducts",
-"src": "nyphil"
-},
-{
-"id": "sbcc2ffbe75",
-"date": "2026-11-19",
-"time": "",
-"title": "Discover Design at Andrew Heiskell Braille and Talking Book Library: Design Across Time",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/discover-design-at-andrew-heiskell-braille-and-talking-book-library-design-across-time-11-19-2026/",
-"src": "cooperhewitt"
-},
-{
-"id": "s857d82ae8a",
-"date": "2026-11-19",
-"time": "",
-"title": "Member Morning: Guggenheim Pop",
-"venue": "Guggenheim",
-"cat": "art",
-"url": "https://www.guggenheim.org/event/member-morning-guggenheim-pop",
-"src": "guggenheim"
-},
-{
-"id": "s841898308a",
-"date": "2026-11-19",
-"time": "",
-"title": "Ichi-go Ichi-e Encounters with Yumi Kurosawa",
-"venue": "Japan Society",
-"cat": "talks",
-"url": "https://japansociety.org/events/ichi-go-ichi-e-encounters-with-yumi-kurosawa/",
-"src": "japansociety"
 },
 {
 "id": "s1578a7958e",
@@ -173,26 +63,6 @@
 "src": "nycpermits"
 },
 {
-"id": "s95b1d5c2f5",
-"date": "2026-11-20",
-"time": "14:00",
-"title": "TGIF! Afterschool Story and Craft Hour",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/tgif-4/",
-"src": "greenwood"
-},
-{
-"id": "sf867c6a17c",
-"date": "2026-11-20",
-"time": "17:30",
-"title": "Birdland Big Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/birdland-big-band-birdland-jazz-club-tickets/14196734",
-"src": "birdland"
-},
-{
 "id": "sc52cfe4a8b",
 "date": "2026-11-20",
 "time": "17:45",
@@ -203,76 +73,6 @@
 "src": "nycpermits"
 },
 {
-"id": "s75e954329b",
-"date": "2026-11-20",
-"time": "18:00",
-"title": "Kenny Davis Quartet",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34328-kenny-davis-quartet/",
-"src": "mezzrow"
-},
-{
-"id": "see18a61a9b",
-"date": "2026-11-20",
-"time": "18:00",
-"title": "Valery Ponomarev Quintet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34415-valery-ponomarev-quintet/",
-"src": "smalls"
-},
-{
-"id": "s1a7416a556",
-"date": "2026-11-20",
-"time": "18:30",
-"title": "Billy Hart Quartet",
-"venue": "Smoke Jazz Club",
-"cat": "jazz",
-"url": "https://tickets.smokejazz.com/shows/13395/?date=2026-11-20",
-"src": "smoke"
-},
-{
-"id": "s0d240f9bf5",
-"date": "2026-11-20",
-"time": "19:00",
-"title": "Evan Palazzo & Friends",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/evan-palazzo-friends-birdland-theater-tickets/15001913",
-"src": "birdland"
-},
-{
-"id": "sa02121b1ad",
-"date": "2026-11-20",
-"time": "19:00",
-"title": "Bill Charlap Solo Piano",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://ticketing.jazz.org/21725/21730",
-"src": "dizzys"
-},
-{
-"id": "s755d0ee856",
-"date": "2026-11-20",
-"time": "19:00",
-"title": "The Mingus Dynasty",
-"venue": "Zinc Bar",
-"cat": "jazz",
-"url": "https://www.zincbar.com/event/the-mingus-dynasty-4/",
-"src": "zincbar"
-},
-{
-"id": "scfcadab5fc",
-"date": "2026-11-20",
-"time": "19:30",
-"title": "Chamber Orchestra of New York",
-"venue": "Carnegie Hall \u00b7 Zankel Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/20/chamber-orchestra-of-new-york-0730pm",
-"src": "carnegie"
-},
-{
 "id": "sbf75296aa5",
 "date": "2026-11-20",
 "time": "19:30",
@@ -281,106 +81,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/gonzalez-monjas-conducts",
 "src": "nyphil"
-},
-{
-"id": "s4489ae6687",
-"date": "2026-11-20",
-"time": "19:30",
-"title": "Tristan & Yseult",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/tristan-yseult-22/",
-"src": "stanns"
-},
-{
-"id": "s839c44130f",
-"date": "2026-11-20",
-"time": "20:00",
-"title": "Aneesa Strings",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/aneesa-strings-blue-note-jazz-club-tickets/14336784",
-"src": "bluenote"
-},
-{
-"id": "s5352147d6e",
-"date": "2026-11-20",
-"time": "20:00",
-"title": "The New York Pops",
-"venue": "Carnegie Hall \u00b7 Stern Auditorium",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/20/the-new-york-pops-0800pm",
-"src": "carnegie"
-},
-{
-"id": "s1ad9e091a7",
-"date": "2026-11-20",
-"time": "20:00",
-"title": "Takako Ines Asahina, Piano Trio",
-"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/20/takako-ines-asahina-piano-trio-0800pm",
-"src": "carnegie"
-},
-{
-"id": "sa049ddf169",
-"date": "2026-11-20",
-"time": "20:30",
-"title": "Maria Schneider Orchestra",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/maria-schneider-orchestra-birdland-jazz-club-tickets/15005413",
-"src": "birdland"
-},
-{
-"id": "sf165e788ad",
-"date": "2026-11-20",
-"time": "21:00",
-"title": "Mike Ledonne Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34330-mike-ledonne-trio/",
-"src": "mezzrow"
-},
-{
-"id": "s386f10542f",
-"date": "2026-11-20",
-"time": "21:00",
-"title": "PBS Great Performances: Dudamel Conducts the New York Philharmonic",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/dudamel-conducts-mahler-and-tania-leon-pbs-great-performances",
-"src": "nyphil"
-},
-{
-"id": "s80a15a78fb",
-"date": "2026-11-20",
-"time": "21:00",
-"title": "Steve Slagle Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34417-steve-slagle-quartet/",
-"src": "smalls"
-},
-{
-"id": "sda068b7d68",
-"date": "2026-11-20",
-"time": "23:55",
-"title": "Round Midnight Solo Piano with Miki Yamanaka",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34497-round-midnight-solo-piano-with-miki-yamanaka/",
-"src": "mezzrow"
-},
-{
-"id": "sc767e2070d",
-"date": "2026-11-20",
-"time": "23:55",
-"title": "Eric Wyatt Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34419-eric-wyatt-quartet/",
-"src": "smalls"
 },
 {
 "id": "s298e86c041",
@@ -563,6 +263,16 @@
 "src": "smoke"
 },
 {
+"id": "sbfad6f8c25",
+"date": "2026-11-21",
+"time": "19:00",
+"title": "Evan Palazzo & Friends",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/evan-palazzo-friends-birdland-theater-tickets/15001923",
+"src": "birdland"
+},
+{
 "id": "s89648dc7c9",
 "date": "2026-11-21",
 "time": "19:00",
@@ -671,6 +381,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34420-stacy-dillard-quartet/",
 "src": "smalls"
+},
+{
+"id": "s53a97c3980",
+"date": "2026-11-22",
+"time": "09:00",
+"title": "Medicube (Street Event) \u00b7 BROADWAY between EAST HOUSTON STREET and PRINCE STREET \u2014 Curb Lane Only closure",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s90f17f7043",
@@ -1073,6 +793,16 @@
 "src": "greenwood"
 },
 {
+"id": "s17cc19e8b1",
+"date": "2026-11-24",
+"time": "10:00",
+"title": "Catholic Charities Annual Thanksgiving Distribution (Street Event) \u00b7 LENOX TERRACE PLACE between WEST 134 STREET and WES",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "sdf983a406a",
 "date": "2026-11-24",
 "time": "18:00",
@@ -1413,6 +1143,36 @@
 "src": "nycpermits"
 },
 {
+"id": "s7078fa87c5",
+"date": "2026-11-26",
+"time": "08:30",
+"title": "100th Annual Macys Thanksgiving Day Parade \u00b7 CENTRAL PARK WEST between WEST 76 STREET and WEST 81 STR \u2014 Full Street Clos",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s759dc4b60e",
+"date": "2026-11-26",
+"time": "08:30",
+"title": "NBC Broadcast of 100th Macys Thanksgiving Day Parade (Street Event) \u00b7 WEST 34 STREET between BROADWAY and 7 AVENUE, WEST",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "scdfafc3040",
+"date": "2026-11-26",
+"time": "13:00",
+"title": "Thanksgiving at Pathways (Street Event) \u00b7 WEST 80 STREET between BROADWAY and WEST END AVENUE \u2014 Curb Lane Only closure",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "sb416114901",
 "date": "2026-11-26",
 "time": "18:30",
@@ -1507,6 +1267,16 @@
 "date": "2026-11-27",
 "time": "11:00",
 "title": "Coffee Truck at The JBL Store: 19 E. Houston St. (Street Event) \u00b7 EAST HOUSTON STREET between BROADWAY and CROSBY STREET",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s424162af20",
+"date": "2026-11-27",
+"time": "12:00",
+"title": "Canada Goose Beverage Cart - 5th Ave (Street Event) \u00b7 EAST 54 STREET between 5 AVENUE and MADISON AVENUE \u2014 Partial Sidew",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -2293,6 +2063,16 @@
 "src": "birdland"
 },
 {
+"id": "sf946bb4488",
+"date": "2026-11-30",
+"time": "22:00",
+"title": "Macys Parade Marquee Installation and Takedown (Film/TV) \u00b7 WEST 34 STREET between 7 AVENUE and BROADWAY \u2014 Curb Lane Only",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s251814329d",
 "date": "2026-11-30",
 "time": "23:30",
@@ -2327,6 +2107,16 @@
 "date": "2026-12-01",
 "time": "07:30",
 "title": "Street Health Outreach and Wellness (Street Event) \u00b7 DELANCEY STREET between CHRYSTIE STREET and FORSYTH STREET \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s5c110e22d9",
+"date": "2026-12-01",
+"time": "11:00",
+"title": "Ouidad Holiday (Street Event) \u00b7 EAST 19 STREET between 5 AVENUE and BROADWAY \u2014 Partial Sidewalk Closure closure",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -2453,6 +2243,16 @@
 "src": "smalls"
 },
 {
+"id": "sdf6ebbd921",
+"date": "2026-12-01",
+"time": "22:00",
+"title": "Macys Parade Marquee Installation and Takedown (Film/TV) \u00b7 WEST 34 STREET between 7 AVENUE and BROADWAY \u2014 Curb Lane Only",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s6060eb9f2b",
 "date": "2026-12-01",
 "time": "23:30",
@@ -2507,6 +2307,16 @@
 "date": "2026-12-02",
 "time": "07:30",
 "title": "Street Health Outreach and Wellness (Street Event) \u00b7 MOUNT MORRIS PARK WEST between WEST 123 STREET and WEST 12 \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s48fe72c0d6",
+"date": "2026-12-02",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -2713,6 +2523,16 @@
 "src": "nycpermits"
 },
 {
+"id": "s67ed2d3b88",
+"date": "2026-12-03",
+"time": "08:00",
+"title": "SP GLOBAL (Street Event) \u00b7 LEXINGTON AVENUE between EAST 42 STREET and EAST 43 STRE \u2014 Sidewalk and Curb Lane Closure clo",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s7dc445f63f",
 "date": "2026-12-03",
 "time": "09:45",
@@ -2721,6 +2541,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/donor-rehearsal-bruce-liu-performs-tchaikovsky",
 "src": "nyphil"
+},
+{
+"id": "s4aa278b26a",
+"date": "2026-12-03",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s9f37973fe4",
@@ -2923,6 +2753,16 @@
 "src": "nycpermits"
 },
 {
+"id": "sfc8c4b81f6",
+"date": "2026-12-04",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s6dcf472216",
 "date": "2026-12-04",
 "time": "12:00",
@@ -2933,6 +2773,16 @@
 "src": "mvhm"
 },
 {
+"id": "s5da524f662",
+"date": "2026-12-04",
+"time": "12:30",
+"title": "1-Old Navy Holiday Gift Truck at 147 E. 86th St. (Street Event) \u00b7 EAST 86 STREET between 3 AVENUE and LEXINGTON AVENUE \u2014",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s9bfa954e53",
 "date": "2026-12-04",
 "time": "14:00",
@@ -2941,6 +2791,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/tgif-5/",
 "src": "greenwood"
+},
+{
+"id": "scddf355f53",
+"date": "2026-12-04",
+"time": "16:30",
+"title": "Holiday Lighting (Plaza Partner Event) \u00b7 Bogardus Plaza: Bogardus Plaza Hudson Street between Chamber \u2014 Pedestrian Plaza",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "sfd188b6205",
@@ -3403,6 +3263,16 @@
 "src": "nycpermits"
 },
 {
+"id": "s7d0d772b86",
+"date": "2026-12-06",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "se730c4a141",
 "date": "2026-12-06",
 "time": "13:30",
@@ -3633,6 +3503,16 @@
 "src": "nycpermits"
 },
 {
+"id": "s08e3f632ba",
+"date": "2026-12-07",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s2347823261",
 "date": "2026-12-07",
 "time": "16:30",
@@ -3733,16 +3613,6 @@
 "src": "mezzrow"
 },
 {
-"id": "sf7d3d18f05",
-"date": "2026-12-07",
-"time": "21:00",
-"title": "Joe Farnsworth Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34600-joe-farnsworth-quartet/",
-"src": "smalls"
-},
-{
 "id": "se16ccca6d6",
 "date": "2026-12-07",
 "time": "21:00",
@@ -3750,6 +3620,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34600-ben-solomon-quartet/",
+"src": "smalls"
+},
+{
+"id": "sf7d3d18f05",
+"date": "2026-12-07",
+"time": "21:00",
+"title": "Joe Farnsworth Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34600-joe-farnsworth-quartet/",
 "src": "smalls"
 },
 {
@@ -3811,6 +3691,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-12-08/",
 "src": "greenwood"
+},
+{
+"id": "s889a85dda8",
+"date": "2026-12-08",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s4e516713ab",
@@ -4033,6 +3923,16 @@
 "src": "mvhm"
 },
 {
+"id": "s23ca11d819",
+"date": "2026-12-09",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "sde68df7cba",
 "date": "2026-12-09",
 "time": "18:00",
@@ -4233,6 +4133,16 @@
 "src": "nycpermits"
 },
 {
+"id": "sc534bb1885",
+"date": "2026-12-10",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s85e6e18c6c",
 "date": "2026-12-10",
 "time": "18:00",
@@ -4421,6 +4331,16 @@
 "cat": "houses",
 "url": "https://mvhm.org/event/holiday-open-house-at-the-mount-vernon-hotel-museum-garden-fri-dec-11th/",
 "src": "mvhm"
+},
+{
+"id": "sf4b4637986",
+"date": "2026-12-11",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s82b10fb938",
@@ -4673,6 +4593,16 @@
 "src": "nycpermits"
 },
 {
+"id": "s56066ee206",
+"date": "2026-12-12",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s53fa47d7e6",
 "date": "2026-12-12",
 "time": "11:30",
@@ -4681,6 +4611,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/the-cb-quintet-presents-blue-note-jazz-club-tickets/15054153",
 "src": "bluenote"
+},
+{
+"id": "se717b361da",
+"date": "2026-12-12",
+"time": "11:30",
+"title": "HOLIDAY DRUMMING IN THE SQUARE 2026 (Plaza Partner Event) \u00b7 Pershing Square Plaza: West Park ave between E 42nd street a",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "sbb275c1b3a",
@@ -4913,6 +4853,16 @@
 "src": "greenwood"
 },
 {
+"id": "s203c9d8487",
+"date": "2026-12-13",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "saad50b056c",
 "date": "2026-12-13",
 "time": "12:00",
@@ -4961,6 +4911,16 @@
 "cat": "talks",
 "url": "https://stannswarehouse.org/show/saigon-10/",
 "src": "stanns"
+},
+{
+"id": "s343481f4e8",
+"date": "2026-12-13",
+"time": "15:00",
+"title": "CAROLING IN THE SQUARE 2026 (Plaza Partner Event) \u00b7 Pershing Square Plaza: West Park ave between E 42nd street a \u2014 Pedes",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s7c59905fee",
@@ -5123,6 +5083,16 @@
 "src": "nycpermits"
 },
 {
+"id": "s9bbad50416",
+"date": "2026-12-14",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s330f53a294",
 "date": "2026-12-14",
 "time": "18:00",
@@ -5271,6 +5241,16 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/marty-supreme/",
 "src": "japansociety"
+},
+{
+"id": "sc8dc15555b",
+"date": "2026-12-15",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "se118d34637",
@@ -5443,6 +5423,16 @@
 "src": "emanuel"
 },
 {
+"id": "sf094a39d15",
+"date": "2026-12-16",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s56da20e5e0",
 "date": "2026-12-16",
 "time": "18:00",
@@ -5513,16 +5503,6 @@
 "src": "carnegie"
 },
 {
-"id": "sddee0f0d10",
-"date": "2026-12-16",
-"time": "19:00",
-"title": "The Pan-American Nutcracker Suite: Joe McCarthy's NY Afro Bop Alliance Big Band",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://ticketing.jazz.org/21940/21943",
-"src": "dizzys"
-},
-{
 "id": "s906c77e16d",
 "date": "2026-12-16",
 "time": "19:00",
@@ -5530,6 +5510,16 @@
 "venue": "Dizzy's Club",
 "cat": "jazz",
 "url": "https://ticketing.jazz.org/20667/20672",
+"src": "dizzys"
+},
+{
+"id": "sddee0f0d10",
+"date": "2026-12-16",
+"time": "19:00",
+"title": "The Pan-American Nutcracker Suite: Joe McCarthy's NY Afro Bop Alliance Big Band",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://ticketing.jazz.org/21940/21943",
 "src": "dizzys"
 },
 {
@@ -5601,6 +5591,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34515-jam-session-hosted-by-carlos-abadie/",
 "src": "smalls"
+},
+{
+"id": "sa58b33bb0c",
+"date": "2026-12-17",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s4887ae1d6b",
@@ -5777,6 +5777,16 @@
 "date": "2026-12-18",
 "time": "09:00",
 "title": "DOT Partner Pell Open Streets Events (Open Street Partner Event) \u00b7 PELL STREET between BOWERY and MOTT STREET \u2014 Full Str",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s1c012d3765",
+"date": "2026-12-18",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -5991,6 +6001,26 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34671-chris-beck-quartet/",
 "src": "smalls"
+},
+{
+"id": "s03722204ab",
+"date": "2026-12-19",
+"time": "09:00",
+"title": "DOT Partner Pell Open Streets Events (Open Street Partner Event) \u00b7 PELL STREET between BOWERY and MOTT STREET \u2014 Full Str",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "saaa919f3df",
+"date": "2026-12-19",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s374859965d",
@@ -8893,6 +8923,16 @@
 "src": "dizzys"
 },
 {
+"id": "s45b5a99ea2",
+"date": "2027-01-15",
+"time": "18:00",
+"title": "Vanessa Rubin Quartet",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34841-vanessa-rubin-quartet/",
+"src": "mezzrow"
+},
+{
 "id": "s8782a2835c",
 "date": "2027-01-15",
 "time": "19:00",
@@ -8991,6 +9031,16 @@
 "cat": "jazz",
 "url": "https://ticketing.jazz.org/20690/20692",
 "src": "dizzys"
+},
+{
+"id": "sfc035351b7",
+"date": "2027-01-16",
+"time": "18:00",
+"title": "Vanessa Rubin Quartet",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34842-vanessa-rubin-quartet/",
+"src": "mezzrow"
 },
 {
 "id": "sf09b656d93",
@@ -9613,13 +9663,13 @@
 "src": "carnegie"
 },
 {
-"id": "sa0f3632173",
+"id": "scc43adabee",
 "date": "2027-01-24",
 "time": "13:30",
-"title": "The World Famous Harlem Gospel Choir",
+"title": "Harlem Gospel Choir",
 "venue": "Blue Note",
 "cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/14376244",
+"url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7pr7",
 "src": "bluenote"
 },
 {
@@ -9951,6 +10001,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/mirga-grazinyte-tyla-and-maxim-vengerov",
 "src": "nyphil"
+},
+{
+"id": "s340529a1d4",
+"date": "2027-01-28",
+"time": "19:30",
+"title": "LSD (...just the high points...) Renovation",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/lsd-just-the-high-points-renovation-12/",
+"src": "stanns"
 },
 {
 "id": "s4d9bb1197e",
@@ -15491,16 +15551,6 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2027/05/03/new-york-youth-symphony-chamber-music-program-0730pm",
 "src": "carnegie"
-},
-{
-"id": "s89a42d644e",
-"date": "2027-05-03",
-"time": "",
-"title": "Carnegie Mansion Tour for the Week of May 3 \u2013 May 9",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/carnegie-mansion-tour-for-the-week-of-may-3-may-9-05-03-2026/",
-"src": "cooperhewitt"
 },
 {
 "id": "s59bdd971eb",
