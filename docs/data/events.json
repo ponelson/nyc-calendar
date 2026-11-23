@@ -1,307 +1,7 @@
 {
-"generated": "2026-11-22T16:47:30+00:00",
-"count": 1832,
+"generated": "2026-11-23T20:43:23+00:00",
+"count": 1819,
 "events": [
-{
-"id": "sc7b98c9caa",
-"date": "2026-11-21",
-"time": "10:00",
-"title": "tonies Holiday Listening Lounge (Street Event) \u00b7 LEXINGTON AVENUE between EAST 81 STREET and EAST 80 STRE \u2014 Sidewalk and",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s511a517d10",
-"date": "2026-11-21",
-"time": "11:00",
-"title": "Bang Olufsen (Street Event) \u00b7 WASHINGTON STREET between GANSEVOORT STREET and LITTLE WEST \u2014 Curb Lane Only closure",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "sbd54ca55e0",
-"date": "2026-11-21",
-"time": "11:00",
-"title": "Feeding the Homeless (Street Event) \u00b7 EAST 125 STREET between PARK AVENUE and MADISON AVENUE \u2014 Partial Sidewalk Closure ",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s2f1e4cfdb8",
-"date": "2026-11-21",
-"time": "12:00",
-"title": "Step Van at The JBL Store: 19 E. Houston St. (Street Event) \u00b7 EAST HOUSTON STREET between BROADWAY and CROSBY STREET \u2014 S",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s3ce5e31e19",
-"date": "2026-11-21",
-"time": "17:30",
-"title": "The Sy Katz 31 Parade \u00b7 1 VANDERBILT AVENUE, EAST 42 STREET between VANDERBILT AVE \u2014 Partial Sidewalk Closure closure",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s39e2fd167d",
-"date": "2026-11-21",
-"time": "18:00",
-"title": "HELLENIC INITIATIVE (Street Event) \u00b7 WALL STREET between WILLIAM STREET and HANOVER STREET \u2014 Sidewalk and Curb Lane Clos",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s53a97c3980",
-"date": "2026-11-22",
-"time": "09:00",
-"title": "Medicube (Street Event) \u00b7 BROADWAY between EAST HOUSTON STREET and PRINCE STREET \u2014 Curb Lane Only closure",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s90f17f7043",
-"date": "2026-11-22",
-"time": "10:00",
-"title": "THANKSGIVING TURKEY GIVEAWAY (Street Event) \u00b7 WEST 175 STREET between ST NICHOLAS AVENUE and AUDUBON AVEN \u2014 Full Street ",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "se2cb81ced3",
-"date": "2026-11-22",
-"time": "11:00",
-"title": "Grave Beginnings: Green-Wood By Trolley",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley-5/",
-"src": "greenwood"
-},
-{
-"id": "sdefc87322d",
-"date": "2026-11-22",
-"time": "12:00",
-"title": "IAPMT Winners' Concert",
-"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/22/iapmt-winners-concert-1200pm",
-"src": "carnegie"
-},
-{
-"id": "sdb4f16ba30",
-"date": "2026-11-22",
-"time": "13:00",
-"title": "Green-Wood's Greatest Hits",
-"venue": "Green-Wood Cemetery",
-"cat": "access",
-"url": "https://www.green-wood.com/event/green-woods-greatest-hits-20/",
-"src": "greenwood"
-},
-{
-"id": "s3756b8f023",
-"date": "2026-11-22",
-"time": "13:30",
-"title": "The World Famous Harlem Gospel Choir",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/14939793",
-"src": "bluenote"
-},
-{
-"id": "s93b3b09a38",
-"date": "2026-11-22",
-"time": "14:00",
-"title": "New York Youth Symphony",
-"venue": "Carnegie Hall \u00b7 Stern Auditorium",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/22/new-york-youth-symphony-0200pm",
-"src": "carnegie"
-},
-{
-"id": "s0c16530e01",
-"date": "2026-11-22",
-"time": "14:00",
-"title": "Smalls Afternoon Jam Session Hosted by Ryo Sasaki Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34372-smalls-afternoon-jam-session-hosted-by-ryo-sasaki-quartet/",
-"src": "smalls"
-},
-{
-"id": "s030ede055e",
-"date": "2026-11-22",
-"time": "14:00",
-"title": "Tristan & Yseult",
-"venue": "St. Ann's Warehouse",
-"cat": "talks",
-"url": "https://stannswarehouse.org/show/tristan-yseult-25/",
-"src": "stanns"
-},
-{
-"id": "s27a1fe57d7",
-"date": "2026-11-22",
-"time": "17:00",
-"title": "Master Jeongwook Park",
-"venue": "Carnegie Hall \u00b7 Zankel Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/22/master-jeongwook-park-0500pm",
-"src": "carnegie"
-},
-{
-"id": "s481ab37a63",
-"date": "2026-11-22",
-"time": "17:00",
-"title": "Bill Charlap Solo Piano",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://ticketing.jazz.org/21725/21734",
-"src": "dizzys"
-},
-{
-"id": "s3f9d515054",
-"date": "2026-11-22",
-"time": "18:00",
-"title": "Paul Jost Quartet",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34332-paul-jost-quartet/",
-"src": "mezzrow"
-},
-{
-"id": "s2915d2145e",
-"date": "2026-11-22",
-"time": "18:00",
-"title": "Grant Stewart Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34422-grant-stewart-quartet/",
-"src": "smalls"
-},
-{
-"id": "s889dd1429e",
-"date": "2026-11-22",
-"time": "18:30",
-"title": "Billy Hart Quartet",
-"venue": "Smoke Jazz Club",
-"cat": "jazz",
-"url": "https://tickets.smokejazz.com/shows/13395/?date=2026-11-22",
-"src": "smoke"
-},
-{
-"id": "sca06c43e0d",
-"date": "2026-11-22",
-"time": "19:00",
-"title": "Evan Palazzo & Friends",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/evan-palazzo-friends-birdland-theater-tickets/15001893",
-"src": "birdland"
-},
-{
-"id": "sb3daf1232d",
-"date": "2026-11-22",
-"time": "19:30",
-"title": "Concert Festival Winners' Recital",
-"venue": "Carnegie Hall \u00b7 Weill Recital Hall",
-"cat": "classical",
-"url": "https://www.carnegiehall.org/calendar/2026/11/22/concert-festival-winners-recital-0730pm",
-"src": "carnegie"
-},
-{
-"id": "s6731fbe029",
-"date": "2026-11-22",
-"time": "19:30",
-"title": "Valtinho Anast\u00c3\u00a1cio",
-"venue": "Zinc Bar",
-"cat": "jazz",
-"url": "https://www.zincbar.com/event/valtinho-anastacio-80/",
-"src": "zincbar"
-},
-{
-"id": "sada253ab50",
-"date": "2026-11-22",
-"time": "19:30",
-"title": "Valtinho Anast\u00e1cio",
-"venue": "Zinc Bar",
-"cat": "jazz",
-"url": "https://www.zincbar.com/event/valtinho-anastacio-80/",
-"src": "zincbar"
-},
-{
-"id": "s2e0b1eb5ae",
-"date": "2026-11-22",
-"time": "20:00",
-"title": "Aneesa Strings",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/aneesa-strings-blue-note-jazz-club-tickets/14336824",
-"src": "bluenote"
-},
-{
-"id": "s6b7568b6df",
-"date": "2026-11-22",
-"time": "20:30",
-"title": "The Birdland Latin Jazz Orchestra",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-birdland-latin-jazz-orchestra-birdland-jazz-club-tickets/14225004",
-"src": "birdland"
-},
-{
-"id": "s235cf0ebb9",
-"date": "2026-11-22",
-"time": "21:00",
-"title": "Vanisha Gould Quartet",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34487-vanisha-gould-quartet/",
-"src": "mezzrow"
-},
-{
-"id": "sb4f87ae1de",
-"date": "2026-11-22",
-"time": "21:00",
-"title": "Skylar Tang Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34423-skylar-tang-quartet/",
-"src": "smalls"
-},
-{
-"id": "sd8fea8d31a",
-"date": "2026-11-22",
-"time": "23:55",
-"title": "Aaron Johnson Quintet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34421-aaron-johnson-quintet/",
-"src": "smalls"
-},
-{
-"id": "s232fe1515d",
-"date": "2026-11-23",
-"time": "07:00",
-"title": "Chris Beck Quartet",
-"venue": "Zinc Bar",
-"cat": "jazz",
-"url": "https://www.zincbar.com/event/chris-beck-quartet-3/",
-"src": "zincbar"
-},
 {
 "id": "sf9bfb0a51d",
 "date": "2026-11-23",
@@ -321,6 +21,16 @@
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
+},
+{
+"id": "sce8a78ce7d",
+"date": "2026-11-23",
+"time": "17:30",
+"title": "Vince Giordano and The Nighthawks",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14225204",
+"src": "birdland"
 },
 {
 "id": "s2f1beed3ac",
@@ -421,6 +131,16 @@
 "cat": "jazz",
 "url": "https://squadup.com/events/monday-800-pm---vanguard-jazz-orchestra-252",
 "src": "vanguard"
+},
+{
+"id": "s232fe1515d",
+"date": "2026-11-23",
+"time": "20:30",
+"title": "Chris Beck Quartet",
+"venue": "Zinc Bar",
+"cat": "jazz",
+"url": "https://www.zincbar.com/event/chris-beck-quartet-3/",
+"src": "zincbar"
 },
 {
 "id": "sfe1c6d487f",
@@ -3333,16 +3053,6 @@
 "src": "mezzrow"
 },
 {
-"id": "sf7d3d18f05",
-"date": "2026-12-07",
-"time": "21:00",
-"title": "Joe Farnsworth Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34600-joe-farnsworth-quartet/",
-"src": "smalls"
-},
-{
 "id": "se16ccca6d6",
 "date": "2026-12-07",
 "time": "21:00",
@@ -3350,6 +3060,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34600-ben-solomon-quartet/",
+"src": "smalls"
+},
+{
+"id": "sf7d3d18f05",
+"date": "2026-12-07",
+"time": "21:00",
+"title": "Joe Farnsworth Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34600-joe-farnsworth-quartet/",
 "src": "smalls"
 },
 {
@@ -4041,6 +3761,16 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/winter-member-shopping-week",
 "src": "guggenheim"
+},
+{
+"id": "s761328e949",
+"date": "2026-12-11",
+"time": "07:00",
+"title": "The Anthony Bolden Quartet",
+"venue": "Zinc Bar",
+"cat": "jazz",
+"url": "https://www.zincbar.com/event/the-anthony-bolden-quartet-3/",
+"src": "zincbar"
 },
 {
 "id": "s72433112c6",
@@ -6213,6 +5943,16 @@
 "src": "smalls"
 },
 {
+"id": "s4c32f419c3",
+"date": "2026-12-21",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s51948ced80",
 "date": "2026-12-21",
 "time": "13:30",
@@ -6361,6 +6101,16 @@
 "cat": "access",
 "url": "https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-12-22/",
 "src": "greenwood"
+},
+{
+"id": "s3550545dd0",
+"date": "2026-12-22",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s38e50f2940",
@@ -8293,6 +8043,16 @@
 "src": "birdland"
 },
 {
+"id": "s8727c06682",
+"date": "2027-01-08",
+"time": "",
+"title": "James Welling \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2027/james-welling-light-sources",
+"src": "zwirner"
+},
+{
 "id": "s22c7530a73",
 "date": "2027-01-08",
 "time": "",
@@ -8593,6 +8353,16 @@
 "src": "mezzrow"
 },
 {
+"id": "saf51ce1ae4",
+"date": "2027-01-12",
+"time": "",
+"title": "Roy DeCarava \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2027/roy-decarava",
+"src": "zwirner"
+},
+{
 "id": "s1a8926042f",
 "date": "2027-01-12",
 "time": "",
@@ -8681,6 +8451,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/kurt-elling-birdland-jazz-club-tickets/14321084",
 "src": "birdland"
+},
+{
+"id": "s1bff1c1c10",
+"date": "2027-01-14",
+"time": "",
+"title": "On Kawara \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2027/on-kawara-todays",
+"src": "zwirner"
 },
 {
 "id": "s92f7d121eb",
@@ -9463,13 +9243,13 @@
 "src": "carnegie"
 },
 {
-"id": "sa0f3632173",
+"id": "scc43adabee",
 "date": "2027-01-24",
 "time": "13:30",
-"title": "The World Famous Harlem Gospel Choir",
+"title": "Harlem Gospel Choir",
 "venue": "Blue Note",
 "cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/14376244",
+"url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7pr7",
 "src": "bluenote"
 },
 {
@@ -9843,16 +9623,6 @@
 "src": "birdland"
 },
 {
-"id": "s9e924e46a6",
-"date": "2027-01-29",
-"time": "19:00",
-"title": "James Carter, Cyrus Chestnut, Reginald Veal, Ali Jackson",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://ticketing.jazz.org/22088/22091",
-"src": "dizzys"
-},
-{
 "id": "s3f71c92875",
 "date": "2027-01-29",
 "time": "19:00",
@@ -9860,6 +9630,16 @@
 "venue": "Dizzy's Club",
 "cat": "jazz",
 "url": "https://ticketing.jazz.org/20703/20704",
+"src": "dizzys"
+},
+{
+"id": "s9e924e46a6",
+"date": "2027-01-29",
+"time": "19:00",
+"title": "James Carter, Cyrus Chestnut, Reginald Veal, Ali Jackson",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://ticketing.jazz.org/22088/22091",
 "src": "dizzys"
 },
 {
@@ -10133,6 +9913,16 @@
 "src": "dizzys"
 },
 {
+"id": "sd722c18d13",
+"date": "2027-01-31",
+"time": "17:00",
+"title": "LSD (...just the high points...) Renovation",
+"venue": "St. Ann's Warehouse",
+"cat": "talks",
+"url": "https://stannswarehouse.org/show/lsd-just-the-high-points-renovation-15/",
+"src": "stanns"
+},
+{
 "id": "sc2012d4b84",
 "date": "2027-01-31",
 "time": "20:00",
@@ -10291,6 +10081,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/donor-rehearsal-john-adams-and-vikingur-olafsson",
 "src": "nyphil"
+},
+{
+"id": "s846dd633ba",
+"date": "2027-02-04",
+"time": "",
+"title": "Dana Schutz \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2027/dana-schutz-monotypes",
+"src": "zwirner"
 },
 {
 "id": "se1c5dce58d",
@@ -11593,6 +11393,26 @@
 "src": "nycballet"
 },
 {
+"id": "s5ced350168",
+"date": "2027-02-23",
+"time": "",
+"title": "Lucas Arruda \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2027/lucas-arruda-eclipse",
+"src": "zwirner"
+},
+{
+"id": "s6de302a852",
+"date": "2027-02-23",
+"time": "",
+"title": "Philip-Lorca diCorcia \u2014 opens",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2027/philip-lorca-dicorcia-hustlers",
+"src": "zwirner"
+},
+{
 "id": "s2e1b43f431",
 "date": "2027-02-24",
 "time": "19:00",
@@ -11863,6 +11683,16 @@
 "src": "birdland"
 },
 {
+"id": "s50c96c423e",
+"date": "2027-02-27",
+"time": "",
+"title": "On Kawara \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2027/on-kawara-todays",
+"src": "zwirner"
+},
+{
 "id": "s682778cafa",
 "date": "2027-02-28",
 "time": "13:00",
@@ -11951,6 +11781,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/the-birdland-latin-jazz-orchestra-birdland-jazz-club-tickets/14400184",
 "src": "birdland"
+},
+{
+"id": "sf223a42fd4",
+"date": "2027-02-28",
+"time": "",
+"title": "Roy DeCarava \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2027/roy-decarava",
+"src": "zwirner"
 },
 {
 "id": "s1746e6c4ea",
@@ -12051,6 +11891,16 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2027/03/02/vikingur-olafsson-piano-0800pm",
 "src": "carnegie"
+},
+{
+"id": "se1893af649",
+"date": "2027-03-02",
+"time": "",
+"title": "James Welling \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2027/james-welling-light-sources",
+"src": "zwirner"
 },
 {
 "id": "s05efcce687",
@@ -13733,6 +13583,16 @@
 "src": "birdland"
 },
 {
+"id": "sa06d6a1f4d",
+"date": "2027-04-02",
+"time": "",
+"title": "Dana Schutz \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2027/dana-schutz-monotypes",
+"src": "zwirner"
+},
+{
 "id": "s229508298f",
 "date": "2027-04-03",
 "time": "12:00",
@@ -13821,6 +13681,26 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2027/04/03/midamerica-productions-concert-series-0830pm",
 "src": "carnegie"
+},
+{
+"id": "s3d179ad989",
+"date": "2027-04-03",
+"time": "",
+"title": "Lucas Arruda \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2027/lucas-arruda-eclipse",
+"src": "zwirner"
+},
+{
+"id": "s195e7386f4",
+"date": "2027-04-03",
+"time": "",
+"title": "Philip-Lorca diCorcia \u2014 final day",
+"venue": "David Zwirner",
+"cat": "global",
+"url": "https://www.davidzwirner.com/exhibitions/2027/philip-lorca-dicorcia-hustlers",
+"src": "zwirner"
 },
 {
 "id": "s28d5ea0586",
@@ -16381,16 +16261,6 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/for-chick-john-patitucci-beka-blue-note-jazz-club-tickets/14444224",
 "src": "bluenote"
-},
-{
-"id": "s9fcd5be260",
-"date": "2027-05-23",
-"time": "",
-"title": "Live Operator Hours: Featuring Warp Records in the Listening Room",
-"venue": "Cooper Hewitt",
-"cat": "art",
-"url": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-warp-records-in-the-listening-room-05-16-2026/",
-"src": "cooperhewitt"
 },
 {
 "id": "s9ed99ae28e",
