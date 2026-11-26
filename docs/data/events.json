@@ -1,157 +1,7 @@
 {
-"generated": "2026-11-25T18:55:01+00:00",
-"count": 1813,
+"generated": "2026-11-26T18:43:30+00:00",
+"count": 1810,
 "events": [
-{
-"id": "s72cd642ac0",
-"date": "2026-11-24",
-"time": "06:30",
-"title": "Project Street Beat - Keith Haring Foundation Mobile Health Center Community Event (Street Event) \u00b7 163 WEST 125 STREET ",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s7c2da7cc80",
-"date": "2026-11-24",
-"time": "07:30",
-"title": "Street Health Outreach and Wellness (Street Event) \u00b7 DELANCEY STREET between CHRYSTIE STREET and FORSYTH STREET \u2014 Sidewa",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s17cc19e8b1",
-"date": "2026-11-24",
-"time": "10:00",
-"title": "Catholic Charities Annual Thanksgiving Distribution (Street Event) \u00b7 LENOX TERRACE PLACE between WEST 134 STREET and WES",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s0d24f26a22",
-"date": "2026-11-24",
-"time": "",
-"title": "Rose Wylie \u2014 opens",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/rose-wylie-napoleon-and-wild-flowers",
-"src": "zwirner"
-},
-{
-"id": "s5d5ce0d9d6",
-"date": "2026-11-25",
-"time": "07:30",
-"title": "Street Health Outreach and Wellness (Street Event) \u00b7 WEST 28 STREET between 9 AVENUE and 10 AVENUE \u2014 Sidewalk and Curb L",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s318f0cb732",
-"date": "2026-11-25",
-"time": "08:50",
-"title": "P.S. 36 Turkey Trot (Street Event) \u00b7 MORNINGSIDE DRIVE between AMSTERDAM AVENUE and WEST 121 STR \u2014 Sidewalk and Street C",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s4fc6688fb1",
-"date": "2026-11-25",
-"time": "09:00",
-"title": "Parade Band Bus Parking (Film/TV) \u00b7 WEST 44 STREET between 6 AVENUE and BROADWAY \u2014 Curb Lane Only closure",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s2499516c02",
-"date": "2026-11-25",
-"time": "17:30",
-"title": "David Ostwald's Louis Armstrong Eternity Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/david-ostwalds-louis-armstrong-eternity-birdland-theater-tickets/14196864",
-"src": "birdland"
-},
-{
-"id": "seaa3581434",
-"date": "2026-11-25",
-"time": "18:00",
-"title": "Tim Lyddon Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34336-tim-lyddon-trio/",
-"src": "mezzrow"
-},
-{
-"id": "s7ed6c9998d",
-"date": "2026-11-25",
-"time": "18:00",
-"title": "Steve Johns Sextet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34430-steve-johns-sextet/",
-"src": "smalls"
-},
-{
-"id": "s603ed05841",
-"date": "2026-11-25",
-"time": "18:00",
-"title": "Alexander Claffy Quintet",
-"venue": "Smoke Jazz Club",
-"cat": "jazz",
-"url": "https://tickets.smokejazz.com/shows/13615/?date=2026-11-25",
-"src": "smoke"
-},
-{
-"id": "s1e32570842",
-"date": "2026-11-25",
-"time": "18:30",
-"title": "Peter Bernstein Quartet featuring Sullivan Fortner",
-"venue": "Smoke Jazz Club",
-"cat": "jazz",
-"url": "https://tickets.smokejazz.com/shows/13396/?date=2026-11-25",
-"src": "smoke"
-},
-{
-"id": "s38218135d5",
-"date": "2026-11-25",
-"time": "19:00",
-"title": "ANDERSON BROTHERS: THE AMERICAN SONGBOOK",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/anderson-brothers-the-american-songbook-birdland-jazz-club-tickets/15006363",
-"src": "birdland"
-},
-{
-"id": "s62e866183a",
-"date": "2026-11-25",
-"time": "19:00",
-"title": "Herlin Riley and Friends",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://ticketing.jazz.org/21742/21744",
-"src": "dizzys"
-},
-{
-"id": "sdacb7155f4",
-"date": "2026-11-25",
-"time": "19:00",
-"title": "Dion Berardo Trio",
-"venue": "Zinc Bar",
-"cat": "jazz",
-"url": "https://www.zincbar.com/event/dion-berardo-trio-5/",
-"src": "zincbar"
-},
 {
 "id": "s8b9650dbae",
 "date": "2026-11-25",
@@ -161,66 +11,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/rouvali-conducts-schubert",
 "src": "nyphil"
-},
-{
-"id": "sa4d540c03d",
-"date": "2026-11-25",
-"time": "20:00",
-"title": "Chief Adjuah",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/chief-adjuah-blue-note-jazz-club-tickets/15032663",
-"src": "bluenote"
-},
-{
-"id": "s44c05e4808",
-"date": "2026-11-25",
-"time": "20:00",
-"title": "Jason Moran & the Bandwagon",
-"venue": "Village Vanguard",
-"cat": "jazz",
-"url": "https://squadup.com/events/wednesday-800-pm---jason-moran--the-bandwagon-4",
-"src": "vanguard"
-},
-{
-"id": "s15b629d88f",
-"date": "2026-11-25",
-"time": "21:00",
-"title": "A Bu Trio",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34337-a-bu-trio/",
-"src": "mezzrow"
-},
-{
-"id": "s38e4c7c1d5",
-"date": "2026-11-25",
-"time": "21:00",
-"title": "Mark McCarron Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34431-mark-mccarron-quartet/",
-"src": "smalls"
-},
-{
-"id": "sef78c9e847",
-"date": "2026-11-25",
-"time": "23:30",
-"title": "VINYL AFTER HOURS",
-"venue": "Mezzrow",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34460-vinyl-after-hours/",
-"src": "mezzrow"
-},
-{
-"id": "s94c2a6dc3e",
-"date": "2026-11-25",
-"time": "23:55",
-"title": "Jam Session Hosted By Carlos Abadie",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34387-jam-session-hosted-by-carlos-abadie/",
-"src": "smalls"
 },
 {
 "id": "sd083fdcf4e",
@@ -301,6 +91,16 @@
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
+},
+{
+"id": "s1fcdec76f2",
+"date": "2026-11-26",
+"time": "17:30",
+"title": "David Ostwald's Louis Armstrong Eternity Band",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/david-ostwalds-louis-armstrong-eternity-birdland-theater-tickets/14225254",
+"src": "birdland"
 },
 {
 "id": "sb416114901",
@@ -1813,13 +1613,13 @@
 "src": "mezzrow"
 },
 {
-"id": "sa01f67def2",
+"id": "s9b08fc8e1b",
 "date": "2026-12-03",
 "time": "21:00",
-"title": "Brian Melvin Beetlejazz",
+"title": "Beatlejazz",
 "venue": "Smalls",
 "cat": "jazz",
-"url": "https://www.smallslive.com/events/34534-brian-melvin-beetlejazz/",
+"url": "https://www.smallslive.com/events/34534-beatlejazz/",
 "src": "smalls"
 },
 {
@@ -2803,16 +2603,6 @@
 "src": "mezzrow"
 },
 {
-"id": "se16ccca6d6",
-"date": "2026-12-07",
-"time": "21:00",
-"title": "Ben Solomon Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34600-ben-solomon-quartet/",
-"src": "smalls"
-},
-{
 "id": "sf7d3d18f05",
 "date": "2026-12-07",
 "time": "21:00",
@@ -2820,6 +2610,16 @@
 "venue": "Smalls",
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34600-joe-farnsworth-quartet/",
+"src": "smalls"
+},
+{
+"id": "se16ccca6d6",
+"date": "2026-12-07",
+"time": "21:00",
+"title": "Ben Solomon Quartet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34600-ben-solomon-quartet/",
 "src": "smalls"
 },
 {
@@ -4733,16 +4533,6 @@
 "src": "carnegie"
 },
 {
-"id": "sddee0f0d10",
-"date": "2026-12-16",
-"time": "19:00",
-"title": "The Pan-American Nutcracker Suite: Joe McCarthy's NY Afro Bop Alliance Big Band",
-"venue": "Dizzy's Club",
-"cat": "jazz",
-"url": "https://ticketing.jazz.org/21940/21943",
-"src": "dizzys"
-},
-{
 "id": "s906c77e16d",
 "date": "2026-12-16",
 "time": "19:00",
@@ -4750,6 +4540,16 @@
 "venue": "Dizzy's Club",
 "cat": "jazz",
 "url": "https://ticketing.jazz.org/20667/20672",
+"src": "dizzys"
+},
+{
+"id": "sddee0f0d10",
+"date": "2026-12-16",
+"time": "19:00",
+"title": "The Pan-American Nutcracker Suite: Joe McCarthy's NY Afro Bop Alliance Big Band",
+"venue": "Dizzy's Club",
+"cat": "jazz",
+"url": "https://ticketing.jazz.org/21940/21943",
 "src": "dizzys"
 },
 {
@@ -8273,6 +8073,16 @@
 "src": "carnegie"
 },
 {
+"id": "s0ab46d14b3",
+"date": "2027-01-13",
+"time": "18:00",
+"title": "Blowin\u2019 The Blues Away \u2013 The Music of Horace Silver featuring NEA Jazz Master Louis Hayes",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/14082/?date=2027-01-13",
+"src": "smoke"
+},
+{
 "id": "scfb7b3e733",
 "date": "2027-01-13",
 "time": "19:00",
@@ -8311,6 +8121,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/ypc-for-schools",
 "src": "nyphil"
+},
+{
+"id": "sbf957807f6",
+"date": "2027-01-14",
+"time": "18:00",
+"title": "Blowin\u2019 The Blues Away \u2013 The Music of Horace Silver featuring NEA Jazz Master Louis Hayes",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/14082/?date=2027-01-14",
+"src": "smoke"
 },
 {
 "id": "s9d7b5c924b",
@@ -8391,6 +8211,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34841-vanessa-rubin-quartet/",
 "src": "mezzrow"
+},
+{
+"id": "s141d14dea0",
+"date": "2027-01-15",
+"time": "18:00",
+"title": "Blowin\u2019 The Blues Away \u2013 The Music of Horace Silver featuring NEA Jazz Master Louis Hayes",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/14082/?date=2027-01-15",
+"src": "smoke"
 },
 {
 "id": "s8782a2835c",
@@ -8513,6 +8343,16 @@
 "src": "mezzrow"
 },
 {
+"id": "sc88feb7e56",
+"date": "2027-01-16",
+"time": "18:00",
+"title": "Blowin\u2019 The Blues Away \u2013 The Music of Horace Silver featuring NEA Jazz Master Louis Hayes",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/14082/?date=2027-01-16",
+"src": "smoke"
+},
+{
 "id": "sf09b656d93",
 "date": "2027-01-16",
 "time": "19:30",
@@ -8621,6 +8461,26 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/stella-cole-birdland-jazz-club-tickets/14379624",
 "src": "birdland"
+},
+{
+"id": "sb7081caf2d",
+"date": "2027-01-17",
+"time": "18:00",
+"title": "Altin Sencalar Quintet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34855-altin-sencalar-quintet/",
+"src": "smalls"
+},
+{
+"id": "sf8c6fa98c6",
+"date": "2027-01-17",
+"time": "18:00",
+"title": "Blowin\u2019 The Blues Away \u2013 The Music of Horace Silver featuring NEA Jazz Master Louis Hayes",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/14082/?date=2027-01-17",
+"src": "smoke"
 },
 {
 "id": "s2d40c701f8",
@@ -8783,6 +8643,26 @@
 "src": "cooperhewitt"
 },
 {
+"id": "s335b85dfea",
+"date": "2027-01-20",
+"time": "11:00",
+"title": "The Written Word: Reading and Writing at the Mount Vernon Hotel",
+"venue": "Mount Vernon Hotel Museum",
+"cat": "houses",
+"url": "https://mvhm.org/event/the-written-word-reading-and-writing-at-the-mount-vernon-hotel/",
+"src": "mvhm"
+},
+{
+"id": "s697dbd6d32",
+"date": "2027-01-20",
+"time": "18:00",
+"title": "Johnathan Blake Trion+ featuring Chris Potter",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/14083/?date=2027-01-20",
+"src": "smoke"
+},
+{
 "id": "s903e21d3a7",
 "date": "2027-01-20",
 "time": "19:00",
@@ -8861,6 +8741,16 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/donor-rehearsal-grazinyte-tyla-leads-shostakovich-elgar-and-britten",
 "src": "nyphil"
+},
+{
+"id": "s0711061ecb",
+"date": "2027-01-21",
+"time": "18:00",
+"title": "Johnathan Blake Trion+ featuring Chris Potter",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/14083/?date=2027-01-21",
+"src": "smoke"
 },
 {
 "id": "s5e5eee9899",
@@ -8961,6 +8851,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/birdland-big-band-birdland-jazz-club-tickets/14331654",
 "src": "birdland"
+},
+{
+"id": "sd0170789de",
+"date": "2027-01-22",
+"time": "18:00",
+"title": "Johnathan Blake Trion+ featuring Chris Potter",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/14083/?date=2027-01-22",
+"src": "smoke"
 },
 {
 "id": "s1d06042e97",
@@ -9073,6 +8973,16 @@
 "src": "birdland"
 },
 {
+"id": "s40ec5248f7",
+"date": "2027-01-23",
+"time": "18:00",
+"title": "Johnathan Blake Trion+ featuring Chris Potter",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/14083/?date=2027-01-23",
+"src": "smoke"
+},
+{
 "id": "sf38bebcbfd",
 "date": "2027-01-23",
 "time": "19:00",
@@ -9163,13 +9073,13 @@
 "src": "carnegie"
 },
 {
-"id": "scc43adabee",
+"id": "sa0f3632173",
 "date": "2027-01-24",
 "time": "13:30",
-"title": "Harlem Gospel Choir",
+"title": "The World Famous Harlem Gospel Choir",
 "venue": "Blue Note",
 "cat": "jazz",
-"url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7pr7",
+"url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/14376244",
 "src": "bluenote"
 },
 {
@@ -9221,6 +9131,16 @@
 "cat": "talks",
 "url": "https://stannswarehouse.org/show/lsd-just-the-high-points-renovation-9/",
 "src": "stanns"
+},
+{
+"id": "sa229ae6aff",
+"date": "2027-01-24",
+"time": "18:00",
+"title": "Johnathan Blake Trion+ featuring Chris Potter",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/14083/?date=2027-01-24",
+"src": "smoke"
 },
 {
 "id": "s0bdfc24db2",
@@ -9393,6 +9313,16 @@
 "src": "carnegie"
 },
 {
+"id": "sc6f0c4f35e",
+"date": "2027-01-27",
+"time": "18:00",
+"title": "Theo Croker",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/9750/?date=2027-01-27",
+"src": "smoke"
+},
+{
 "id": "s8d108c9d63",
 "date": "2027-01-27",
 "time": "19:00",
@@ -9441,6 +9371,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/stanley-clarke-blue-note-jazz-club-tickets/14443644",
 "src": "bluenote"
+},
+{
+"id": "s1507d91015",
+"date": "2027-01-28",
+"time": "18:00",
+"title": "Theo Croker",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/9750/?date=2027-01-28",
+"src": "smoke"
 },
 {
 "id": "sfcb7577d42",
@@ -9541,6 +9481,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/birdland-big-band-birdland-jazz-club-tickets/14331664",
 "src": "birdland"
+},
+{
+"id": "sc5e486acbd",
+"date": "2027-01-29",
+"time": "18:00",
+"title": "Theo Croker",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/9750/?date=2027-01-29",
+"src": "smoke"
 },
 {
 "id": "s3f71c92875",
@@ -9681,6 +9631,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/danny-tobias-quartet-birdland-jazz-club-tickets/14309984",
 "src": "birdland"
+},
+{
+"id": "s3b21637e03",
+"date": "2027-01-30",
+"time": "18:00",
+"title": "Theo Croker",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/9750/?date=2027-01-30",
+"src": "smoke"
 },
 {
 "id": "see59d19ebc",
@@ -9841,6 +9801,16 @@
 "cat": "talks",
 "url": "https://stannswarehouse.org/show/lsd-just-the-high-points-renovation-15/",
 "src": "stanns"
+},
+{
+"id": "sf74b3f2516",
+"date": "2027-01-31",
+"time": "18:00",
+"title": "Theo Croker",
+"venue": "Smoke Jazz Club",
+"cat": "jazz",
+"url": "https://tickets.smokejazz.com/shows/9750/?date=2027-01-31",
+"src": "smoke"
 },
 {
 "id": "sc2012d4b84",
