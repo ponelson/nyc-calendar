@@ -1,37 +1,7 @@
 {
-"generated": "2026-11-26T18:43:30+00:00",
-"count": 1810,
+"generated": "2026-11-27T18:35:08+00:00",
+"count": 1846,
 "events": [
-{
-"id": "s8b9650dbae",
-"date": "2026-11-25",
-"time": "19:30",
-"title": "Rouvali Conducts Schubert\u2019s Great Symphony",
-"venue": "New York Philharmonic",
-"cat": "classical",
-"url": "https://www.nyphil.org/concerts-tickets/2627/rouvali-conducts-schubert",
-"src": "nyphil"
-},
-{
-"id": "sd083fdcf4e",
-"date": "2026-11-25",
-"time": "",
-"title": "Unseen. Until Now.",
-"venue": "David Zwirner",
-"cat": "global",
-"url": "https://www.davidzwirner.com/exhibitions/2026/outside-in-benefit",
-"src": "zwirner"
-},
-{
-"id": "s469e41a701",
-"date": "2026-11-26",
-"time": "05:00",
-"title": "Thanksgiving Parade Agency Bleacher BOH (Special Event) \u00b7 Central Park: Merchants' Gate",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
 {
 "id": "s001afbf685",
 "date": "2026-11-26",
@@ -53,20 +23,10 @@
 "src": "nycpermits"
 },
 {
-"id": "s7078fa87c5",
+"id": "s469e41a701",
 "date": "2026-11-26",
-"time": "08:30",
-"title": "100th Annual Macys Thanksgiving Day Parade \u00b7 CENTRAL PARK WEST between WEST 76 STREET and WEST 81 STR \u2014 Full Street Clos",
-"venue": "NYC Permitted Events",
-"cat": "streets",
-"url": "https://www.nyc.gov/site/cecm/index.page",
-"src": "nycpermits"
-},
-{
-"id": "s759dc4b60e",
-"date": "2026-11-26",
-"time": "08:30",
-"title": "NBC Broadcast of 100th Macys Thanksgiving Day Parade (Street Event) \u00b7 WEST 34 STREET between BROADWAY and 7 AVENUE, WEST",
+"time": "08:00",
+"title": "Thanksgiving Parade Agency Bleacher BOH (Special Event) \u00b7 Central Park: Merchants' Gate",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -83,6 +43,16 @@
 "src": "nycpermits"
 },
 {
+"id": "s7078fa87c5",
+"date": "2026-11-26",
+"time": "08:30",
+"title": "100th Annual Macys Thanksgiving Day Parade \u00b7 CENTRAL PARK WEST between WEST 76 STREET and WEST 81 STR \u2014 Full Street Clos",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "scdfafc3040",
 "date": "2026-11-26",
 "time": "13:00",
@@ -93,36 +63,6 @@
 "src": "nycpermits"
 },
 {
-"id": "s1fcdec76f2",
-"date": "2026-11-26",
-"time": "17:30",
-"title": "David Ostwald's Louis Armstrong Eternity Band",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/david-ostwalds-louis-armstrong-eternity-birdland-theater-tickets/14225254",
-"src": "birdland"
-},
-{
-"id": "sb416114901",
-"date": "2026-11-26",
-"time": "18:30",
-"title": "Peter Bernstein Quartet featuring Sullivan Fortner",
-"venue": "Smoke Jazz Club",
-"cat": "jazz",
-"url": "https://tickets.smokejazz.com/shows/13396/?date=2026-11-26",
-"src": "smoke"
-},
-{
-"id": "sc415088910",
-"date": "2026-11-26",
-"time": "19:00",
-"title": "ANDERSON BROTHERS: THE AMERICAN SONGBOOK",
-"venue": "Birdland",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/anderson-brothers-the-american-songbook-birdland-jazz-club-tickets/15006373",
-"src": "birdland"
-},
-{
 "id": "s14223a350c",
 "date": "2026-11-26",
 "time": "19:30",
@@ -131,46 +71,6 @@
 "cat": "classical",
 "url": "https://www.nyphil.org/concerts-tickets/2627/rouvali-conducts-schubert",
 "src": "nyphil"
-},
-{
-"id": "sbaa63ff4ab",
-"date": "2026-11-26",
-"time": "20:00",
-"title": "Chief Adjuah",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/chief-adjuah-blue-note-jazz-club-tickets/15032703",
-"src": "bluenote"
-},
-{
-"id": "s9e2ea09835",
-"date": "2026-11-26",
-"time": "20:00",
-"title": "Jason Moran & the Bandwagon",
-"venue": "Village Vanguard",
-"cat": "jazz",
-"url": "https://squadup.com/events/thursday-800-pm---jason-moran--the-bandwagon-4",
-"src": "vanguard"
-},
-{
-"id": "sdba2a497ad",
-"date": "2026-11-26",
-"time": "21:00",
-"title": "Nicholas Biello Quartet",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34432-nicholas-biello-quartet/",
-"src": "smalls"
-},
-{
-"id": "s54baca48aa",
-"date": "2026-11-26",
-"time": "23:55",
-"title": "Jam Session Hosted By Matt Snow",
-"venue": "Smalls",
-"cat": "jazz",
-"url": "https://www.smallslive.com/events/34433-jam-session-hosted-by-matt-snow/",
-"src": "smalls"
 },
 {
 "id": "s2232704b52",
@@ -187,6 +87,16 @@
 "date": "2026-11-27",
 "time": "07:30",
 "title": "Street Health Outreach and Wellness (Street Event) \u00b7 MOUNT MORRIS PARK WEST between WEST 123 STREET and WEST 12 \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s76a907f71b",
+"date": "2026-11-27",
+"time": "08:00",
+"title": "Thanksgiving Parade Agency Bleacher BOH (Special Event) \u00b7 Central Park: Merchants' Gate",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -261,6 +171,16 @@
 "cat": "jazz",
 "url": "https://tickets.smokejazz.com/shows/13396/?date=2026-11-27",
 "src": "smoke"
+},
+{
+"id": "s4e404e4271",
+"date": "2026-11-27",
+"time": "19:00",
+"title": "Geoffrey Keezer Trio",
+"venue": "Birdland",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/geoffrey-keezer-trio-birdland-theater-tickets/15005553",
+"src": "birdland"
 },
 {
 "id": "s60540d0dd6",
@@ -401,6 +321,36 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/outside-in-benefit",
 "src": "zwirner"
+},
+{
+"id": "sa121d479b5",
+"date": "2026-11-28",
+"time": "08:00",
+"title": "Thanksgiving Parade Agency Bleacher BOH (Special Event) \u00b7 Central Park: Merchants' Gate",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s816e4fc982",
+"date": "2026-11-28",
+"time": "08:20",
+"title": "100th Annual Macys Thanksgiving Day Parade (Street Event) \u00b7 WEST 34 STREET between BROADWAY and 7 AVENUE, WEST 72 S \u2014 Fu",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s97c4ff1bcc",
+"date": "2026-11-28",
+"time": "08:30",
+"title": "NBC Broadcast of 100th Macys Thanksgiving Day Parade (Street Event) \u00b7 WEST 34 STREET between BROADWAY and 7 AVENUE, WEST",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s67ec92b0fb",
@@ -633,6 +583,16 @@
 "src": "zwirner"
 },
 {
+"id": "s3f76d020f3",
+"date": "2026-11-29",
+"time": "08:00",
+"title": "Thanksgiving Parade Agency Bleacher BOH (Special Event) \u00b7 Central Park: Merchants' Gate",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "sa235431a31",
 "date": "2026-11-29",
 "time": "10:00",
@@ -773,16 +733,6 @@
 "src": "zincbar"
 },
 {
-"id": "sdffd4ab113",
-"date": "2026-11-29",
-"time": "20:00",
-"title": "The War And Treaty",
-"venue": "Blue Note",
-"cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-war-and-treaty-blue-note-jazz-club-tickets/14378334",
-"src": "bluenote"
-},
-{
 "id": "sade68ddbc3",
 "date": "2026-11-29",
 "time": "20:00",
@@ -790,6 +740,16 @@
 "venue": "Blue Note",
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/chief-adjuah-blue-note-jazz-club-tickets/15032733",
+"src": "bluenote"
+},
+{
+"id": "sdffd4ab113",
+"date": "2026-11-29",
+"time": "20:00",
+"title": "The War And Treaty",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/the-war-and-treaty-blue-note-jazz-club-tickets/14378334",
 "src": "bluenote"
 },
 {
@@ -853,10 +813,30 @@
 "src": "zwirner"
 },
 {
+"id": "sb5c1bc5c00",
+"date": "2026-11-30",
+"time": "06:30",
+"title": "Project Street Beat - Keith Haring Foundation Mobile Health Center Community Event (Street Event) \u00b7 SAINT NICHOLAS AVENU",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "saba180c3d3",
 "date": "2026-11-30",
 "time": "07:30",
 "title": "Street Health Outreach and Wellness (Street Event) \u00b7 DELANCEY STREET between CHRYSTIE STREET and FORSYTH STREET \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s84906b5d3d",
+"date": "2026-11-30",
+"time": "08:00",
+"title": "Thanksgiving Parade Agency Bleacher BOH (Special Event) \u00b7 Central Park: Merchants' Gate",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -1033,10 +1013,30 @@
 "src": "zwirner"
 },
 {
+"id": "s3dd7ace4de",
+"date": "2026-12-01",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s8a833a850c",
 "date": "2026-12-01",
 "time": "07:30",
 "title": "Street Health Outreach and Wellness (Street Event) \u00b7 DELANCEY STREET between CHRYSTIE STREET and FORSYTH STREET \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s35ed68890b",
+"date": "2026-12-01",
+"time": "10:00",
+"title": "30 Days till NYE Press Event (Plaza Partner Event) \u00b7 Times Square: 45/46 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -1233,6 +1233,26 @@
 "src": "emanuel"
 },
 {
+"id": "s70e0644a70",
+"date": "2026-12-02",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "sf64a0957d5",
+"date": "2026-12-02",
+"time": "06:00",
+"title": "Amazon x FAO Schwarzenneger (Street Event) \u00b7 WEST 28 STREET between 11 AVENUE and 10 AVENUE \u2014 Curb Lane Only closure",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "sb51bc4d840",
 "date": "2026-12-02",
 "time": "07:00",
@@ -1331,6 +1351,16 @@
 "cat": "jazz",
 "url": "https://ticketing.jazz.org/21900/21903",
 "src": "dizzys"
+},
+{
+"id": "sf3f0c96d96",
+"date": "2026-12-02",
+"time": "19:00",
+"title": "SPOTIFY WRAP PARTY (Street Event) \u00b7 WEST 15 STREET between 9 AVENUE and 10 AVENUE \u2014 Curb Lane Only closure",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "sb00eea691c",
@@ -1453,10 +1483,30 @@
 "src": "emanuel"
 },
 {
+"id": "s84f80486d4",
+"date": "2026-12-03",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s4509065da2",
 "date": "2026-12-03",
 "time": "07:30",
 "title": "Street Health Outreach and Wellness (Street Event) \u00b7 DELANCEY STREET between CHRYSTIE STREET and FORSYTH STREET \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s0b6971d488",
+"date": "2026-12-03",
+"time": "07:30",
+"title": "VM Publishing - Iron23 - Eater Holiday Shop (Street Event) \u00b7 WEST 24 STREET between 5 AVENUE and 6 AVENUE, WEST 23 S \u2014 C",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -1683,10 +1733,30 @@
 "src": "emanuel"
 },
 {
+"id": "sedc3d5aaf6",
+"date": "2026-12-04",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "se8051eabd3",
 "date": "2026-12-04",
 "time": "07:30",
 "title": "Street Health Outreach and Wellness (Street Event) \u00b7 MOUNT MORRIS PARK WEST between WEST 123 STREET and WEST 12 \u2014 Sidewa",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "sfc7570070e",
+"date": "2026-12-04",
+"time": "08:00",
+"title": "Guinness at 179 West Broadway (Street Event) \u00b7 WEST BROADWAY between LEONARD STREET and WORTH STREET \u2014 Sidewalk and Curb",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -1941,6 +2011,26 @@
 "cat": "global",
 "url": "https://www.davidzwirner.com/exhibitions/2026/outside-in-benefit",
 "src": "zwirner"
+},
+{
+"id": "se2dbc8357e",
+"date": "2026-12-05",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
+"id": "s09d0cf6682",
+"date": "2026-12-05",
+"time": "10:00",
+"title": "40th Annual Miracle on Madison Avenue (Street Event) \u00b7 MADISON AVENUE between EAST 57 STREET and EAST 58 STREET \u2014 Partia",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s2d8df67afa",
@@ -2203,6 +2293,16 @@
 "src": "zwirner"
 },
 {
+"id": "sdd72a953f0",
+"date": "2026-12-06",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s70b641dc78",
 "date": "2026-12-06",
 "time": "08:00",
@@ -2233,20 +2333,20 @@
 "src": "greenwood"
 },
 {
-"id": "s1d0262f373",
+"id": "s7d0d772b86",
 "date": "2026-12-06",
 "time": "11:00",
-"title": "LES Holiday Parade 2026 \u00b7 GRAND STREET between ALLEN STREET and ORCHARD STREET, GRAND \u2014 Full Street Closure closure",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
 "src": "nycpermits"
 },
 {
-"id": "s7d0d772b86",
+"id": "s1d0262f373",
 "date": "2026-12-06",
 "time": "11:00",
-"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"title": "LES Holiday Parade 2026 \u00b7 GRAND STREET between ALLEN STREET and ORCHARD STREET, GRAND \u2014 Full Street Closure closure",
 "venue": "NYC Permitted Events",
 "cat": "streets",
 "url": "https://www.nyc.gov/site/cecm/index.page",
@@ -2483,6 +2583,16 @@
 "src": "smalls"
 },
 {
+"id": "s77dbffd126",
+"date": "2026-12-07",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s97d005d37f",
 "date": "2026-12-07",
 "time": "07:30",
@@ -2663,6 +2773,16 @@
 "src": "emanuel"
 },
 {
+"id": "sd8063e3c3e",
+"date": "2026-12-08",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s2d1e693f0e",
 "date": "2026-12-08",
 "time": "07:30",
@@ -2783,16 +2903,6 @@
 "src": "stanns"
 },
 {
-"id": "sb2416c034d",
-"date": "2026-12-08",
-"time": "19:00",
-"title": "Caelan Cardello Trio",
-"venue": "Zinc Bar",
-"cat": "jazz",
-"url": "https://www.zincbar.com/event/caelan-cardello-trio-5/",
-"src": "zincbar"
-},
-{
 "id": "sad2018d689",
 "date": "2026-12-08",
 "time": "19:00",
@@ -2800,6 +2910,16 @@
 "venue": "Zinc Bar",
 "cat": "jazz",
 "url": "https://www.zincbar.com/event/willerm-delisfort-and-jason-marshall-dec8/",
+"src": "zincbar"
+},
+{
+"id": "sb2416c034d",
+"date": "2026-12-08",
+"time": "19:00",
+"title": "Caelan Cardello Trio",
+"venue": "Zinc Bar",
+"cat": "jazz",
+"url": "https://www.zincbar.com/event/caelan-cardello-trio-5/",
 "src": "zincbar"
 },
 {
@@ -2891,6 +3011,16 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/winter-member-shopping-week",
 "src": "guggenheim"
+},
+{
+"id": "seb621bd589",
+"date": "2026-12-09",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s1b7337cbc1",
@@ -3113,6 +3243,16 @@
 "src": "emanuel"
 },
 {
+"id": "sc7f67ad83f",
+"date": "2026-12-10",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s9a915c6071",
 "date": "2026-12-10",
 "time": "07:00",
@@ -3311,6 +3451,16 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/winter-member-shopping-week",
 "src": "guggenheim"
+},
+{
+"id": "s589e42a99b",
+"date": "2026-12-11",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s761328e949",
@@ -3593,6 +3743,16 @@
 "src": "emanuel"
 },
 {
+"id": "s40f71ff513",
+"date": "2026-12-12",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s36d66e09c4",
 "date": "2026-12-12",
 "time": "07:30",
@@ -3863,6 +4023,16 @@
 "src": "guggenheim"
 },
 {
+"id": "sc778cc7ac7",
+"date": "2026-12-13",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "see7b1a9047",
 "date": "2026-12-13",
 "time": "11:00",
@@ -4103,6 +4273,16 @@
 "src": "guggenheim"
 },
 {
+"id": "s74a8d38539",
+"date": "2026-12-14",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s4499d61c22",
 "date": "2026-12-14",
 "time": "07:30",
@@ -4271,6 +4451,16 @@
 "cat": "talks",
 "url": "https://japansociety.org/events/marty-supreme/",
 "src": "japansociety"
+},
+{
+"id": "sa16e9edef2",
+"date": "2026-12-15",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "sc8dc15555b",
@@ -4453,6 +4643,16 @@
 "src": "emanuel"
 },
 {
+"id": "sc530df9871",
+"date": "2026-12-16",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "sf094a39d15",
 "date": "2026-12-16",
 "time": "11:00",
@@ -4621,6 +4821,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34515-jam-session-hosted-by-carlos-abadie/",
 "src": "smalls"
+},
+{
+"id": "s6d26206dfc",
+"date": "2026-12-17",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "sa58b33bb0c",
@@ -4801,6 +5011,16 @@
 "cat": "art",
 "url": "https://www.guggenheim.org/event/late-shift",
 "src": "guggenheim"
+},
+{
+"id": "s0609b9142b",
+"date": "2026-12-18",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s9bab943dde",
@@ -5031,6 +5251,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34671-chris-beck-quartet/",
 "src": "smalls"
+},
+{
+"id": "s4e6b80bc42",
+"date": "2026-12-19",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s03722204ab",
@@ -5293,6 +5523,16 @@
 "src": "zwirner"
 },
 {
+"id": "sce3f2561fd",
+"date": "2026-12-20",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s3044b60c76",
 "date": "2026-12-20",
 "time": "11:00",
@@ -5553,6 +5793,16 @@
 "src": "smalls"
 },
 {
+"id": "s4f3d4b78f3",
+"date": "2026-12-21",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s4c32f419c3",
 "date": "2026-12-21",
 "time": "11:00",
@@ -5701,6 +5951,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34522-jam-session-hosted-by-mike-boone/",
 "src": "smalls"
+},
+{
+"id": "s0b26463ec0",
+"date": "2026-12-22",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s5b5370aee2",
@@ -5873,6 +6133,16 @@
 "src": "emanuel"
 },
 {
+"id": "sbbc77b64a2",
+"date": "2026-12-23",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s03cc763d83",
 "date": "2026-12-23",
 "time": "11:00",
@@ -6033,6 +6303,16 @@
 "src": "smalls"
 },
 {
+"id": "se34e0e188d",
+"date": "2026-12-24",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
+},
+{
 "id": "s38418a1f88",
 "date": "2026-12-24",
 "time": "13:30",
@@ -6121,6 +6401,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34528-x-mas-eve-jam-hosted-by-ben-barnett/",
 "src": "smalls"
+},
+{
+"id": "s507aaacdbb",
+"date": "2026-12-25",
+"time": "11:00",
+"title": "Holidays on Madison Street Displays (Street Event) \u00b7 MADISON AVENUE between EAST 63 STREET and EAST 64 STREET \u2014 Partial ",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s62b423bbef",
@@ -6221,6 +6511,16 @@
 "cat": "jazz",
 "url": "https://www.smallslive.com/events/34721-saul-rubin-zebtet/",
 "src": "smalls"
+},
+{
+"id": "s5f0364695f",
+"date": "2026-12-26",
+"time": "00:01",
+"title": "NYE x America 250 Activation (Plaza Partner Event) \u00b7 Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BRO \u2014 Pede",
+"venue": "NYC Permitted Events",
+"cat": "streets",
+"url": "https://www.nyc.gov/site/cecm/index.page",
+"src": "nycpermits"
 },
 {
 "id": "s656b1b2734",
@@ -7953,6 +8253,16 @@
 "src": "carnegie"
 },
 {
+"id": "sbf62ac7125",
+"date": "2027-01-11",
+"time": "21:00",
+"title": "Tony Leone Quintet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34868-tony-leone-quintet/",
+"src": "smalls"
+},
+{
 "id": "sc0a9877b2c",
 "date": "2027-01-11",
 "time": "21:30",
@@ -8461,6 +8771,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/stella-cole-birdland-jazz-club-tickets/14379624",
 "src": "birdland"
+},
+{
+"id": "s19f418f997",
+"date": "2027-01-17",
+"time": "18:00",
+"title": "Tamuz Nissim Quartet",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34879-tamuz-nissim-quartet/",
+"src": "mezzrow"
 },
 {
 "id": "sb7081caf2d",
@@ -9073,13 +9393,13 @@
 "src": "carnegie"
 },
 {
-"id": "sa0f3632173",
+"id": "scc43adabee",
 "date": "2027-01-24",
 "time": "13:30",
-"title": "The World Famous Harlem Gospel Choir",
+"title": "Harlem Gospel Choir",
 "venue": "Blue Note",
 "cat": "jazz",
-"url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/14376244",
+"url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7pr7",
 "src": "bluenote"
 },
 {
@@ -9131,6 +9451,16 @@
 "cat": "talks",
 "url": "https://stannswarehouse.org/show/lsd-just-the-high-points-renovation-9/",
 "src": "stanns"
+},
+{
+"id": "sf0d03426ec",
+"date": "2027-01-24",
+"time": "18:00",
+"title": "Andrea Wolper Trio",
+"venue": "Mezzrow",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34877-andrea-wolper-trio/",
+"src": "mezzrow"
 },
 {
 "id": "sa229ae6aff",
@@ -9371,6 +9701,16 @@
 "cat": "jazz",
 "url": "https://www.ticketweb.com/event/stanley-clarke-blue-note-jazz-club-tickets/14443644",
 "src": "bluenote"
+},
+{
+"id": "s505167e08c",
+"date": "2027-01-28",
+"time": "18:00",
+"title": "Caleb Wheeler Curtis UNDERCURRENTS Quintet",
+"venue": "Smalls",
+"cat": "jazz",
+"url": "https://www.smallslive.com/events/34943-caleb-wheeler-curtis-undercurrents-quintet/",
+"src": "smalls"
 },
 {
 "id": "s1507d91015",
@@ -12643,6 +12983,16 @@
 "src": "nyphil"
 },
 {
+"id": "s35aadc24c0",
+"date": "2027-03-16",
+"time": "20:00",
+"title": "Talib Kweli & Friends with Live Band",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/talib-kweli-friends-with-blue-note-jazz-club-tickets/15073973",
+"src": "bluenote"
+},
+{
 "id": "s5794e278e5",
 "date": "2027-03-16",
 "time": "20:00",
@@ -12681,6 +13031,16 @@
 "cat": "classical",
 "url": "https://www.carnegiehall.org/calendar/2027/03/17/ssp-sea-to-sky-international-piano-music-festival-winners-concert-0730pm",
 "src": "carnegie"
+},
+{
+"id": "s65a1aac1ad",
+"date": "2027-03-17",
+"time": "20:00",
+"title": "Talib Kweli & Friends with Live Band",
+"venue": "Blue Note",
+"cat": "jazz",
+"url": "https://www.ticketweb.com/event/talib-kweli-friends-with-blue-note-jazz-club-tickets/15074003",
+"src": "bluenote"
 },
 {
 "id": "s10442e51cd",
